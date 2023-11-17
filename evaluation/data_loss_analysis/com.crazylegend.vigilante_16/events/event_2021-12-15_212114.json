@@ -1,0 +1,42 @@
+{
+  "stop_state": "26632e6049a3a7b2b52bf8154a0f94d9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_212114", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/shuffleCharactersCheckBox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "70*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1175
+        ], 
+        [
+          98, 
+          1245
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "50186f0f7cf147dd2e049f96b0f6f04e"
+}

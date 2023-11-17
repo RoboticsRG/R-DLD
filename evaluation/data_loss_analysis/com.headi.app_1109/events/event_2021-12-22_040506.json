@@ -1,0 +1,44 @@
+{
+  "stop_state": "508676b4375ef0ed5d5f792528031050", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-22_040506", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 37, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/day_picker_view_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "504*592", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          108, 
+          543
+        ], 
+        [
+          612, 
+          1135
+        ]
+      ], 
+      "class": "com.android.internal.widget.ViewPager", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "508676b4375ef0ed5d5f792528031050"
+}

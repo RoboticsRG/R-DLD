@@ -1,0 +1,42 @@
+{
+  "stop_state": "b9f968fab990766f25136d0d4c66de2b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_175758", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Israeli Shekel", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "203*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1461
+        ], 
+        [
+          210, 
+          1517
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 21, 
+    "event_type": "touch"
+  }, 
+  "start_state": "835030c4f78b990f3e46568a054d2b5b"
+}

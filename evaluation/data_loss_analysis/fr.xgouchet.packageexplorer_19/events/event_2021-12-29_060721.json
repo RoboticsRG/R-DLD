@@ -1,0 +1,42 @@
+{
+  "stop_state": "6939c57d160b409645be460004009b6c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_060721", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*223", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          166
+        ], 
+        [
+          706, 
+          389
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3f40de5b1c3e53ea7fc35ff11b1cb23b"
+}

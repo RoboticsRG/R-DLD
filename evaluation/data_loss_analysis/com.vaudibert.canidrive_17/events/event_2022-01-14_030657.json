@@ -1,0 +1,42 @@
+{
+  "stop_state": "0c12501009f4fd45b2bcbfaa3f6205a7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_030657", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "drink icon", 
+      "resource_id": "com.vaudibert.canidrive:id/imageViewPresetDrinkIcon", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "88*88", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          594
+        ], 
+        [
+          106, 
+          682
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0c12501009f4fd45b2bcbfaa3f6205a7"
+}

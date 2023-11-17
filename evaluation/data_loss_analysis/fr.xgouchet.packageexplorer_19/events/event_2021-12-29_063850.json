@@ -1,0 +1,43 @@
+{
+  "stop_state": "7246217742a7b125ea038d4e9cf8552c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-29_063850", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 20, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.xgouchet.packageexplorer:id/search_src_text", 
+      "text": "   ", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "439*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          112, 
+          70
+        ], 
+        [
+          551, 
+          133
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7246217742a7b125ea038d4e9cf8552c"
+}

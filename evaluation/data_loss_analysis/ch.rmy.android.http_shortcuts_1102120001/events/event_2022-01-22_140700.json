@@ -1,0 +1,51 @@
+{
+  "stop_state": "e625858e12041ce68dcb23a6669886df", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_140700", 
+  "event": {
+    "views_str": [
+      "15b2db8b5f72b9db85da3066110c057f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/checkbox_show_at_startup", 
+        "text": "Show at startup", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "232*84", 
+        "checked": true, 
+        "temp_id": 1178, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/checkbox_show_at_startup", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "15b2db8b5f72b9db85da3066110c057f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            244, 
+            1297
+          ], 
+          [
+            476, 
+            1381
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/checkbox_show_at_startup[text]Show at startup[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "1df59d8cefe067f4ebab61005fdd036a"
+}

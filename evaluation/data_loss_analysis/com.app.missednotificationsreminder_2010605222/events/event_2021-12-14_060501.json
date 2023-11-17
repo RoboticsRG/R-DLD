@@ -1,0 +1,42 @@
+{
+  "stop_state": "6bfefbd1f43f77705e89de2316d66d32", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_060501", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.app.missednotificationsreminder:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          601, 
+          76
+        ], 
+        [
+          685, 
+          160
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "afaa190a4c00b4fd46657296a81d8dd6"
+}

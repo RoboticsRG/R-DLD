@@ -1,0 +1,42 @@
+{
+  "stop_state": "26535e86d53d360b8dfe7dfb122517ed", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_095243", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Portuguese \u21d2 Catalan", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "636*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          656
+        ], 
+        [
+          636, 
+          740
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 18, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e2eb008add3cf7e68f07e89755c91f78"
+}

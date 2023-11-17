@@ -1,0 +1,43 @@
+{
+  "stop_state": "1f20f34a68f1e8802be4d8a74b0cbfe6", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_190848", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 19, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nText in Gemtext documents is written using \"long lines\", i.e. you (or your editor) shouldn't be inserting newline characters every 80 characters or so.  Instead, leave it up to the receiving Gemini client to wrap your lines to fit the device's screen size and the user's preference.  This way Gemtext content looks good and is easy to read on desktop monitors, laptop screens, tablets and smartphones.\n\nNote that while Gemini clients will break up lines of text which are longer than the user's screen, they will not join up lines which are shorter than the user's screen, like would happen in Markdown, HTML or LaTeX.  This means that, e.g. \"dot point\" lists or poems with deliberately short lines will be displayed correctly without the author having to do any extra work or the client having to be any smarter in order to recognise and handle that kind of content correctly.\n\nFor most \"everyday\" writing, this approach means you probably just want to use one line per paragraph.\n\nNote that blank lines are rendered verbatim by clients verbatim, i.e. if you put two or three blank lines between your paragraphs, the reader will see two or three blank lines.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*424", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1134
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1f20f34a68f1e8802be4d8a74b0cbfe6"
+}

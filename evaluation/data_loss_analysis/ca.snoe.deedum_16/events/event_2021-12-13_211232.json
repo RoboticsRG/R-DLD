@@ -1,0 +1,43 @@
+{
+  "stop_state": "35bd2f032b1bff6a60862de04c0e8944", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_211232", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Digital signatures, i.e. that people can use their private key to \"sign\" some digital content in a way which others can validate using their public key, that said signatures cannot be forged, and they protect the signed content against modification", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "629*9", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          1549
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "215da81c26d715d384ce9424a00c851f"
+}

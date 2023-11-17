@@ -1,0 +1,43 @@
+{
+  "stop_state": "6bfefbd1f43f77705e89de2316d66d32", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-14_060507", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.app.missednotificationsreminder:id/intervalName", 
+      "text": "29.00", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1350
+        ], 
+        [
+          664, 
+          1448
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6bfefbd1f43f77705e89de2316d66d32"
+}

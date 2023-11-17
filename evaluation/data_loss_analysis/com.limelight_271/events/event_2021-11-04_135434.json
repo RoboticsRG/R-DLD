@@ -1,0 +1,51 @@
+{
+  "stop_state": "8778e7e0b7392eb7ed342a74f7a57daf", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_135434", 
+  "event": {
+    "views_str": [
+      "2d52e73131c13cfc0fa1f6c64e4139d7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.limelight:id/hostTextView", 
+        "text": "IP address of GeForce PC", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "510*79", 
+        "checked": false, 
+        "temp_id": 5, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.limelight:id/hostTextView", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": true, 
+        "view_str": "2d52e73131c13cfc0fa1f6c64e4139d7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            179
+          ], 
+          [
+            538, 
+            258
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.limelight:id/hostTextView[text]IP address of GeForce PC[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3d936c0e94a4bb6ecf352195dd3738eb"
+}

@@ -1,0 +1,112 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3d43bca com.wbrenna.gtfsoffline/.MainActivity filter 3d1313b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.wbrenna.gtfsoffline]
+      Signing KeySets: 397
+
+Packages:
+  Package [com.wbrenna.gtfsoffline] (bc875af):
+    userId=10480
+    pkg=Package{4bf7912 com.wbrenna.gtfsoffline}
+    codePath=/data/app/~~9ufPKzpeJEQ1PV3skfFWlg==/com.wbrenna.gtfsoffline-XT_Vl59ruk8T9KPdVZJE5A==
+    resourcePath=/data/app/~~9ufPKzpeJEQ1PV3skfFWlg==/com.wbrenna.gtfsoffline-XT_Vl59ruk8T9KPdVZJE5A==
+    legacyNativeLibraryDir=/data/app/~~9ufPKzpeJEQ1PV3skfFWlg==/com.wbrenna.gtfsoffline-XT_Vl59ruk8T9KPdVZJE5A==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=10 minSdk=14 targetSdk=19
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{4bf7912 com.wbrenna.gtfsoffline}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.wbrenna.gtfsoffline
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2021-12-25 01:58:57
+    firstInstallTime=2021-12-25 01:58:57
+    lastUpdateTime=2021-12-25 01:58:57
+    signatures=PackageSignatures{25638e3 version:1, signatures:[483b7719], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_BACKGROUND_LOCATION: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    User 0: ceDataInode=74973 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_COARSE_LOCATION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_BACKGROUND_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.wbrenna.gtfsoffline
+    com.motorola.actions:
+      com.wbrenna.gtfsoffline
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=110
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=67, package=com.google.android.contacts
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=101, package=com.google.android.tts
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=107, package=com.google.android.apps.docs
+    seq=108, package=io.github.ylimit.droidbotapp
+    seq=109, package=com.wbrenna.gtfsoffline
+
+
+Dexopt state:
+  [com.wbrenna.gtfsoffline]
+    path: /data/app/~~9ufPKzpeJEQ1PV3skfFWlg==/com.wbrenna.gtfsoffline-XT_Vl59ruk8T9KPdVZJE5A==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.wbrenna.gtfsoffline]
+     base.apk - 445
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

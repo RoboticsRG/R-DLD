@@ -1,0 +1,42 @@
+{
+  "stop_state": "4b450df2fb65a1e44a3c1e37543fd566", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_193639", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Expenses", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "240*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.nishantboro.splititeasy", 
+      "long_clickable": false, 
+      "selected": true, 
+      "enabled": true, 
+      "bounds": [
+        [
+          240, 
+          152
+        ], 
+        [
+          480, 
+          236
+        ]
+      ], 
+      "class": "androidx.appcompat.app.ActionBar$Tab", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4b450df2fb65a1e44a3c1e37543fd566"
+}

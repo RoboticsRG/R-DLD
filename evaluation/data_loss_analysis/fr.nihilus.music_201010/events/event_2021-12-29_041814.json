@@ -1,0 +1,42 @@
+{
+  "stop_state": "d5c209a2c4cc66beafe7d1761e6e58b2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_041814", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "From the beginning", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          677
+        ], 
+        [
+          673, 
+          761
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2d2d22d3c9c70789b868960be684026b"
+}

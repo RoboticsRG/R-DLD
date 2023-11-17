@@ -1,0 +1,42 @@
+{
+  "stop_state": "293d222a2c966628bea3ebd855113d52", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_195108", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/buttonFilePicker", 
+      "text": "START FILE PICKER", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "264*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          228, 
+          279
+        ], 
+        [
+          492, 
+          363
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "52e88be53b7db4b9f66a0ac86763c3ef"
+}

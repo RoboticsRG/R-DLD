@@ -1,0 +1,43 @@
+{
+  "stop_state": "900ec070d58edd41f9d71b7ca8b494d0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-24_173608", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 84, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+      "text": "0", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "346*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          200
+        ], 
+        [
+          713, 
+          279
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "900ec070d58edd41f9d71b7ca8b494d0"
+}

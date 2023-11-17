@@ -1,0 +1,42 @@
+{
+  "stop_state": "d794419c728a1a6d7d59cd87ae0c61ee", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_135037", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          420
+        ], 
+        [
+          692, 
+          476
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cffca6eefb0c4fc00fb1f576ba4dd0f0"
+}

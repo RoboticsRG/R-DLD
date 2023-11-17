@@ -1,0 +1,42 @@
+{
+  "stop_state": "9d9f3abb8542fb2631bfc671739a9a68", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_122347", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*11", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ee.ioc.phon.android.speak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1547
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9d9f3abb8542fb2631bfc671739a9a68"
+}

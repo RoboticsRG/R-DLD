@@ -1,0 +1,89 @@
+{
+  "stop_state": "4d35a02c6190c528be7f8323a62b1b77", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_231058", 
+  "event": {
+    "views_str": [
+      "44427985174d5b9df70170dca013a2b0", 
+      "ba51cdd6cd040910d55d67888af6f4d6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/textProfileName", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileName", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "44427985174d5b9df70170dca013a2b0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            729
+          ], 
+          [
+            673, 
+            808
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileName[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/textProfileComment", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileComment", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "ba51cdd6cd040910d55d67888af6f4d6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            808
+          ], 
+          [
+            673, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileComment[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "92ec91c38a9343056c3630310bba755d"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "7c11a5a1b9933a06c7e37681cf4e06d2", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_164448", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android.jonas.fakestandby:id/fab", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "android.jonas.fakestandby", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          594, 
+          266
+        ], 
+        [
+          692, 
+          364
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "83dc089cc7f6b315f8068832da3a1dec"
+}

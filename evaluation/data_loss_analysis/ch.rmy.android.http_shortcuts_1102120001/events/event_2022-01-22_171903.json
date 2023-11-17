@@ -1,0 +1,89 @@
+{
+  "stop_state": "7b2ca67de4817be86e655f1918d8e83c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_171903", 
+  "event": {
+    "views_str": [
+      "4da2fb9b971a4f5055115bda0f8bf556", 
+      "2ca906f5e9c69907748a02fc29aff61b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_success_message", 
+        "text": "Shortcut executed.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_success_message", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "4da2fb9b971a4f5055115bda0f8bf556", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            350
+          ], 
+          [
+            692, 
+            429
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_success_message[text]Shortcut executed.[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_include_meta_information", 
+        "text": "Show Meta Information (e.g. Response Headers)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_include_meta_information", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "2ca906f5e9c69907748a02fc29aff61b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            725
+          ], 
+          [
+            692, 
+            809
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_include_meta_information[text]Show Meta Information (e.g. Response Headers)[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "1162644f1a92a8a7a23ec8a9ffc04b96"
+}

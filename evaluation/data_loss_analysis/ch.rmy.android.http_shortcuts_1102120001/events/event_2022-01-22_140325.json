@@ -1,0 +1,42 @@
+{
+  "stop_state": "d48a6340f9a5f59c61bdccd2312c3736", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_140325", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Save", 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/action_save_shortcut", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4e77034522c8b474e85fa51de2393b45"
+}

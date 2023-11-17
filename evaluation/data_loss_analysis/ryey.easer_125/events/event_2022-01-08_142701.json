@@ -1,0 +1,42 @@
+{
+  "stop_state": "8a6e310182c4f4c5c7ff11a811731149", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_142701", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Open navigation drawer", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          98, 
+          152
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ad4633b2d582232a7a3f1b1351997da0"
+}

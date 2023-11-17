@@ -1,0 +1,165 @@
+{
+  "stop_state": "60682f2f8ae5c7a2422baa4d64c31193", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-19_144338", 
+  "event": {
+    "views_str": [
+      "0078f48d8a95091df5ddc960bcbdee0b", 
+      "b92065f20b869a1e22cdf077a1533c9b", 
+      "9a8f3c5b61680672631f0ee9f7955fa4", 
+      "8b400d950a8fc0efa70d75a8b55013f0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/prog_mem", 
+        "text": "302", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "380*79", 
+        "checked": false, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/prog_mem", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": true, 
+        "view_str": "0078f48d8a95091df5ddc960bcbdee0b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            333, 
+            54
+          ], 
+          [
+            713, 
+            133
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/prog_mem[text]302[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/sync_conv", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "380*56", 
+        "checked": true, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/sync_conv", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "b92065f20b869a1e22cdf077a1533c9b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            333, 
+            133
+          ], 
+          [
+            713, 
+            189
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/sync_conv[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/sleep_delay", 
+        "text": "1500", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "380*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/sleep_delay", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": true, 
+        "view_str": "9a8f3c5b61680672631f0ee9f7955fa4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            333, 
+            189
+          ], 
+          [
+            713, 
+            268
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/sleep_delay[text]1500[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/num_reg", 
+        "text": "32", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "380*79", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/num_reg", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": true, 
+        "view_str": "8b400d950a8fc0efa70d75a8b55013f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            333, 
+            268
+          ], 
+          [
+            713, 
+            347
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/num_reg[text]32[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "92274dfa2e4f0774e08d7d77716c5ebc"
+}

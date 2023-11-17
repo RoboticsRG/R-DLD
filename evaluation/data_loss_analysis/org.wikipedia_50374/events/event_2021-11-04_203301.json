@@ -1,0 +1,43 @@
+{
+  "stop_state": "26d2d0cff1d920660467655f8f8630b1", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-04_203301", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/search_src_text", 
+      "text": "Pesquisar na Wikip\u00e9dia", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "576*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          71
+        ], 
+        [
+          702, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "b8b3c478fbd6a1022e77d797012aa7fd"
+}

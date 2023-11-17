@@ -1,0 +1,42 @@
+{
+  "stop_state": "46b8a791d339291080a2dedf1a35f958", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_065902", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/voiceButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*76", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          194
+        ], 
+        [
+          720, 
+          270
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "60b1a3cce5e0e206ee7e6d94ac1b881d"
+}

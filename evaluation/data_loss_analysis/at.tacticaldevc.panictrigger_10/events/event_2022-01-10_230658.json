@@ -1,0 +1,42 @@
+{
+  "stop_state": "864e16c487408965c938df2839c9062d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-10_230658", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "General", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "543*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "at.tacticaldevc.panictrigger", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          817
+        ], 
+        [
+          589, 
+          901
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7ee15cc2091c1ce8433135dc102d52cd"
+}

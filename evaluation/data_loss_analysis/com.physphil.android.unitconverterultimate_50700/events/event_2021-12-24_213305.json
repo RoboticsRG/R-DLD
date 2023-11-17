@@ -1,0 +1,42 @@
+{
+  "stop_state": "704ff317f3031241acd74526e96dfc47", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213305", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "GOT IT", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "118*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          534, 
+          989
+        ], 
+        [
+          652, 
+          1084
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6d7d086fae4bebb66e4cb172216b2dea"
+}

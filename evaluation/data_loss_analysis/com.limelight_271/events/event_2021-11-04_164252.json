@@ -1,0 +1,42 @@
+{
+  "stop_state": "ae6ef12f1d0bd9fc212396037774f210", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_164252", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.limelight:id/hostTextView", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "510*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          179
+        ], 
+        [
+          538, 
+          258
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ae6ef12f1d0bd9fc212396037774f210"
+}

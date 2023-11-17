@@ -1,0 +1,42 @@
+{
+  "stop_state": "36ad08eb7a1e65b1096ea8fbcc6fb900", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_022847", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Add new item", 
+      "resource_id": "com.headi.app:id/floatingActionButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          1418
+        ], 
+        [
+          678, 
+          1516
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fc1f69687f63e6edfebeaecce25da830"
+}

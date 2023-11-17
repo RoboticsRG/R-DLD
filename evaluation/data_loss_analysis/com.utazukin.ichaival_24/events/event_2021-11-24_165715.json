@@ -1,0 +1,42 @@
+{
+  "stop_state": "4e1902d997f455761a132b8981c3c006", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-24_165715", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Navigate up", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          98, 
+          152
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d7d15ca582f5817e184daba6c1704856"
+}

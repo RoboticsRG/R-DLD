@@ -1,0 +1,89 @@
+{
+  "stop_state": "9e0fbb90ed1597f572abf7c5f0ffa3eb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_135919", 
+  "event": {
+    "views_str": [
+      "49070111448c854594570596e6a52625", 
+      "745bf6ea425274392b3acacf2ffcedd0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "49070111448c854594570596e6a52625", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            321
+          ], 
+          [
+            692, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_description", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "745bf6ea425274392b3acacf2ffcedd0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            429
+          ], 
+          [
+            692, 
+            508
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fc1eff169cebed65ecb9aad2d5d523a6"
+}

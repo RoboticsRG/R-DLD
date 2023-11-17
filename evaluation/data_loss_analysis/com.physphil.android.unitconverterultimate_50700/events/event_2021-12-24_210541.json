@@ -1,0 +1,10 @@
+{
+  "stop_state": "cc4153205b80ce80add91c2548ddc8cb", 
+  "event_str": "IntentEvent(intent='am start com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity')", 
+  "tag": "2021-12-24_210541", 
+  "event": {
+    "intent": "am start com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "a61cff095e5c682f239b8b02b06afa3e"
+}

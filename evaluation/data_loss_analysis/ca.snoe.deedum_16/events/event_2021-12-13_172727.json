@@ -1,0 +1,51 @@
+{
+  "stop_state": "cd4a4c2ba2adb7e9ebca2d7043498e27", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_172727", 
+  "event": {
+    "views_str": [
+      "62d003eb79aa22648a93575e5d1c6703"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "https://portal.mozz.us/?url=gemini://gemini.circumlunar.space/&fmt=fixed", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "62d003eb79aa22648a93575e5d1c6703", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f1d4059432cbd45bf820d46b1de84baf"
+}

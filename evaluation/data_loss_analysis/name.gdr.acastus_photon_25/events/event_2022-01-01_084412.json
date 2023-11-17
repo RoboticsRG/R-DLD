@@ -1,0 +1,203 @@
+{
+  "stop_state": "cfa1e49ae5f90efd854c60c4535db5b0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-01_084412", 
+  "event": {
+    "views_str": [
+      "e8e23cebcac38465d3b7141622fbe256", 
+      "aae602575c5c8c10ea180768579be139", 
+      "aae602575c5c8c10ea180768579be139", 
+      "e8e23cebcac38465d3b7141622fbe256", 
+      "aae602575c5c8c10ea180768579be139"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": false, 
+        "view_str": "e8e23cebcac38465d3b7141622fbe256", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            192
+          ], 
+          [
+            692, 
+            239
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": false, 
+        "view_str": "aae602575c5c8c10ea180768579be139", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            322
+          ], 
+          [
+            692, 
+            369
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": false, 
+        "view_str": "aae602575c5c8c10ea180768579be139", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            467
+          ], 
+          [
+            692, 
+            514
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": false, 
+        "view_str": "e8e23cebcac38465d3b7141622fbe256", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            611
+          ], 
+          [
+            692, 
+            658
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": false, 
+        "view_str": "aae602575c5c8c10ea180768579be139", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            741
+          ], 
+          [
+            692, 
+            788
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cfa1e49ae5f90efd854c60c4535db5b0"
+}

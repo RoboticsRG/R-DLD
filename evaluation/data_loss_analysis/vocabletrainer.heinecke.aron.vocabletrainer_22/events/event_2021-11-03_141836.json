@@ -1,0 +1,317 @@
+{
+  "stop_state": "a1a83f474907cfc4119ba96a115566b5", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_141836", 
+  "event": {
+    "views_str": [
+      "ba21c39783859e02e9e3a0945a5c463b", 
+      "ba21c39783859e02e9e3a0945a5c463b", 
+      "b190257c8c644c86f59e5c9d23744f57", 
+      "1de770a38b041431080a5875aba22057", 
+      "15faae14a97581c142340007a19fb758", 
+      "e6f4d5881664bf4b0c5e2840c56c22bd", 
+      "f808a6cad577a3d078e6070ba98e6ba2", 
+      "4d19edd5a39c1d255895f89f041b26ff"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "HelloWorldHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "ba21c39783859e02e9e3a0945a5c463b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            168
+          ], 
+          [
+            606, 
+            266
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]HelloWorldHelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "HelloWorldHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "ba21c39783859e02e9e3a0945a5c463b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            266
+          ], 
+          [
+            606, 
+            364
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]HelloWorldHelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "b190257c8c644c86f59e5c9d23744f57", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            364
+          ], 
+          [
+            606, 
+            462
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "Column A", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "1de770a38b041431080a5875aba22057", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            462
+          ], 
+          [
+            606, 
+            560
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]Column A[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "HelloWorldHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 50, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "15faae14a97581c142340007a19fb758", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            560
+          ], 
+          [
+            606, 
+            658
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]HelloWorldHelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "Column BHelloWorldHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "e6f4d5881664bf4b0c5e2840c56c22bd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            658
+          ], 
+          [
+            606, 
+            756
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]Column BHelloWorldHelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "text": "HelloWorldHelloWorHelloWorldHelloWorldld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*98", 
+        "checked": false, 
+        "temp_id": 66, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "is_password": false, 
+        "parent": 65, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "f808a6cad577a3d078e6070ba98e6ba2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            756
+          ], 
+          [
+            648, 
+            854
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint[text]HelloWorldHelloWorHelloWorldHelloWorldld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "text": "HelloWorldHelloWorHelloWorldHelloWorldld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*63", 
+        "checked": false, 
+        "temp_id": 72, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "is_password": false, 
+        "parent": 71, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "4d19edd5a39c1d255895f89f041b26ff", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            854
+          ], 
+          [
+            648, 
+            917
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition[text]HelloWorldHelloWorHelloWorldHelloWorldld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "094271c96c0ecaa00f52282acea512a0"
+}

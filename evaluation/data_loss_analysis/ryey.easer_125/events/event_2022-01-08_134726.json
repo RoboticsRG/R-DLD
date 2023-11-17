@@ -1,0 +1,42 @@
+{
+  "stop_state": "7513f5461d318f79a39541a3b7f5365e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_134726", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/nav_log", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "490*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          646
+        ], 
+        [
+          490, 
+          730
+        ]
+      ], 
+      "class": "androidx.appcompat.widget.LinearLayoutCompat", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "de7fe11b4c989e9aa7b6a3c4941808b7"
+}

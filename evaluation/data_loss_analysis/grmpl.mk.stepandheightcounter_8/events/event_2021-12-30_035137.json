@@ -1,0 +1,42 @@
+{
+  "stop_state": "427ab582691b095c443c00b3566f1a2c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_035137", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "grmpl.mk.stepandheightcounter:id/buttonReset", 
+      "text": "RESET", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "grmpl.mk.stepandheightcounter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          795
+        ], 
+        [
+          200, 
+          879
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a6cd122668bba50d4f13687fea550a9b"
+}

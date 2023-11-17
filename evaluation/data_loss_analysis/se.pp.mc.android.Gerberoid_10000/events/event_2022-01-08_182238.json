@@ -1,0 +1,42 @@
+{
+  "stop_state": "2a0d694db196e1ea65063c85366dff6e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_182238", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/opt_showdcode", 
+      "text": "X", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          510, 
+          572
+        ], 
+        [
+          622, 
+          656
+        ]
+      ], 
+      "class": "android.widget.ToggleButton", 
+      "focusable": true
+    }, 
+    "id": 28, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cf06c5be426f88d4cb01dc9f488b2488"
+}

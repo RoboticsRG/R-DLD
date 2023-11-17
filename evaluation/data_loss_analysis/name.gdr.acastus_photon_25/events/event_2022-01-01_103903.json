@@ -1,0 +1,42 @@
+{
+  "stop_state": "8c06f97106f512ebc881f05a7e5ffe7c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_103903", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Helloworld (travel_agency)\nRedland City Moreton Bay Road ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          926
+        ], 
+        [
+          692, 
+          1038
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5453ed8fcc2a87f597158414dd888c59"
+}

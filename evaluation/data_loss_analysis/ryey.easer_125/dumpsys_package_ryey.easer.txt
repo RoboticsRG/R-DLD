@@ -1,0 +1,292 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.nfc.action.TAG_DISCOVERED:
+        dba42f6 ryey.easer/.skills.event.nfc_tag.WaitForNfcActivity filter 8f9a6f7
+          Action: "android.nfc.action.TAG_DISCOVERED"
+          Category: "android.intent.category.DEFAULT"
+        d358964 ryey.easer/.skills.event.nfc_tag.NfcListenerActivity filter 70027cd
+          Action: "android.nfc.action.TAG_DISCOVERED"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        afb6e2a ryey.easer/.core.ui.MainActivity filter 71ae41b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        fd589b8 ryey.easer/.skills.event.widget.UserActionWidgetConfigureActivity filter a31e391
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.QUICKBOOT_POWERON:
+        cbf9882 ryey.easer/.core.BootUpReceiver filter 497bb93
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+      ryey.easer.action.STATE_CHANGED:
+        ad2bace ryey.easer/.core.EaserStatusWidget filter 9f87def
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "ryey.easer.core.EaserStatusWidget.ACTION_CLICK"
+          Action: "ryey.easer.action.STATE_CHANGED"
+      ryey.easer.core.EaserStatusWidget.ACTION_CLICK:
+        ad2bace ryey.easer/.core.EaserStatusWidget filter 9f87def
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "ryey.easer.core.EaserStatusWidget.ACTION_CLICK"
+          Action: "ryey.easer.action.STATE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        cbf9882 ryey.easer/.core.BootUpReceiver filter 497bb93
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        ad2bace ryey.easer/.core.EaserStatusWidget filter 9f87def
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+          Action: "ryey.easer.core.EaserStatusWidget.ACTION_CLICK"
+          Action: "ryey.easer.action.STATE_CHANGED"
+        b06a0fc ryey.easer/.skills.event.widget.UserActionWidget filter 5c78385
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        673d7d0 ryey.easer/.core.UpgradeCompleteReceiver filter 5f473c9
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.notification.NotificationListenerService:
+        de3b5da ryey.easer/.skills.event.notification.NotificationEventListenerService filter bf90a0b permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+        99ad0e8 ryey.easer/.skills.operation.media_control.MediaControlHelperNotificationListenerService filter e01d301 permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+        8d755a6 ryey.easer/.skills.operation.ringer_mode.InterruptionFilterSwitcherService filter 42c3be7 permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+
+Registered ContentProviders:
+  ryey.easer/org.acra.attachment.AcraContentProvider:
+    Provider{5c7503e ryey.easer/org.acra.attachment.AcraContentProvider}
+
+ContentProvider Authorities:
+  [ryey.easer.acra]:
+    Provider{5c7503e ryey.easer/org.acra.attachment.AcraContentProvider}
+      applicationInfo=ApplicationInfo{e443e9f ryey.easer}
+
+Key Set Manager:
+  [ryey.easer]
+      Signing KeySets: 553
+
+Packages:
+  Package [ryey.easer] (ec91ea4):
+    userId=10636
+    pkg=Package{a236bb5 ryey.easer}
+    codePath=/data/app/~~-xsR9skxcg8enzrBSPKu2w==/ryey.easer-tGHsjXj7PtCABwE_TiKmbw==
+    resourcePath=/data/app/~~-xsR9skxcg8enzrBSPKu2w==/ryey.easer-tGHsjXj7PtCABwE_TiKmbw==
+    legacyNativeLibraryDir=/data/app/~~-xsR9skxcg8enzrBSPKu2w==/ryey.easer-tGHsjXj7PtCABwE_TiKmbw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=125 minSdk=16 targetSdk=23
+    versionName=0.8.2
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{a236bb5 ryey.easer}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/ryey.easer
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-08 11:41:19
+    firstInstallTime=2022-01-08 11:41:20
+    lastUpdateTime=2022-01-08 11:41:20
+    signatures=PackageSignatures{ee4324a version:3, signatures:[56c36e9c], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_NOTIFICATION_POLICY
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.TETHER_PRIVILEGED
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.INTERNET
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.NFC
+      android.permission.READ_CALENDAR
+      android.permission.READ_CALL_LOG: restricted=true
+      android.permission.READ_SMS: restricted=true
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.RECEIVE_SMS: restricted=true
+      android.permission.SEND_SMS: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_SETTINGS
+      android.permission.WRITE_SYNC_SETTINGS
+      com.android.alarm.permission.SET_ALARM
+      com.wireguard.android.permission.CONTROL_TUNNELS
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_BACKGROUND_LOCATION: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.ACCESS_NOTIFICATION_POLICY: granted=true
+      android.permission.NFC: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.WRITE_SYNC_SETTINGS: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.BLUETOOTH: granted=true
+      com.android.alarm.permission.SET_ALARM: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=26625 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3002, 3003, 3001]
+      runtime permissions:
+        android.permission.READ_SMS: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_CALENDAR: granted=true
+        android.permission.READ_CALL_LOG: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_FINE_LOCATION: granted=true
+        android.permission.RECEIVE_SMS: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ REVOKE_WHEN_REQUESTED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_COARSE_LOCATION: granted=true
+        android.permission.SEND_SMS: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_BACKGROUND_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ryey.easer
+    com.motorola.actions:
+      ryey.easer
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=917
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=692, package=org.billthefarmer.print
+    seq=696, package=net.typeblog.shelter
+    seq=706, package=net.tjado.usbgadget
+    seq=716, package=org.billthefarmer.tuner
+    seq=724, package=org.ddosolitary.okcagent
+    seq=734, package=org.billthefarmer.shorty
+    seq=746, package=org.billthefarmer.notes
+    seq=750, package=org.nitri.opentopo
+    seq=755, package=com.google.android.apps.messaging
+    seq=763, package=org.ebur.debitum
+    seq=769, package=org.liberty.android.freeotpplus
+    seq=775, package=com.google.android.contacts
+    seq=777, package=org.ligi.passandroid
+    seq=785, package=org.gateshipone.odyssey
+    seq=791, package=io.github.benoitduffez.cupsprint
+    seq=804, package=org.openhab.habdroid
+    seq=822, package=org.purple.smoke
+    seq=834, package=org.secuso.privacyfriendlyweather
+    seq=842, package=org.primftpd
+    seq=846, package=org.piwigo.android
+    seq=850, package=org.secuso.privacyfriendlypasswordgenerator
+    seq=856, package=org.pocketworkstation.pckeyboard
+    seq=864, package=org.ttrssreader
+    seq=877, package=org.unifiedpush.example
+    seq=886, package=rocks.poopjournal.todont
+    seq=892, package=com.google.android.tts
+    seq=896, package=subins2000.manglish
+    seq=910, package=ru.ra66it.updaterforspotify
+    seq=913, package=io.github.ylimit.droidbotapp
+    seq=915, package=com.google.android.apps.docs
+    seq=916, package=ryey.easer
+
+
+Dexopt state:
+  [ryey.easer]
+    path: /data/app/~~-xsR9skxcg8enzrBSPKu2w==/ryey.easer-tGHsjXj7PtCABwE_TiKmbw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [ryey.easer]
+     base.apk - 844
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

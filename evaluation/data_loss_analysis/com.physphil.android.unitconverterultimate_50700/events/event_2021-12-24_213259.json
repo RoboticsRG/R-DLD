@@ -1,0 +1,42 @@
+{
+  "stop_state": "6d7d086fae4bebb66e4cb172216b2dea", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213259", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "343*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          61
+        ], 
+        [
+          713, 
+          145
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2d05ad4b731386fa82f1d0bf815122b1"
+}

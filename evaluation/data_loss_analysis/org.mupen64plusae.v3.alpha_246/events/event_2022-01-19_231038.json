@@ -1,0 +1,89 @@
+{
+  "stop_state": "92ec91c38a9343056c3630310bba755d", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_231038", 
+  "event": {
+    "views_str": [
+      "5ee8110735f5a76f11b4b08f726d48f0", 
+      "a3f07930b5059d13b98cfd3890fb9d48"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/textProfileName", 
+        "text": "Profiilin nimi", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileName", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "5ee8110735f5a76f11b4b08f726d48f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            729
+          ], 
+          [
+            673, 
+            808
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileName[text]Profiilin nimi[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/textProfileComment", 
+        "text": "Kuvaus (valinnainen)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileComment", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "a3f07930b5059d13b98cfd3890fb9d48", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            808
+          ], 
+          [
+            673, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/textProfileComment[text]Kuvaus (valinnainen)[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "da2bd0a2a8489f4077a31ef8761f2fab"
+}

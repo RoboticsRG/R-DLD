@@ -1,0 +1,42 @@
+{
+  "stop_state": "c47d784cb82b1026967a70ce680da6f6", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_021832", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/wol", 
+      "text": "Wake up server (Wake-on-LAN)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "636*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          712
+        ], 
+        [
+          678, 
+          796
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ec453df8f9d03847507eae7b1b96bcd1"
+}

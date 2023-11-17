@@ -1,0 +1,42 @@
+{
+  "stop_state": "0b930d36722f04e0ca8d038b0b770a91", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_201110", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/backButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "79*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          68
+        ], 
+        [
+          93, 
+          147
+        ]
+      ], 
+      "class": "androidx.cardview.widget.CardView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b9c3682a4e2ef69ac545005a0a5acbfa"
+}

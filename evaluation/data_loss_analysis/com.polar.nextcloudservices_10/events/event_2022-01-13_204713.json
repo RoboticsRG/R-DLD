@@ -1,0 +1,51 @@
+{
+  "stop_state": "92927573f15316b5fbd3f246ead8d722", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-13_204713", 
+  "event": {
+    "views_str": [
+      "7fb153a760531b49c751692117a3ed00"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "cloud.example.com", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": true, 
+        "view_str": "7fb153a760531b49c751692117a3ed00", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            754
+          ], 
+          [
+            638, 
+            833
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]cloud.example.com[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "039f0b01ce12550531e262111a164dd1"
+}

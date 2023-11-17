@@ -1,0 +1,42 @@
+{
+  "stop_state": "bda4187005aa1852b9d8281b5c59a55e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_234324", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          840
+        ], 
+        [
+          652, 
+          935
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0c278649f1e7c20ba0f98ad2c3a8a57a"
+}

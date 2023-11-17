@@ -1,0 +1,43 @@
+{
+  "stop_state": "c7ec8e993a7e25b42a1bb5d8addd89b1", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-17_073353", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.genonbeta.TrebleShot:id/editText", 
+      "text": "MOTO G(30)HelloHeHelloWorldWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "496*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.genonbeta.TrebleShot", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          182, 
+          742
+        ], 
+        [
+          678, 
+          826
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "c7ec8e993a7e25b42a1bb5d8addd89b1"
+}

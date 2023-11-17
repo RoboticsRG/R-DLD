@@ -1,0 +1,42 @@
+{
+  "stop_state": "78e4d3e4f1c01173890078e457bb4ac4", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_125436", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+      "text": "Column BHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "535*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          542
+        ], 
+        [
+          606, 
+          640
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ffcc1f20ee553d815c57db7643260ebe"
+}

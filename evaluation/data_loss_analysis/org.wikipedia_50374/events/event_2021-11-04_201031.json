@@ -1,0 +1,89 @@
+{
+  "stop_state": "b9a5b65dcb4cd84bbed2d664422153c1", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_201031", 
+  "event": {
+    "views_str": [
+      "862409e03058e6b10f0ef8044a8dd378", 
+      "31b1f3305315bc57bd22a89a95e3d5de"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/theme_chooser_match_system_theme_switch", 
+        "text": "Corresponder tema do sistema ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": true, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/theme_chooser_match_system_theme_switch", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "862409e03058e6b10f0ef8044a8dd378", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            1281
+          ], 
+          [
+            692, 
+            1365
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/theme_chooser_match_system_theme_switch[text]Corresponder tema do sistema ATIVADO[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/theme_chooser_dark_mode_dim_images_switch", 
+        "text": "Escurecimento de imagem (no tema escuro) ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/theme_chooser_dark_mode_dim_images_switch", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "31b1f3305315bc57bd22a89a95e3d5de", 
+        "enabled": false, 
+        "bounds": [
+          [
+            28, 
+            1453
+          ], 
+          [
+            692, 
+            1537
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/theme_chooser_dark_mode_dim_images_switch[text]Escurecimento de imagem (no tema escuro) ATIVADO[,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "64a1e96a75f72a43407bfa55f4378b12"
+}

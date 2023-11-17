@@ -1,0 +1,93 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        d6d10ab com.serwylo.babydots/.MainActivity filter 1c66308
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.serwylo.babydots]
+      Signing KeySets: 401
+
+Packages:
+  Package [com.serwylo.babydots] (1e7a66e):
+    userId=10484
+    pkg=Package{b6b910f com.serwylo.babydots}
+    codePath=/data/app/~~j6XDoginkMAp3o5eQRZGyg==/com.serwylo.babydots-1Tj256ez4rcgo1-t5zEBGQ==
+    resourcePath=/data/app/~~j6XDoginkMAp3o5eQRZGyg==/com.serwylo.babydots-1Tj256ez4rcgo1-t5zEBGQ==
+    legacyNativeLibraryDir=/data/app/~~j6XDoginkMAp3o5eQRZGyg==/com.serwylo.babydots-1Tj256ez4rcgo1-t5zEBGQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=10600 minSdk=22 targetSdk=30
+    versionName=1.6.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{b6b910f com.serwylo.babydots}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.serwylo.babydots
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-25 11:10:31
+    firstInstallTime=2021-12-25 11:10:31
+    lastUpdateTime=2021-12-25 11:10:31
+    signatures=PackageSignatures{399859c version:3, signatures:[d140ec6f], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=69001 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.serwylo.babydots
+    com.motorola.actions:
+      com.serwylo.babydots
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=128
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=67, package=com.google.android.contacts
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=101, package=com.google.android.tts
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=125, package=com.google.android.apps.docs
+    seq=126, package=io.github.ylimit.droidbotapp
+    seq=127, package=com.serwylo.babydots
+
+
+Dexopt state:
+  [com.serwylo.babydots]
+    path: /data/app/~~j6XDoginkMAp3o5eQRZGyg==/com.serwylo.babydots-1Tj256ez4rcgo1-t5zEBGQ==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.serwylo.babydots]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

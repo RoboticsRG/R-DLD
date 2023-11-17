@@ -1,0 +1,42 @@
+{
+  "stop_state": "708dc1a2dfa955c1a247f62c49cc86c1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_192211", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Hong Kong Dollar", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "250*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1111
+        ], 
+        [
+          617, 
+          1167
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 34, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5540af8a30044ee42a029960d2329122"
+}

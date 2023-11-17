@@ -1,0 +1,42 @@
+{
+  "stop_state": "8a4e92e4f32384b49d35d7a5c7297be6", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-23_022117", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Croak", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "230*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.reecedunn.espeak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          359, 
+          1211
+        ], 
+        [
+          589, 
+          1295
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "79368b7677b7fdcc384371c35ec3cf65"
+}

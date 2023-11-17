@@ -1,0 +1,10 @@
+{
+  "stop_state": "67a45085b9ff06f18ab50ed9e6109c2d", 
+  "event_str": "IntentEvent(intent='am start com.github.ashutoshgngwr.tenbitclockwidget/com.github.ashutoshgngwr.tenbitclockwidget.ClockWidgetPreferenceActivity')", 
+  "tag": "2021-11-04_103213", 
+  "event": {
+    "intent": "am start com.github.ashutoshgngwr.tenbitclockwidget/com.github.ashutoshgngwr.tenbitclockwidget.ClockWidgetPreferenceActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "95d85c71e0ef37d87220e3c380496798"
+}

@@ -1,0 +1,352 @@
+Activity Resolver Table:
+  Full MIME Types:
+      */*:
+        d785fd5 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity filter 2ab86db
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.n64}"
+          Path: "PatternMatcher{GLOB: .*\.N64}"
+          Path: "PatternMatcher{GLOB: .*\.v64}"
+          Path: "PatternMatcher{GLOB: .*\.V64}"
+          Path: "PatternMatcher{GLOB: .*\.z64}"
+          Path: "PatternMatcher{GLOB: .*\.Z64}"
+          Path: "PatternMatcher{GLOB: .*\.zip}"
+          Path: "PatternMatcher{GLOB: .*\.7zip}"
+          Path: "PatternMatcher{GLOB: .*\.7z}"
+          Path: "PatternMatcher{GLOB: .*\.ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7Z}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Wild MIME Types:
+      *:
+        d785fd5 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity filter 2ab86db
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.n64}"
+          Path: "PatternMatcher{GLOB: .*\.N64}"
+          Path: "PatternMatcher{GLOB: .*\.v64}"
+          Path: "PatternMatcher{GLOB: .*\.V64}"
+          Path: "PatternMatcher{GLOB: .*\.z64}"
+          Path: "PatternMatcher{GLOB: .*\.Z64}"
+          Path: "PatternMatcher{GLOB: .*\.zip}"
+          Path: "PatternMatcher{GLOB: .*\.7zip}"
+          Path: "PatternMatcher{GLOB: .*\.7z}"
+          Path: "PatternMatcher{GLOB: .*\.ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7Z}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      file:
+        d785fd5 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity filter 2ab86db
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.n64}"
+          Path: "PatternMatcher{GLOB: .*\.N64}"
+          Path: "PatternMatcher{GLOB: .*\.v64}"
+          Path: "PatternMatcher{GLOB: .*\.V64}"
+          Path: "PatternMatcher{GLOB: .*\.z64}"
+          Path: "PatternMatcher{GLOB: .*\.Z64}"
+          Path: "PatternMatcher{GLOB: .*\.zip}"
+          Path: "PatternMatcher{GLOB: .*\.7zip}"
+          Path: "PatternMatcher{GLOB: .*\.7z}"
+          Path: "PatternMatcher{GLOB: .*\.ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7Z}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Non-Data Actions:
+      .persistent.DefaultsPrefsActivity:
+        293448e org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.DefaultsPrefsActivity filter b6ba4af
+          Action: ".persistent.DefaultsPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .util.LogcatActivity:
+        194efd8 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.util.LogcatActivity filter 68e1f31
+          Action: ".util.LogcatActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.ControllerProfileActivity:
+        b675766 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.ControllerProfileActivity filter 6857aa7
+          Action: ".profile.ControllerProfileActivity"
+          Category: "android.intent.category.DEFAULT"
+        65e4b54 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.ControllerProfileActivityBigScreen filter 811dafd
+          Action: ".profile.ControllerProfileActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.TouchscreenProfileActivity:
+        667b0ec org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.TouchscreenProfileActivity filter 4966cb5
+          Action: ".profile.TouchscreenProfileActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.DataPrefsActivity:
+        7325124 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.DataPrefsActivity filter afdb48d
+          Action: ".persistent.DataPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+        3553184 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.ImportExportActivity filter 747d6d
+          Action: ".persistent.DataPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        d785fd5 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity filter d31e3ea
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LEANBACK_LAUNCHER"
+          Category: "android.intent.category.LAUNCHER"
+      .persistent.GamePrefsActivity:
+        e815578 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.GamePrefsActivity filter 7ec2451
+          Action: ".persistent.GamePrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.ManageEmulationProfilesActivity:
+        d0183f2 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.ManageEmulationProfilesActivity filter f051a43
+          Action: ".profile.ManageEmulationProfilesActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.EmulationProfileActivity:
+        5fec8c0 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.EmulationProfileActivity filter 32629f9
+          Action: ".profile.EmulationProfileActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.DisplayPrefsActivity:
+        d170642 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.DisplayPrefsActivity filter fc1f653
+          Action: ".persistent.DisplayPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.AudioPrefsActivity:
+        a4254b6 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.AudioPrefsActivity filter ed1b5b7
+          Action: ".persistent.AudioPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .input.DiagnosticActivity:
+        2299f4a org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.input.DiagnosticActivity filter 77d8ebb
+          Action: ".input.DiagnosticActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.LibraryPrefsActivity:
+        75ca0bc org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.LibraryPrefsActivity filter 8d1e845
+          Action: ".persistent.LibraryPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.ManageTouchscreenProfilesActivity:
+        79fed3e org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.ManageTouchscreenProfilesActivity filter 555179f
+          Action: ".profile.ManageTouchscreenProfilesActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.InputPrefsActivity:
+        5d55b90 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.InputPrefsActivity filter f1e0c89
+          Action: ".persistent.InputPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+      .profile.ManageControllerProfilesActivity:
+        3b10ca8 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.profile.ManageControllerProfilesActivity filter 62dc3c1
+          Action: ".profile.ManageControllerProfilesActivity"
+          Category: "android.intent.category.DEFAULT"
+      .cheat.CheatEditorActivity:
+        8ea6616 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.cheat.CheatEditorActivity filter 1ec5b97
+          Action: ".cheat.CheatEditorActivity"
+          Category: "android.intent.category.DEFAULT"
+      .persistent.TouchscreenPrefsActivity:
+        831b9a org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.persistent.TouchscreenPrefsActivity filter d57dccb
+          Action: ".persistent.TouchscreenPrefsActivity"
+          Category: "android.intent.category.DEFAULT"
+
+  MIME Typed Actions:
+      android.intent.action.VIEW:
+        d785fd5 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity filter 2ab86db
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.n64}"
+          Path: "PatternMatcher{GLOB: .*\.N64}"
+          Path: "PatternMatcher{GLOB: .*\.v64}"
+          Path: "PatternMatcher{GLOB: .*\.V64}"
+          Path: "PatternMatcher{GLOB: .*\.z64}"
+          Path: "PatternMatcher{GLOB: .*\.Z64}"
+          Path: "PatternMatcher{GLOB: .*\.zip}"
+          Path: "PatternMatcher{GLOB: .*\.7zip}"
+          Path: "PatternMatcher{GLOB: .*\.7z}"
+          Path: "PatternMatcher{GLOB: .*\.ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7ZIP}"
+          Path: "PatternMatcher{GLOB: .*\.7Z}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        f1ecda2 org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.task.SyncProgramsJobService$StartupIntentReceiver filter 111a33
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Registered ContentProviders:
+  org.mupen64plusae.v3.alpha/androidx.core.content.FileProvider:
+    Provider{cf307ca org.mupen64plusae.v3.alpha/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [org.mupen64plusae.v3.alpha.filesprovider]:
+    Provider{cf307ca org.mupen64plusae.v3.alpha/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{160d3b org.mupen64plusae.v3.alpha}
+
+Key Set Manager:
+  [org.mupen64plusae.v3.alpha]
+      Signing KeySets: 696
+
+Packages:
+  Package [org.mupen64plusae.v3.alpha] (80dcc58):
+    userId=10778
+    pkg=Package{63301b1 org.mupen64plusae.v3.alpha}
+    codePath=/data/app/~~tj5IbYhMKdmys3hvVijEdg==/org.mupen64plusae.v3.alpha-vZPkTH2qmdOpNOyIlsJqnQ==
+    resourcePath=/data/app/~~tj5IbYhMKdmys3hvVijEdg==/org.mupen64plusae.v3.alpha-vZPkTH2qmdOpNOyIlsJqnQ==
+    legacyNativeLibraryDir=/data/app/~~tj5IbYhMKdmys3hvVijEdg==/org.mupen64plusae.v3.alpha-vZPkTH2qmdOpNOyIlsJqnQ==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=246 minSdk=21 targetSdk=30
+    versionName=3.0.246 (beta)
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{63301b1 org.mupen64plusae.v3.alpha}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/org.mupen64plusae.v3.alpha
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-19 19:21:21
+    firstInstallTime=2022-01-19 19:21:21
+    lastUpdateTime=2022-01-19 19:21:21
+    signatures=PackageSignatures{e21d696 version:3, signatures:[29d57f21], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.VIBRATE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.android.providers.tv.permission.READ_EPG_DATA
+      com.android.providers.tv.permission.WRITE_EPG_DATA
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.VIBRATE: granted=true
+    User 0: ceDataInode=56898 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      org.mupen64plusae.v3.alpha
+    com.motorola.actions:
+      org.mupen64plusae.v3.alpha
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=573
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=151, package=com.gimranov.zandy.app
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=205, package=com.github.gschwind.fiddle_assistant
+    seq=215, package=com.otago.open
+    seq=223, package=com.rohit2810.spotit
+    seq=234, package=com.saiga.find.messagefinder
+    seq=240, package=com.utyf.pmetro
+    seq=246, package=com.polar.nextcloudservices
+    seq=254, package=com.vaudibert.canidrive
+    seq=264, package=de.mw136.tonuino
+    seq=272, package=de.sirjofri.fingerlist
+    seq=280, package=com.vadimfrolov.duorem
+    seq=290, package=com.android.vending
+    seq=291, package=com.google.android.ims
+    seq=292, package=com.google.android.googlequicksearchbox
+    seq=297, package=com.google.android.youtube
+    seq=299, package=de.rampro.activitydiary
+    seq=320, package=email.schaal.ocreader
+    seq=326, package=de.tap.easy_xkcd
+    seq=337, package=com.google.android.trichromelibrary_469208733
+    seq=338, package=com.google.android.webview
+    seq=340, package=com.google.android.gm
+    seq=341, package=com.google.android.apps.subscriptions.red
+    seq=342, package=com.google.android.dialer
+    seq=343, package=com.google.android.apps.tachyon
+    seq=344, package=com.google.android.apps.youtube.music
+    seq=345, package=com.google.android.apps.photos
+    seq=346, package=com.google.android.apps.maps
+    seq=348, package=felixwiemuth.simplereminder
+    seq=354, package=com.jmstudios.chibe
+    seq=361, package=com.android.chrome
+    seq=373, package=com.noahjutz.splitfit.fdroid
+    seq=379, package=fr.unix_experience.owncloud_sms
+    seq=389, package=io.mainframe.hacs
+    seq=396, package=it.niedermann.nextcloud.deck
+    seq=426, package=gal.sli.singal
+    seq=432, package=com.google.android.contacts
+    seq=438, package=de.ph1b.audiobook
+    seq=448, package=eu.depau.etchdroid
+    seq=456, package=net.justdave.nwsweatheralertswidget
+    seq=464, package=org.andresoviedo.dddmodel2
+    seq=470, package=net.czlee.debatekeeper
+    seq=478, package=namlit.siteswapgenerator
+    seq=492, package=in.ac.dducollegedu.shell
+    seq=502, package=open.com.permissionsmanager
+    seq=508, package=org.freenetproject.mobile
+    seq=516, package=org.paladyn.mediclog
+    seq=522, package=net.dcnnt
+    seq=530, package=com.motorola.livewallpaper3
+    seq=532, package=net.programmierecke.radiodroid2
+    seq=542, package=org.secuso.privacyfriendlycardgameone
+    seq=548, package=com.google.android.tts
+    seq=552, package=org.softcatala.traductor
+    seq=560, package=org.elijaxapps.androidxmrigminer
+    seq=568, package=org.secuso.privacyfriendlyfoodtracker
+    seq=570, package=com.google.android.apps.docs
+    seq=571, package=io.github.ylimit.droidbotapp
+    seq=572, package=org.mupen64plusae.v3.alpha
+
+
+Dexopt state:
+  [org.mupen64plusae.v3.alpha]
+    path: /data/app/~~tj5IbYhMKdmys3hvVijEdg==/org.mupen64plusae.v3.alpha-vZPkTH2qmdOpNOyIlsJqnQ==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [org.mupen64plusae.v3.alpha]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

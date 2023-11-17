@@ -1,0 +1,42 @@
+{
+  "stop_state": "a773df29d24b7355223c492f60aeaa8a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_191707", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/checkBoxAutoStart", 
+      "text": "Auto start Snapclient", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "581*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          69, 
+          835
+        ], 
+        [
+          650, 
+          891
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "abe96942e831b083c18ab51f938e06b6"
+}

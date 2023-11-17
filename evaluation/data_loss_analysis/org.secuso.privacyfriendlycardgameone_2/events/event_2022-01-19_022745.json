@@ -1,0 +1,42 @@
+{
+  "stop_state": "3610235d12777d5da922a040a102e8a3", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_022745", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "OKAY", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          924
+        ], 
+        [
+          652, 
+          1019
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f7c25fba27f7a3edb693e5e3fd00f73e"
+}

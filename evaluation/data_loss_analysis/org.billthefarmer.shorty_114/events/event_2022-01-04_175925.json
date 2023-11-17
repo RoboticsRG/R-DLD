@@ -1,0 +1,43 @@
+{
+  "stop_state": "2fe2cd797fdc869845e65872388844c7", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-04_175925", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 29, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "Search stations", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "495*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          140, 
+          71
+        ], 
+        [
+          635, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "be87aa52c8db79fa8c232f3eeea85f1a"
+}

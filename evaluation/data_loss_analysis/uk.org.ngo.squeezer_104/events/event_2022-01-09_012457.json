@@ -1,0 +1,51 @@
+{
+  "stop_state": "3c85c43b5f7af21e0f49c60e30d250ae", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_012457", 
+  "event": {
+    "views_str": [
+      "f03bfbd01c235d31c517580041fc9eda"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": true, 
+        "view_str": "f03bfbd01c235d31c517580041fc9eda", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            830
+          ], 
+          [
+            638, 
+            909
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c257c95a711bccebbd176bf0e872a4d6"
+}

@@ -1,0 +1,44 @@
+{
+  "stop_state": "ba0b029f6a088ca9d0c7ca82a086e954", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-11_010839", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.famoser.mensa:id/location_list_scroll_viewer", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1504", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ch.famoser.mensa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "3282e69485f2fbc500529934ffc419bc"
+}

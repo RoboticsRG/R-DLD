@@ -1,0 +1,42 @@
+{
+  "stop_state": "4c2173f3bb67c852a6e31adbdfcf25c0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_235924", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Item", 
+      "resource_id": "com.github.gschwind.fiddle_assistant:id/action_settings", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.gschwind.fiddle_assistant", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          622, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f6cbf85b35a26ef55443b039747d7e5c"
+}

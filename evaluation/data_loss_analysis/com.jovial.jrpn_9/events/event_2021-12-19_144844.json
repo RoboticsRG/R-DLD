@@ -1,0 +1,10 @@
+{
+  "stop_state": "443751614a18ab675ec946c9fa0babba", 
+  "event_str": "IntentEvent(intent='am start com.jovial.jrpn/com.jovial.jrpn.fmMain')", 
+  "tag": "2021-12-19_144844", 
+  "event": {
+    "intent": "am start com.jovial.jrpn/com.jovial.jrpn.fmMain", 
+    "event_type": "intent"
+  }, 
+  "start_state": "52181e4c0aa6c3f34e2c2def72c71d39"
+}

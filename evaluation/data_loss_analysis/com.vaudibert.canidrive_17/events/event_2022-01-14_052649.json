@@ -1,0 +1,42 @@
+{
+  "stop_state": "d17455cba56560a2a89d9efe1cb09b5a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_052649", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddf9\ud83c\udded Thailand", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "402*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          1103
+        ], 
+        [
+          657, 
+          1168
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f478ebd9da222d55b863f57db781bde0"
+}

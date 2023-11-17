@@ -1,0 +1,42 @@
+{
+  "stop_state": "1fba2fc6e345726eb63ce372fe9105be", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_123330", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/switch_reverse", 
+      "text": "Reverse Scenario OFF", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "636*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          493
+        ], 
+        [
+          678, 
+          577
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1ee2509e4285a1156990b57c7705be4d"
+}

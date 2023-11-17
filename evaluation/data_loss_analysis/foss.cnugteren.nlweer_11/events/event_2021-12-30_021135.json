@@ -1,0 +1,42 @@
+{
+  "stop_state": "55dfa27b76759276b4fa8cb382644895", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_021135", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "GPS", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          798
+        ], 
+        [
+          673, 
+          882
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dbae60b6feb619709cd86141228c9427"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "ff88af13049638d60442f823ac1ff7bf", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-25_030325", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "692*1104", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.wbrenna.gtfsoffline", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          250
+        ], 
+        [
+          706, 
+          1354
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "ff88af13049638d60442f823ac1ff7bf"
+}

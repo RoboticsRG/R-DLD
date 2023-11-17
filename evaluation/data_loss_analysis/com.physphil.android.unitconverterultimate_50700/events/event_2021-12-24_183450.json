@@ -1,0 +1,42 @@
+{
+  "stop_state": "98a0f6e8065aea88c6f0e1bebe4c098f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_183450", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Barrel (UK)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "177*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1181
+        ], 
+        [
+          184, 
+          1237
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 16, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fa3e504cfda9e72955a8ae2abd5d0ce6"
+}

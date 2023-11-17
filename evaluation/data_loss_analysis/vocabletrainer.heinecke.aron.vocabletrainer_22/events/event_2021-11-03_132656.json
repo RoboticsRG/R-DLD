@@ -1,0 +1,42 @@
+{
+  "stop_state": "4c13bb823b4950da74e7f829499f7bdc", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_132656", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+      "text": "Column A", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "535*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          297
+        ], 
+        [
+          606, 
+          395
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3bd1778126c62586b6c9ba0f53a7eb5a"
+}

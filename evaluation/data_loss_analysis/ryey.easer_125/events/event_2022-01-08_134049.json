@@ -1,0 +1,42 @@
+{
+  "stop_state": "9459d38bde9df19d42435a73dbd6a199", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_134049", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/button_more", 
+      "text": "SEE DETAILS", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "227*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          247, 
+          477
+        ], 
+        [
+          474, 
+          561
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "aba2b6a38a6afa44b77ff0abb0b15e9b"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "c0f8771d0edc6376563e276cec294f99", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_084704", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "CANCEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "137*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          515, 
+          1349
+        ], 
+        [
+          652, 
+          1444
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cdeb1e3323b14b8835df01034ddda1c0"
+}

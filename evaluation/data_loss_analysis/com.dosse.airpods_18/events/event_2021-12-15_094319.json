@@ -1,0 +1,42 @@
+{
+  "stop_state": "4d0e7fe3de38261214fd3e238856a8ef", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_094319", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.dosse.airpods:id/permsBtn", 
+      "text": "ALLOW (1/3)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "188*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dosse.airpods", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          266, 
+          1046
+        ], 
+        [
+          454, 
+          1130
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fb26552c6498f9bff02f38570af4a7a2"
+}

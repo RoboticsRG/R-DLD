@@ -1,0 +1,43 @@
+{
+  "stop_state": "7b1d5d5279e78a419367dbf77b23d67c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_182426", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 44, 
+    "view": {
+      "content_description": "Load Gerber File", 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/action_gerber", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "88*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          456, 
+          1467
+        ], 
+        [
+          544, 
+          1551
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7b1d5d5279e78a419367dbf77b23d67c"
+}

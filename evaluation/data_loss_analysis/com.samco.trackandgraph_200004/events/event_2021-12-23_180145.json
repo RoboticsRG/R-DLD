@@ -1,0 +1,43 @@
+{
+  "stop_state": "73ad8509a146da640243020eef0a2ca2", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-23_180145", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": "More options", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "71*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.samco.trackandgraph", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          649, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "73ad8509a146da640243020eef0a2ca2"
+}

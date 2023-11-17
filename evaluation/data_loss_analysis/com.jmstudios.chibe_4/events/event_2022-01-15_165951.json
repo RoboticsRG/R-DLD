@@ -1,0 +1,51 @@
+{
+  "stop_state": "cebca2234417a3fe41e62474ea752050", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-15_165951", 
+  "event": {
+    "views_str": [
+      "386e7b1faf6cde61b0c96b8bca36c1ac"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.jmstudios.chibe:id/custom_pattern_text", 
+        "text": "_ ", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "543*79", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jmstudios.chibe:id/custom_pattern_text", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": true, 
+        "view_str": "386e7b1faf6cde61b0c96b8bca36c1ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            88, 
+            699
+          ], 
+          [
+            631, 
+            778
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jmstudios.chibe:id/custom_pattern_text[text]_ [enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cebca2234417a3fe41e62474ea752050"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "2d354b8ec6d9259f4c313d18e82014a1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-17_074235", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*126", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.genonbeta.TrebleShot", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          789
+        ], 
+        [
+          720, 
+          915
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e69de2407e4dcadf31ac83d4522a7808"
+}

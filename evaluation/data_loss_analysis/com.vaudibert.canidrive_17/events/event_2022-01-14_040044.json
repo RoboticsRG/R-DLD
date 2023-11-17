@@ -1,0 +1,43 @@
+{
+  "stop_state": "fdc18de411881fe22530576f968b6f6f", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_040044", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/editTextNewPresetName", 
+      "text": "HelloWorldHelloWorldLight beerHelloWorldHelloWorldHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "650*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          231
+        ], 
+        [
+          685, 
+          326
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "fdc18de411881fe22530576f968b6f6f"
+}

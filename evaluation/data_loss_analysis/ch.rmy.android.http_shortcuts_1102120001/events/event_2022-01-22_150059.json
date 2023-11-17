@@ -1,0 +1,42 @@
+{
+  "stop_state": "300ddc7e8d7ebd5c1d41690bd5436b5c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_150059", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "PATCH", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "580*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          545
+        ], 
+        [
+          608, 
+          629
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "803bb8156b8e599428a4f4dd99fb3fc6"
+}

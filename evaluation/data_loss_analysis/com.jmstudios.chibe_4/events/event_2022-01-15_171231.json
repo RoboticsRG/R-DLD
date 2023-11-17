@@ -1,0 +1,42 @@
+{
+  "stop_state": "b7e87bca407806bc216b120130d19df4", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_171231", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jmstudios.chibe:id/vibration_switch_app_bar", 
+      "text": "OFF", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "104*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          616, 
+          54
+        ], 
+        [
+          720, 
+          152
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "27789f4ca15a0922d8ac0c1e602f25d1"
+}

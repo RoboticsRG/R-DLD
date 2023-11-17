@@ -1,0 +1,42 @@
+{
+  "stop_state": "9a9fe361050e1bccfaa7539d5741c31f", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_150304", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/md_button_positive", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*91", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          545, 
+          903
+        ], 
+        [
+          657, 
+          994
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "43a75d0c689422d9de4ed9d039dbe931"
+}

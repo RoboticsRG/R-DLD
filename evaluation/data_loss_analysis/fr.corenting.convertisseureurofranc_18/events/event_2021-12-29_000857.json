@@ -1,0 +1,42 @@
+{
+  "stop_state": "09d97c798347dda81c4e5d18d655e2c7", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_000857", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "343*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          244
+        ], 
+        [
+          720, 
+          328
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2389dc671948a4276839fc894d3dbbdc"
+}

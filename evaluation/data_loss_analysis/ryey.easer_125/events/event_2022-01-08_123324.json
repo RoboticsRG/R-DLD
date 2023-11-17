@@ -1,0 +1,42 @@
+{
+  "stop_state": "1ee2509e4285a1156990b57c7705be4d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_123324", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/switch_repeatable", 
+      "text": "Reoccurring ON", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "636*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          633
+        ], 
+        [
+          678, 
+          717
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a97aaae38a1f420b78482c31e85af1d2"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "132451b1ef4415f59306c0ff2646c613", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_002529", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          266
+        ], 
+        [
+          692, 
+          322
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a5c0e1f4a19697afc387c80fb4ae13a7"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "81dc690fdbd48867d2cfdf315ba0cb55", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_204822", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/menuItem_refreshRoms", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          1418
+        ], 
+        [
+          678, 
+          1516
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ff8e4518e9f1ab8e0060370a71592ad4"
+}

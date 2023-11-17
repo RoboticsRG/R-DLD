@@ -1,0 +1,42 @@
+{
+  "stop_state": "ae4bf3250d21b680ed0449dbd17bd48a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_202415", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "github.com\n/jovoro/geminid/", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "528*126", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          84, 
+          383
+        ], 
+        [
+          612, 
+          509
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1da36cfaed65337db9b40a3a86e78d06"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "dfc286af59e66716c5de8a16d558f52f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-24_124152", 
+  "event": {
+    "views_str": [
+      "815607da93c9c0e209381da41206df63"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.utazukin.ichaival", 
+        "long_clickable": true, 
+        "view_str": "815607da93c9c0e209381da41206df63", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            749
+          ], 
+          [
+            638, 
+            828
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4f1b7ef657b5c751ad1574ab8ee8ea91"
+}

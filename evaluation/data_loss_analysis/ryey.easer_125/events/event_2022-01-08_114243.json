@@ -1,0 +1,42 @@
+{
+  "stop_state": "cf383a4060d57e794fd93b8f6b7b8e9f", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_114243", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "READ NEXT TIME", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "256*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          186, 
+          793
+        ], 
+        [
+          442, 
+          877
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ed1b6f5a23bffde44b88f253bf48be4d"
+}

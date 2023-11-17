@@ -1,0 +1,42 @@
+{
+  "stop_state": "46b3e15faebc220362306d3951c55e9b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_113501", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1154
+        ], 
+        [
+          720, 
+          1266
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d794419c728a1a6d7d59cd87ae0c61ee"
+}

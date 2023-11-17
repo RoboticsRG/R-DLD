@@ -1,0 +1,42 @@
+{
+  "stop_state": "6b481ef52e3ec8c16641d4d9e45b5a45", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-24_153629", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          840
+        ], 
+        [
+          652, 
+          935
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c43fc7773f7c1e93d56ea7b5d4469d4d"
+}

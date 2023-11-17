@@ -1,0 +1,42 @@
+{
+  "stop_state": "e17f7983e368695d4b6913f7613b9595", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_180835", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/button_scripting", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*110", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          573
+        ], 
+        [
+          720, 
+          683
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5e0615a7897129a902987d40f00952ad"
+}

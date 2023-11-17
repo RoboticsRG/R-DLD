@@ -1,0 +1,42 @@
+{
+  "stop_state": "d92c8f133d0023e4f332f4279e2a947f", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_022050", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+      "text": "ON", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          188
+        ], 
+        [
+          692, 
+          272
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d92c8f133d0023e4f332f4279e2a947f"
+}

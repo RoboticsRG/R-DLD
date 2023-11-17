@@ -1,0 +1,42 @@
+{
+  "stop_state": "8c69b8593235d0add927cc2d7963c934", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_024426", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "Ok", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          840
+        ], 
+        [
+          652, 
+          935
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c3080498bfd6d5897271d33cbc4300f0"
+}

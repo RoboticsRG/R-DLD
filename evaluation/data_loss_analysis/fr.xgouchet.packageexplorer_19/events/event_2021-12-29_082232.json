@@ -1,0 +1,42 @@
+{
+  "stop_state": "725196afe57c2f5be69d8c1ff42a7723", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_082232", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Launch", 
+      "resource_id": "fr.xgouchet.packageexplorer:id/action_app_launch", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          481, 
+          61
+        ], 
+        [
+          565, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c413cdd96729a3e495977cbda8ba8330"
+}

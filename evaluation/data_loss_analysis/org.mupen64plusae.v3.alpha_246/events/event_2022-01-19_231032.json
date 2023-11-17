@@ -1,0 +1,42 @@
+{
+  "stop_state": "da2bd0a2a8489f4077a31ef8761f2fab", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_231032", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Uusi", 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/menuItem_new", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          551, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ddd14a2adcaddb9a2b1ca8edf5a0a28d"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "25638bb3a1bb63b3816e0c7f4027e590", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_221312", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox2", 
+      "text": "Pobierz ok\u0142adk\u0119", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          515
+        ], 
+        [
+          692, 
+          571
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b8db6f17f703619b2cf64f282074a650"
+}

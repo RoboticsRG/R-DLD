@@ -1,0 +1,43 @@
+{
+  "stop_state": "e3630eb638a03977ba933cd8c66b77e7", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-14_013231", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 24, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "8 cL", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          124, 
+          547
+        ], 
+        [
+          236, 
+          631
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d0657f2502e4cdb8cca5b8ed91feb099"
+}

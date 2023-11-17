@@ -1,0 +1,42 @@
+{
+  "stop_state": "7e330aa2004f5169b8d4384597d5535a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_174138", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "American Dollar", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "232*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          341
+        ], 
+        [
+          239, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 46, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dacca5d2368ef809e55be73cb971af40"
+}

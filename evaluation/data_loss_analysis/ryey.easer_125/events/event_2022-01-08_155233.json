@@ -1,0 +1,10 @@
+{
+  "stop_state": "81a9757eadb31ac4c3d21ba60735cfc5", 
+  "event_str": "IntentEvent(intent='am start ryey.easer/ryey.easer.core.ui.MainActivity')", 
+  "tag": "2022-01-08_155233", 
+  "event": {
+    "intent": "am start ryey.easer/ryey.easer.core.ui.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f1da8436dee6a4cfead65b70954022d2"
+}

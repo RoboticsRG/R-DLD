@@ -1,0 +1,10 @@
+{
+  "stop_state": "45df2307fae81da2e476aecb3237d091", 
+  "event_str": "IntentEvent(intent='am start com.headi.app/com.headi.app.MainActivity')", 
+  "tag": "2021-12-22_035543", 
+  "event": {
+    "intent": "am start com.headi.app/com.headi.app.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "53c0420b684fa4433ed1fe3d6fe3e453"
+}

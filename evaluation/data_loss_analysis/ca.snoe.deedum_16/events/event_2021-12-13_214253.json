@@ -1,0 +1,42 @@
+{
+  "stop_state": "69c96a7d1efa8718e26d07d6825a0d0a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_214253", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "https://github.com/jgkaplan/gemini-server", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a37bc10eec642c2d75726143d877d3ed"
+}

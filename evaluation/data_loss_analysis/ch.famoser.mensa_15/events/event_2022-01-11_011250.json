@@ -1,0 +1,42 @@
+{
+  "stop_state": "f983fd30455b60645b57e073615237d2", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_011250", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.famoser.mensa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          133
+        ], 
+        [
+          692, 
+          189
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cc9430dd85e07adb146f448cb18ba896"
+}

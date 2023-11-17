@@ -1,0 +1,42 @@
+{
+  "stop_state": "9deb257c42636204953ea9c8ac8108b3", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_065220", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Sort by\u2026", 
+      "resource_id": "fr.xgouchet.packageexplorer:id/sort", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7f5f0741056aa55aa5ae4adb000aab9c"
+}

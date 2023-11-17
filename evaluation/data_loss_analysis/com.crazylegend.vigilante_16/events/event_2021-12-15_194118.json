@@ -1,0 +1,89 @@
+{
+  "stop_state": "48f6d724f64b9952189d80850a6fe3f2", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-15_194118", 
+  "event": {
+    "views_str": [
+      "129ca062c77e6dbb8c6e71f83f2a0738", 
+      "f09c352e589f4749392a6033db5b1cf0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/shuffleCharactersCheckBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "70*70", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.crazylegend.vigilante:id/shuffleCharactersCheckBox", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": false, 
+        "view_str": "129ca062c77e6dbb8c6e71f83f2a0738", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            1146
+          ], 
+          [
+            98, 
+            1216
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.crazylegend.vigilante:id/shuffleCharactersCheckBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/inputPasswordLength", 
+        "text": "Password length", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "650*107", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.crazylegend.vigilante:id/inputPasswordLength", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": true, 
+        "view_str": "f09c352e589f4749392a6033db5b1cf0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            35, 
+            1225
+          ], 
+          [
+            685, 
+            1332
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.crazylegend.vigilante:id/inputPasswordLength[text]Password length[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "facffd95e1b24affa6bd92d6848ba3a3"
+}

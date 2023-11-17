@@ -1,0 +1,42 @@
+{
+  "stop_state": "c16e683deee16f47c202d311f532b8a0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_204032", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "https://proxy.vulpes.one/gemini/gemini.circumlunar.space", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f1d4059432cbd45bf820d46b1de84baf"
+}

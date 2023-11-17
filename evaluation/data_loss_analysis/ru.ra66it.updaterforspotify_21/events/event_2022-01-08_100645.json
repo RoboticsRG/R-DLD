@@ -1,0 +1,42 @@
+{
+  "stop_state": "fa0b2f3fea8b8111fb5ace5fd2488c1b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_100645", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*128", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ru.ra66it.updaterforspotify", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          617
+        ], 
+        [
+          720, 
+          745
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "69d9a938c339e71b6420e29486be5efb"
+}

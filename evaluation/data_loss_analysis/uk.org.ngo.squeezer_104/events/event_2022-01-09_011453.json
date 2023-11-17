@@ -1,0 +1,51 @@
+{
+  "stop_state": "336f04e3684053816d26fb90626612e6", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_011453", 
+  "event": {
+    "views_str": [
+      "f0031585be06d5f26c0393dd5aee47a4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/plugin_input", 
+        "text": "test12HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*98", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/plugin_input", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": true, 
+        "view_str": "f0031585be06d5f26c0393dd5aee47a4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            398
+          ], 
+          [
+            636, 
+            496
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/plugin_input[text]test12HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a4e46105e366492aec197667f83af756"
+}

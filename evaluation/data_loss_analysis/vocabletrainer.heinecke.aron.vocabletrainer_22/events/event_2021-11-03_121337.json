@@ -1,0 +1,43 @@
+{
+  "stop_state": "3a8ad521375e432e3feb4d2951532ef8", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-03_121337", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tListColumnB", 
+      "text": "Column B", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "577*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          863
+        ], 
+        [
+          648, 
+          961
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d683251a6d4c98fc62a92d6164d9fa64"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "9ad5c92637f01c19728c360d13de57db", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-24_204048", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 49, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+      "text": "0", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "346*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          200
+        ], 
+        [
+          713, 
+          279
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "9ad5c92637f01c19728c360d13de57db"
+}

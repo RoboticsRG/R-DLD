@@ -1,0 +1,42 @@
+{
+  "stop_state": "7cb19c6912daf36eddb8d2169422e638", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_232914", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.cvzi.screenshottile:id/closeButtonEmojiInput", 
+      "text": "\u274cHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          796
+        ], 
+        [
+          673, 
+          875
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7cb19c6912daf36eddb8d2169422e638"
+}

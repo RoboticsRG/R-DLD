@@ -1,0 +1,51 @@
+{
+  "stop_state": "b85f12db6f467d6a8c600db3a080b824", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_010421", 
+  "event": {
+    "views_str": [
+      "959044ee11f74275571f5b11b623d381"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Verifiquei manualmente toda a impress\u00e3o digital.", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "608*91", 
+        "checked": true, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": false, 
+        "view_str": "959044ee11f74275571f5b11b623d381", 
+        "enabled": true, 
+        "bounds": [
+          [
+            56, 
+            1039
+          ], 
+          [
+            664, 
+            1130
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]Verifiquei manualmente toda a impress\u00e3o digital.[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "c14b4a218f8f8d55740d3f9428da58b4"
+}

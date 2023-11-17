@@ -1,0 +1,43 @@
+{
+  "stop_state": "584e85afe3a7abb49f81cefeaffea99f", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_180134", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 29, 
+    "view": {
+      "content_description": "Agate, a Gemini server written in Rust", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "478*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          976
+        ], 
+        [
+          513, 
+          1039
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "944320849e9517109ebd04236d59fa82"
+}

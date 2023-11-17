@@ -1,0 +1,43 @@
+{
+  "stop_state": "508676b4375ef0ed5d5f792528031050", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-22_040659", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.headi.app:id/filter_to_date", 
+      "text": "To date", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "274*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          371, 
+          738
+        ], 
+        [
+          645, 
+          817
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "851abd18434868089a18c91522ca5554"
+}

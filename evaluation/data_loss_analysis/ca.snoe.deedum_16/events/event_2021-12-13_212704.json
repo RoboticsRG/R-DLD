@@ -1,0 +1,42 @@
+{
+  "stop_state": "fe0ea4b0fd1e0d7a432eb5a480dee29a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_212704", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Agate, a Gemini server written in Rust", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "478*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          976
+        ], 
+        [
+          513, 
+          1039
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4e5c5fe05ccecb1a39c122ad5118d56b"
+}

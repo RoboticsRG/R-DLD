@@ -1,0 +1,89 @@
+{
+  "stop_state": "74ace073b8dbcb751170cd087ea6e02c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_055343", 
+  "event": {
+    "views_str": [
+      "8b02abeac16f570e3fa3e6387afa33a6", 
+      "d7cf103b6e286485c56db6c8f46ecabf"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.unifiedpush.distributor.noprovider2push:id/settings_address_value", 
+        "text": "[::1]", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.unifiedpush.distributor.noprovider2push:id/settings_address_value", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.unifiedpush.distributor.noprovider2push", 
+        "long_clickable": true, 
+        "view_str": "8b02abeac16f570e3fa3e6387afa33a6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            319
+          ], 
+          [
+            692, 
+            403
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.unifiedpush.distributor.noprovider2push:id/settings_address_value[text][::1][enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.unifiedpush.distributor.noprovider2push:id/settings_proxy_value", 
+        "text": "https://proxy.example.tld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.unifiedpush.distributor.noprovider2push:id/settings_proxy_value", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.unifiedpush.distributor.noprovider2push", 
+        "long_clickable": true, 
+        "view_str": "d7cf103b6e286485c56db6c8f46ecabf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            570
+          ], 
+          [
+            692, 
+            654
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.unifiedpush.distributor.noprovider2push:id/settings_proxy_value[text]https://proxy.example.tld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ac0497dd9289136beed2433accba584f"
+}

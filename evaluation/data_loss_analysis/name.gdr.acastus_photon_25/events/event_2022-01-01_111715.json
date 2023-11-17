@@ -1,0 +1,42 @@
+{
+  "stop_state": "c42b51ea61f2e75151c0879f13702adf", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_111715", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "343*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          313
+        ], 
+        [
+          713, 
+          397
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2e227cf3ac19b80799f6080d45757d3d"
+}

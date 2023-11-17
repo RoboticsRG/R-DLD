@@ -1,0 +1,51 @@
+{
+  "stop_state": "10b1875bba8136aca6472d3535c29d80", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-18_141443", 
+  "event": {
+    "views_str": [
+      "996e96cfcdcad17e12cb853c10a4244d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.activitymanager:id/search_src_text", 
+        "text": "Application name or package", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "532*63", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.activitymanager", 
+        "long_clickable": true, 
+        "view_str": "996e96cfcdcad17e12cb853c10a4244d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            112, 
+            71
+          ], 
+          [
+            644, 
+            134
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/search_src_text[text]Application name or package[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "30455640ea0f7f7e36c779e6c1d5cc2d"
+}

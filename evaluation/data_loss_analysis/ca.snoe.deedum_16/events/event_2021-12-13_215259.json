@@ -1,0 +1,43 @@
+{
+  "stop_state": "3c5e5cabe42acca6d9bb65e7db83e9b1", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_215259", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nThis document describes a convention whereby Gemini clients can \"subscribe\" to a regularly updated Gemini page (such as the index page of a gemlog) even in the absence of a full-fledged syndication technology like Atom or RSS.  It is intended as a lightweight alternative to such technologies to lower the barriers to publishing serial content in Geminispace which can be easily followed without tedious regular manual checking of bookmarks.  In particular, it is an explicit goal that a simple, manually-updated, human readable index page of the type content authors would likely create anyway should be able to subscribed to without any special changes being necessary.  Obviously, such a convention will be less powerful than more complicated technologies such as Atom and will not work as well as more complicated technologies in all conceivable use cases.  Nevertheless, it is expected to function adequately for a wide range of reasonable use cases.  Nothing in this convention prevents content authors from simultaneously publishing an Atom feed if they wish to.  In fact, this convention can ease the generation of said feeds.\n\nThe remainder of this document describes how to interpret a single text/gemini document as if it were an Atom feed with all required elements present.  The convention is described this way to ensure it is possible for clients to support both this lightweight subscription convention and subscribing to Atom feeds with a simplified codebase and consistent UI, and to demonstrate how simple automatic generation of Atom feeds is possible.  Simpler clients which support only this subscription convention are free to ignore Atom elements as they see fit.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*1184", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          374
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "3c5e5cabe42acca6d9bb65e7db83e9b1"
+}

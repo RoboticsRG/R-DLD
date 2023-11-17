@@ -1,0 +1,42 @@
+{
+  "stop_state": "4d9c341cc59272634a4af519f42abfc7", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_143055", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkTrimSpaces", 
+      "text": "Ignore surrounding spaces", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "692*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          791
+        ], 
+        [
+          706, 
+          875
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6c418240fa2083233b3ea1e9d36782e0"
+}

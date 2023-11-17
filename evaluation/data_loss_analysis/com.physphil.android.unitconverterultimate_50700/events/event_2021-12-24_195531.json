@@ -1,0 +1,42 @@
+{
+  "stop_state": "942e00f3623dca2a05681507ac0572d4", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_195531", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Pound", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "128*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          411
+        ], 
+        [
+          495, 
+          467
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5b013865ed0f68f1b62c822e301c00ec"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "deee8e772bef37ccba5fe5b7c8718382", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_035845", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/design_menu_item_text", 
+      "text": "Settings", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          660
+        ], 
+        [
+          462, 
+          744
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a0fb0ad8b06b99d95566d6369b85f59f"
+}

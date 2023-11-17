@@ -1,0 +1,43 @@
+{
+  "stop_state": "cc6dbf0aef25a65ce5a81cb41e414efd", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-12_031541", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          749
+        ], 
+        [
+          673, 
+          828
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "c3080498bfd6d5897271d33cbc4300f0"
+}

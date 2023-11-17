@@ -1,0 +1,42 @@
+{
+  "stop_state": "c67f2804be684bf088f8e50ebf332deb", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_163045", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.activitymanager:id/issues_tracker", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*119", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          446
+        ], 
+        [
+          706, 
+          565
+        ]
+      ], 
+      "class": "androidx.cardview.widget.CardView", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "24f3480e958778944ce568160483790a"
+}

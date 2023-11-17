@@ -1,0 +1,51 @@
+{
+  "stop_state": "2ba2e5d85f277ff2d33bea362d2f7359", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-30_034816", 
+  "event": {
+    "views_str": [
+      "28f8f59c13412ff75246eca371218f5c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "10000", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "grmpl.mk.stepandheightcounter", 
+        "long_clickable": true, 
+        "view_str": "28f8f59c13412ff75246eca371218f5c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            749
+          ], 
+          [
+            638, 
+            828
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]10000[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cef6c80359e46e6e1aa06b0d0558c90d"
+}

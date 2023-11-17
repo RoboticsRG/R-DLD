@@ -1,0 +1,42 @@
+{
+  "stop_state": "c9cb7e43f7743b807189d9a812c37034", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_014828", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Playlists", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "180*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          152
+        ], 
+        [
+          720, 
+          236
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a9c4aa6d13c56fd66cc79f152ac6f73b"
+}

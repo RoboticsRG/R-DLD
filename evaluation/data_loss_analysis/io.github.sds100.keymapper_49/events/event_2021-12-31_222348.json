@@ -1,0 +1,42 @@
+{
+  "stop_state": "da8fc801b7d53bfdb20487b40b15072f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-31_222348", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "NEXT", 
+      "resource_id": "io.github.sds100.keymapper:id/next", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*154", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.sds100.keymapper", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          564, 
+          1402
+        ], 
+        [
+          718, 
+          1556
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "54fbef32fc8db94b5c2dd93c54531b43"
+}

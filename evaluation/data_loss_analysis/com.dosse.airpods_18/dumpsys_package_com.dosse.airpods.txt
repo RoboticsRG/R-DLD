@@ -1,0 +1,138 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7725f7d com.dosse.airpods/.ui.MainActivity filter c78ee72
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        65072c3 com.dosse.airpods/.receivers.StartupReceiver filter 90a7740
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        65072c3 com.dosse.airpods/.receivers.StartupReceiver filter 90a7740
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+
+Key Set Manager:
+  [com.dosse.airpods]
+      Signing KeySets: 289
+
+Packages:
+  Package [com.dosse.airpods] (a5291a7):
+    userId=10441
+    pkg=Package{495add6 com.dosse.airpods}
+    codePath=/data/app/~~LB-7FgFKW3fHLyr1zRzrWg==/com.dosse.airpods-jiPjc2bPIYYe8J77Ch6cQw==
+    resourcePath=/data/app/~~LB-7FgFKW3fHLyr1zRzrWg==/com.dosse.airpods-jiPjc2bPIYYe8J77Ch6cQw==
+    legacyNativeLibraryDir=/data/app/~~LB-7FgFKW3fHLyr1zRzrWg==/com.dosse.airpods-jiPjc2bPIYYe8J77Ch6cQw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=18 minSdk=23 targetSdk=31
+    versionName=1.7
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{495add6 com.dosse.airpods}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.dosse.airpods
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-15 09:42:20
+    firstInstallTime=2021-12-15 09:42:20
+    lastUpdateTime=2021-12-15 09:42:20
+    signatures=PackageSignatures{8366857 version:3, signatures:[e90d7784], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_BACKGROUND_LOCATION: restricted=true
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.BLUETOOTH_CONNECT
+      android.permission.BLUETOOTH_SCAN
+      android.permission.FOREGROUND_SERVICE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+    User 0: ceDataInode=54881 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3002, 3001]
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_COARSE_LOCATION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_BACKGROUND_LOCATION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.dosse.airpods
+    com.motorola.actions:
+      com.dosse.airpods
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=168
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=140, package=com.google.android.tts
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=163, package=com.google.android.apps.docs
+    seq=165, package=com.codedead.deadhash
+    seq=166, package=io.github.ylimit.droidbotapp
+    seq=167, package=com.dosse.airpods
+
+
+Dexopt state:
+  [com.dosse.airpods]
+    path: /data/app/~~LB-7FgFKW3fHLyr1zRzrWg==/com.dosse.airpods-jiPjc2bPIYYe8J77Ch6cQw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.dosse.airpods]
+     base.apk - 371
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,42 @@
+{
+  "stop_state": "01064409e9a9e71d73fd39737dd4bcc2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_034656", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "grmpl.mk.stepandheightcounter:id/editTextHeightcal", 
+      "text": "height [m]", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "175*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "grmpl.mk.stepandheightcounter", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          689
+        ], 
+        [
+          221, 
+          754
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "01064409e9a9e71d73fd39737dd4bcc2"
+}

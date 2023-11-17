@@ -1,0 +1,43 @@
+{
+  "stop_state": "d168ed8713fe6faa61449a2be0914e5c", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-04_162413", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 24, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+      "text": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          330
+        ], 
+        [
+          706, 
+          409
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d168ed8713fe6faa61449a2be0914e5c"
+}

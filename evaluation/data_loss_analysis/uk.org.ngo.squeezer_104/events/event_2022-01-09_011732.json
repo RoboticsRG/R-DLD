@@ -1,0 +1,279 @@
+{
+  "stop_state": "eee8fdd1360b2629c5ac3865ad42978c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_011732", 
+  "event": {
+    "views_str": [
+      "4efc06fd1a0de1b348282bc2fb4593b6", 
+      "de4b3b300ea0ba374b451bd5ca56bd1e", 
+      "4efc06fd1a0de1b348282bc2fb4593b6", 
+      "de4b3b300ea0ba374b451bd5ca56bd1e", 
+      "de4b3b300ea0ba374b451bd5ca56bd1e", 
+      "4efc06fd1a0de1b348282bc2fb4593b6", 
+      "de4b3b300ea0ba374b451bd5ca56bd1e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 4, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "4efc06fd1a0de1b348282bc2fb4593b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            145
+          ], 
+          [
+            692, 
+            229
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "de4b3b300ea0ba374b451bd5ca56bd1e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            229
+          ], 
+          [
+            692, 
+            313
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "4efc06fd1a0de1b348282bc2fb4593b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            329
+          ], 
+          [
+            692, 
+            413
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "de4b3b300ea0ba374b451bd5ca56bd1e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            413
+          ], 
+          [
+            692, 
+            497
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "de4b3b300ea0ba374b451bd5ca56bd1e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            513
+          ], 
+          [
+            692, 
+            597
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "4efc06fd1a0de1b348282bc2fb4593b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            597
+          ], 
+          [
+            692, 
+            681
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "de4b3b300ea0ba374b451bd5ca56bd1e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            681
+          ], 
+          [
+            692, 
+            765
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/radio[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "458870756ba5c721391d31067dde8033"
+}

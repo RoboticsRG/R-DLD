@@ -1,0 +1,42 @@
+{
+  "stop_state": "dda7044e9993625ae6d9a6282d4f7a34", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212302", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Light Year", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "167*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1181
+        ], 
+        [
+          534, 
+          1237
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 29, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9a584f9f9fa7ccd7eef7a7230fd5d41e"
+}

@@ -1,0 +1,172 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        9ad4216 org.secuso.privacyfriendlyfoodtracker/.ui.SplashActivity filter bec0797
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  org.secuso.privacyfriendlyfoodtracker/android.arch.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{16ab0a1 org.secuso.privacyfriendlyfoodtracker/android.arch.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [org.secuso.privacyfriendlyfoodtracker.lifecycle-trojan]:
+    Provider{16ab0a1 org.secuso.privacyfriendlyfoodtracker/android.arch.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{9c472c6 org.secuso.privacyfriendlyfoodtracker}
+
+Key Set Manager:
+  [org.secuso.privacyfriendlyfoodtracker]
+      Signing KeySets: 694
+
+Packages:
+  Package [org.secuso.privacyfriendlyfoodtracker] (ec16287):
+    userId=10776
+    pkg=Package{fc645b4 org.secuso.privacyfriendlyfoodtracker}
+    codePath=/data/app/~~lI7FDz2aKLSpFiKBr_V40A==/org.secuso.privacyfriendlyfoodtracker-X1DR_93cxRbV9nw0mAE4jA==
+    resourcePath=/data/app/~~lI7FDz2aKLSpFiKBr_V40A==/org.secuso.privacyfriendlyfoodtracker-X1DR_93cxRbV9nw0mAE4jA==
+    legacyNativeLibraryDir=/data/app/~~lI7FDz2aKLSpFiKBr_V40A==/org.secuso.privacyfriendlyfoodtracker-X1DR_93cxRbV9nw0mAE4jA==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=4 minSdk=21 targetSdk=27
+    versionName=1.1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{fc645b4 org.secuso.privacyfriendlyfoodtracker}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/org.secuso.privacyfriendlyfoodtracker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-19 15:04:43
+    firstInstallTime=2022-01-19 15:04:44
+    lastUpdateTime=2022-01-19 15:04:44
+    signatures=PackageSignatures{de0b5dd version:1, signatures:[53bb9157], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=76458 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      org.secuso.privacyfriendlyfoodtracker
+    com.motorola.actions:
+      org.secuso.privacyfriendlyfoodtracker
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=565
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=151, package=com.gimranov.zandy.app
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=205, package=com.github.gschwind.fiddle_assistant
+    seq=215, package=com.otago.open
+    seq=223, package=com.rohit2810.spotit
+    seq=234, package=com.saiga.find.messagefinder
+    seq=240, package=com.utyf.pmetro
+    seq=246, package=com.polar.nextcloudservices
+    seq=254, package=com.vaudibert.canidrive
+    seq=264, package=de.mw136.tonuino
+    seq=272, package=de.sirjofri.fingerlist
+    seq=280, package=com.vadimfrolov.duorem
+    seq=290, package=com.android.vending
+    seq=291, package=com.google.android.ims
+    seq=292, package=com.google.android.googlequicksearchbox
+    seq=297, package=com.google.android.youtube
+    seq=299, package=de.rampro.activitydiary
+    seq=320, package=email.schaal.ocreader
+    seq=326, package=de.tap.easy_xkcd
+    seq=337, package=com.google.android.trichromelibrary_469208733
+    seq=338, package=com.google.android.webview
+    seq=340, package=com.google.android.gm
+    seq=341, package=com.google.android.apps.subscriptions.red
+    seq=342, package=com.google.android.dialer
+    seq=343, package=com.google.android.apps.tachyon
+    seq=344, package=com.google.android.apps.youtube.music
+    seq=345, package=com.google.android.apps.photos
+    seq=346, package=com.google.android.apps.maps
+    seq=348, package=felixwiemuth.simplereminder
+    seq=354, package=com.jmstudios.chibe
+    seq=361, package=com.android.chrome
+    seq=373, package=com.noahjutz.splitfit.fdroid
+    seq=379, package=fr.unix_experience.owncloud_sms
+    seq=389, package=io.mainframe.hacs
+    seq=396, package=it.niedermann.nextcloud.deck
+    seq=426, package=gal.sli.singal
+    seq=432, package=com.google.android.contacts
+    seq=438, package=de.ph1b.audiobook
+    seq=448, package=eu.depau.etchdroid
+    seq=456, package=net.justdave.nwsweatheralertswidget
+    seq=464, package=org.andresoviedo.dddmodel2
+    seq=470, package=net.czlee.debatekeeper
+    seq=478, package=namlit.siteswapgenerator
+    seq=492, package=in.ac.dducollegedu.shell
+    seq=502, package=open.com.permissionsmanager
+    seq=508, package=org.freenetproject.mobile
+    seq=516, package=org.paladyn.mediclog
+    seq=522, package=net.dcnnt
+    seq=530, package=com.motorola.livewallpaper3
+    seq=532, package=net.programmierecke.radiodroid2
+    seq=542, package=org.secuso.privacyfriendlycardgameone
+    seq=548, package=com.google.android.tts
+    seq=552, package=org.softcatala.traductor
+    seq=560, package=org.elijaxapps.androidxmrigminer
+    seq=562, package=com.google.android.apps.docs
+    seq=563, package=io.github.ylimit.droidbotapp
+    seq=564, package=org.secuso.privacyfriendlyfoodtracker
+
+
+Dexopt state:
+  [org.secuso.privacyfriendlyfoodtracker]
+    path: /data/app/~~lI7FDz2aKLSpFiKBr_V40A==/org.secuso.privacyfriendlyfoodtracker-X1DR_93cxRbV9nw0mAE4jA==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [org.secuso.privacyfriendlyfoodtracker]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

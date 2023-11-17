@@ -1,0 +1,43 @@
+{
+  "stop_state": "c43fc7773f7c1e93d56ea7b5d4469d4d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-24_140738", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "557*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          81, 
+          749
+        ], 
+        [
+          638, 
+          828
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "c43fc7773f7c1e93d56ea7b5d4469d4d"
+}

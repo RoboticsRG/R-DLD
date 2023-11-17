@@ -1,0 +1,42 @@
+{
+  "stop_state": "f096f64024c0dd21c1645391c50f1e9a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_010108", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/switch_widget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          611
+        ], 
+        [
+          692, 
+          658
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5d193dd639ff26c4dddc23adceb2376c"
+}

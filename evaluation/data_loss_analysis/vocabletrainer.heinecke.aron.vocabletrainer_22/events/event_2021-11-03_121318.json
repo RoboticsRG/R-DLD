@@ -1,0 +1,10 @@
+{
+  "stop_state": "a0441d81c276982b465843bdd4c30b20", 
+  "event_str": "IntentEvent(intent='am start vocabletrainer.heinecke.aron.vocabletrainer/vocabletrainer.heinecke.aron.vocabletrainer.activity.MainActivity')", 
+  "tag": "2021-11-03_121318", 
+  "event": {
+    "intent": "am start vocabletrainer.heinecke.aron.vocabletrainer/vocabletrainer.heinecke.aron.vocabletrainer.activity.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "55e4f0c14440ba8bf57497c918602405"
+}

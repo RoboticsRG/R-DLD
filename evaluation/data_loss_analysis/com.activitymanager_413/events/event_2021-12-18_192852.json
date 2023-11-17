@@ -1,0 +1,42 @@
+{
+  "stop_state": "439681ff4c24b364499a5c5423805403", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_192852", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "https://github.com/codemybrainsout/smart-app-rate", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "563*68", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          112, 
+          896
+        ], 
+        [
+          675, 
+          964
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "629c195d1d54e53f850d9eb44e2d2306"
+}

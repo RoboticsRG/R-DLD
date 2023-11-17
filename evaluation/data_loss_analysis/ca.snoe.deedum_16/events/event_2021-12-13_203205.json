@@ -1,0 +1,42 @@
+{
+  "stop_state": "20f142ae82b457c5b7cef78126c69022", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_203205", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "github.com\n/jfmcbrayer/germinal", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "528*55", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          84, 
+          1503
+        ], 
+        [
+          612, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1da36cfaed65337db9b40a3a86e78d06"
+}

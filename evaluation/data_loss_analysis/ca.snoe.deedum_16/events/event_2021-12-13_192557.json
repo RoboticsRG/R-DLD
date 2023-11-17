@@ -1,0 +1,43 @@
+{
+  "stop_state": "dee7fd63ffb96d240b87137b7ef35c86", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_192557", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 34, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Resources for beginners", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "529*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          780
+        ], 
+        [
+          564, 
+          845
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "0cb71c09856901af1334b08afc85a629"
+}

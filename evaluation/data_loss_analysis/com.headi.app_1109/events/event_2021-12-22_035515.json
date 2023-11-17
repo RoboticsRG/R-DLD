@@ -1,0 +1,42 @@
+{
+  "stop_state": "45df2307fae81da2e476aecb3237d091", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_035515", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "ADD", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          871
+        ], 
+        [
+          652, 
+          955
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0c941085b8ae90bcdeef829c71b1fba4"
+}

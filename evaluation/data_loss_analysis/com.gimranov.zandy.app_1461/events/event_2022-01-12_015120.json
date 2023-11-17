@@ -1,0 +1,42 @@
+{
+  "stop_state": "1ca40937917ad6f76c720355dc66e99a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_015120", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gimranov.zandy.app:id/requestQueue", 
+      "text": "Pending Requests", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "243*64", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1430
+        ], 
+        [
+          243, 
+          1494
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a5c0e1f4a19697afc387c80fb4ae13a7"
+}

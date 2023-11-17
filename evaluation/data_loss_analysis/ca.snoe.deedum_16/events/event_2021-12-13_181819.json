@@ -1,0 +1,42 @@
+{
+  "stop_state": "cb4068aead129901249934508a440c97", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_181819", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nI enjoy photography since a few years back. I started out with a digital Nikon D3000 that I bought new, mainly to photograph abandoned buildings with a few friends. After that, the hobby stuck, and I got a used D90.\n\nIn 2014 I bought a Nikon FM, which was my introduction to the wonderful world of film photography. Since then, I've mostly been shooting film.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*504", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          626
+        ], 
+        [
+          690, 
+          1130
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cb4068aead129901249934508a440c97"
+}

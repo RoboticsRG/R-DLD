@@ -1,0 +1,42 @@
+{
+  "stop_state": "654462b7439a4773c5cbec53389bd40d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_184041", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Quart (US)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "173*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          831
+        ], 
+        [
+          540, 
+          887
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 29, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fe9d6442f6d0a3275c33b78313ba4ed6"
+}

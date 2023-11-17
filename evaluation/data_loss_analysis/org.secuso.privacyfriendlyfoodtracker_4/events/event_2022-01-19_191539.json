@@ -1,0 +1,44 @@
+{
+  "stop_state": "34ec5094f8464be1493236e7effda6af", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-19_191539", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 34, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/day_picker_view_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "664*1350", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyfoodtracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          180
+        ], 
+        [
+          692, 
+          1530
+        ]
+      ], 
+      "class": "com.android.internal.widget.ViewPager", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "34ec5094f8464be1493236e7effda6af"
+}

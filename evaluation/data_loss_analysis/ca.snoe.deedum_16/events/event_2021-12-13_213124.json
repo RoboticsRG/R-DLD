@@ -1,0 +1,42 @@
+{
+  "stop_state": "ee832ec332f6e177fc9333e4c6624936", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_213124", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Gemserve, a Gemini server written in Rust", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "532*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1393
+        ], 
+        [
+          567, 
+          1456
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ddbab7d066feaa499f580d0f0f7ad0e5"
+}

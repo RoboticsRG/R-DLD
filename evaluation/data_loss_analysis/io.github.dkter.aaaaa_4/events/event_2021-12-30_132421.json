@@ -1,0 +1,42 @@
+{
+  "stop_state": "01e5af53d814e032d28f56e1d12a1d5b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_132421", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*128", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1014
+        ], 
+        [
+          720, 
+          1142
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "68e5eb336afa7d37fe8e8a4137afe82a"
+}

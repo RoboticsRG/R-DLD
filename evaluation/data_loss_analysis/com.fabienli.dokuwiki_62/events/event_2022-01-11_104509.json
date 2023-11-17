@@ -1,0 +1,42 @@
+{
+  "stop_state": "0411e19022f48ec84656f91e1f91c1fb", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_104509", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fabienli.dokuwiki:id/design_menu_item_text", 
+      "text": "Search", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          406
+        ], 
+        [
+          462, 
+          490
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7798ec062fd190b80f18519976029943"
+}

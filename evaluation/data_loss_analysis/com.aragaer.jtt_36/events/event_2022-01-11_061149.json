@@ -1,0 +1,42 @@
+{
+  "stop_state": "20b7ff5d70b3d3e7f312968497c379f9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_061149", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.aragaer.jtt", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          279
+        ], 
+        [
+          692, 
+          391
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f957ddbc93729af03b2eb77cf4ea04e0"
+}

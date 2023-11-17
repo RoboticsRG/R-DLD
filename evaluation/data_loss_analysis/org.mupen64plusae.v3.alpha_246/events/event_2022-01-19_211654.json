@@ -1,0 +1,42 @@
+{
+  "stop_state": "bcfa3c1c6d15629e5e7a64377ea653ce", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_211654", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "ODUSTANI", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "162*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          364, 
+          858
+        ], 
+        [
+          526, 
+          953
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c24a4abd3c4e23285723d472b2def77c"
+}

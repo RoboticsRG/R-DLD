@@ -1,0 +1,43 @@
+{
+  "stop_state": "331f4bb81c7372183d73ab54a63adc39", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-28_224755", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": "More options", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "71*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          649, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "180703bad1bada3d636ee9994e5b55e9"
+}

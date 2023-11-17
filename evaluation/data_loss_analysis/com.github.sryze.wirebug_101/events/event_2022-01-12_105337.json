@@ -1,0 +1,42 @@
+{
+  "stop_state": "31fbbff39da7c80fad0bb6123316b40c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_105337", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*157", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.sryze.wirebug", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          309
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8c29fe9640a78ee864ad1e65d5a31c7c"
+}

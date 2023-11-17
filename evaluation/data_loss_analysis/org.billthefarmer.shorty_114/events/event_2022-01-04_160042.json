@@ -1,0 +1,127 @@
+{
+  "stop_state": "f8175f7dc36775ddc32b679c6b8b9dc3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_160042", 
+  "event": {
+    "views_str": [
+      "5032537880a47b283abb55ce77b3a99c", 
+      "9e6bd20fa5fdb603e13ed9cbf678d4e3", 
+      "f2c12d8cfd2e0b0f4703dc06524f16c2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "Search stations", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "495*63", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "5032537880a47b283abb55ce77b3a99c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            140, 
+            71
+          ], 
+          [
+            635, 
+            134
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search stations[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_name", 
+        "text": "BBC Radio 2test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "9e6bd20fa5fdb603e13ed9cbf678d4e3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            251
+          ], 
+          [
+            706, 
+            330
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name[text]BBC Radio 2test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+        "text": "http://www.listenlive.eutest123/bbcradio2.m3u", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "f2c12d8cfd2e0b0f4703dc06524f16c2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            330
+          ], 
+          [
+            706, 
+            409
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url[text]http://www.listenlive.eutest123/bbcradio2.m3u[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1a8a9b9a3f01dc5657b0583ef8240d4f"
+}

@@ -1,0 +1,44 @@
+{
+  "stop_state": "7798ec062fd190b80f18519976029943", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-11_100207", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "722*1408", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          722, 
+          1560
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7798ec062fd190b80f18519976029943"
+}

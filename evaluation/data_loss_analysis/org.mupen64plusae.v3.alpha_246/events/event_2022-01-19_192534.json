@@ -1,0 +1,165 @@
+{
+  "stop_state": "7b13862893d02fe968c6111657147bc3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_192534", 
+  "event": {
+    "views_str": [
+      "328ce4ab979c072429941c79e469fafb", 
+      "748e1996adbc689ed4e75010f07e7ea9", 
+      "b9d51fb1c72cfd571524e2e6b4d2fdb8", 
+      "b9dc4c43a2c202abaa5469c9e49e9bb2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox1", 
+        "text": "Search zip files", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*56", 
+        "checked": true, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox1", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": false, 
+        "view_str": "328ce4ab979c072429941c79e469fafb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            459
+          ], 
+          [
+            692, 
+            515
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox1[text]Search zip files[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox2", 
+        "text": "Download cover art", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*56", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox2", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": false, 
+        "view_str": "748e1996adbc689ed4e75010f07e7ea9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            515
+          ], 
+          [
+            692, 
+            571
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox2[text]Download cover art[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox3", 
+        "text": "Clear gallery before adding", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*56", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox3", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": false, 
+        "view_str": "b9d51fb1c72cfd571524e2e6b4d2fdb8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            571
+          ], 
+          [
+            692, 
+            627
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox3[text]Clear gallery before adding[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox4", 
+        "text": "Scan subdirectories", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*56", 
+        "checked": true, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox4", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": false, 
+        "view_str": "b9dc4c43a2c202abaa5469c9e49e9bb2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            627
+          ], 
+          [
+            692, 
+            683
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mupen64plusae.v3.alpha:id/checkBox4[text]Scan subdirectories[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "52e88be53b7db4b9f66a0ac86763c3ef"
+}

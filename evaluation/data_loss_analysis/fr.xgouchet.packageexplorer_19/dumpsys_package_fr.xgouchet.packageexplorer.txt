@@ -1,0 +1,194 @@
+Activity Resolver Table:
+  Full MIME Types:
+      application/vnd.android.package-archive:
+        c54a311 fr.xgouchet.packageexplorer/.details.apk.ApkDetailsActivity filter 9decc76
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "application/vnd.android.package-archive"
+
+  Base MIME Types:
+      application:
+        c54a311 fr.xgouchet.packageexplorer/.details.apk.ApkDetailsActivity filter 9decc76
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "application/vnd.android.package-archive"
+
+  Schemes:
+      file:
+        c54a311 fr.xgouchet.packageexplorer/.details.apk.ApkDetailsActivity filter 9decc76
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "application/vnd.android.package-archive"
+      content:
+        c54a311 fr.xgouchet.packageexplorer/.details.apk.ApkDetailsActivity filter 9decc76
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "application/vnd.android.package-archive"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        a04b79b fr.xgouchet.packageexplorer/.applist.AppListActivity filter d59738
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+  MIME Typed Actions:
+      android.intent.action.VIEW:
+        c54a311 fr.xgouchet.packageexplorer/.details.apk.ApkDetailsActivity filter 9decc76
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Scheme: "file"
+          StaticType: "application/vnd.android.package-archive"
+
+Receiver Resolver Table:
+  Schemes:
+      android_secret_code:
+        f6d3277 fr.xgouchet.packageexplorer/.easteregg.EasterEggReceiver filter 5e8eee4
+          Action: "android.provider.Telephony.SECRET_CODE"
+          Scheme: "android_secret_code"
+          Authority: "7826539": -1
+        f6d3277 fr.xgouchet.packageexplorer/.easteregg.EasterEggReceiver filter 54f5f4d
+          Action: "android.provider.Telephony.SECRET_CODE"
+          Scheme: "android_secret_code"
+
+Registered ContentProviders:
+  fr.xgouchet.packageexplorer/androidx.core.content.FileProvider:
+    Provider{bd4b3b8 fr.xgouchet.packageexplorer/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [fr.xgouchet.packageexplorer]:
+    Provider{bd4b3b8 fr.xgouchet.packageexplorer/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{a2c591 fr.xgouchet.packageexplorer}
+
+Key Set Manager:
+  [fr.xgouchet.packageexplorer]
+      Signing KeySets: 441
+
+Packages:
+  Package [fr.xgouchet.packageexplorer] (ca67cf6):
+    userId=10524
+    pkg=Package{93a58f7 fr.xgouchet.packageexplorer}
+    codePath=/data/app/~~Wbht7V65ltv6hEX1HVNoNg==/fr.xgouchet.packageexplorer-LPD-tCCbpfTsHkHWLZPF6w==
+    resourcePath=/data/app/~~Wbht7V65ltv6hEX1HVNoNg==/fr.xgouchet.packageexplorer-LPD-tCCbpfTsHkHWLZPF6w==
+    legacyNativeLibraryDir=/data/app/~~Wbht7V65ltv6hEX1HVNoNg==/fr.xgouchet.packageexplorer-LPD-tCCbpfTsHkHWLZPF6w==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=19 minSdk=19 targetSdk=30
+    versionName=2.7
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{93a58f7 fr.xgouchet.packageexplorer}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/fr.xgouchet.packageexplorer
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-29 05:22:55
+    firstInstallTime=2021-12-29 05:22:55
+    lastUpdateTime=2021-12-29 05:22:55
+    signatures=PackageSignatures{afd5364 version:3, signatures:[44cdbfd9], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.REQUEST_DELETE_PACKAGES
+      android.permission.QUERY_ALL_PACKAGES
+    install permissions:
+      android.permission.REQUEST_DELETE_PACKAGES: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+    User 0: ceDataInode=6789 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      fr.xgouchet.packageexplorer
+    com.motorola.actions:
+      fr.xgouchet.packageexplorer
+    com.google.android.gm:
+      fr.xgouchet.packageexplorer
+    com.google.android.apps.docs:
+      fr.xgouchet.packageexplorer
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=427
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=420, package=com.google.android.apps.docs
+    seq=422, package=com.google.android.tts
+    seq=424, package=fr.nihilus.music
+    seq=425, package=io.github.ylimit.droidbotapp
+    seq=426, package=fr.xgouchet.packageexplorer
+
+
+Dexopt state:
+  [fr.xgouchet.packageexplorer]
+    path: /data/app/~~Wbht7V65ltv6hEX1HVNoNg==/fr.xgouchet.packageexplorer-LPD-tCCbpfTsHkHWLZPF6w==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [fr.xgouchet.packageexplorer]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

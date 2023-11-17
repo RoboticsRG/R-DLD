@@ -1,0 +1,42 @@
+{
+  "stop_state": "de1d4d6d8f2b0a01ef3996b0e400e580", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_072138", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/valencia", 
+      "text": "Use Valencian variant", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "296*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          194
+        ], 
+        [
+          296, 
+          250
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "da62c994cd87515da411be34d9c66f87"
+}

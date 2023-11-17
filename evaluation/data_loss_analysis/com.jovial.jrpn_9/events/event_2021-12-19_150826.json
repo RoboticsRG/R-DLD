@@ -1,0 +1,317 @@
+{
+  "stop_state": "ad8fc3f04f9f9e4f00947a362201bbf3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-19_150826", 
+  "event": {
+    "views_str": [
+      "1e2dd72bd3816aa25211d3073cf201d1", 
+      "f2634d483d2f08fec1196be124b87e97", 
+      "1e2dd72bd3816aa25211d3073cf201d1", 
+      "f2634d483d2f08fec1196be124b87e97", 
+      "f2634d483d2f08fec1196be124b87e97", 
+      "f2634d483d2f08fec1196be124b87e97", 
+      "1e2dd72bd3816aa25211d3073cf201d1", 
+      "f2634d483d2f08fec1196be124b87e97"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "1e2dd72bd3816aa25211d3073cf201d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            236
+          ], 
+          [
+            692, 
+            292
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "f2634d483d2f08fec1196be124b87e97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            320
+          ], 
+          [
+            692, 
+            376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "1e2dd72bd3816aa25211d3073cf201d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            404
+          ], 
+          [
+            692, 
+            460
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "f2634d483d2f08fec1196be124b87e97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            488
+          ], 
+          [
+            692, 
+            544
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "f2634d483d2f08fec1196be124b87e97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            572
+          ], 
+          [
+            692, 
+            628
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "f2634d483d2f08fec1196be124b87e97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            656
+          ], 
+          [
+            692, 
+            712
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "1e2dd72bd3816aa25211d3073cf201d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            740
+          ], 
+          [
+            692, 
+            796
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": false, 
+        "view_str": "f2634d483d2f08fec1196be124b87e97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            824
+          ], 
+          [
+            692, 
+            880
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.jovial.jrpn:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3736b799ff216b9096545e747b63fdf6"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "47eb4e2ade588d6c93491e48c4edad0a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-13_082319", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.rohit2810.spotit:id/btnLicense", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*114", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.rohit2810.spotit", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          380
+        ], 
+        [
+          720, 
+          494
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7a85d4eb38d90b03932f42ac76272414"
+}

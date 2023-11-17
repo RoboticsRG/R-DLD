@@ -1,0 +1,42 @@
+{
+  "stop_state": "834d8a6238fc8e4781139786e5eafc25", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_160223", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/radioButton_condition", 
+      "text": "Condition", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "355*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          337, 
+          409
+        ], 
+        [
+          692, 
+          493
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a0ba11a1d8ca8ff7853ea4aef9db8493"
+}

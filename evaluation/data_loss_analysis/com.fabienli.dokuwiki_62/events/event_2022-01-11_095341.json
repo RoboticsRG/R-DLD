@@ -1,0 +1,42 @@
+{
+  "stop_state": "666052cad860d9d0e3ba9dbcd35553a7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_095341", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "More options", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "71*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          649, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a5fe936d04d0dae99f7c0af8f0e8884f"
+}

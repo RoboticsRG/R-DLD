@@ -1,0 +1,10 @@
+{
+  "stop_state": "ca8e390e10c79e2354707ff2752fb66a", 
+  "event_str": "IntentEvent(intent='am start foss.cnugteren.nlweer/foss.cnugteren.nlweer.MainActivity')", 
+  "tag": "2021-12-29_232026", 
+  "event": {
+    "intent": "am start foss.cnugteren.nlweer/foss.cnugteren.nlweer.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "4b45b5ac5951fc17fe86adfff2f77b4f"
+}

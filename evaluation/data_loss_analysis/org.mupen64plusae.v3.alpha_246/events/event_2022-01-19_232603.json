@@ -1,0 +1,42 @@
+{
+  "stop_state": "a9736970febc7cb5148300482304c135", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_232603", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/buttonDelete", 
+      "text": "\u0423\u0414\u0410\u041b\u0418\u0422\u042c", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "161*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          541, 
+          1456
+        ], 
+        [
+          702, 
+          1540
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "91fdcaa381aef8d73055a84ff83a60a1"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "db7b4ca430503a44bda47a7af7612cb0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-17_033140", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "198*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "eu.depau.etchdroid", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          875
+        ], 
+        [
+          240, 
+          945
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "596f71b6e36854bbcfc0e9a9498a226b"
+}

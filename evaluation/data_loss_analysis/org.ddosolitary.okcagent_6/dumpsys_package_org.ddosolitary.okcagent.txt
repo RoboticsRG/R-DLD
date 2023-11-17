@@ -1,0 +1,170 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7934367 org.ddosolitary.okcagent/.MainActivity filter e74514
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  org.ddosolitary.okcagent/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{7ff7f43 org.ddosolitary.okcagent/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [org.ddosolitary.okcagent.lifecycle-process]:
+    Provider{7ff7f43 org.ddosolitary.okcagent/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{be3a7fa org.ddosolitary.okcagent}
+
+Key Set Manager:
+  [org.ddosolitary.okcagent]
+      Signing KeySets: 511
+
+Packages:
+  Package [org.ddosolitary.okcagent] (82d51c9):
+    userId=10594
+    pkg=Package{cb449c6 org.ddosolitary.okcagent}
+    codePath=/data/app/~~S_eg4RseRQD2dmhydTfBBQ==/org.ddosolitary.okcagent-60R-SN73K2TsQd9gnKbaFA==
+    resourcePath=/data/app/~~S_eg4RseRQD2dmhydTfBBQ==/org.ddosolitary.okcagent-60R-SN73K2TsQd9gnKbaFA==
+    legacyNativeLibraryDir=/data/app/~~S_eg4RseRQD2dmhydTfBBQ==/org.ddosolitary.okcagent-60R-SN73K2TsQd9gnKbaFA==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=6 minSdk=23 targetSdk=30
+    versionName=0.2.3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{cb449c6 org.ddosolitary.okcagent}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/org.ddosolitary.okcagent
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-04 10:13:16
+    firstInstallTime=2022-01-04 10:13:16
+    lastUpdateTime=2022-01-04 10:13:16
+    signatures=PackageSignatures{c61ed87 version:3, signatures:[695f1416], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.FOREGROUND_SERVICE
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=80414 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      org.ddosolitary.okcagent
+    com.motorola.actions:
+      org.ddosolitary.okcagent
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=721
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=593, package=com.google.android.contacts
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=692, package=org.billthefarmer.print
+    seq=696, package=net.typeblog.shelter
+    seq=704, package=com.google.android.tts
+    seq=706, package=net.tjado.usbgadget
+    seq=716, package=org.billthefarmer.tuner
+    seq=718, package=com.google.android.apps.docs
+    seq=719, package=io.github.ylimit.droidbotapp
+    seq=720, package=org.ddosolitary.okcagent
+
+
+Dexopt state:
+  [org.ddosolitary.okcagent]
+    path: /data/app/~~S_eg4RseRQD2dmhydTfBBQ==/org.ddosolitary.okcagent-60R-SN73K2TsQd9gnKbaFA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [org.ddosolitary.okcagent]
+     base.apk - 589
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

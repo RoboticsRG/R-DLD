@@ -1,0 +1,42 @@
+{
+  "stop_state": "a057df870ae45733e0e81670013f0cba", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_132753", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "CANCEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          354, 
+          1115
+        ], 
+        [
+          508, 
+          1199
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8a0ac213772ca9b99657aeba99d6730e"
+}

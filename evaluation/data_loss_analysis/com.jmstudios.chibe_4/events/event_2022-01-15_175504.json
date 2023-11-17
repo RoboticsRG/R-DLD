@@ -1,0 +1,42 @@
+{
+  "stop_state": "f41d746fda54034966ee623cab0edf01", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_175504", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Switch to clock mode for the time input.", 
+      "resource_id": "android:id/toggle_mode", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          67, 
+          986
+        ], 
+        [
+          151, 
+          1070
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "941b1a73a018237d3d7a34aa4b3775b5"
+}

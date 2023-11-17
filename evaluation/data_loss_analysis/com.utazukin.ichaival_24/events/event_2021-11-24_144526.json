@@ -1,0 +1,42 @@
+{
+  "stop_state": "588f78dd6fa58cfec8322023d4a7cc0b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-24_144526", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.utazukin.ichaival:id/nav_settings", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "490*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          68
+        ], 
+        [
+          490, 
+          152
+        ]
+      ], 
+      "class": "androidx.appcompat.widget.LinearLayoutCompat", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4e1902d997f455761a132b8981c3c006"
+}

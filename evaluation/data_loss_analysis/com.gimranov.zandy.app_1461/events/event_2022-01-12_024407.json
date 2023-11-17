@@ -1,0 +1,42 @@
+{
+  "stop_state": "10a89af686571a1d66b9278d21bf1d4f", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_024407", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "More options", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "71*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          649, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8c69b8593235d0add927cc2d7963c934"
+}

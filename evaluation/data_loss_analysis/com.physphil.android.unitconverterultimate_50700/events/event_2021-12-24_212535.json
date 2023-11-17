@@ -1,0 +1,42 @@
+{
+  "stop_state": "51c2118b26322ad21d3aa7d664e27161", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212535", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Technical Atm", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "215*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          831
+        ], 
+        [
+          222, 
+          887
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 32, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9ddf4a996e32beff3f04e8e08ba62cd4"
+}

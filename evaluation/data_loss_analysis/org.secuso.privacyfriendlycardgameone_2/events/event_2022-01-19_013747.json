@@ -1,0 +1,51 @@
+{
+  "stop_state": "fbdf4dcfb8a909b7c386a446f1f7bd0b", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_013747", 
+  "event": {
+    "views_str": [
+      "5c1fcfeff5b17492349d8a77368b902c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "591*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "5c1fcfeff5b17492349d8a77368b902c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            64, 
+            820
+          ], 
+          [
+            655, 
+            899
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "dab2877361ef1c0379eabf7498fb84c9"
+}

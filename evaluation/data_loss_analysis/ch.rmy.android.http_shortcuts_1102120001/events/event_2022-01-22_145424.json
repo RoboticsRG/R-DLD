@@ -1,0 +1,43 @@
+{
+  "stop_state": "55d3f2344d50d807a61592a5f90aee8b", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-22_145424", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_failure", 
+      "text": "test123HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*215", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          977
+        ], 
+        [
+          692, 
+          1192
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "55d3f2344d50d807a61592a5f90aee8b"
+}

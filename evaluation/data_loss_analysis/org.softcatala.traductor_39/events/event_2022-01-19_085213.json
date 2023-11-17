@@ -1,0 +1,42 @@
+{
+  "stop_state": "6f0c0152ab7935505925703919e6156a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_085213", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "343*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          370, 
+          61
+        ], 
+        [
+          713, 
+          145
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e9e095ccc6dbf1a31a3501f9da7f645c"
+}

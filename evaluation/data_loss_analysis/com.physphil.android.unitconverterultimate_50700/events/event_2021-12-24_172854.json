@@ -1,0 +1,42 @@
+{
+  "stop_state": "7253af3aaf3c0ef4d09e10efc03388b8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172854", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Hectare", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "143*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          551
+        ], 
+        [
+          150, 
+          607
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 26, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d4b37af0c05ff457b1637fdc15d58d32"
+}

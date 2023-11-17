@@ -1,0 +1,10 @@
+{
+  "stop_state": "be3bfc0e21966012856cab76471987cc", 
+  "event_str": "IntentEvent(intent='am start name.gdr.acastus_photon/name.gdr.acastus_photon.MainActivity')", 
+  "tag": "2022-01-01_105025", 
+  "event": {
+    "intent": "am start name.gdr.acastus_photon/name.gdr.acastus_photon.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "c42b51ea61f2e75151c0879f13702adf"
+}

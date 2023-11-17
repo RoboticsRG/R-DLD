@@ -1,0 +1,42 @@
+{
+  "stop_state": "537ebdf6ea82854c2c16e8613f8a1b30", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_080832", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Next month", 
+      "resource_id": "android:id/next", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          493, 
+          367
+        ], 
+        [
+          577, 
+          451
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 34, 
+    "event_type": "touch"
+  }, 
+  "start_state": "537ebdf6ea82854c2c16e8613f8a1b30"
+}

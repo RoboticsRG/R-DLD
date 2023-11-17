@@ -1,0 +1,42 @@
+{
+  "stop_state": "3c0c5a991f94d9382789c5813c5bde0b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_214158", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "kV-A", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "108*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          901
+        ], 
+        [
+          475, 
+          957
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 21, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9aba46f2513ea4e87291129ba63b6b41"
+}

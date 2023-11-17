@@ -1,0 +1,51 @@
+{
+  "stop_state": "bde93bb70dfd85b8f3354500aca13b1e", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-02_220106", 
+  "event": {
+    "views_str": [
+      "3ca459117be03efdde164a5164aa7fbe"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "532*112", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "3ca459117be03efdde164a5164aa7fbe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            95, 
+            828
+          ], 
+          [
+            627, 
+            940
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "27447ddd0a37d3283fe6b5d477176f7a"
+}

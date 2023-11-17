@@ -1,0 +1,42 @@
+{
+  "stop_state": "d441ed42cd65ce56beab7c289f380d40", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_005234", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.apps.adrcotfas.goodtime:id/snackbar_action", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          601, 
+          1460
+        ], 
+        [
+          685, 
+          1544
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "248bf6d1d7bc9be5d292afbc958f28f5"
+}

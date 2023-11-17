@@ -1,0 +1,42 @@
+{
+  "stop_state": "35ed6259a80a52b9b5f4b78104bfc936", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_212056", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          555
+        ], 
+        [
+          692, 
+          611
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "35ed6259a80a52b9b5f4b78104bfc936"
+}

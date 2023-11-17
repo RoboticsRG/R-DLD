@@ -1,0 +1,42 @@
+{
+  "stop_state": "74bece54a2cae325d8a4ca75f3abac90", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_141513", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+      "text": "HelloWorldHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "535*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          542
+        ], 
+        [
+          606, 
+          640
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "74bece54a2cae325d8a4ca75f3abac90"
+}

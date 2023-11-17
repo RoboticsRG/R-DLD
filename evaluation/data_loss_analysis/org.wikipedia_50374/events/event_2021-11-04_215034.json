@@ -1,0 +1,42 @@
+{
+  "stop_state": "ed94c83481c879073f1f8b0481ad5b3a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_215034", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Mais op\u00e7\u00f5es", 
+      "resource_id": "org.wikipedia:id/menu_overflow_button", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ed94c83481c879073f1f8b0481ad5b3a"
+}

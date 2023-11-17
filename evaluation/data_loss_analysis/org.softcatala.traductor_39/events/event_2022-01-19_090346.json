@@ -1,0 +1,42 @@
+{
+  "stop_state": "c65b4bcf31392000c1dfec5a71658daf", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_090346", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/translatedTextEdit", 
+      "text": "An error has occurred when connecting to the server: java.io.FileNotFoundException: https://www.softcatala.org/apertium/json/translate?&markUnknown=yes&key=NWI0MjQwMzQ2MzYyMzEzNjMyNjQ&langpair=ca%7Cpt&q=HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*269", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          273
+        ], 
+        [
+          636, 
+          542
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c65b4bcf31392000c1dfec5a71658daf"
+}

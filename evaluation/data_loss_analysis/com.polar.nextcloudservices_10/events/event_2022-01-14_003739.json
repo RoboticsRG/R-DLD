@@ -1,0 +1,42 @@
+{
+  "stop_state": "4c5cafc508193f168d5ac5fb0bcce1e9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_003739", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/switch_widget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.polar.nextcloudservices", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          884
+        ], 
+        [
+          692, 
+          931
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dd9db97db81385b60fa9ac6120d736fc"
+}

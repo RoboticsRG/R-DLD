@@ -1,0 +1,43 @@
+{
+  "stop_state": "374cc30426b66cf0f713a9df941fdcb0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-01_110712", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 34, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "helloworld (travel_agent)\nBrisbane City Baroona Road ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          242
+        ], 
+        [
+          692, 
+          354
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "6a65022e2e1e7c4af9da0b5fd9e6533b"
+}

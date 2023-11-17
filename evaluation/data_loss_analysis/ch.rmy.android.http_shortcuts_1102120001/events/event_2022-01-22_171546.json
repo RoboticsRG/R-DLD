@@ -1,0 +1,241 @@
+{
+  "stop_state": "49051b0db7c006df2079760f2f24e92e", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_171546", 
+  "event": {
+    "views_str": [
+      "34ff7067cb1792188c9554cf7ef82be9", 
+      "29a016ab3ccabd89ad1a873ae36955db", 
+      "b500fbfaa87c69d50a9a4295cae7d115", 
+      "a732da9e953ef1e9f0b53e619b4e011d", 
+      "ca40a9b8071a664dca258dee3a48fe32", 
+      "0d96c111c0d4eeafe71add3457b7312e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_follow_redirects", 
+        "text": "Follow redirects", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_follow_redirects", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "34ff7067cb1792188c9554cf7ef82be9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            264
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_follow_redirects[text]Follow redirects[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_accept_cookies", 
+        "text": "Store cookies", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_accept_cookies", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "29a016ab3ccabd89ad1a873ae36955db", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            278
+          ], 
+          [
+            692, 
+            362
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_accept_cookies[text]Store cookies[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_ssid", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_ssid", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "b500fbfaa87c69d50a9a4295cae7d115", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            434
+          ], 
+          [
+            692, 
+            513
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_ssid[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_proxy_host", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_proxy_host", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "a732da9e953ef1e9f0b53e619b4e011d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            843
+          ], 
+          [
+            692, 
+            922
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_proxy_host[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_proxy_port", 
+        "text": "123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_proxy_port", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "ca40a9b8071a664dca258dee3a48fe32", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            951
+          ], 
+          [
+            692, 
+            1030
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_proxy_port[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_accept_certificates", 
+        "text": "Accept any certificate (I know what I'm doing)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_accept_certificates", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "0d96c111c0d4eeafe71add3457b7312e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            1162
+          ], 
+          [
+            692, 
+            1246
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_accept_certificates[text]Accept any certificate (I know what I'm doing)[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "ec5d20ebbafff52435f6aa641c375362"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "be87aa52c8db79fa8c232f3eeea85f1a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_175919", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "BBC Radio 2", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          865
+        ], 
+        [
+          706, 
+          949
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "35993fd7716fc33b373a1a8668302289"
+}

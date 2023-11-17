@@ -1,0 +1,42 @@
+{
+  "stop_state": "399e28e23be82b905335f18689c80346", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_023628", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/switchWidget", 
+      "text": "ON", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          282
+        ], 
+        [
+          692, 
+          329
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0aa5d8e6a402004bf4fec0f9319d06bf"
+}

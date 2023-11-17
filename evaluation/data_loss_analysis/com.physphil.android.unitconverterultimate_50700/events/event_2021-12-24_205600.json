@@ -1,0 +1,42 @@
+{
+  "stop_state": "9b51f7494ccaea3d5cc4aea60b3cd5c0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_205600", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Micrometre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "183*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          691
+        ], 
+        [
+          190, 
+          747
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 36, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bc93c0b66e37854eac0503d59195290c"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "be61c0c67a6d6accdb040132a4797727", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-30_034337", 
+  "event": {
+    "views_str": [
+      "54194c50c2d24275ab0364ccb0d63195"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "grmpl.mk.stepandheightcounter:id/editTextHeightcal", 
+        "text": "height [m]", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "175*65", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]grmpl.mk.stepandheightcounter:id/editTextHeightcal", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "grmpl.mk.stepandheightcounter", 
+        "long_clickable": true, 
+        "view_str": "54194c50c2d24275ab0364ccb0d63195", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            689
+          ], 
+          [
+            221, 
+            754
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]grmpl.mk.stepandheightcounter:id/editTextHeightcal[text]height [m][enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "01064409e9a9e71d73fd39737dd4bcc2"
+}

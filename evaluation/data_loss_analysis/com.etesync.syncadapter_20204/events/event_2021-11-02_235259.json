@@ -1,0 +1,42 @@
+{
+  "stop_state": "24a171ed2c75b87944ea833707bbfa89", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_235259", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Show password", 
+      "resource_id": "com.etesync.syncadapter:id/text_input_end_icon", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          674
+        ], 
+        [
+          692, 
+          758
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bead51467ad01491ebfa62b4d624f141"
+}

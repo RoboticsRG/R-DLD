@@ -1,0 +1,42 @@
+{
+  "stop_state": "e8715fc9713ede7b7e02fb37dac47540", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_040309", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/buttonValidateNewPreset", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          580, 
+          1418
+        ], 
+        [
+          678, 
+          1516
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d8dc65fee09af9d92ecd644a92075c50"
+}

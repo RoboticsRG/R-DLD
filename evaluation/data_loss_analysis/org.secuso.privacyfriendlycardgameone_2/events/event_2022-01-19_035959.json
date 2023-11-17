@@ -1,0 +1,42 @@
+{
+  "stop_state": "deee8e772bef37ccba5fe5b7c8718382", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_035959", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          1304
+        ], 
+        [
+          692, 
+          1360
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dd2bac31da4d453fc73adb153dde2b9c"
+}

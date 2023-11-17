@@ -1,0 +1,42 @@
+{
+  "stop_state": "9ef5a2952e658d6d472ef18478bc99b8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_115047", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Lists", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "360*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          360, 
+          236
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4fadccc473e032303e126bc3776697dd"
+}

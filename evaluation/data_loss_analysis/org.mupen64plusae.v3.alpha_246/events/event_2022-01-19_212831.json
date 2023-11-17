@@ -1,0 +1,42 @@
+{
+  "stop_state": "ff8e4518e9f1ab8e0060370a71592ad4", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_212831", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Izbri\u0161i upit", 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/search_close_btn", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "70*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          615, 
+          75
+        ], 
+        [
+          685, 
+          159
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d0b56e1934e7a776e56cfebd89fa9af4"
+}

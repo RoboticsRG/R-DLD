@@ -1,0 +1,42 @@
+{
+  "stop_state": "521a2c30b61a2cd8b1ef4c4c0dcbbb78", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_182707", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Pesquisa por entrada de voz", 
+      "resource_id": "org.wikipedia:id/voice_search_button", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          157
+        ], 
+        [
+          692, 
+          241
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a3a57fc4d4340ab3f828e21750970b2e"
+}

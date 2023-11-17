@@ -1,0 +1,42 @@
+{
+  "stop_state": "571779d52844b3e9e305f5f1f7b9dbe5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_201211", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "glasgow.social/gemini-php", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3b05d572614687f5586155ba06ba31e1"
+}

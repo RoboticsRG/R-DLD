@@ -1,0 +1,42 @@
+{
+  "stop_state": "b238fe1516806487c55c7a40cc711e3e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_111258", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fabienli.dokuwiki:id/mediamanager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "490*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          826
+        ], 
+        [
+          490, 
+          910
+        ]
+      ], 
+      "class": "androidx.appcompat.widget.LinearLayoutCompat", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b91feeb3a2c23fd54be89d072d9c0693"
+}

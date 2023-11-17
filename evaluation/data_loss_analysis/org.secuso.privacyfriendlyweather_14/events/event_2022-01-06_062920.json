@@ -1,0 +1,89 @@
+{
+  "stop_state": "e3a0dd98bad5c12955507749bd0cb745", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-06_062920", 
+  "event": {
+    "views_str": [
+      "3a329958f4b4a942f425414405a651f3", 
+      "21cb642d6808a75137ab7dd7dd35ba59"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyweather:id/tutorial_owm_key_field", 
+        "text": ">", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*97", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyweather:id/tutorial_owm_key_field", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyweather", 
+        "long_clickable": true, 
+        "view_str": "3a329958f4b4a942f425414405a651f3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            976
+          ], 
+          [
+            0, 
+            1073
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyweather:id/tutorial_owm_key_field[text]>[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart", 
+        "text": ">", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "720*79", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyweather", 
+        "long_clickable": true, 
+        "view_str": "21cb642d6808a75137ab7dd7dd35ba59", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            750
+          ], 
+          [
+            720, 
+            829
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart[text]>[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6d741df5be3364019f886f44e3b189d0"
+}

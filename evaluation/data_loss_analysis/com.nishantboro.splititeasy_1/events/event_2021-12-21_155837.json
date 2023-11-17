@@ -1,0 +1,42 @@
+{
+  "stop_state": "1b7e2c6563fb3513230774050d722d5b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_155837", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Balances", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "240*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.nishantboro.splititeasy", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          480, 
+          152
+        ], 
+        [
+          720, 
+          236
+        ]
+      ], 
+      "class": "androidx.appcompat.app.ActionBar$Tab", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "704a2e8fa0974ab51262e3f8ee48a333"
+}

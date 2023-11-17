@@ -1,0 +1,10 @@
+{
+  "stop_state": "359db8b9c526d30a79b512c782bb309b", 
+  "event_str": "IntentEvent(intent='am start com.ebaschiera.triplecamel/com.ebaschiera.triplecamel.MainActivity')", 
+  "tag": "2021-12-16_020033", 
+  "event": {
+    "intent": "am start com.ebaschiera.triplecamel/com.ebaschiera.triplecamel.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "c3733ba137d4788fcebd3b4617cb4a43"
+}

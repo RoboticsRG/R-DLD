@@ -1,0 +1,127 @@
+{
+  "stop_state": "fb5932ad6bf6e093f2b40b130135dbc3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_150637", 
+  "event": {
+    "views_str": [
+      "992fe293aa2d9629c2878ffd8731241b", 
+      "fb97539874a2ed1d632b0cc707dba85a", 
+      "da0417dfa491ecd47c201704bf7bf220"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/firstCB", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/firstCB", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": false, 
+        "view_str": "992fe293aa2d9629c2878ffd8731241b", 
+        "enabled": false, 
+        "bounds": [
+          [
+            238, 
+            774
+          ], 
+          [
+            294, 
+            830
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/firstCB[text]None[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/secondCB", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/secondCB", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": false, 
+        "view_str": "fb97539874a2ed1d632b0cc707dba85a", 
+        "enabled": false, 
+        "bounds": [
+          [
+            189, 
+            830
+          ], 
+          [
+            245, 
+            886
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/secondCB[text]None[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/thirdCB", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/thirdCB", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": false, 
+        "view_str": "da0417dfa491ecd47c201704bf7bf220", 
+        "enabled": false, 
+        "bounds": [
+          [
+            204, 
+            886
+          ], 
+          [
+            260, 
+            942
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.secuso.privacyfriendlyfoodtracker:id/thirdCB[text]None[,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "fb5932ad6bf6e093f2b40b130135dbc3"
+}

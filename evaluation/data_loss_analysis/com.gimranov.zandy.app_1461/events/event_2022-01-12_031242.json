@@ -1,0 +1,42 @@
+{
+  "stop_state": "535a55e8a8b4cfdb8e85ca492b5e2034", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_031242", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Date modified, then title", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          929
+        ], 
+        [
+          673, 
+          1013
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "142f944e3dad478e3d21069ee98581fe"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "d4b37af0c05ff457b1637fdc15d58d32", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172848", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Sq Inch", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "139*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          831
+        ], 
+        [
+          146, 
+          887
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d4b37af0c05ff457b1637fdc15d58d32"
+}

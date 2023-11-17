@@ -1,0 +1,15 @@
+{
+  "stop_state": "a3c0a8d6bd5b41a4b9f0a022872d3012", 
+  "event_str": "ScrollEvent(direction=FULL_LEFT)", 
+  "tag": "2021-12-17_061740", 
+  "event": {
+    "direction": "FULL_LEFT", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": null, 
+    "view": null
+  }, 
+  "start_state": "7ba8bffc065ae335468e8e9aeb078028"
+}

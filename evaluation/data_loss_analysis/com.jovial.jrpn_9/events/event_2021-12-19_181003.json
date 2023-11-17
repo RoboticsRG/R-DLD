@@ -1,0 +1,43 @@
+{
+  "stop_state": "75b930e645264f892b32f03e55134c94", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-19_181003", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 43, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jovial.jrpn:id/tbDisplay", 
+      "text": "Error 0 - Improper Math Operation", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "598*137", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jovial.jrpn", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          60, 
+          191
+        ], 
+        [
+          658, 
+          328
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "403d552e63f734291a6be0e6481cc3b9"
+}

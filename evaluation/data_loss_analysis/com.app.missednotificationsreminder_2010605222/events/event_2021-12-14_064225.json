@@ -1,0 +1,42 @@
+{
+  "stop_state": "77ba7413f38163b3b111eccd18dbf851", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_064225", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "MANAGE BATTERY OPTIMIZATION", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          968
+        ], 
+        [
+          664, 
+          1052
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6bfefbd1f43f77705e89de2316d66d32"
+}

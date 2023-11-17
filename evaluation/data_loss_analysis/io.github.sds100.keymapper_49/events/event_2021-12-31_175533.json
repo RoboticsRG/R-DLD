@@ -1,0 +1,42 @@
+{
+  "stop_state": "da8fc801b7d53bfdb20487b40b15072f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-31_175533", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.sds100.keymapper:id/button1", 
+      "text": "ENABLE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "163*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.sds100.keymapper", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          279, 
+          1316
+        ], 
+        [
+          442, 
+          1400
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8616078fc7fd297a969651bff897d305"
+}

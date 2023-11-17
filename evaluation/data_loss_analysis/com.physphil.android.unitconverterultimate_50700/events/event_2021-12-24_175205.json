@@ -1,0 +1,42 @@
+{
+  "stop_state": "f8a7673aa9c2e6e3f183da859de3b42f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_175205", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Stone", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "120*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          761
+        ], 
+        [
+          487, 
+          817
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 41, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c4ff12916f1312d1e53ce7c599379ab9"
+}

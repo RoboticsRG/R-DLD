@@ -1,0 +1,51 @@
+{
+  "stop_state": "d15ce2cd2663e426bd9a4f3693025347", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_192336", 
+  "event": {
+    "views_str": [
+      "020f33c3b9e3718fc395e525f2e8a20b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/search_src_text", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "506*63", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/search_src_text", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "020f33c3b9e3718fc395e525f2e8a20b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            126, 
+            71
+          ], 
+          [
+            632, 
+            134
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/search_src_text[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9b295a24d675884a307cd3e922552b33"
+}

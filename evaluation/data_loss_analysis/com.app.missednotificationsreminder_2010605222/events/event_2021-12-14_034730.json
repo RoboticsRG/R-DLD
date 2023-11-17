@@ -1,0 +1,51 @@
+{
+  "stop_state": "6122bd86d357a001dcad382868b4d757", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-14_034730", 
+  "event": {
+    "views_str": [
+      "dedd17fddbbfd23120c68d189a5403b9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.app.missednotificationsreminder:id/query", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/query", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.app.missednotificationsreminder", 
+        "long_clickable": true, 
+        "view_str": "dedd17fddbbfd23120c68d189a5403b9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            161
+          ], 
+          [
+            673, 
+            240
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/query[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8a21fd7de18beb45b903042d713b09ed"
+}

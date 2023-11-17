@@ -1,0 +1,10 @@
+{
+  "stop_state": "1382f5261df88f2920be688f66189be4", 
+  "event_str": "IntentEvent(intent='am start org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity')", 
+  "tag": "2022-01-19_202805", 
+  "event": {
+    "intent": "am start org.mupen64plusae.v3.alpha/paulscode.android.mupen64plusae.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "06a51546a0506e797bccccc54ad8fc47"
+}

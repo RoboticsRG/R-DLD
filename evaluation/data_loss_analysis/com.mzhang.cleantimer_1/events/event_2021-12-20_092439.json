@@ -1,0 +1,10 @@
+{
+  "stop_state": "899502333595313136d6964ce614d6fb", 
+  "event_str": "IntentEvent(intent='am start com.mzhang.cleantimer/com.mzhang.cleantimer.MainActivity')", 
+  "tag": "2021-12-20_092439", 
+  "event": {
+    "intent": "am start com.mzhang.cleantimer/com.mzhang.cleantimer.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "692d366853f7e2015cd7dd0e94089128"
+}

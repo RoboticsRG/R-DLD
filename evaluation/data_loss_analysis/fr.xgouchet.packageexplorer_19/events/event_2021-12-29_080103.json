@@ -1,0 +1,42 @@
+{
+  "stop_state": "363a4791e56c8ce9b75403b7e9f7cb28", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_080103", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.xgouchet.packageexplorer:id/title", 
+      "text": ".ClockWidgetUpdateService", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          572
+        ], 
+        [
+          720, 
+          656
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "363a4791e56c8ce9b75403b7e9f7cb28"
+}

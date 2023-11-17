@@ -1,0 +1,10 @@
+{
+  "stop_state": "9b760a71091a1eb03440e37051f961af", 
+  "event_str": "IntentEvent(intent='am start com.polar.nextcloudservices/com.polar.nextcloudservices.SettingsActivity')", 
+  "tag": "2022-01-14_002914", 
+  "event": {
+    "intent": "am start com.polar.nextcloudservices/com.polar.nextcloudservices.SettingsActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "6c122ab9a22a106c1b024577153d2cfe"
+}

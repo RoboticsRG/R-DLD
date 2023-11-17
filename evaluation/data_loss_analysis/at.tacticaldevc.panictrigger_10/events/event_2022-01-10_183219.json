@@ -1,0 +1,10 @@
+{
+  "stop_state": "897dbfad87fe8dafe6e98dc705157c7b", 
+  "event_str": "IntentEvent(intent='am start at.tacticaldevc.panictrigger/at.tacticaldevc.panictrigger.TriggerActivity')", 
+  "tag": "2022-01-10_183219", 
+  "event": {
+    "intent": "am start at.tacticaldevc.panictrigger/at.tacticaldevc.panictrigger.TriggerActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "d110abe25a618ce1ac63cdc0ef88cd47"
+}

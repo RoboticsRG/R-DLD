@@ -1,0 +1,149 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        9775bdf com.activitymanager/com.sdex.activityrunner.MainActivity filter 34a402c
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.activitymanager/androidx.core.content.FileProvider:
+    Provider{59a120 com.activitymanager/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.activitymanager.fileprovider]:
+    Provider{59a120 com.activitymanager/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{4018ad9 com.activitymanager}
+
+Key Set Manager:
+  [com.activitymanager]
+      Signing KeySets: 323
+
+Packages:
+  Package [com.activitymanager] (c2e4903):
+    userId=10476
+    pkg=Package{9cc6c9e com.activitymanager}
+    codePath=/data/app/~~H5-r2lie3pp5cpeiAU3u1g==/com.activitymanager-gr-RjKCCPRXgfbQ4NP2ShQ==
+    resourcePath=/data/app/~~H5-r2lie3pp5cpeiAU3u1g==/com.activitymanager-gr-RjKCCPRXgfbQ4NP2ShQ==
+    legacyNativeLibraryDir=/data/app/~~H5-r2lie3pp5cpeiAU3u1g==/com.activitymanager-gr-RjKCCPRXgfbQ4NP2ShQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=413 minSdk=16 targetSdk=31
+    versionName=4.1.3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{9cc6c9e com.activitymanager}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.activitymanager
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-18 14:05:11
+    firstInstallTime=2021-12-18 14:05:11
+    lastUpdateTime=2021-12-18 14:05:11
+    signatures=PackageSignatures{93c084d version:3, signatures:[4330b04e], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.WAKE_LOCK
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+    install permissions:
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=23329 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.activitymanager
+    com.motorola.actions:
+      com.activitymanager
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=358
+  User 0:
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=165, package=com.codedead.deadhash
+    seq=173, package=com.dosse.airpods
+    seq=188, package=com.crazylegend.subhub
+    seq=196, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=198, package=com.crazylegend.vigilante
+    seq=208, package=com.ebaschiera.triplecamel
+    seq=216, package=com.dp.logcatapp
+    seq=228, package=com.fr3ts0n.androbd.plugin.gpsprovider
+    seq=240, package=com.fr3ts0n.androbd.plugin.mqtt
+    seq=248, package=com.bobek.compass
+    seq=264, package=com.bytestemplar.tonedef
+    seq=270, package=com.genonbeta.TrebleShot
+    seq=274, package=com.github.gotify.up
+    seq=285, package=com.google.android.webview
+    seq=286, package=com.google.android.trichromelibrary_466410433
+    seq=287, package=com.google.android.googlequicksearchbox
+    seq=288, package=com.google.android.projection.gearhead
+    seq=292, package=com.github.ashutoshgngwr.noice
+    seq=308, package=com.github.gotify
+    seq=313, package=com.google.android.tts
+    seq=317, package=com.funkymuse.aurora
+    seq=325, package=com.github.siggel.coordinatejoker
+    seq=331, package=com.google.android.apps.photos
+    seq=337, package=com.google.android.videos
+    seq=349, package=com.motorola.audiofx
+    seq=353, package=com.google.android.apps.docs
+    seq=355, package=com.anpmech.launcher
+    seq=356, package=io.github.ylimit.droidbotapp
+    seq=357, package=com.activitymanager
+
+
+Dexopt state:
+  [com.activitymanager]
+    path: /data/app/~~H5-r2lie3pp5cpeiAU3u1g==/com.activitymanager-gr-RjKCCPRXgfbQ4NP2ShQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.activitymanager]
+     base.apk - 1081
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

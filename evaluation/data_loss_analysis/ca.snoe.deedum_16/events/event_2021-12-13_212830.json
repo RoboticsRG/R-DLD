@@ -1,0 +1,42 @@
+{
+  "stop_state": "350491fb88f2ca0e6e86c00330feff11", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_212830", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] A Gemini server written in Node, based on Express", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*102", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          773
+        ], 
+        [
+          690, 
+          875
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "312bce66fef260ee5e82f4e7854621a0"
+}

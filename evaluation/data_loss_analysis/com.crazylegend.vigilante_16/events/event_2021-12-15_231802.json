@@ -1,0 +1,42 @@
+{
+  "stop_state": "1b9234c9317218c217f1f32b7815d31e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_231802", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "360*385", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          1173
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0b33ffbda196f12a9e0ee4833aa414df"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "374cc30426b66cf0f713a9df941fdcb0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-01_083247", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 35, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "helloworld : 9069.03 mi (travel_agency)\nCity Of Melville Benningfield Road ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          356
+        ], 
+        [
+          692, 
+          468
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "53ab74f48e3cd86fe2154fb00592c0f3"
+}

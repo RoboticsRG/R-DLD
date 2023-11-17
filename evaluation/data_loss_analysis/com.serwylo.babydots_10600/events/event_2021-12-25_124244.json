@@ -1,0 +1,42 @@
+{
+  "stop_state": "b0ec8e4e1973092589ed93deb40eeebf", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_124244", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.serwylo.babydots:id/unlock_wrapper", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "282*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.serwylo.babydots", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          410, 
+          1502
+        ], 
+        [
+          692, 
+          1572
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b0ec8e4e1973092589ed93deb40eeebf"
+}

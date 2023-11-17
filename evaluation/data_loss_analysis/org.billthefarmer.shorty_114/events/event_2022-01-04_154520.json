@@ -1,0 +1,89 @@
+{
+  "stop_state": "97bd45430e2290fd5e8cbc7f9861cbe8", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_154520", 
+  "event": {
+    "views_str": [
+      "612e93939a8039bb4dcf26bfbff3c2dc", 
+      "d6d02293352ba87e94718f7d36fa309f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_name", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "612e93939a8039bb4dcf26bfbff3c2dc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            251
+          ], 
+          [
+            706, 
+            330
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "d6d02293352ba87e94718f7d36fa309f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            330
+          ], 
+          [
+            706, 
+            409
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url[text]test123test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f2ac03a21949f4846316111fe0da47ee"
+}

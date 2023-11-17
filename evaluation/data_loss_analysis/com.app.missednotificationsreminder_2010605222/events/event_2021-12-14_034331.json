@@ -1,0 +1,44 @@
+{
+  "stop_state": "6bfefbd1f43f77705e89de2316d66d32", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-14_034331", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.app.missednotificationsreminder:id/scroll", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1448", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          1600
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6bfefbd1f43f77705e89de2316d66d32"
+}

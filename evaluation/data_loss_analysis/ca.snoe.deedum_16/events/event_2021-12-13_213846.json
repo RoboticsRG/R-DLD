@@ -1,0 +1,43 @@
+{
+  "stop_state": "c244bc693d1cca7b1b13794aabc9e942", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_213846", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "# Project Gemini\n\n## Overview\n\nGemini is a new internet protocol which:\n\n* Is heavier than gopher\n* Is lighter than the web\n* Will not replace either\n* Strives for maximum power to weight ratio\n* Takes user privacy very seriously\n\n## Resources\n\n=> docs/\tGemini documentation\n=> software/\tGemini software\n=> servers/\tKnown Gemini servers\n=> https://lists.orbitalfox.eu/listinfo/gemini\tGemini mailing list\n=> gemini://gemini.conman.org/test/torture/\tGemini client torture test\n\n## Web proxies\n\n=> https://portal.mozz.us/?url=gemini%3A%2F%2Fgemini.circumlunar.space%2F&fmt=fixed\tGemini-to-web proxy service\n=> https://proxy.vulpes.one/gemini/gemini.circumlunar.space\tAnother Gemini-to-web proxy service\n\n## Search engine\n\n=> gemini://geminispace.info/\tgeminispace.info\n\n## Geminispace aggregators\n\n=> capcom/\tCAPCOM\n=> gemini://rawtext.club:1965/~sloum/spacewalk.gmi\tSpacewalk\n=> gemini://calcuode.com/gmisub-aggregate.gmi\tgmisub\n=> gemini://caracolito.mooo.com/deriva/\tBot en deriva (Spanish language content)\n\n## Gemini mirrors of web resources\n\n=> gemini://gempaper.strangled.net/mirrorlist/\tA list of mirrored services\n\n## Free Gemini hosting\n\n=> users/\tUsers with Gemini content on this server\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*1371", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          187
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "c244bc693d1cca7b1b13794aabc9e942"
+}

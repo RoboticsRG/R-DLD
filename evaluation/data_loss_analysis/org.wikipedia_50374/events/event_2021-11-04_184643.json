@@ -1,0 +1,43 @@
+{
+  "stop_state": "117943939e50b1c9161406c89b73e80b", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_184643", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": "Mais", 
+      "resource_id": "org.wikipedia:id/nav_more_container", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "144*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          576, 
+          1460
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "117943939e50b1c9161406c89b73e80b"
+}

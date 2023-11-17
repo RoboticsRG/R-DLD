@@ -1,0 +1,43 @@
+{
+  "stop_state": "5e3620e918d55479ad19ef40a3fc8adc", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-22_135123", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_password", 
+      "text": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": true, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          337
+        ], 
+        [
+          692, 
+          416
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "0f2e0c9e48166445f2d74617003fdb65"
+}

@@ -1,0 +1,127 @@
+{
+  "stop_state": "e29e08fb9929b26ae87df20d99a276a0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-30_123026", 
+  "event": {
+    "views_str": [
+      "8cdf95d6205672308d5cd1344bc70bd8", 
+      "bd04d1a2766b65b2740fee79e62773c1", 
+      "c14ad492ecc005ff6e6749a5a3811a3c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "io.github.dkter.aaaaa:id/textBox", 
+        "text": "Test your new keyboard here", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]io.github.dkter.aaaaa:id/textBox", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "io.github.dkter.aaaaa", 
+        "long_clickable": true, 
+        "view_str": "8cdf95d6205672308d5cd1344bc70bd8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            575
+          ], 
+          [
+            692, 
+            654
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]io.github.dkter.aaaaa:id/textBox[text]Test your new keyboard here[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "io.github.dkter.aaaaa:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]io.github.dkter.aaaaa:id/switchWidget", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "io.github.dkter.aaaaa", 
+        "long_clickable": false, 
+        "view_str": "bd04d1a2766b65b2740fee79e62773c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            815
+          ], 
+          [
+            692, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]io.github.dkter.aaaaa:id/switchWidget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "io.github.dkter.aaaaa:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]io.github.dkter.aaaaa:id/switchWidget", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "io.github.dkter.aaaaa", 
+        "long_clickable": false, 
+        "view_str": "c14ad492ecc005ff6e6749a5a3811a3c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1054
+          ], 
+          [
+            692, 
+            1101
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]io.github.dkter.aaaaa:id/switchWidget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7cc250d117a769f19525b7ebb65d9c3b"
+}

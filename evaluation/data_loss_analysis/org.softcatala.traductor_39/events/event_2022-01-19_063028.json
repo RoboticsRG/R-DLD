@@ -1,0 +1,42 @@
+{
+  "stop_state": "2a5341ebf06451b339bc1b46f766739e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_063028", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/languagesSpinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*42", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          194
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "557c0507b424ac6b66affddcf391b909"
+}

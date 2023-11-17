@@ -1,0 +1,42 @@
+{
+  "stop_state": "82a79cbb4d0bb9c577b3418ac4c5b36e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_193952", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Copy", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "107*77", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          88, 
+          407
+        ], 
+        [
+          195, 
+          484
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "82a79cbb4d0bb9c577b3418ac4c5b36e"
+}

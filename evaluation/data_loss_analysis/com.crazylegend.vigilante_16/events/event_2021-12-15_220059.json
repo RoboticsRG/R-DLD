@@ -1,0 +1,42 @@
+{
+  "stop_state": "fcae24749728b4ea7c0c549106c17f6e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_220059", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "ABBRECHEN", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "191*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          263, 
+          1217
+        ], 
+        [
+          454, 
+          1301
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2bfdd9472813c312fc2ba4681b54db52"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "216baf480ea65e96749b71d6baab2cca", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_203842", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Atmosphere", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "191*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          761
+        ], 
+        [
+          198, 
+          817
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 31, 
+    "event_type": "touch"
+  }, 
+  "start_state": "97a4a7e26485bf00d6da295eb8413033"
+}

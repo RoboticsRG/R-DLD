@@ -1,0 +1,42 @@
+{
+  "stop_state": "013b85335eeea00598b59d2d091682bf", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_001713", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Sun strength tomorrow", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          1015
+        ], 
+        [
+          673, 
+          1099
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 31, 
+    "event_type": "touch"
+  }, 
+  "start_state": "43f500123218657766554df66370616a"
+}

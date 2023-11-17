@@ -1,0 +1,232 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        23e100c uk.org.ngo.squeezer/.itemlist.HomeActivity filter 298ad55
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        7342f5e uk.org.ngo.squeezer/.homescreenwidgets.SqueezerRemoteControlPlayerSelectActivity filter 85aff3f
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED:
+        ec220f8 uk.org.ngo.squeezer/.download.DownloadStatusReceiver filter 683c9d1
+          Action: "android.intent.action.DOWNLOAD_COMPLETE"
+          Action: "android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED"
+      android.intent.action.DOWNLOAD_COMPLETE:
+        ec220f8 uk.org.ngo.squeezer/.download.DownloadStatusReceiver filter 683c9d1
+          Action: "android.intent.action.DOWNLOAD_COMPLETE"
+          Action: "android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        48fe36a uk.org.ngo.squeezer/.homescreenwidgets.SqueezerRemoteControl filter 68a505b
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+
+Key Set Manager:
+  [uk.org.ngo.squeezer]
+      Signing KeySets: 572
+
+Packages:
+  Package [uk.org.ngo.squeezer] (5712af4):
+    userId=10655
+    pkg=Package{f5c92e1 uk.org.ngo.squeezer}
+    codePath=/data/app/~~RLrQpXERouAtW3Z9tl65cg==/uk.org.ngo.squeezer-UsIPhwFENQfCAT-zu6Gi8w==
+    resourcePath=/data/app/~~RLrQpXERouAtW3Z9tl65cg==/uk.org.ngo.squeezer-UsIPhwFENQfCAT-zu6Gi8w==
+    legacyNativeLibraryDir=/data/app/~~RLrQpXERouAtW3Z9tl65cg==/uk.org.ngo.squeezer-UsIPhwFENQfCAT-zu6Gi8w==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=104 minSdk=19 targetSdk=30
+    versionName=2.2.7
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{f5c92e1 uk.org.ngo.squeezer}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/uk.org.ngo.squeezer
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-09 23:32:25
+    firstInstallTime=2022-01-09 23:32:25
+    lastUpdateTime=2022-01-09 23:32:25
+    signatures=PackageSignatures{a314806 version:3, signatures:[396a53a6], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.INTERNET
+      android.permission.WAKE_LOCK
+      android.permission.VIBRATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.REORDER_TASKS
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.REORDER_TASKS: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=69489 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      uk.org.ngo.squeezer
+    com.motorola.actions:
+      uk.org.ngo.squeezer
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=1023
+  User 0:
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=692, package=org.billthefarmer.print
+    seq=696, package=net.typeblog.shelter
+    seq=706, package=net.tjado.usbgadget
+    seq=716, package=org.billthefarmer.tuner
+    seq=724, package=org.ddosolitary.okcagent
+    seq=734, package=org.billthefarmer.shorty
+    seq=746, package=org.billthefarmer.notes
+    seq=750, package=org.nitri.opentopo
+    seq=755, package=com.google.android.apps.messaging
+    seq=763, package=org.ebur.debitum
+    seq=769, package=org.liberty.android.freeotpplus
+    seq=777, package=org.ligi.passandroid
+    seq=785, package=org.gateshipone.odyssey
+    seq=791, package=io.github.benoitduffez.cupsprint
+    seq=804, package=org.openhab.habdroid
+    seq=822, package=org.purple.smoke
+    seq=834, package=org.secuso.privacyfriendlyweather
+    seq=842, package=org.primftpd
+    seq=846, package=org.piwigo.android
+    seq=850, package=org.secuso.privacyfriendlypasswordgenerator
+    seq=856, package=org.pocketworkstation.pckeyboard
+    seq=864, package=org.ttrssreader
+    seq=877, package=org.unifiedpush.example
+    seq=886, package=rocks.poopjournal.todont
+    seq=896, package=subins2000.manglish
+    seq=910, package=ru.ra66it.updaterforspotify
+    seq=930, package=ryey.easer
+    seq=940, package=se.pp.mc.android.Gerberoid
+    seq=952, package=org.strongswan.android
+    seq=960, package=com.google.android.tts
+    seq=973, package=com.google.android.gms
+    seq=977, package=com.google.android.calendar
+    seq=979, package=org.unifiedpush.distributor.noprovider2push
+    seq=987, package=org.y20k.trackbook
+    seq=993, package=org.transdroid.lite
+    seq=1000, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=1001, package=com.wparam.nullkeyboard
+    seq=1002, package=com.google.android.ims
+    seq=1003, package=com.github.ruleant.getback_gps
+    seq=1004, package=org.zwanoo.android.speedtest
+    seq=1005, package=org.y20k.transistor
+    seq=1010, package=com.google.android.contacts
+    seq=1011, package=com.google.android.trichromelibrary_469207033
+    seq=1012, package=com.android.chrome
+    seq=1013, package=com.google.android.apps.youtube.music
+    seq=1014, package=tech.projectmatris.antimalwareapp
+    seq=1016, package=com.google.android.apps.docs
+    seq=1020, package=org.tengel.planisphere
+    seq=1021, package=io.github.ylimit.droidbotapp
+    seq=1022, package=uk.org.ngo.squeezer
+
+
+Dexopt state:
+  [uk.org.ngo.squeezer]
+    path: /data/app/~~RLrQpXERouAtW3Z9tl65cg==/uk.org.ngo.squeezer-UsIPhwFENQfCAT-zu6Gi8w==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [uk.org.ngo.squeezer]
+     base.apk - 941
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

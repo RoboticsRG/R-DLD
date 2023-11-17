@@ -1,0 +1,42 @@
+{
+  "stop_state": "8f09b0ea5da58989888261d9b074a6c5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172430", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Acre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "106*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          901
+        ], 
+        [
+          473, 
+          957
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 40, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8f09b0ea5da58989888261d9b074a6c5"
+}

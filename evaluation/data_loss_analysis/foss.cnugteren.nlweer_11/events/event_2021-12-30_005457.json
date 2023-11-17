@@ -1,0 +1,44 @@
+{
+  "stop_state": "7cd3b8895a5c17801f8735f812ac1529", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-30_005457", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "721*1407", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          721, 
+          1559
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7cd3b8895a5c17801f8735f812ac1529"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "bb4abd84d73e28994630f425e421aad2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_142402", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.limelight:id/helpButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "123*114", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          123, 
+          54
+        ], 
+        [
+          246, 
+          168
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "809a5a88cd2288bb312ba37a0547ae45"
+}

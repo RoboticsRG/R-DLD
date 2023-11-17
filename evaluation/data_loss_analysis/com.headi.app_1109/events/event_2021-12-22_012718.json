@@ -1,0 +1,89 @@
+{
+  "stop_state": "3270d429c9350eb5312a440fa6d632c5", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-22_012718", 
+  "event": {
+    "views_str": [
+      "2a47840185660fbc4b86f0424666e97d", 
+      "c982880f104f25d22b9db14ff62fe80c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.headi.app:id/filter_from_date", 
+        "text": "From date", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "274*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.headi.app:id/filter_from_date", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.headi.app", 
+        "long_clickable": true, 
+        "view_str": "2a47840185660fbc4b86f0424666e97d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            74, 
+            738
+          ], 
+          [
+            348, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.headi.app:id/filter_from_date[text]From date[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.headi.app:id/filter_to_date", 
+        "text": "To date", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "274*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.headi.app:id/filter_to_date", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.headi.app", 
+        "long_clickable": true, 
+        "view_str": "c982880f104f25d22b9db14ff62fe80c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            371, 
+            738
+          ], 
+          [
+            645, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.headi.app:id/filter_to_date[text]To date[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "851abd18434868089a18c91522ca5554"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "6f3b703dafb7552efc31a20061e0ec60", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_160043", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/spinner_profile", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "475*76", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          133, 
+          326
+        ], 
+        [
+          608, 
+          402
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a97aaae38a1f420b78482c31e85af1d2"
+}

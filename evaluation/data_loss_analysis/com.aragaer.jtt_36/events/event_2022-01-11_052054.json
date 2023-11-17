@@ -1,0 +1,42 @@
+{
+  "stop_state": "3669339b740d414b093c8ec1e3e92c05", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_052054", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "311*53", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.aragaer.jtt", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          311, 
+          54
+        ], 
+        [
+          622, 
+          107
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c330b266e88e563d95bc930ce21e4089"
+}

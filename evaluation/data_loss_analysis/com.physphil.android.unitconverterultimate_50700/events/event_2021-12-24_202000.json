@@ -1,0 +1,42 @@
+{
+  "stop_state": "daf39e0d9975ec2fa41b675ca71a9621", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_202000", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Knot", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "108*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          621
+        ], 
+        [
+          475, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cd71e294d6e68b9cb4dff691319c6570"
+}

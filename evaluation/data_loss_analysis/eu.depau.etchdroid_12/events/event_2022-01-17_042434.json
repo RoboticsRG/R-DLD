@@ -1,0 +1,42 @@
+{
+  "stop_state": "2a3aca60aac40b76b7de7ed669c3b665", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-17_042434", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.depau.etchdroid:id/btn_broken_usb", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "678*153", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "eu.depau.etchdroid", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          1384
+        ], 
+        [
+          699, 
+          1537
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "18f6c605bbff8718c3e90c19697353eb"
+}

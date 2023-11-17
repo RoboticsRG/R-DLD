@@ -1,0 +1,42 @@
+{
+  "stop_state": "bead51467ad01491ebfa62b4d624f141", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_212334", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.etesync.syncadapter:id/create_account", 
+      "text": "SIGN UP", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "212*91", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          1453
+        ], 
+        [
+          226, 
+          1544
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "02a59b4f9fdad950287de7079714bd93"
+}

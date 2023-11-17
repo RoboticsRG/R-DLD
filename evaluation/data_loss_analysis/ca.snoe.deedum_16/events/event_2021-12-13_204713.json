@@ -1,0 +1,42 @@
+{
+  "stop_state": "780fbfd26b387fce6f05da1ff505c981", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_204713", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "2020-07-11 18:43 Implement proxy_all for proxy\u2026 Hannu Hartikainen <hannu.hartikainen@gmail.com>", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*140", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          702
+        ], 
+        [
+          690, 
+          842
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e16da7b4edfde7dfd56ef44dd0d9bcbc"
+}

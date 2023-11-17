@@ -1,0 +1,51 @@
+{
+  "stop_state": "0021448a3e8dcbf21d4e770df771d0bf", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-22_231317", 
+  "event": {
+    "views_str": [
+      "b3f0dbc25956ded974b6bf707727972a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.reecedunn.espeak:id/editText1", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*280", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.reecedunn.espeak:id/editText1", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.reecedunn.espeak", 
+        "long_clickable": true, 
+        "view_str": "b3f0dbc25956ded974b6bf707727972a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            420
+          ], 
+          [
+            706, 
+            700
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.reecedunn.espeak:id/editText1[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "52b8350bf2d6d186552c8fdfae92b36d"
+}

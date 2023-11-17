@@ -1,0 +1,42 @@
+{
+  "stop_state": "b9efcfcb8b9a64ea4cf12677b1e4e7b9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_014457", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/nav_buienradar_sun", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "490*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1178
+        ], 
+        [
+          490, 
+          1262
+        ]
+      ], 
+      "class": "androidx.appcompat.widget.LinearLayoutCompat", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "99bcfca50e3bccee3bd7f7c5c5cb50fb"
+}

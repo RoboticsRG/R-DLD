@@ -1,0 +1,89 @@
+{
+  "stop_state": "864abbc8bb3f1ae7d01d917759769e9a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_202714", 
+  "event": {
+    "views_str": [
+      "252868ab8b13d6324eaa69e156c80507", 
+      "979ca02ccc1b180caf6b9ae3e95c4a94"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "geminispace.info/search", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "252868ab8b13d6324eaa69e156c80507", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]geminispace.info/search[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "655*85", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "979ca02ccc1b180caf6b9ae3e95c4a94", 
+        "enabled": true, 
+        "bounds": [
+          [
+            35, 
+            226
+          ], 
+          [
+            690, 
+            311
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6d9571f80eb9e774990fd6d3be76d59d"
+}

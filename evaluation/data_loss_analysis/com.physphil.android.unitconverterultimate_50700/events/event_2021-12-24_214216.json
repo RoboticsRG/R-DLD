@@ -1,0 +1,42 @@
+{
+  "stop_state": "2597c85a510e71d6f6451d04d88d4a26", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_214216", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HP (mechanical)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "243*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          621
+        ], 
+        [
+          610, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 36, 
+    "event_type": "touch"
+  }, 
+  "start_state": "237c261e37c4a43a686736033cb742f9"
+}

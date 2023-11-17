@@ -1,0 +1,89 @@
+{
+  "stop_state": "f31e4e3c502d5ca3e0c0c2273bef5a40", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_150114", 
+  "event": {
+    "views_str": [
+      "b12e4b3e312f26d7a2d1085cc8a528eb", 
+      "2dafa4289b4318fa49077850413c717b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "text": "HelloWorldtest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "b12e4b3e312f26d7a2d1085cc8a528eb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            321
+          ], 
+          [
+            692, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name[text]HelloWorldtest123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_description", 
+        "text": "HelloWorldtest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "2dafa4289b4318fa49077850413c717b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            429
+          ], 
+          [
+            692, 
+            508
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description[text]HelloWorldtest123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "54ab2d61d551d04a8e836ff8d4d10c4c"
+}

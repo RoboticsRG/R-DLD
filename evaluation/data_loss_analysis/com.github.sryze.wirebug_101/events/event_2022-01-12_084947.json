@@ -1,0 +1,42 @@
+{
+  "stop_state": "d276e050cd814d04906cfcf71d4df96b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_084947", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.sryze.wirebug:id/switch_enable_debugging", 
+      "text": "ENABLE DEBUGGING OVER WI-FI", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.sryze.wirebug", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          180
+        ], 
+        [
+          692, 
+          264
+        ]
+      ], 
+      "class": "android.widget.ToggleButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d276e050cd814d04906cfcf71d4df96b"
+}

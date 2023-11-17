@@ -1,0 +1,42 @@
+{
+  "stop_state": "a1c3479ec611dfd7da39323be1569bde", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_222004", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.ruleant.getback_gps:id/menu_storelocation", 
+      "text": "SALVAR LOCALIZA\u00c7\u00c3O", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "250*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          272, 
+          54
+        ], 
+        [
+          522, 
+          138
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8475e9b55af688a1fee3f997943bb4c2"
+}

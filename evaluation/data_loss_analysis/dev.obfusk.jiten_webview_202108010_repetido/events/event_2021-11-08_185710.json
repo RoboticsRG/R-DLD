@@ -1,0 +1,10 @@
+{
+  "stop_state": "aec6124ad67cd3ca5e0c383591cb5e2e", 
+  "event_str": "IntentEvent(intent='am start dev.obfusk.jiten_webview/dev.obfusk.jiten_webview.MainActivity')", 
+  "tag": "2021-11-08_185710", 
+  "event": {
+    "intent": "am start dev.obfusk.jiten_webview/dev.obfusk.jiten_webview.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "a6fd0fbd16a7aa45b019abe0a6b9b6c6"
+}

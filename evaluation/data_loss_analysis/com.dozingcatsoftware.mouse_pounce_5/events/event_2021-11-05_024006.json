@@ -1,0 +1,10 @@
+{
+  "stop_state": "8e333ae6fa33cfb6cb7565ade8b54453", 
+  "event_str": "IntentEvent(intent='am start com.dozingcatsoftware.mouse_pounce/com.dozingcatsoftware.mouse_pounce.MainActivity')", 
+  "tag": "2021-11-05_024006", 
+  "event": {
+    "intent": "am start com.dozingcatsoftware.mouse_pounce/com.dozingcatsoftware.mouse_pounce.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f9ec5cfa754da785a36b6488a28cb548"
+}

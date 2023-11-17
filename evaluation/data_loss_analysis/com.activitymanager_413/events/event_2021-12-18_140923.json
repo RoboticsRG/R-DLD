@@ -1,0 +1,51 @@
+{
+  "stop_state": "3f6bc89052411fe451d01e17fcb30461", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-18_140923", 
+  "event": {
+    "views_str": [
+      "dc38c6f0a67a9985b844b6d6faa4acad"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.activitymanager:id/label", 
+        "text": "RequestNotificationAccessActivity", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "585*98", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/label", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.activitymanager", 
+        "long_clickable": true, 
+        "view_str": "dc38c6f0a67a9985b844b6d6faa4acad", 
+        "enabled": true, 
+        "bounds": [
+          [
+            67, 
+            830
+          ], 
+          [
+            652, 
+            928
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.activitymanager:id/label[text]RequestNotificationAccessActivity[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a2f2535d2ac154548a1f173896b20672"
+}

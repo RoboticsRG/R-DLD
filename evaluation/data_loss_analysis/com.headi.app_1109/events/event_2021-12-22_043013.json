@@ -1,0 +1,42 @@
+{
+  "stop_state": "f252c37a91ce8005da1abed489f817c6", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_043013", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Export diary as PDF", 
+      "resource_id": "com.headi.app:id/action_diary_export_pdf", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          552, 
+          61
+        ], 
+        [
+          636, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d7fdfb23724ffcc94fc58565997db504"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "bd104ca62ed7405148830bee073f658e", 
+  "event_str": "IntentEvent(intent='am start org.softcatala.traductor/org.softcatala.traductor.TraductorSoftcatalaActivity')", 
+  "tag": "2022-01-19_090728", 
+  "event": {
+    "intent": "am start org.softcatala.traductor/org.softcatala.traductor.TraductorSoftcatalaActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "d7b18c69ed39a34609d20f070c7bb856"
+}

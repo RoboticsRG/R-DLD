@@ -1,0 +1,42 @@
+{
+  "stop_state": "0c70e6f50a1a9c56b4dd73d0726d1cf6", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_022514", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "4.5 %", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          484, 
+          547
+        ], 
+        [
+          596, 
+          631
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0c70e6f50a1a9c56b4dd73d0726d1cf6"
+}

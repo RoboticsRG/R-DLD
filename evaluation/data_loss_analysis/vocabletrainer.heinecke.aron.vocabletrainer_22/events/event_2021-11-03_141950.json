@@ -1,0 +1,42 @@
+{
+  "stop_state": "8dbd95896afb660a8d2ff9a9cf04c42c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_141950", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Remove Meaning", 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/btnMeaning", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "42*42", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          606, 
+          420
+        ], 
+        [
+          648, 
+          462
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8dbd95896afb660a8d2ff9a9cf04c42c"
+}

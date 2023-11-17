@@ -1,0 +1,42 @@
+{
+  "stop_state": "b2b059314a167d7ec7c72e56c4ccef3a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_154243", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_launcher_shortcut", 
+      "text": "Show as app shortcut on launcher", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          180
+        ], 
+        [
+          692, 
+          264
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "835f39dfba20a868dccc085647db934c"
+}

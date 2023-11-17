@@ -1,0 +1,42 @@
+{
+  "stop_state": "f19d0503aea5c8fd101c178bcf5a47a9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_223749", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Salvado", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "144*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          144, 
+          1460
+        ], 
+        [
+          288, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0124ba2b0218ae40f146bfb8e1fc85ac"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "6b481ef52e3ec8c16641d4d9e45b5a45", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-24_151928", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*128", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          366
+        ], 
+        [
+          720, 
+          494
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6b481ef52e3ec8c16641d4d9e45b5a45"
+}

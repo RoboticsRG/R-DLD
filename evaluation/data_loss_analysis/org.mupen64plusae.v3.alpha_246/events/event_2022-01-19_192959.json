@@ -1,0 +1,44 @@
+{
+  "stop_state": "34990b01ed1f0bd77e691f63a499a3da", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-19_192959", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/drawerNavigation", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "490*1504", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          490, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ExpandableListView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6df861111fb645a72242d770bb64a7b9"
+}

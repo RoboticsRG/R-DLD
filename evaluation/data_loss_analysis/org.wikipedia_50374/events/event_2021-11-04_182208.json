@@ -1,0 +1,241 @@
+{
+  "stop_state": "1c365dbf4d446bf738d459958f73c2fb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_182208", 
+  "event": {
+    "views_str": [
+      "736c90140b98d870aa50b64973e29d56", 
+      "736c90140b98d870aa50b64973e29d56", 
+      "7564000a1fad852c66f85401b09e9a84", 
+      "736c90140b98d870aa50b64973e29d56", 
+      "7564000a1fad852c66f85401b09e9a84", 
+      "736c90140b98d870aa50b64973e29d56"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "736c90140b98d870aa50b64973e29d56", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            534
+          ], 
+          [
+            692, 
+            618
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]ATIVADO[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "736c90140b98d870aa50b64973e29d56", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            691
+          ], 
+          [
+            692, 
+            775
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]ATIVADO[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "DESATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "7564000a1fad852c66f85401b09e9a84", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1066
+          ], 
+          [
+            692, 
+            1150
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]DESATIVADO[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "736c90140b98d870aa50b64973e29d56", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1192
+          ], 
+          [
+            692, 
+            1276
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]ATIVADO[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "DESATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 62, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "7564000a1fad852c66f85401b09e9a84", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1376
+          ], 
+          [
+            692, 
+            1460
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]DESATIVADO[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchWidget", 
+        "text": "ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*28", 
+        "checked": true, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "736c90140b98d870aa50b64973e29d56", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1530
+          ], 
+          [
+            692, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchWidget[text]ATIVADO[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "1c365dbf4d446bf738d459958f73c2fb"
+}

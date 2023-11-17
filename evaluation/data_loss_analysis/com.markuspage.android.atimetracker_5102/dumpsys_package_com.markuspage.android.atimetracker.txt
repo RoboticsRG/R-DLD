@@ -1,0 +1,148 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        82ddc22 com.markuspage.android.atimetracker/.Activities filter 8e546b3
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        69bd470 com.markuspage.android.atimetracker/.ActivityTimes filter 9b3c3e9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+        671986e com.markuspage.android.atimetracker/.EditTime filter de39b0f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+        fc1c79c com.markuspage.android.atimetracker/.Report filter efbb5a5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+        522cd7a com.markuspage.android.atimetracker/.Settings filter c8d92b
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+
+Key Set Manager:
+  [com.markuspage.android.atimetracker]
+      Signing KeySets: 604
+
+Packages:
+  Package [com.markuspage.android.atimetracker] (34b5ed):
+    userId=10685
+    sharedUser=SharedUserSetting{5b4ff4f com.markuspage.android.atimetracker/10685}
+    pkg=Package{9f4f6dc com.markuspage.android.atimetracker}
+    codePath=/data/app/~~t336qYQWKq7GA2cC9B0l7g==/com.markuspage.android.atimetracker-TyqElc--k8DdUgm__6rwSw==
+    resourcePath=/data/app/~~t336qYQWKq7GA2cC9B0l7g==/com.markuspage.android.atimetracker-TyqElc--k8DdUgm__6rwSw==
+    legacyNativeLibraryDir=/data/app/~~t336qYQWKq7GA2cC9B0l7g==/com.markuspage.android.atimetracker-TyqElc--k8DdUgm__6rwSw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5102 minSdk=23 targetSdk=26
+    versionName=0.51.2
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{9f4f6dc com.markuspage.android.atimetracker}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.markuspage.android.atimetracker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-12 03:43:26
+    firstInstallTime=2022-01-12 03:43:26
+    lastUpdateTime=2022-01-12 03:43:26
+    signatures=PackageSignatures{aac53e5 version:1, signatures:[a42b40bf], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.VIBRATE
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.VIBRATE: granted=true
+    User 0: ceDataInode=16885 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.markuspage.android.atimetracker
+    com.motorola.actions:
+      com.markuspage.android.atimetracker
+    com.google.android.contacts:
+      com.markuspage.android.atimetracker
+    com.google.android.gm:
+      com.markuspage.android.atimetracker
+    com.google.android.youtube:
+      com.markuspage.android.atimetracker
+  queryable via interaction:
+    User 0:
+
+Shared users:
+  SharedUser [com.markuspage.android.atimetracker] (5b4ff4f):
+    userId=10685
+    Packages
+      PackageSetting{34b5ed com.markuspage.android.atimetracker/10685}
+    install permissions:
+      android.permission.VIBRATE: granted=true
+    User 0: 
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED]
+
+Package Changes:
+  Sequence number=156
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=93, package=com.google.android.tts
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=131, package=com.google.android.contacts
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=147, package=com.motorola.livewallpaper3
+    seq=151, package=com.gimranov.zandy.app
+    seq=153, package=com.google.android.apps.docs
+    seq=154, package=io.github.ylimit.droidbotapp
+    seq=155, package=com.markuspage.android.atimetracker
+
+
+Dexopt state:
+  [com.markuspage.android.atimetracker]
+    path: /data/app/~~t336qYQWKq7GA2cC9B0l7g==/com.markuspage.android.atimetracker-TyqElc--k8DdUgm__6rwSw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.markuspage.android.atimetracker]
+     base.apk - 588
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,42 @@
+{
+  "stop_state": "81b3ef8357003450c3af5a70cdb1a9aa", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_052118", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.nihilus.music:id/card", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*126", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          264
+        ], 
+        [
+          706, 
+          390
+        ]
+      ], 
+      "class": "androidx.cardview.widget.CardView", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c9cb7e43f7743b807189d9a812c37034"
+}

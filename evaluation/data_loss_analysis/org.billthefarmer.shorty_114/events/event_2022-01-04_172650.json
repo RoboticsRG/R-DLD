@@ -1,0 +1,42 @@
+{
+  "stop_state": "d6c5781486a8e8823c332cd6363615e2", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_172650", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "BBC 6 Music", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          779
+        ], 
+        [
+          706, 
+          863
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5694e971920f8791a0dcac5fb573bda2"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "a3c655cab8c6762ca4a881ef81bb6410", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_234835", 
+  "event": {
+    "views_str": [
+      "9b43827cdddf22e617603d88b74197b9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "517*63", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": true, 
+        "view_str": "9b43827cdddf22e617603d88b74197b9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            119, 
+            63
+          ], 
+          [
+            636, 
+            126
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "517303d2f3b286354ed1058261b9815f"
+}

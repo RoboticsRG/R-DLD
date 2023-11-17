@@ -1,0 +1,44 @@
+{
+  "stop_state": "b72c97f3f641f8adbec68f28c9e2d5e4", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-21_205121", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.cvzi.screenshottile:id/viewPager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*1377", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          181
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "androidx.viewpager.widget.ViewPager", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2257e1dad99d4561fedcb042916745ee"
+}

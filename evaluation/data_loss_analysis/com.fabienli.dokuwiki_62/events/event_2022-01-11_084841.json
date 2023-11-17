@@ -1,0 +1,51 @@
+{
+  "stop_state": "1fa710a48c2f29125cc0bab838379954", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_084841", 
+  "event": {
+    "views_str": [
+      "f3fb456a89c7f8093c51e346b9b7c831"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fabienli.dokuwiki:id/edit_text", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "720*1406", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fabienli.dokuwiki:id/edit_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fabienli.dokuwiki", 
+        "long_clickable": true, 
+        "view_str": "f3fb456a89c7f8093c51e346b9b7c831", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            152
+          ], 
+          [
+            720, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fabienli.dokuwiki:id/edit_text[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5fb26f9db3f9d11b3531b44b4b685ef7"
+}

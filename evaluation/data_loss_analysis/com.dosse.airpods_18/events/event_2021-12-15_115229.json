@@ -1,0 +1,42 @@
+{
+  "stop_state": "cd689e33a4983b5e05f48460a10c3d0f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_115229", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Settings", 
+      "resource_id": "com.dosse.airpods:id/menu_ab_settings", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "95*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dosse.airpods", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          625, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "10ea4ae917bcb36f9d3b9bae978644a8"
+}

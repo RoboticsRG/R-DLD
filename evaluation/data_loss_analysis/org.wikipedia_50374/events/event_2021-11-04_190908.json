@@ -1,0 +1,42 @@
+{
+  "stop_state": "2390b94fa197660a87a605a35cc5c903", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_190908", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/search_src_text", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "418*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          71
+        ], 
+        [
+          544, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2390b94fa197660a87a605a35cc5c903"
+}

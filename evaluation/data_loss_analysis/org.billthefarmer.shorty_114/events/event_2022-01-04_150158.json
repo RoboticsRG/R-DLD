@@ -1,0 +1,89 @@
+{
+  "stop_state": "0e44d3e0eeaf0d6955ceb1bd06ddbff4", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_150158", 
+  "event": {
+    "views_str": [
+      "f8a34bd504662d63d84f917c956baadb", 
+      "e219c5d9749a45d25d7408d961b5af93"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": false, 
+        "view_str": "f8a34bd504662d63d84f917c956baadb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            629, 
+            159
+          ], 
+          [
+            685, 
+            215
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": false, 
+        "view_str": "e219c5d9749a45d25d7408d961b5af93", 
+        "enabled": true, 
+        "bounds": [
+          [
+            629, 
+            243
+          ], 
+          [
+            685, 
+            299
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a733f364dc68c03799bd1c68b483834a"
+}

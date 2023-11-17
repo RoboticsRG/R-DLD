@@ -1,0 +1,42 @@
+{
+  "stop_state": "2d06ba8b50081d93a90a697ae720e81f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-19_143812", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "DISMISS MESSAGE FOREVER", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "372*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jovial.jrpn", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          280, 
+          1107
+        ], 
+        [
+          652, 
+          1202
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1952c65c7d81c2c8e697046411115206"
+}

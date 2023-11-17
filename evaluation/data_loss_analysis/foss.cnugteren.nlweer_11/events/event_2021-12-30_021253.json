@@ -1,0 +1,43 @@
+{
+  "stop_state": "6a4b144200f43f586c126b5d8a65b186", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-30_021253", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "52.37test123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "557*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          81, 
+          749
+        ], 
+        [
+          638, 
+          828
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "0c278649f1e7c20ba0f98ad2c3a8a57a"
+}

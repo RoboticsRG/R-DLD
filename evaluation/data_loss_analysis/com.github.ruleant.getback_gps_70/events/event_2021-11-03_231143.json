@@ -1,0 +1,42 @@
+{
+  "stop_state": "01e6aac5dcc8e493b0c8766ebe85e430", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_231143", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*128", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          424
+        ], 
+        [
+          692, 
+          552
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5cfffd8dcebca95d90a7dc243a0f0476"
+}

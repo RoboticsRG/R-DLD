@@ -1,0 +1,42 @@
+{
+  "stop_state": "a332448b5294af834eb7b1b5e7e62d21", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_230530", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "PERUUTA", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "151*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          501, 
+          917
+        ], 
+        [
+          652, 
+          1012
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e05fe97cfa983c48d28d9baa263823e6"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "ae25f4afb7514bbd9fc897319ded8708", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_040231", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*94", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "grmpl.mk.stepandheightcounter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          336
+        ], 
+        [
+          720, 
+          430
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "32ca190c563ca372c9f739b74d1fc8a5"
+}

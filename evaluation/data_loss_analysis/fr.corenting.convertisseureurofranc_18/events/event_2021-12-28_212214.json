@@ -1,0 +1,43 @@
+{
+  "stop_state": "0c7996e3394285db30796a76d1b73e93", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-28_212214", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/sumToConvertText", 
+      "text": "Amount to convert (dollars)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          317
+        ], 
+        [
+          692, 
+          415
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "331f4bb81c7372183d73ab54a63adc39"
+}

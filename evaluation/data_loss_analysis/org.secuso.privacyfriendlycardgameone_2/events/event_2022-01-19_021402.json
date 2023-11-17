@@ -1,0 +1,43 @@
+{
+  "stop_state": "09f9098dbbf17161424e36b58e15d1c2", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-19_021402", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+      "text": "HelloWorldtest123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "591*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          64, 
+          820
+        ], 
+        [
+          655, 
+          899
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "80a0e658838991caae8386f52404bd91"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "a83977f346f30f0fd2eb50eb0503bdeb", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_185711", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Joule", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "117*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          341
+        ], 
+        [
+          124, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 21, 
+    "event_type": "touch"
+  }, 
+  "start_state": "72bb35059c4e6aeffc8a66cdc54e4075"
+}

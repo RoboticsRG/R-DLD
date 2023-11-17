@@ -1,0 +1,44 @@
+{
+  "stop_state": "7cc186d2ba76794fd9c094472b2bca52", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-18_141057", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 26, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.activitymanager:id/list", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1406", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "androidx.recyclerview.widget.RecyclerView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7cc186d2ba76794fd9c094472b2bca52"
+}

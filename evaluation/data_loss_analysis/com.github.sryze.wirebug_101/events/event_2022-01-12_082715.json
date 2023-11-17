@@ -1,0 +1,51 @@
+{
+  "stop_state": "d276e050cd814d04906cfcf71d4df96b", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_082715", 
+  "event": {
+    "views_str": [
+      "1259cff7aff41b41d4aefde092c350f3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.sryze.wirebug:id/switch_enable_debugging", 
+        "text": "ENABLE DEBUGGING OVER WI-FI", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]com.github.sryze.wirebug:id/switch_enable_debugging", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "com.github.sryze.wirebug", 
+        "long_clickable": false, 
+        "view_str": "1259cff7aff41b41d4aefde092c350f3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            264
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]com.github.sryze.wirebug:id/switch_enable_debugging[text]ENABLE DEBUGGING OVER WI-FI[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d276e050cd814d04906cfcf71d4df96b"
+}

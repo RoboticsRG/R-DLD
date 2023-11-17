@@ -1,0 +1,42 @@
+{
+  "stop_state": "444d9f52b235df091c50540a243c7f83", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_134117", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "mattecarra.accapp:id/md_button_positive", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*91", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "mattecarra.accapp", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          545, 
+          862
+        ], 
+        [
+          657, 
+          953
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6476b2af843a73367336d26a01c3632f"
+}

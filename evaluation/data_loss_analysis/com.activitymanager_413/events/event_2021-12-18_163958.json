@@ -1,0 +1,49 @@
+{
+  "stop_state": "a5b2c14210f37bf3ef19770fc188ffb9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_163958", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "OK", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "112*95", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "view_str": "aeb0ffa6c9aaf31b7afea68af38f95ca", 
+      "enabled": false, 
+      "bounds": [
+        [
+          479, 
+          882
+        ], 
+        [
+          591, 
+          977
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]OK[,,]"
+    }, 
+    "id": null, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a5b2c14210f37bf3ef19770fc188ffb9"
+}

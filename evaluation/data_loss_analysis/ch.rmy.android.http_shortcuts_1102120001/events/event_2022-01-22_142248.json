@@ -1,0 +1,42 @@
+{
+  "stop_state": "d91f01ca0c74f7b1654fb55c0f7274c7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_142248", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/md_button_negative", 
+      "text": "CANCEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "151*91", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          394, 
+          862
+        ], 
+        [
+          545, 
+          953
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "693e59582c18fd183057afaa617e5869"
+}

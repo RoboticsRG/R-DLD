@@ -1,0 +1,42 @@
+{
+  "stop_state": "74ce89f686feba73d9fe0c59ca77e870", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_212855", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] Aerozine, a Gemini server written in Rust, focussed on configurability", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*101", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          875
+        ], 
+        [
+          690, 
+          976
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "312bce66fef260ee5e82f4e7854621a0"
+}

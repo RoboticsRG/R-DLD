@@ -1,0 +1,42 @@
+{
+  "stop_state": "f3ae55c4a8ad8acf71b055b3df947a03", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_111100", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAllowTips", 
+      "text": "Allow Hints", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "706*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          250
+        ], 
+        [
+          720, 
+          334
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5bb436da9a22f8b414a9efc37e1147c6"
+}

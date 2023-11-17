@@ -1,0 +1,89 @@
+{
+  "stop_state": "4aa8fa3f9aa95e166b34d83089f3be06", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_171746", 
+  "event": {
+    "views_str": [
+      "cb990515f846155a11f26f29c51b38cf", 
+      "1519cc45c295ea2f238465fcdce32e86"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/key_value_key", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "524*79", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/key_value_key", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "cb990515f846155a11f26f29c51b38cf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            98, 
+            743
+          ], 
+          [
+            622, 
+            822
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/key_value_key[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/key_value_value", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "524*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/key_value_value", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "1519cc45c295ea2f238465fcdce32e86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            98, 
+            851
+          ], 
+          [
+            622, 
+            930
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/key_value_value[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fe49e220410f287f4a645f0f92d3b0fa"
+}

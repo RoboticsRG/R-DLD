@@ -1,0 +1,42 @@
+{
+  "stop_state": "4c20975a76dfe90e163b3cc73533b9ce", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_125104", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*94", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.ddosolitary.okcagent", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          246
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7373a7d74fb27bc1bc601bb749f41a0f"
+}

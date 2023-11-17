@@ -1,0 +1,43 @@
+{
+  "stop_state": "3172055776ca9d9a0e1eac08edc82562", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_053710", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+      "text": "Lushlife ProjeHelloWHelloWorldHelloWorldorld MouHelloWorldHelloWorldth Harp Path", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "591*155", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          64, 
+          782
+        ], 
+        [
+          655, 
+          937
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "3172055776ca9d9a0e1eac08edc82562"
+}

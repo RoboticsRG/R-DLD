@@ -1,0 +1,42 @@
+{
+  "stop_state": "7a3af3b5f5dca054b871d59420e0a904", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_214046", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/switchWidget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          895
+        ], 
+        [
+          692, 
+          979
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "37dfdcd6b0bbc49fbff405c415491b80"
+}

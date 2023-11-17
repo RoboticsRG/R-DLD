@@ -1,0 +1,165 @@
+{
+  "stop_state": "5f1967f42bfe06eb967f2d563cc016fb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_074041", 
+  "event": {
+    "views_str": [
+      "89ec5d64714c9d6bca3945428e8b1df9", 
+      "dd857d4d3e8ad2c082a68453e32394fe", 
+      "7c2bcb6e8332c6517abb37a84436e04b", 
+      "05f014c9d33b24f1fec6b357399e2300"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input_hour", 
+        "text": "7", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "88*83", 
+        "checked": false, 
+        "temp_id": 126, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input_hour", 
+        "is_password": false, 
+        "parent": 125, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "89ec5d64714c9d6bca3945428e8b1df9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            1180
+          ], 
+          [
+            116, 
+            1263
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input_hour[text]7[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input_minute", 
+        "text": "39", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "88*83", 
+        "checked": false, 
+        "temp_id": 128, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input_minute", 
+        "is_password": false, 
+        "parent": 125, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "dd857d4d3e8ad2c082a68453e32394fe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            116, 
+            1180
+          ], 
+          [
+            204, 
+            1263
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input_minute[text]39[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/am_label", 
+        "text": "AM", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "44*-699", 
+        "checked": true, 
+        "temp_id": 248, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/am_label", 
+        "is_password": false, 
+        "parent": 247, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": false, 
+        "view_str": "7c2bcb6e8332c6517abb37a84436e04b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            508, 
+            2257
+          ], 
+          [
+            552, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/am_label[text]AM[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/pm_label", 
+        "text": "PM", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "43*-746", 
+        "checked": false, 
+        "temp_id": 249, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/pm_label", 
+        "is_password": false, 
+        "parent": 247, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": false, 
+        "view_str": "05f014c9d33b24f1fec6b357399e2300", 
+        "enabled": true, 
+        "bounds": [
+          [
+            508, 
+            2304
+          ], 
+          [
+            551, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/pm_label[text]PM[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4ad3cbcd6f94dce326d6b1dc8d43d81f"
+}

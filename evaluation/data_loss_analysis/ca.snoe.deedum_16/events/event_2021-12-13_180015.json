@@ -1,0 +1,10 @@
+{
+  "stop_state": "e70cef1495d9d9aa2ae92e5eeec0e716", 
+  "event_str": "IntentEvent(intent='am start ca.snoe.deedum/ca.snoe.deedum.MainActivity')", 
+  "tag": "2021-12-13_180015", 
+  "event": {
+    "intent": "am start ca.snoe.deedum/ca.snoe.deedum.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "1d00d9fe78e591cd144e6f6fa035866c"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "97f1c25a418b4b02775fe2e093e4b721", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_204046", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": "Limpar consulta", 
+      "resource_id": "org.wikipedia:id/search_close_btn", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "28*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          674, 
+          71
+        ], 
+        [
+          702, 
+          134
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "97f1c25a418b4b02775fe2e093e4b721"
+}

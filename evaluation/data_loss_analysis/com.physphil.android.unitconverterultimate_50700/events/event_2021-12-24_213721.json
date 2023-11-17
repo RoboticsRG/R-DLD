@@ -1,0 +1,42 @@
+{
+  "stop_state": "b5f6dad3792522ecaa21a848a44b1eec", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213721", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "PSI", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "94*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          621
+        ], 
+        [
+          101, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 29, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9ddf4a996e32beff3f04e8e08ba62cd4"
+}

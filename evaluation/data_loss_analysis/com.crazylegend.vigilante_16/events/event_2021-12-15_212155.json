@@ -1,0 +1,43 @@
+{
+  "stop_state": "50186f0f7cf147dd2e049f96b0f6f04e", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-15_212155", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/inputPasswordLength", 
+      "text": "\u5bc6\u7801\u957f\u5ea6", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "650*107", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1254
+        ], 
+        [
+          685, 
+          1361
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "50186f0f7cf147dd2e049f96b0f6f04e"
+}

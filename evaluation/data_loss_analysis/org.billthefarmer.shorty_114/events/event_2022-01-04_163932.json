@@ -1,0 +1,43 @@
+{
+  "stop_state": "d4be41667df2397270fe4e8d26a00884", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-04_163932", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "test123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "425*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          140, 
+          71
+        ], 
+        [
+          565, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d4be41667df2397270fe4e8d26a00884"
+}

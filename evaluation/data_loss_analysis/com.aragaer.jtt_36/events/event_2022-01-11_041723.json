@@ -1,0 +1,89 @@
+{
+  "stop_state": "b1c910662f84770ce97259a894f79f6d", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_041723", 
+  "event": {
+    "views_str": [
+      "80c52ddeb766bbc5cf4e2ed90d6b0826", 
+      "67e0a95d6e1b64e1eca942622fc33a9c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": false, 
+        "view_str": "80c52ddeb766bbc5cf4e2ed90d6b0826", 
+        "enabled": true, 
+        "bounds": [
+          [
+            604, 
+            535
+          ], 
+          [
+            660, 
+            591
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": false, 
+        "view_str": "67e0a95d6e1b64e1eca942622fc33a9c", 
+        "enabled": false, 
+        "bounds": [
+          [
+            604, 
+            707
+          ], 
+          [
+            660, 
+            763
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "b00eaf65062bea112ae7058658db0bd5"
+}

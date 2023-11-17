@@ -1,0 +1,42 @@
+{
+  "stop_state": "f3c5fd9f749d93ed421e66d1fe77a205", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_155547", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/textBox", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          575
+        ], 
+        [
+          692, 
+          654
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f3c5fd9f749d93ed421e66d1fe77a205"
+}

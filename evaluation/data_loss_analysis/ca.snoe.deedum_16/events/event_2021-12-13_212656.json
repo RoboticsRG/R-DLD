@@ -1,0 +1,43 @@
+{
+  "stop_state": "4e5c5fe05ccecb1a39c122ad5118d56b", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_212656", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 39, 
+    "view": {
+      "content_description": "[https] GLV-1.12556, a Gemini server (in fact, the first!) written in Lua", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*1", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1557
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "4e5c5fe05ccecb1a39c122ad5118d56b"
+}

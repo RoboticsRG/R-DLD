@@ -1,0 +1,42 @@
+{
+  "stop_state": "3e28c674b40dbfa619f3f9ab6521f9d7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_141835", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*52", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          1506
+        ], 
+        [
+          692, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "235e23c1a151804d7f6ffa985325d6b0"
+}

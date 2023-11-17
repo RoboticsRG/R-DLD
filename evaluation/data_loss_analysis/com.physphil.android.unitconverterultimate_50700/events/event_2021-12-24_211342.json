@@ -1,0 +1,42 @@
+{
+  "stop_state": "a69fab335257a348e0ee66b0e2acb482", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_211342", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Hungarian Forint", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "242*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1181
+        ], 
+        [
+          249, 
+          1237
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5540af8a30044ee42a029960d2329122"
+}

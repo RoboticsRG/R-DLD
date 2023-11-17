@@ -1,0 +1,10 @@
+{
+  "stop_state": "d811e514f032f3a32abd3bacb87787da", 
+  "event_str": "IntentEvent(intent='am start com.termux.boot/com.termux.boot.BootActivity')", 
+  "tag": "2021-12-24_161807", 
+  "event": {
+    "intent": "am start com.termux.boot/com.termux.boot.BootActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "5e2af19681a933770d726905871463af"
+}

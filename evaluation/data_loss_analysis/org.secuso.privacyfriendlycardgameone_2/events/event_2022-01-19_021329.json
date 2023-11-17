@@ -1,0 +1,51 @@
+{
+  "stop_state": "80a0e658838991caae8386f52404bd91", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_021329", 
+  "event": {
+    "views_str": [
+      "e3cb51ace68adc82974bda764ae3ea2c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "591*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "e3cb51ace68adc82974bda764ae3ea2c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            64, 
+            820
+          ], 
+          [
+            655, 
+            899
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "07f7e31034777a1a039880f918ff7ab1"
+}

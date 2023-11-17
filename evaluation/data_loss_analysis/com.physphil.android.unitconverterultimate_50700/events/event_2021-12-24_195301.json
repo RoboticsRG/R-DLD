@@ -1,0 +1,42 @@
+{
+  "stop_state": "bf36a8b93898039b04c73a12fb5b50ac", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_195301", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Cubic Metre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "189*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1461
+        ], 
+        [
+          556, 
+          1517
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 79, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fb0039f98f5dee1b472b9fc68b7f8a8f"
+}

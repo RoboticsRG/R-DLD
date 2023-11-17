@@ -1,0 +1,43 @@
+{
+  "stop_state": "8dbd95896afb660a8d2ff9a9cf04c42c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-03_142004", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+      "text": "HelloWorldHelloWtest123orld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "535*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          168
+        ], 
+        [
+          606, 
+          266
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8dbd95896afb660a8d2ff9a9cf04c42c"
+}

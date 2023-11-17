@@ -1,0 +1,42 @@
+{
+  "stop_state": "211f4c3b7239f57e98338e081a4f60dd", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_061201", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.aragaer.jtt", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          604, 
+          541
+        ], 
+        [
+          660, 
+          597
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f957ddbc93729af03b2eb77cf4ea04e0"
+}

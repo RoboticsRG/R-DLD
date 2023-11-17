@@ -1,0 +1,168 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        6ee2fb3 com.simplemobiletools.thankyou/.activities.SplashActivity.Grey_black filter d650970
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        98554e9 com.simplemobiletools.thankyou/.activities.SplashActivity.Blue_grey filter 2da556e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        e12140f com.simplemobiletools.thankyou/.activities.SplashActivity.Brown filter 2694c9c
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        8d556a5 com.simplemobiletools.thankyou/.activities.SplashActivity.Deep_orange filter bda5a7a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        7e5e22b com.simplemobiletools.thankyou/.activities.SplashActivity.Orange filter c9688
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        69b821 com.simplemobiletools.thankyou/.activities.SplashActivity.Amber filter da3a446
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        ede7607 com.simplemobiletools.thankyou/.activities.SplashActivity.Yellow filter d189334
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        e88b55d com.simplemobiletools.thankyou/.activities.SplashActivity.Lime filter a65bed2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        5e26ba3 com.simplemobiletools.thankyou/.activities.SplashActivity.Light_green filter 145aea0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        5a04a59 com.simplemobiletools.thankyou/.activities.SplashActivity.Green filter 5bcf61e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        da61eff com.simplemobiletools.thankyou/.activities.SplashActivity.Teal filter 56714cc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        7023315 com.simplemobiletools.thankyou/.activities.SplashActivity.Cyan filter ebe562a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        3c7ac1b com.simplemobiletools.thankyou/.activities.SplashActivity.Light_blue filter a56b1b8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        d5feb91 com.simplemobiletools.thankyou/.activities.SplashActivity.Blue filter ec3aaf6
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        7aaeef7 com.simplemobiletools.thankyou/.activities.SplashActivity.Indigo filter 2a13164
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        306afcd com.simplemobiletools.thankyou/.activities.SplashActivity.Deep_purple filter 8f78082
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        1158393 com.simplemobiletools.thankyou/.activities.SplashActivity.Purple filter af1ffd0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        fdb7bc9 com.simplemobiletools.thankyou/.activities.SplashActivity.Pink filter 6a122ce
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        48ac5ef com.simplemobiletools.thankyou/.activities.SplashActivity.Red filter d3f48fc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.simplemobiletools.commons.SHARED_THEME_ACTIVATED:
+        b170b85 com.simplemobiletools.thankyou/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter c309dda
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+      com.simplemobiletools.commons.SHARED_THEME_UPDATED:
+        b170b85 com.simplemobiletools.thankyou/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter c309dda
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+
+Registered ContentProviders:
+  com.simplemobiletools.thankyou/.contentproviders.MyContentProvider:
+    Provider{c89d81 com.simplemobiletools.thankyou/.contentproviders.MyContentProvider}
+
+ContentProvider Authorities:
+  [com.simplemobiletools.commons.provider]:
+    Provider{c89d81 com.simplemobiletools.thankyou/.contentproviders.MyContentProvider}
+      applicationInfo=ApplicationInfo{82e8e26 com.simplemobiletools.thankyou}
+
+Key Set Manager:
+  [com.simplemobiletools.thankyou]
+      Signing KeySets: 405
+
+Packages:
+  Package [com.simplemobiletools.thankyou] (9f2bd7c):
+    userId=10488
+    pkg=Package{2864a67 com.simplemobiletools.thankyou}
+    codePath=/data/app/~~i45fUkfxdmaHAjkAlC3rBg==/com.simplemobiletools.thankyou-0MHAH2nZWl3XaHt2O-W96Q==
+    resourcePath=/data/app/~~i45fUkfxdmaHAjkAlC3rBg==/com.simplemobiletools.thankyou-0MHAH2nZWl3XaHt2O-W96Q==
+    legacyNativeLibraryDir=/data/app/~~i45fUkfxdmaHAjkAlC3rBg==/com.simplemobiletools.thankyou-0MHAH2nZWl3XaHt2O-W96Q==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=20 minSdk=21 targetSdk=30
+    versionName=5.3.2
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{2864a67 com.simplemobiletools.thankyou}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/com.simplemobiletools.thankyou
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-25 19:55:50
+    firstInstallTime=2021-12-25 19:55:51
+    lastUpdateTime=2021-12-25 19:55:51
+    signatures=PackageSignatures{834014 version:3, signatures:[935225a0], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=75026 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.simplemobiletools.thankyou
+    com.motorola.actions:
+      com.simplemobiletools.thankyou
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=142
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=67, package=com.google.android.contacts
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=101, package=com.google.android.tts
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=137, package=com.google.android.apps.docs
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=140, package=io.github.ylimit.droidbotapp
+    seq=141, package=com.simplemobiletools.thankyou
+
+
+Dexopt state:
+  [com.simplemobiletools.thankyou]
+    path: /data/app/~~i45fUkfxdmaHAjkAlC3rBg==/com.simplemobiletools.thankyou-0MHAH2nZWl3XaHt2O-W96Q==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.simplemobiletools.thankyou]
+     base.apk - 949
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

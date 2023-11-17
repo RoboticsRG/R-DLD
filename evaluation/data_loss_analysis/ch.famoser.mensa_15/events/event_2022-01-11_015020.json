@@ -1,0 +1,44 @@
+{
+  "stop_state": "86d20deb2b70c00c56d4b1da4bc9a4db", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-11_015020", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.famoser.mensa:id/item_detail_container", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1208", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ch.famoser.mensa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          350
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "86d20deb2b70c00c56d4b1da4bc9a4db"
+}

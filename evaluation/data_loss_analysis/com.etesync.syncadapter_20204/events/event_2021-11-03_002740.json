@@ -1,0 +1,43 @@
+{
+  "stop_state": "27447ddd0a37d3283fe6b5d477176f7a", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-03_002740", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "532*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          95, 
+          828
+        ], 
+        [
+          627, 
+          940
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "27447ddd0a37d3283fe6b5d477176f7a"
+}

@@ -1,0 +1,301 @@
+Activity Resolver Table:
+  Full MIME Types:
+      */*:
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter f49f016
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter a61d97
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Wild MIME Types:
+      *:
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter f49f016
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter a61d97
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      http-shortcuts:
+        d88cb84 ch.rmy.android.http_shortcuts/.activities.misc.DeepLinkActivity filter d590f6d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http-shortcuts"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        62f82c0 ch.rmy.android.http_shortcuts/.activities.main.MainActivity filter c915bf9
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.google.android.gms.actions.SEARCH_ACTION:
+        cecf7a2 ch.rmy.android.http_shortcuts/.activities.misc.VoiceActivity filter da4fc33
+          Action: "com.google.android.gms.actions.SEARCH_ACTION"
+          Category: "android.intent.category.DEFAULT"
+      android.service.quicksettings.action.QS_TILE_PREFERENCES:
+        62f82c0 ch.rmy.android.http_shortcuts/.activities.main.MainActivity filter 260999f
+          Action: "android.service.quicksettings.action.QS_TILE_PREFERENCES"
+      ch.rmy.android.http_shortcuts.execute:
+        e82beb5 ch.rmy.android.http_shortcuts/.activities.ExecuteActivity filter 8c4894a
+          Action: "ch.rmy.android.http_shortcuts.execute"
+        6bf30bb ch.rmy.android.http_shortcuts/.ExecuteActivity filter be2e9d8
+          Action: "ch.rmy.android.http_shortcuts.execute"
+      android.appwidget.action.APPWIDGET_CONFIGURE:
+        62f82c0 ch.rmy.android.http_shortcuts/.activities.main.MainActivity filter 1ea0aec
+          Action: "android.appwidget.action.APPWIDGET_CONFIGURE"
+      com.twofortyfouram.locale.intent.action.EDIT_SETTING:
+        6891bf0 ch.rmy.android.http_shortcuts/.plugin.PluginEditActivity filter a843569
+          Action: "com.twofortyfouram.locale.intent.action.EDIT_SETTING"
+      android.intent.action.CREATE_SHORTCUT:
+        62f82c0 ch.rmy.android.http_shortcuts/.activities.main.MainActivity filter f80373e
+          Action: "android.intent.action.CREATE_SHORTCUT"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter f49f016
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      android.intent.action.SEND_MULTIPLE:
+        7ed9131 ch.rmy.android.http_shortcuts/.activities.misc.ShareActivity filter a61d97
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        2507908 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 55428a1
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        839d8fa ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter c19beab
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        6bc8ac6 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter bb39a87
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        ff81db4 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 2e9addd
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      com.twofortyfouram.locale.intent.action.QUERY_CONDITION:
+        33a74aa ch.rmy.android.http_shortcuts/com.joaomgcd.taskerpluginlibrary.condition.BroadcastReceiverCondition filter 4eba89b
+          Action: "com.twofortyfouram.locale.intent.action.QUERY_CONDITION"
+      android.intent.action.DEVICE_STORAGE_OK:
+        6bc8ac6 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter bb39a87
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      ch.rmy.android.http_shortcuts.execute:
+        1fc071c ch.rmy.android.http_shortcuts/.receivers.ExecutionReceiver filter e21bf25
+          Action: "ch.rmy.android.http_shortcuts.execute"
+      android.intent.action.BATTERY_LOW:
+        2507908 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 55428a1
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        6668d52 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 8255823
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        6668d52 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 8255823
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        6668d52 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 8255823
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      com.twofortyfouram.locale.intent.action.FIRE_SETTING:
+        e5d6f4c ch.rmy.android.http_shortcuts/com.joaomgcd.taskerpluginlibrary.action.BroadcastReceiverAction filter 679bb95
+          Action: "com.twofortyfouram.locale.intent.action.FIRE_SETTING"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        839d8fa ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter c19beab
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        ac6ebee ch.rmy.android.http_shortcuts/.widget.WidgetProvider filter aa9288f
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        f3c2c9e ch.rmy.android.http_shortcuts/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 26b537f
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        6d36120 ch.rmy.android.http_shortcuts/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter e584ad9
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.twofortyfouram.locale.intent.action.QUERY_CONDITION:
+        3b85be4 ch.rmy.android.http_shortcuts/com.joaomgcd.taskerpluginlibrary.condition.IntentServiceCondition filter 7d6c84d
+          Action: "com.twofortyfouram.locale.intent.action.QUERY_CONDITION"
+      android.service.quicksettings.action.QS_TILE:
+        8983438 ch.rmy.android.http_shortcuts/.tiles.QuickTileService filter 4077c11 permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+      com.twofortyfouram.locale.intent.action.FIRE_SETTING:
+        5233176 ch.rmy.android.http_shortcuts/com.joaomgcd.taskerpluginlibrary.action.IntentServiceAction filter 523377
+          Action: "com.twofortyfouram.locale.intent.action.FIRE_SETTING"
+
+Registered ContentProviders:
+  ch.rmy.android.http_shortcuts/com.squareup.picasso.PicassoProvider:
+    Provider{751671b ch.rmy.android.http_shortcuts/com.squareup.picasso.PicassoProvider}
+  ch.rmy.android.http_shortcuts/androidx.startup.InitializationProvider:
+    Provider{4f550b8 ch.rmy.android.http_shortcuts/androidx.startup.InitializationProvider}
+  ch.rmy.android.http_shortcuts/androidx.core.content.FileProvider:
+    Provider{15b9e91 ch.rmy.android.http_shortcuts/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [ch.rmy.android.http_shortcuts.com.squareup.picasso]:
+    Provider{751671b ch.rmy.android.http_shortcuts/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{378e1f6 ch.rmy.android.http_shortcuts}
+  [ch.rmy.android.http_shortcuts.androidx-startup]:
+    Provider{4f550b8 ch.rmy.android.http_shortcuts/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{99559f7 ch.rmy.android.http_shortcuts}
+  [ch.rmy.android.http_shortcuts.provider]:
+    Provider{15b9e91 ch.rmy.android.http_shortcuts/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{20ac064 ch.rmy.android.http_shortcuts}
+
+Key Set Manager:
+  [ch.rmy.android.http_shortcuts]
+      Signing KeySets: 703
+
+Packages:
+  Package [ch.rmy.android.http_shortcuts] (68a92cd):
+    userId=10783
+    pkg=Package{9492782 ch.rmy.android.http_shortcuts}
+    codePath=/data/app/~~ln6GscMTzxNMNFeMZAPj0A==/ch.rmy.android.http_shortcuts-Zjfr8WGvP3FR9fs0oDSMYA==
+    resourcePath=/data/app/~~ln6GscMTzxNMNFeMZAPj0A==/ch.rmy.android.http_shortcuts-Zjfr8WGvP3FR9fs0oDSMYA==
+    legacyNativeLibraryDir=/data/app/~~ln6GscMTzxNMNFeMZAPj0A==/ch.rmy.android.http_shortcuts-Zjfr8WGvP3FR9fs0oDSMYA==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=1102120001 minSdk=21 targetSdk=31
+    versionName=2.12.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{9492782 ch.rmy.android.http_shortcuts}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/ch.rmy.android.http_shortcuts
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-22 13:43:37
+    firstInstallTime=2022-01-22 13:43:38
+    lastUpdateTime=2022-01-22 13:43:38
+    signatures=PackageSignatures{ebb9e93 version:3, signatures:[f8f6fb23], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.VIBRATE
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      net.dinglisch.android.tasker.PERMISSION_RUN_TASKS
+      android.permission.FOREGROUND_SERVICE
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=16774 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ch.rmy.android.http_shortcuts
+    com.motorola.actions:
+      ch.rmy.android.http_shortcuts
+    com.google.android.apps.photos:
+      ch.rmy.android.http_shortcuts
+    com.google.android.apps.youtube.music:
+      ch.rmy.android.http_shortcuts
+    com.google.android.youtube:
+      ch.rmy.android.http_shortcuts
+    com.google.android.apps.maps:
+      ch.rmy.android.http_shortcuts
+    com.google.android.apps.messaging:
+      ch.rmy.android.http_shortcuts
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=90
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=7, package=com.github.ruleant.getback_gps
+    seq=14, package=com.google.android.apps.subscriptions.red
+    seq=29, package=com.motorola.audiofx
+    seq=37, package=com.motorola.livewallpaper3
+    seq=39, package=com.google.android.tts
+    seq=43, package=com.google.android.contacts
+    seq=48, package=com.etesync.syncadapter
+    seq=49, package=com.android.inputmethod.latin
+    seq=54, package=com.google.ar.core
+    seq=55, package=com.google.android.apps.youtube.music
+    seq=56, package=com.google.android.webview
+    seq=57, package=com.google.android.apps.tachyon
+    seq=62, package=com.google.android.apps.messaging
+    seq=63, package=com.android.chrome
+    seq=64, package=com.google.android.apps.photos
+    seq=65, package=com.google.android.gm
+    seq=66, package=com.motorola.ccc.ota
+    seq=77, package=com.google.android.apps.docs
+    seq=78, package=com.google.android.apps.maps
+    seq=79, package=com.android.vending
+    seq=80, package=com.google.android.youtube
+    seq=88, package=io.github.ylimit.droidbotapp
+    seq=89, package=ch.rmy.android.http_shortcuts
+
+
+Dexopt state:
+  [ch.rmy.android.http_shortcuts]
+    path: /data/app/~~ln6GscMTzxNMNFeMZAPj0A==/ch.rmy.android.http_shortcuts-Zjfr8WGvP3FR9fs0oDSMYA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [ch.rmy.android.http_shortcuts]
+     base.apk - 831
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

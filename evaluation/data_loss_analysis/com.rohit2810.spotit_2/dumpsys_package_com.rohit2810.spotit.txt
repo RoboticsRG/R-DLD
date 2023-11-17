@@ -1,0 +1,114 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        4a1126 com.rohit2810.spotit/.SplashActivity filter a271167
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.action.DEFAULT"
+          Category: "android.intent.category.LAUNCHER"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.notification.NotificationListenerService:
+        699fb14 com.rohit2810.spotit/.NotificationListener filter f882fbd permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+
+Key Set Manager:
+  [com.rohit2810.spotit]
+      Signing KeySets: 616
+
+Packages:
+  Package [com.rohit2810.spotit] (dab99ef):
+    userId=10697
+    pkg=Package{8d18cfc com.rohit2810.spotit}
+    codePath=/data/app/~~ccjNpd_n9An-ty6Hzn_CxA==/com.rohit2810.spotit-JVdGINrXk_530vaDMNh48A==
+    resourcePath=/data/app/~~ccjNpd_n9An-ty6Hzn_CxA==/com.rohit2810.spotit-JVdGINrXk_530vaDMNh48A==
+    legacyNativeLibraryDir=/data/app/~~ccjNpd_n9An-ty6Hzn_CxA==/com.rohit2810.spotit-JVdGINrXk_530vaDMNh48A==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 minSdk=21 targetSdk=30
+    versionName=0.1.1
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{8d18cfc com.rohit2810.spotit}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.rohit2810.spotit
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-13 07:02:35
+    firstInstallTime=2022-01-13 07:02:35
+    lastUpdateTime=2022-01-13 07:02:35
+    signatures=PackageSignatures{115ff85 version:3, signatures:[36b2816b], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=35136 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.rohit2810.spotit
+    com.motorola.actions:
+      com.rohit2810.spotit
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=220
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=151, package=com.gimranov.zandy.app
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=197, package=com.google.android.contacts
+    seq=201, package=com.motorola.livewallpaper3
+    seq=205, package=com.github.gschwind.fiddle_assistant
+    seq=213, package=com.google.android.tts
+    seq=215, package=com.otago.open
+    seq=217, package=com.google.android.apps.docs
+    seq=218, package=io.github.ylimit.droidbotapp
+    seq=219, package=com.rohit2810.spotit
+
+
+Dexopt state:
+  [com.rohit2810.spotit]
+    path: /data/app/~~ccjNpd_n9An-ty6Hzn_CxA==/com.rohit2810.spotit-JVdGINrXk_530vaDMNh48A==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.rohit2810.spotit]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

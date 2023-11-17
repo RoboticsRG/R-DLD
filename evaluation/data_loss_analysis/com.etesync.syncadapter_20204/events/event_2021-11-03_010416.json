@@ -1,0 +1,42 @@
+{
+  "stop_state": "c14b4a218f8f8d55740d3f9428da58b4", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_010416", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Verifiquei manualmente toda a impress\u00e3o digital.", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "608*91", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1039
+        ], 
+        [
+          664, 
+          1130
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b85f12db6f467d6a8c600db3a080b824"
+}

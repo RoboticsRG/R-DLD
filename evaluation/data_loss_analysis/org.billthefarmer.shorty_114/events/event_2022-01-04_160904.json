@@ -1,0 +1,10 @@
+{
+  "stop_state": "6ce5ae29b5e21453586f4a53990975c2", 
+  "event_str": "IntentEvent(intent='am start org.billthefarmer.shorty/org.billthefarmer.shorty.MainActivity')", 
+  "tag": "2022-01-04_160904", 
+  "event": {
+    "intent": "am start org.billthefarmer.shorty/org.billthefarmer.shorty.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "a5eac00cb12fdf34e779e32184cad7a4"
+}

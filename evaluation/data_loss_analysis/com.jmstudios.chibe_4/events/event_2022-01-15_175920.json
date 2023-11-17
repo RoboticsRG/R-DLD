@@ -1,0 +1,42 @@
+{
+  "stop_state": "2b9fc6eab277eca910f704e98089b3ba", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_175920", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/switch_widget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          685
+        ], 
+        [
+          692, 
+          732
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f1e8400491759c0a5e4419bf8cfc1a43"
+}

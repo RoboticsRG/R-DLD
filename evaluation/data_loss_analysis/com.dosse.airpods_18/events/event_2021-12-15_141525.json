@@ -1,0 +1,42 @@
+{
+  "stop_state": "19bc509c535e98c18193ce406d9ae58c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_141525", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "https://fsf.org/", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "185*35", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dosse.airpods", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          722
+        ], 
+        [
+          220, 
+          757
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "998938fb1e0f57ce5666a482642eda3b"
+}

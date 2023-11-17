@@ -1,0 +1,42 @@
+{
+  "stop_state": "3f8a8ffa2a21ce40da3bfa1e52c04986", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_164854", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/am_label", 
+      "text": "AM", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "44*61", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          508, 
+          531
+        ], 
+        [
+          552, 
+          592
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f41d746fda54034966ee623cab0edf01"
+}

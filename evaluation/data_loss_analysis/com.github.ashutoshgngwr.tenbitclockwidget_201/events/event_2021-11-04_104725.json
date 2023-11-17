@@ -1,0 +1,42 @@
+{
+  "stop_state": "8f9a6a8a039a69c8f63286e5f9bb5d27", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_104725", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.ashutoshgngwr.tenbitclockwidget:id/negative_button", 
+      "text": "CANCELAR", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "171*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          376, 
+          1049
+        ], 
+        [
+          547, 
+          1144
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8a9bebe7838ae60dd64b9c545de1c848"
+}

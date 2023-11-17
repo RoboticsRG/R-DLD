@@ -1,0 +1,42 @@
+{
+  "stop_state": "8588bdc0e9991495f93c75ade60c3121", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_160939", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/switchWidget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          815
+        ], 
+        [
+          692, 
+          862
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "86dc79d081907edf535a89189c03abe2"
+}

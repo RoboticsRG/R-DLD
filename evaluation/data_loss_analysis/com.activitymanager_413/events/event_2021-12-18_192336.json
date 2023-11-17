@@ -1,0 +1,42 @@
+{
+  "stop_state": "1173cf42fea843c932125ebce7c9d840", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_192336", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Help", 
+      "resource_id": "com.activitymanager:id/action_help", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ecda5965d102d276e365b59d8b24fe8e"
+}

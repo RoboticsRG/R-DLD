@@ -1,0 +1,42 @@
+{
+  "stop_state": "261df30020d393a34a0451ebacebab01", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_214545", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/view_wiki_error_button", 
+      "text": "TENTAR NOVAMENTE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "341*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          189, 
+          924
+        ], 
+        [
+          530, 
+          1008
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "261df30020d393a34a0451ebacebab01"
+}

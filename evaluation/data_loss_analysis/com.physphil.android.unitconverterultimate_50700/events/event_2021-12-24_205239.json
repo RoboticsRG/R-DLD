@@ -1,0 +1,42 @@
+{
+  "stop_state": "f497f6d6e8a10f7c921b062bdb02d81b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_205239", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Kilometre/hour", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "222*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          341
+        ], 
+        [
+          589, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8b1d3a806844eba894ad3f1b615a1fb0"
+}

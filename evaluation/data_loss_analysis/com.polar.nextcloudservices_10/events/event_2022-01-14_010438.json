@@ -1,0 +1,42 @@
+{
+  "stop_state": "734b70ac27da41b5271c2eceb73c7907", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_010438", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*157", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.polar.nextcloudservices", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          972
+        ], 
+        [
+          720, 
+          1129
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "09bdd29243f23a07a4292cd93f3465b9"
+}

@@ -1,0 +1,44 @@
+{
+  "stop_state": "b40a24386a6f9bd7a48891bbd482f13a", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-12_061529", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 26, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "112*315", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          272
+        ], 
+        [
+          126, 
+          587
+        ]
+      ], 
+      "class": "android.widget.NumberPicker", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "83ddb1fd2b373e6fe315ce293caa213e"
+}

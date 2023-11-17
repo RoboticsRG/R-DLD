@@ -1,0 +1,42 @@
+{
+  "stop_state": "18cf45b007a22d4ea0526ac87218c566", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_190434", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Croatian Kuna", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "214*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          831
+        ], 
+        [
+          581, 
+          887
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 30, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b4b1d7da7be7df357a17767bd2ee7d8c"
+}

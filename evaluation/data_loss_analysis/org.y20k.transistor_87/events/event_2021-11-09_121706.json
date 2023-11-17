@@ -1,0 +1,10 @@
+{
+  "stop_state": "378b112ef8170100b956583ecb847394", 
+  "event_str": "IntentEvent(intent='am start org.y20k.transistor/org.y20k.transistor.MainActivity')", 
+  "tag": "2021-11-09_121706", 
+  "event": {
+    "intent": "am start org.y20k.transistor/org.y20k.transistor.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "cc80ffda7ac1234a1531715d119ab29b"
+}

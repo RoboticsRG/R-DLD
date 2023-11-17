@@ -1,0 +1,165 @@
+{
+  "stop_state": "a0b7684f674cba7b8ca51e710dc7d9d6", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-22_233541", 
+  "event": {
+    "views_str": [
+      "482d363e679cff8ebba1ddec1fa7a0e3", 
+      "195d63f9549c98bdda03b5d2b8e1df06", 
+      "1079dac4333c2b58d8a9b60bb3e81bdf", 
+      "bebdf008a60f11f2d3000549db3ceb3c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.reecedunn.espeak:id/all", 
+        "text": "All", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "627*84", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/all", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.reecedunn.espeak", 
+        "long_clickable": false, 
+        "view_str": "482d363e679cff8ebba1ddec1fa7a0e3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            623
+          ], 
+          [
+            673, 
+            707
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/all[text]All[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.reecedunn.espeak:id/custom", 
+        "text": "Custom", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "627*84", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/custom", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.reecedunn.espeak", 
+        "long_clickable": false, 
+        "view_str": "195d63f9549c98bdda03b5d2b8e1df06", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            707
+          ], 
+          [
+            673, 
+            791
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/custom[text]Custom[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.reecedunn.espeak:id/none", 
+        "text": "None", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "627*84", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/none", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.reecedunn.espeak", 
+        "long_clickable": false, 
+        "view_str": "1079dac4333c2b58d8a9b60bb3e81bdf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            791
+          ], 
+          [
+            673, 
+            875
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.reecedunn.espeak:id/none[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.reecedunn.espeak:id/punctuation_characters", 
+        "text": "Punctuation characters", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.reecedunn.espeak:id/punctuation_characters", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.reecedunn.espeak", 
+        "long_clickable": true, 
+        "view_str": "bebdf008a60f11f2d3000549db3ceb3c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            875
+          ], 
+          [
+            673, 
+            959
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.reecedunn.espeak:id/punctuation_characters[text]Punctuation characters[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9901f5a0923669a5d9dfb724328b7145"
+}

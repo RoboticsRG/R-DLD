@@ -1,0 +1,42 @@
+{
+  "stop_state": "2ffb20fa5a5b1000c8fc82b89d902a02", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_041812", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.headi.app:id/button_export", 
+      "text": "EXPORT", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "163*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          657
+        ], 
+        [
+          181, 
+          741
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "069e979d993a57f7119cd6da7805c9de"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "886dee4ca1e9478b2647e30b0db15436", 
+  "event_str": "IntentEvent(intent='am start com.crazylegend.vigilante/com.crazylegend.vigilante.MainActivity')", 
+  "tag": "2021-12-15_203151", 
+  "event": {
+    "intent": "am start com.crazylegend.vigilante/com.crazylegend.vigilante.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "7129f944bc43758a32bde9d04cedf554"
+}

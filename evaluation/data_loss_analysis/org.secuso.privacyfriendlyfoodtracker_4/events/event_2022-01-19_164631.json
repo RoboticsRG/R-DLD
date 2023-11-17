@@ -1,0 +1,43 @@
+{
+  "stop_state": "20f4aef4a267340d55c5885347aae000", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-19_164631", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/search_term", 
+      "text": "Search for a product", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyfoodtracker", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          283
+        ], 
+        [
+          692, 
+          362
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "914cfba99d97bfd0fdc639ab945f75d8"
+}

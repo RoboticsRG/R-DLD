@@ -1,0 +1,42 @@
+{
+  "stop_state": "5149cd72ecf83a9050d4a1f18f458b70", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_053419", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Export Manifest", 
+      "resource_id": "fr.xgouchet.packageexplorer:id/action_manifest", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5149cd72ecf83a9050d4a1f18f458b70"
+}

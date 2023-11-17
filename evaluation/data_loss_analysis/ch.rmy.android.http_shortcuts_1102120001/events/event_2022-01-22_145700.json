@@ -1,0 +1,89 @@
+{
+  "stop_state": "26fd8e3e5942de480f259ecf4e6de488", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_145700", 
+  "event": {
+    "views_str": [
+      "136ad9cf480f46fbb30541315afee737", 
+      "048f9547960f0c6a0561741ad562bdec"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "136ad9cf480f46fbb30541315afee737", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            321
+          ], 
+          [
+            692, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_shortcut_name[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_description", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "048f9547960f0c6a0561741ad562bdec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            429
+          ], 
+          [
+            692, 
+            508
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_description[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "487a2b0e6059d955fddbc809c0a54c53"
+}

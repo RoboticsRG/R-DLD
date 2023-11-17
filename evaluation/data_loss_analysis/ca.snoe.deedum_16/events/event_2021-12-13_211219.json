@@ -1,0 +1,42 @@
+{
+  "stop_state": "15a2d1d4df9ceeb1307c05c1201cff08", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_211219", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "A gentle, Gemini-centric guide to TLS certificates", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "616*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1017
+        ], 
+        [
+          651, 
+          1080
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6452e6b053672e40e56c178ce8dacbdd"
+}

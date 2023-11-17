@@ -1,0 +1,44 @@
+{
+  "stop_state": "2cfa6e8af0e04b825ed61e77b06d7692", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-14_111319", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/unitSpinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*42", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          626
+        ], 
+        [
+          692, 
+          668
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1a62a48854b1623ce2a6c50356fdffff"
+}

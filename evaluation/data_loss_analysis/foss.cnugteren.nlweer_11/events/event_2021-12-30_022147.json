@@ -1,0 +1,42 @@
+{
+  "stop_state": "78b16b5e5f5c580768fc9b36cc07152d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_022147", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/textViewContent0", 
+      "text": "Meest bewolkt, af en toe regen en zeer zacht\n\nHet is overwegend bewolkt en met uitzondering van het noordoosten en zuidwesten valt er (lichte) regen. De regen breidt zich naar het noordoosten uit. Vooral in het kustgebied en nabij het IJsselmeer is er kans op nevel of mist. De minimumtemperatuur ligt tussen 6\u00b0C in het noorden en 12\u00b0C in het zuiden. De matige wind komt uit het zuidwesten, aan de kust en op het IJsselmeer is de wind (vrij) krachtig, 5-6 Bft.\n\nOverdag is het overal bewolkt. In de ochtend valt er in het noorden af en toe regen. Elders valt er slechts lokaal lichte (mot)regen. Het kustgebied en gebieden nabij het IJsselmeer blijven gevoelig voor nevel of mist. Het wordt erg zacht met maximumtemperaturen van 11\u00b0C in het noorden tot plaatselijk 15\u00b0C in het zuiden. De wind blijft uit het zuidwesten waaien en is matig tot vrij krachtig, boven het IJsselmeer krachtig en langs de westkust krachtig tot hard, 6-7 Bft.\n\nIn de nacht naar vrijdag blijft het vrijwel droog en klaart het van het zuiden uit geleidelijk op. Er staat een matige zuidwestenwind, langs de kust is de wind krachtig, 6 Bft. Het koelt nauwelijks af, de minimumtemperatuur komt uit rond 11\u00b0C.\n\nOudjaarsdag is het droog en is er eerst wat ruimte voor de zon. In de middag neemt de bewolking toe en kan er vooral in het noorden een enkele bui voorkomen. Later in de middag wordt het weer droog en ook Oudjaarsavond en de jaarwisseling verlopen droog. Het wordt zeer zacht. De maximumtemperatuur ligt rond 14\u00b0C en 's avonds daalt de temperatuur nauwelijks. De wind wordt westelijk en blijft stevig doorstaan: boven land matig en langs de kust en het IJsselmeer meest krachtig, 6 Bft. (Bron: KNMI)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*1078", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          383
+        ], 
+        [
+          664, 
+          1461
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "78b16b5e5f5c580768fc9b36cc07152d"
+}

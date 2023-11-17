@@ -1,0 +1,165 @@
+{
+  "stop_state": "58948e23b5a2e16fff003aec164faa6f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_120357", 
+  "event": {
+    "views_str": [
+      "5791db55b32d9466ee0ab53ed87221f2", 
+      "e74138690b85159ff21132f404fce0ef", 
+      "d8f6ec60dae28088855bd71cbfdc68fd", 
+      "2dbaba7ad564fe544cfd22945b6ed1c1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/editText_script_title", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_script_title", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": true, 
+        "view_str": "5791db55b32d9466ee0ab53ed87221f2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            278
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_script_title[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/radioButton_event", 
+        "text": "Event", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "309*84", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_event", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "e74138690b85159ff21132f404fce0ef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            409
+          ], 
+          [
+            337, 
+            493
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_event[text]Event[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/radioButton_condition", 
+        "text": "Condition", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "355*84", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_condition", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "d8f6ec60dae28088855bd71cbfdc68fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            337, 
+            409
+          ], 
+          [
+            692, 
+            493
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_condition[text]Condition[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/switch_reverse", 
+        "text": "Reverse Scenario ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "636*84", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_reverse", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "2dbaba7ad564fe544cfd22945b6ed1c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            493
+          ], 
+          [
+            678, 
+            577
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_reverse[text]Reverse Scenario ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "5de6398a7884db067197e45e3b25f4c7"
+}

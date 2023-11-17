@@ -1,0 +1,43 @@
+{
+  "stop_state": "d51485ec92565a7ee8396465d13d7461", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-19_180902", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 20, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jovial.jrpn:id/orientation", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "380*41", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.jovial.jrpn", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          333, 
+          349
+        ], 
+        [
+          713, 
+          390
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2a480419ac1e9a8ded8038e4183260ca"
+}

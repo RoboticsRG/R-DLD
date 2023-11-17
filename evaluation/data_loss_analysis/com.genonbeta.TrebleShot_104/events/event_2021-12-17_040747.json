@@ -1,0 +1,42 @@
+{
+  "stop_state": "14f1171019a6462a299426503c1ed989", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-17_040747", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.genonbeta.TrebleShot", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          810
+        ], 
+        [
+          692, 
+          894
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2d354b8ec6d9259f4c313d18e82014a1"
+}

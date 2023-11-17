@@ -1,0 +1,42 @@
+{
+  "stop_state": "c2ac2db39de6b47e57008981bc6f1470", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_194756", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Quart (UK)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "174*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          901
+        ], 
+        [
+          181, 
+          957
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 53, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c2ac2db39de6b47e57008981bc6f1470"
+}

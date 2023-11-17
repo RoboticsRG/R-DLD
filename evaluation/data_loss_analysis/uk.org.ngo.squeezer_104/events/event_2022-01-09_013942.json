@@ -1,0 +1,42 @@
+{
+  "stop_state": "eee8fdd1360b2629c5ac3865ad42978c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_013942", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/radio", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          229
+        ], 
+        [
+          692, 
+          313
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "458870756ba5c721391d31067dde8033"
+}

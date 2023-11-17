@@ -1,0 +1,42 @@
+{
+  "stop_state": "924043cbd3d6161139706d029591a85e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_234519", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.ruleant.getback_gps:id/location_latitude", 
+      "text": "Latitude de localiza\u00e7\u00e3o", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "613*69", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          53, 
+          832
+        ], 
+        [
+          666, 
+          901
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "924043cbd3d6161139706d029591a85e"
+}

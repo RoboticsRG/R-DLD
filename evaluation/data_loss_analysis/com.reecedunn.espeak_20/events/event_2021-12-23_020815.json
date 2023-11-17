@@ -1,0 +1,43 @@
+{
+  "stop_state": "52b8350bf2d6d186552c8fdfae92b36d", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-23_020815", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.reecedunn.espeak:id/editText1", 
+      "text": "<?xml version=\"1.0\"?>\n<speak xmlns=\"http://www.w3.org/2001/10/synthesis\" version=\"1.0\">\n\n</speak>", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*470", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.reecedunn.espeak", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          420
+        ], 
+        [
+          706, 
+          890
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "52b8350bf2d6d186552c8fdfae92b36d"
+}

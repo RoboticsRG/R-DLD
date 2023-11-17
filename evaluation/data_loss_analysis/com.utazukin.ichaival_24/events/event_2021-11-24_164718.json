@@ -1,0 +1,10 @@
+{
+  "stop_state": "d7d15ca582f5817e184daba6c1704856", 
+  "event_str": "IntentEvent(intent='am start com.utazukin.ichaival/com.utazukin.ichaival.ArchiveList')", 
+  "tag": "2021-11-24_164718", 
+  "event": {
+    "intent": "am start com.utazukin.ichaival/com.utazukin.ichaival.ArchiveList", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ee05b5c252b92bd73d8abf3dc6fdc285"
+}

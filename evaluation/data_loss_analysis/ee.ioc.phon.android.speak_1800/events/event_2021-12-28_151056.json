@@ -1,0 +1,10 @@
+{
+  "stop_state": "1a9ecd883762a83c3fa1407086ae5330", 
+  "event_str": "IntentEvent(intent='am start ee.ioc.phon.android.speak/ee.ioc.phon.android.speak.activity.SpeechActionActivity')", 
+  "tag": "2021-12-28_151056", 
+  "event": {
+    "intent": "am start ee.ioc.phon.android.speak/ee.ioc.phon.android.speak.activity.SpeechActionActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "e9556463263e25eee7a9fa87b2b802fe"
+}

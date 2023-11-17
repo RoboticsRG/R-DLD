@@ -1,0 +1,2597 @@
+{
+  "stop_state": "d81d8aafd8d013cb1178b0ff3f3fa589", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-24_173026", 
+  "event": {
+    "views_str": [
+      "4fdf308873d4967b7c2b1b389285abd7", 
+      "fcdb2283b78f4ff2b5f7930d1ab67c89", 
+      "590e5e413f5d8e21c12371be6a718009", 
+      "61c5b1202c0f4c932d9a454874e11d0f", 
+      "6d5ef5b44360d1fc5a5ab33b705c63af", 
+      "74dd882af98dd7dde94a66e05a776030", 
+      "780b02686f06778046d0afa35564e25e", 
+      "60768ec8da1dae039b7652beffca4fe3", 
+      "36172946fe9c9502f7ccdf788f773521", 
+      "d4fd1f98037b6615b389fffe04ad5532", 
+      "1ad1014ce13c844465a80a8aff6d6dbd", 
+      "0febce0fddd6dfe7c9b34af44d482ca9", 
+      "7a10ae23905a7b486c1c45a10333a9a4", 
+      "72ae5bd332b594dae8f8b55cac2d5c5a", 
+      "1c3686b33030744e86344f9399dc94eb", 
+      "952c7a293fb3349070ad1d9072a91c94", 
+      "42c986afbf7b7761eb5f57b193727109", 
+      "0b3dd0f1b25585697d16c3bbf22bcef4", 
+      "ef4b9f888c713a5408d89e3e43793f7a", 
+      "d61a511337256300fff7cdcb7908e661", 
+      "26fe29a4b2f237848a4becd0d04ecc2b", 
+      "a6e9fe5705a6e3589695be22000d1b7e", 
+      "9db7a63d5a86fe9a963db016ee0ac711", 
+      "b96465538c293805efb578428d5e24ea", 
+      "60938b15a81d51337ee0f130a21db6f5", 
+      "633e0e5645fe0093bced695798cc3b79", 
+      "d3ef72e587f291c7fc4e575cee48b052", 
+      "92a32f01c240607839c0f95e0c502377", 
+      "242354c743edf8f1d300c7053d4569d8", 
+      "d3b22ce92ea6733c8a9663b2578ab5ae", 
+      "fe30997240fd21941556ccb8dcb69ce5", 
+      "b32208ade9122d173219c1c564b03be7", 
+      "02d5f3da0f4054fae57bdaf0c8270fdf", 
+      "77ebdbc68a22c925e086d73c56b505cf", 
+      "6ff5418a0c9583358cd7827235a7683f", 
+      "e7a98535bfcb26aeff5bb213bcf40b1c", 
+      "0474845f213461a061863a61b4502bae", 
+      "26ab3950900d8de5b0ffaf500e3f35b1", 
+      "12fc2fb80d2380d6076949092c643adb", 
+      "c8cabb2b5d30adaef7423d4d31e3d5e9", 
+      "90f9f4df9c073bc40acbe315f24ce0ba", 
+      "1553a7f32a4cfda35e0d80fa5c2de1ba", 
+      "8dbcb990f4619d2935460658ffe36c13", 
+      "297b2c0c502b77c9d2ddad9909adbfef", 
+      "b4acd312a52fea520e25ed7a0907e963", 
+      "60abb869e9f23ec05f0a2e4a1dd03928", 
+      "f26a8da892518852a9783641dad6bbec", 
+      "2401feda688ee4c83b4cd38f0a0bcc81", 
+      "8b8acf504975c180d6cd4634f8f6ab40", 
+      "254b02f61302b68e6f39a61e2001b529", 
+      "8261541fd70f7f73860cf104075b6e5d", 
+      "2b82056b3fcf02165f4a0a25f2614a4d", 
+      "c7f0d6932f5f15dba43510ebc0a13abe", 
+      "3d05f017ab930d0fb621a13eff3fd5e6", 
+      "c948983057716044da0f7bcd86fc2ead", 
+      "0de447bc06f0153003811aabd0955c81", 
+      "1dd6bd918c5abc3c832748dfde0f29bb", 
+      "4b268266b60ff7d73f43bc999d405ace", 
+      "4aeec315a738b34cf1fa0b3d14da494a", 
+      "54ec7f99f4fcb713a22af8cf89ff514a", 
+      "9299f6d6505664ded543db6ebe3d1a81", 
+      "7a2a573213df54ccef2bb7cc69960789", 
+      "6cd764f5913898681ffad53bd016ba55", 
+      "b50788e192c29142236972f62ca15cbc", 
+      "769db87124b37d1edeae6adc4b65cb90", 
+      "abe375c3b9ad6df30686fac8d7931ee9", 
+      "432b00a9c6f3c6fc4792a8e87d5585e4", 
+      "5e5a5b524c8118c7eb9fbb424f10034c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "text": "123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "4fdf308873d4967b7c2b1b389285abd7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            200
+          ], 
+          [
+            353, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "text": "123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "fcdb2283b78f4ff2b5f7930d1ab67c89", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            200
+          ], 
+          [
+            713, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "American Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "232*56", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "590e5e413f5d8e21c12371be6a718009", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            341
+          ], 
+          [
+            239, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]American Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Australian Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "239*56", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "61c5b1202c0f4c932d9a454874e11d0f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            411
+          ], 
+          [
+            246, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Australian Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "British Pound", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "205*56", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "6d5ef5b44360d1fc5a5ab33b705c63af", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            481
+          ], 
+          [
+            212, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]British Pound[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Brazilian Real", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "206*56", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "74dd882af98dd7dde94a66e05a776030", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            551
+          ], 
+          [
+            213, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Brazilian Real[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Bulgarian Lev", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "206*56", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "780b02686f06778046d0afa35564e25e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            621
+          ], 
+          [
+            213, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Bulgarian Lev[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Canadian Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "232*56", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "60768ec8da1dae039b7652beffca4fe3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            691
+          ], 
+          [
+            239, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Canadian Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Chinese Yuan", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "208*56", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "36172946fe9c9502f7ccdf788f773521", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            761
+          ], 
+          [
+            215, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Chinese Yuan[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Croatian Kuna", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "214*56", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "d4fd1f98037b6615b389fffe04ad5532", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            831
+          ], 
+          [
+            221, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Croatian Kuna[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Czech Koruna", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "210*56", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "1ad1014ce13c844465a80a8aff6d6dbd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            901
+          ], 
+          [
+            217, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Czech Koruna[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Danish Krone", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "204*56", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0febce0fddd6dfe7c9b34af44d482ca9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            971
+          ], 
+          [
+            211, 
+            1027
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Danish Krone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Euro", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "106*56", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "7a10ae23905a7b486c1c45a10333a9a4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1041
+          ], 
+          [
+            113, 
+            1097
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Euro[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hong Kong Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "250*56", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "72ae5bd332b594dae8f8b55cac2d5c5a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1111
+          ], 
+          [
+            257, 
+            1167
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hong Kong Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hungarian Forint", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "242*56", 
+        "checked": false, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "1c3686b33030744e86344f9399dc94eb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1181
+          ], 
+          [
+            249, 
+            1237
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hungarian Forint[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Icelandic Krona", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "228*56", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "952c7a293fb3349070ad1d9072a91c94", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1251
+          ], 
+          [
+            235, 
+            1307
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Icelandic Krona[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Indian Rupee", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "200*56", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "42c986afbf7b7761eb5f57b193727109", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1321
+          ], 
+          [
+            207, 
+            1377
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Indian Rupee[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Indonesian Rupiah", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "262*56", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0b3dd0f1b25585697d16c3bbf22bcef4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1391
+          ], 
+          [
+            269, 
+            1447
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Indonesian Rupiah[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Israeli Shekel", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "203*56", 
+        "checked": false, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "ef4b9f888c713a5408d89e3e43793f7a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1461
+          ], 
+          [
+            210, 
+            1517
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Israeli Shekel[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Japanese Yen", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "213*27", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "d61a511337256300fff7cdcb7908e661", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1531
+          ], 
+          [
+            220, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Japanese Yen[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Korean Won", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "191*-43", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "26fe29a4b2f237848a4becd0d04ecc2b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1601
+          ], 
+          [
+            198, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Korean Won[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Malaysian Ringgit", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "254*-113", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "a6e9fe5705a6e3589695be22000d1b7e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1671
+          ], 
+          [
+            261, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Malaysian Ringgit[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Mexican Peso", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*-183", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "9db7a63d5a86fe9a963db016ee0ac711", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1741
+          ], 
+          [
+            219, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Mexican Peso[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "New Zealand Dollar", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "272*-253", 
+        "checked": false, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b96465538c293805efb578428d5e24ea", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1811
+          ], 
+          [
+            279, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]New Zealand Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Norwegian Krone", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "247*-323", 
+        "checked": false, 
+        "temp_id": 53, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "60938b15a81d51337ee0f130a21db6f5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1881
+          ], 
+          [
+            254, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Norwegian Krone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Philippine Peso", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "227*-393", 
+        "checked": false, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "633e0e5645fe0093bced695798cc3b79", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            1951
+          ], 
+          [
+            234, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Philippine Peso[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Polish Zloty", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "186*-463", 
+        "checked": false, 
+        "temp_id": 55, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "d3ef72e587f291c7fc4e575cee48b052", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2021
+          ], 
+          [
+            193, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Polish Zloty[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Romanian Leu", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "215*-533", 
+        "checked": false, 
+        "temp_id": 56, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "92a32f01c240607839c0f95e0c502377", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2091
+          ], 
+          [
+            222, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Romanian Leu[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Russian Rouble", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "227*-603", 
+        "checked": false, 
+        "temp_id": 57, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "242354c743edf8f1d300c7053d4569d8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2161
+          ], 
+          [
+            234, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Russian Rouble[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Singapore Dollar", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "238*-673", 
+        "checked": false, 
+        "temp_id": 58, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "d3b22ce92ea6733c8a9663b2578ab5ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2231
+          ], 
+          [
+            245, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Singapore Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "South African Rand", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "270*-743", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "fe30997240fd21941556ccb8dcb69ce5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2301
+          ], 
+          [
+            277, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]South African Rand[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Swedish Krona", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "222*-813", 
+        "checked": false, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b32208ade9122d173219c1c564b03be7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2371
+          ], 
+          [
+            229, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Swedish Krona[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Swiss Franc", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "191*-883", 
+        "checked": false, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "02d5f3da0f4054fae57bdaf0c8270fdf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2441
+          ], 
+          [
+            198, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Swiss Franc[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Thai Baht", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "163*-953", 
+        "checked": false, 
+        "temp_id": 62, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "77ebdbc68a22c925e086d73c56b505cf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2511
+          ], 
+          [
+            170, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Thai Baht[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Turkish Lira", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "185*-1023", 
+        "checked": false, 
+        "temp_id": 63, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "6ff5418a0c9583358cd7827235a7683f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            2581
+          ], 
+          [
+            192, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Turkish Lira[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "American Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "232*56", 
+        "checked": false, 
+        "temp_id": 65, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "e7a98535bfcb26aeff5bb213bcf40b1c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            341
+          ], 
+          [
+            599, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]American Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Australian Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "239*56", 
+        "checked": false, 
+        "temp_id": 66, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0474845f213461a061863a61b4502bae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            411
+          ], 
+          [
+            606, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Australian Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "British Pound", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "205*56", 
+        "checked": false, 
+        "temp_id": 67, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "26ab3950900d8de5b0ffaf500e3f35b1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            481
+          ], 
+          [
+            572, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]British Pound[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Brazilian Real", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "206*56", 
+        "checked": false, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "12fc2fb80d2380d6076949092c643adb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            551
+          ], 
+          [
+            573, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Brazilian Real[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Bulgarian Lev", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "206*56", 
+        "checked": false, 
+        "temp_id": 69, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "c8cabb2b5d30adaef7423d4d31e3d5e9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            621
+          ], 
+          [
+            573, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Bulgarian Lev[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Canadian Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "232*56", 
+        "checked": false, 
+        "temp_id": 70, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "90f9f4df9c073bc40acbe315f24ce0ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            691
+          ], 
+          [
+            599, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Canadian Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Chinese Yuan", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "208*56", 
+        "checked": false, 
+        "temp_id": 71, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "1553a7f32a4cfda35e0d80fa5c2de1ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            761
+          ], 
+          [
+            575, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Chinese Yuan[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Croatian Kuna", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "214*56", 
+        "checked": false, 
+        "temp_id": 72, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8dbcb990f4619d2935460658ffe36c13", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            831
+          ], 
+          [
+            581, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Croatian Kuna[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Czech Koruna", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "210*56", 
+        "checked": true, 
+        "temp_id": 73, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "297b2c0c502b77c9d2ddad9909adbfef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            901
+          ], 
+          [
+            577, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Czech Koruna[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Danish Krone", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "204*56", 
+        "checked": false, 
+        "temp_id": 74, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b4acd312a52fea520e25ed7a0907e963", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            971
+          ], 
+          [
+            571, 
+            1027
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Danish Krone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Euro", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "106*56", 
+        "checked": false, 
+        "temp_id": 75, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "60abb869e9f23ec05f0a2e4a1dd03928", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1041
+          ], 
+          [
+            473, 
+            1097
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Euro[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hong Kong Dollar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "250*56", 
+        "checked": false, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "f26a8da892518852a9783641dad6bbec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1111
+          ], 
+          [
+            617, 
+            1167
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hong Kong Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hungarian Forint", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "242*56", 
+        "checked": false, 
+        "temp_id": 77, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "2401feda688ee4c83b4cd38f0a0bcc81", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1181
+          ], 
+          [
+            609, 
+            1237
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hungarian Forint[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Icelandic Krona", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "228*56", 
+        "checked": false, 
+        "temp_id": 78, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8b8acf504975c180d6cd4634f8f6ab40", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1251
+          ], 
+          [
+            595, 
+            1307
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Icelandic Krona[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Indian Rupee", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "200*56", 
+        "checked": false, 
+        "temp_id": 79, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "254b02f61302b68e6f39a61e2001b529", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1321
+          ], 
+          [
+            567, 
+            1377
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Indian Rupee[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Indonesian Rupiah", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "262*56", 
+        "checked": false, 
+        "temp_id": 80, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8261541fd70f7f73860cf104075b6e5d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1391
+          ], 
+          [
+            629, 
+            1447
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Indonesian Rupiah[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Israeli Shekel", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "203*56", 
+        "checked": false, 
+        "temp_id": 81, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "2b82056b3fcf02165f4a0a25f2614a4d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1461
+          ], 
+          [
+            570, 
+            1517
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Israeli Shekel[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Japanese Yen", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "213*27", 
+        "checked": false, 
+        "temp_id": 82, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "c7f0d6932f5f15dba43510ebc0a13abe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1531
+          ], 
+          [
+            580, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Japanese Yen[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Korean Won", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "191*-43", 
+        "checked": false, 
+        "temp_id": 83, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "3d05f017ab930d0fb621a13eff3fd5e6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1601
+          ], 
+          [
+            558, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Korean Won[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Malaysian Ringgit", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "254*-113", 
+        "checked": false, 
+        "temp_id": 84, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "c948983057716044da0f7bcd86fc2ead", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1671
+          ], 
+          [
+            621, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Malaysian Ringgit[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Mexican Peso", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*-183", 
+        "checked": false, 
+        "temp_id": 85, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0de447bc06f0153003811aabd0955c81", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1741
+          ], 
+          [
+            579, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Mexican Peso[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "New Zealand Dollar", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "272*-253", 
+        "checked": false, 
+        "temp_id": 86, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "1dd6bd918c5abc3c832748dfde0f29bb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1811
+          ], 
+          [
+            639, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]New Zealand Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Norwegian Krone", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "247*-323", 
+        "checked": false, 
+        "temp_id": 87, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "4b268266b60ff7d73f43bc999d405ace", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1881
+          ], 
+          [
+            614, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Norwegian Krone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Philippine Peso", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "227*-393", 
+        "checked": false, 
+        "temp_id": 88, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "4aeec315a738b34cf1fa0b3d14da494a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            1951
+          ], 
+          [
+            594, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Philippine Peso[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Polish Zloty", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "186*-463", 
+        "checked": false, 
+        "temp_id": 89, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "54ec7f99f4fcb713a22af8cf89ff514a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2021
+          ], 
+          [
+            553, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Polish Zloty[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Romanian Leu", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "215*-533", 
+        "checked": false, 
+        "temp_id": 90, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "9299f6d6505664ded543db6ebe3d1a81", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2091
+          ], 
+          [
+            582, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Romanian Leu[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Russian Rouble", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "227*-603", 
+        "checked": false, 
+        "temp_id": 91, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "7a2a573213df54ccef2bb7cc69960789", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2161
+          ], 
+          [
+            594, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Russian Rouble[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Singapore Dollar", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "238*-673", 
+        "checked": false, 
+        "temp_id": 92, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "6cd764f5913898681ffad53bd016ba55", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2231
+          ], 
+          [
+            605, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Singapore Dollar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "South African Rand", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "270*-743", 
+        "checked": false, 
+        "temp_id": 93, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b50788e192c29142236972f62ca15cbc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2301
+          ], 
+          [
+            637, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]South African Rand[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Swedish Krona", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "222*-813", 
+        "checked": false, 
+        "temp_id": 94, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "769db87124b37d1edeae6adc4b65cb90", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2371
+          ], 
+          [
+            589, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Swedish Krona[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Swiss Franc", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "191*-883", 
+        "checked": false, 
+        "temp_id": 95, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "abe375c3b9ad6df30686fac8d7931ee9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2441
+          ], 
+          [
+            558, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Swiss Franc[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Thai Baht", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "163*-953", 
+        "checked": false, 
+        "temp_id": 96, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "432b00a9c6f3c6fc4792a8e87d5585e4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2511
+          ], 
+          [
+            530, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Thai Baht[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Turkish Lira", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "185*-1023", 
+        "checked": false, 
+        "temp_id": 97, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "5e5a5b524c8118c7eb9fbb424f10034c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            2581
+          ], 
+          [
+            552, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Turkish Lira[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "44df7cf5c10afcd47b818ef5f06b1698"
+}

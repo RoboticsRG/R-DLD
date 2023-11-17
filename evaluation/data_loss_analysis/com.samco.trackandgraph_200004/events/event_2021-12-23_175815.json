@@ -1,0 +1,42 @@
+{
+  "stop_state": "73ad8509a146da640243020eef0a2ca2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-23_175815", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Import", 
+      "resource_id": "com.samco.trackandgraph:id/import_button", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.samco.trackandgraph", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          481, 
+          61
+        ], 
+        [
+          565, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "73ad8509a146da640243020eef0a2ca2"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "1f5d92a473c4e79b271c823e00588dae", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_001923", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Native Method", 
+      "resource_id": "com.github.cvzi.screenshottile:id/switchNative", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          41, 
+          1098
+        ], 
+        [
+          125, 
+          1182
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1241bdd7d368d3413dafd1c4992c2fb6"
+}

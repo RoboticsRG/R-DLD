@@ -1,0 +1,127 @@
+{
+  "stop_state": "429ac9eb4da556b889c7d338a9d33d8c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_104658", 
+  "event": {
+    "views_str": [
+      "dc35e9eeb7c643780e46d53bff3b7ad6", 
+      "651183586732cbfc835919ce71f912e1", 
+      "a37cccfa52a45942afcae311f48a3b8c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile", 
+        "text": "Export File", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "468*79", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "dc35e9eeb7c643780e46d53bff3b7ad6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            320
+          ], 
+          [
+            482, 
+            399
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile[text]Export File[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta", 
+        "text": "Export List Meta", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "692*84", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "651183586732cbfc835919ce71f912e1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            485
+          ], 
+          [
+            706, 
+            569
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta[text]Export List Meta[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti", 
+        "text": "Export Multiple Lists", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "678*84", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "a37cccfa52a45942afcae311f48a3b8c", 
+        "enabled": false, 
+        "bounds": [
+          [
+            28, 
+            583
+          ], 
+          [
+            706, 
+            667
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti[text]Export Multiple Lists[,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "f71d518a712d4330f57b8a89fa63a47f"
+}

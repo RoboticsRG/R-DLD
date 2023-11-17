@@ -1,0 +1,42 @@
+{
+  "stop_state": "b76cadeb6621ec5d0c099eb2cc9bb9ce", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_211713", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/wiki_language_checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          25, 
+          334
+        ], 
+        [
+          109, 
+          418
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b76cadeb6621ec5d0c099eb2cc9bb9ce"
+}

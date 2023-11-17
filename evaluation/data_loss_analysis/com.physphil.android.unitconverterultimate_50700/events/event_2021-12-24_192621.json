@@ -1,0 +1,42 @@
+{
+  "stop_state": "b6462dc714aff7a70b13b9d162b4ee80", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_192621", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Canadian Dollar", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "232*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          691
+        ], 
+        [
+          239, 
+          747
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 51, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5769181b2893723c89720bfe7fa2ca4b"
+}

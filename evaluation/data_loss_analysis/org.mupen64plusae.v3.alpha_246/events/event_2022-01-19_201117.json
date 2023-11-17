@@ -1,0 +1,42 @@
+{
+  "stop_state": "074ad225c45f6c9b92925857828f6927", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_201117", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox2", 
+      "text": "T\u00e9l\u00e9charger la pochette", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          515
+        ], 
+        [
+          692, 
+          571
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c4092111702bc9211417e92c562ea378"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "9b51f7494ccaea3d5cc4aea60b3cd5c0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_205606", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Metre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "120*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          481
+        ], 
+        [
+          487, 
+          537
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 46, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9b51f7494ccaea3d5cc4aea60b3cd5c0"
+}

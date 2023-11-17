@@ -1,0 +1,10 @@
+{
+  "stop_state": "52b8350bf2d6d186552c8fdfae92b36d", 
+  "event_str": "IntentEvent(intent='am start com.reecedunn.espeak/com.reecedunn.espeak.eSpeakActivity')", 
+  "tag": "2021-12-23_003945", 
+  "event": {
+    "intent": "am start com.reecedunn.espeak/com.reecedunn.espeak.eSpeakActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "3f83d66970e54bc9606d31bf8bd2a799"
+}

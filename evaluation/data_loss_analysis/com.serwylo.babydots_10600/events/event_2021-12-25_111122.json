@@ -1,0 +1,42 @@
+{
+  "stop_state": "afd0823cce1a3db4c19e734edb0739bb", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_111122", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.serwylo.babydots:id/sd_main_fab", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "140*156", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.serwylo.babydots", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          573, 
+          1402
+        ], 
+        [
+          713, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "de20914da3f6b3e1932425b5dc8e48aa"
+}

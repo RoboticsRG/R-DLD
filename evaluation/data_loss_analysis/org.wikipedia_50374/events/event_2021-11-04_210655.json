@@ -1,0 +1,42 @@
+{
+  "stop_state": "a0f6cdf3435cc1372f8d846ce8510f8a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_210655", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Diminuir o tamanho do texto", 
+      "resource_id": "org.wikipedia:id/buttonDecreaseTextSize", 
+      "text": "T", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          952
+        ], 
+        [
+          84, 
+          1008
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "64a1e96a75f72a43407bfa55f4378b12"
+}

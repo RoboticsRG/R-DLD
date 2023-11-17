@@ -1,0 +1,42 @@
+{
+  "stop_state": "b0ca09f393a9e904bb4ba2ea3c9385c5", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_091643", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/textToTranslateEdit", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          194
+        ], 
+        [
+          720, 
+          273
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b0ca09f393a9e904bb4ba2ea3c9385c5"
+}

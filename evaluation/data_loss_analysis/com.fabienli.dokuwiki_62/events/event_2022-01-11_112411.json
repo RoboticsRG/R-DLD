@@ -1,0 +1,51 @@
+{
+  "stop_state": "1b24039852215fad2732a62ca59b0ef4", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_112411", 
+  "event": {
+    "views_str": [
+      "af26309809808ed68d4be345e23cdf06"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "517*63", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fabienli.dokuwiki", 
+        "long_clickable": true, 
+        "view_str": "af26309809808ed68d4be345e23cdf06", 
+        "enabled": true, 
+        "bounds": [
+          [
+            119, 
+            63
+          ], 
+          [
+            636, 
+            126
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "38b3aad1a16038124f4d54a1aae9d94e"
+}

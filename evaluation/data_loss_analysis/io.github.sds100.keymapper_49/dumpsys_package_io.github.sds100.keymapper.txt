@@ -1,0 +1,310 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        9e4d695 io.github.sds100.keymapper/.SplashActivity filter c0ef3aa
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        9e4d695 io.github.sds100.keymapper/.SplashActivity filter 17bb9b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LEANBACK_LAUNCHER"
+        a264b38 io.github.sds100.keymapper/.api.LaunchKeyMapShortcutActivity filter 2894711
+          Action: "android.intent.action.MAIN"
+        590e2e4 io.github.sds100.keymapper/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity filter 42a434d
+          Action: "android.intent.action.MAIN"
+        10e4e02 io.github.sds100.keymapper/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity filter 6680313
+          Action: "android.intent.action.MAIN"
+        eeb4950 io.github.sds100.keymapper/androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity filter e64c749
+          Action: "android.intent.action.MAIN"
+      android.intent.action.CREATE_SHORTCUT:
+        40a076 io.github.sds100.keymapper/.mappings.keymaps.CreateKeyMapShortcutActivity filter dac7677
+          Action: "android.intent.action.CREATE_SHORTCUT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        43a3bb2 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 8a7d703
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        d64cd14 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter bdf99bd
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        24ba680 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter df114b9
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        40c60fe io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 146e05f
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      io.github.sds100.keymapper.ACTION_TOGGLE_MAPPINGS:
+        ba39b5a io.github.sds100.keymapper/.api.PauseMappingsBroadcastReceiver filter f9ac18b
+          Action: "io.github.sds100.keymapper.ACTION_PAUSE_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_RESUME_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_TOGGLE_MAPPINGS"
+      android.intent.action.DEVICE_STORAGE_OK:
+        24ba680 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter df114b9
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.app.action.DEVICE_ADMIN_ENABLED:
+        6701326 io.github.sds100.keymapper/.system.DeviceAdmin filter 8f1eb67
+          Action: "android.app.action.DEVICE_ADMIN_ENABLED"
+      android.bluetooth.device.action.ACL_CONNECTED:
+        85ef268 io.github.sds100.keymapper/.system.bluetooth.BluetoothBroadcastReceiver filter 2b91681
+          Action: "android.bluetooth.device.action.ACL_CONNECTED"
+          Action: "android.bluetooth.device.action.ACL_DISCONNECTED"
+      android.hardware.input.action.QUERY_KEYBOARD_LAYOUTS:
+        117484e io.github.sds100.keymapper/.system.notifications.NotificationClickReceiver filter 945bd6f
+          Action: "android.hardware.input.action.QUERY_KEYBOARD_LAYOUTS"
+      io.github.sds100.keymapper.ACTION_PAUSE_MAPPINGS:
+        ba39b5a io.github.sds100.keymapper/.api.PauseMappingsBroadcastReceiver filter f9ac18b
+          Action: "io.github.sds100.keymapper.ACTION_PAUSE_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_RESUME_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_TOGGLE_MAPPINGS"
+      android.intent.action.BATTERY_LOW:
+        43a3bb2 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 8a7d703
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        c04aaac io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 7054375
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        c04aaac io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 7054375
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        543aa7c io.github.sds100.keymapper/.system.BootBroadcastReceiver filter 3a98f05
+          Action: "android.intent.action.BOOT_COMPLETED"
+        c04aaac io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 7054375
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        d64cd14 io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter bdf99bd
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        b67c598 io.github.sds100.keymapper/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 4f3a1f1
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      android.bluetooth.device.action.ACL_DISCONNECTED:
+        85ef268 io.github.sds100.keymapper/.system.bluetooth.BluetoothBroadcastReceiver filter 2b91681
+          Action: "android.bluetooth.device.action.ACL_CONNECTED"
+          Action: "android.bluetooth.device.action.ACL_DISCONNECTED"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        9498f0a io.github.sds100.keymapper/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 9a3237b
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+      io.github.sds100.keymapper.ACTION_RESUME_MAPPINGS:
+        ba39b5a io.github.sds100.keymapper/.api.PauseMappingsBroadcastReceiver filter f9ac18b
+          Action: "io.github.sds100.keymapper.ACTION_PAUSE_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_RESUME_MAPPINGS"
+          Action: "io.github.sds100.keymapper.ACTION_TOGGLE_MAPPINGS"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.quicksettings.action.QS_TILE:
+        4d4f562 io.github.sds100.keymapper/.system.tiles.ToggleMappingsTile filter d3c86f3 permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+        6d5afb0 io.github.sds100.keymapper/.system.tiles.ToggleKeyMapperKeyboardTile filter 6a39e29 permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+      android.view.InputMethod:
+        4dfa344 io.github.sds100.keymapper/.system.inputmethod.KeyMapperImeService filter 18f6c2d permission android.permission.BIND_INPUT_METHOD
+          Action: "android.view.InputMethod"
+      android.service.notification.NotificationListenerService:
+        a9105ae io.github.sds100.keymapper/.system.notifications.NotificationReceiver filter 20e9f4f permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+      android.accessibilityservice.AccessibilityService:
+        87991d6 io.github.sds100.keymapper/.system.accessibility.MyAccessibilityService filter 7b67c57 permission android.permission.BIND_ACCESSIBILITY_SERVICE
+          Action: "android.accessibilityservice.AccessibilityService"
+
+Registered ContentProviders:
+  io.github.sds100.keymapper/splitties.init.AppCtxInitProvider:
+    Provider{f577093 io.github.sds100.keymapper/splitties.init.AppCtxInitProvider}
+  io.github.sds100.keymapper/androidx.work.impl.WorkManagerInitializer:
+    Provider{139e8d0 io.github.sds100.keymapper/androidx.work.impl.WorkManagerInitializer}
+  io.github.sds100.keymapper/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{b77b0c9 io.github.sds100.keymapper/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [io.github.sds100.keymapper.appctxinitprovider]:
+    Provider{f577093 io.github.sds100.keymapper/splitties.init.AppCtxInitProvider}
+      applicationInfo=ApplicationInfo{e49b3ce io.github.sds100.keymapper}
+  [io.github.sds100.keymapper.workmanager-init]:
+    Provider{139e8d0 io.github.sds100.keymapper/androidx.work.impl.WorkManagerInitializer}
+      applicationInfo=ApplicationInfo{97e82ef io.github.sds100.keymapper}
+  [io.github.sds100.keymapper.lifecycle-process]:
+    Provider{b77b0c9 io.github.sds100.keymapper/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{a9cc1fc io.github.sds100.keymapper}
+
+Key Set Manager:
+  [io.github.sds100.keymapper]
+      Signing KeySets: 469
+
+Packages:
+  Package [io.github.sds100.keymapper] (5941c30):
+    userId=10552
+    pkg=Package{cc19085 io.github.sds100.keymapper}
+    codePath=/data/app/~~x-wPpe9R-qTuiigZuYscMg==/io.github.sds100.keymapper-iaeUKKmEEVYjeVgKihlfVQ==
+    resourcePath=/data/app/~~x-wPpe9R-qTuiigZuYscMg==/io.github.sds100.keymapper-iaeUKKmEEVYjeVgKihlfVQ==
+    legacyNativeLibraryDir=/data/app/~~x-wPpe9R-qTuiigZuYscMg==/io.github.sds100.keymapper-iaeUKKmEEVYjeVgKihlfVQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=49 minSdk=21 targetSdk=30
+    versionName=2.3.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{cc19085 io.github.sds100.keymapper}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/io.github.sds100.keymapper
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-31 17:52:44
+    firstInstallTime=2021-12-31 17:52:44
+    lastUpdateTime=2021-12-31 17:52:44
+    signatures=PackageSignatures{4513eda version:3, signatures:[f331ae67], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.BLUETOOTH
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.EXPAND_STATUS_BAR
+      android.permission.INTERNET
+      android.permission.CAMERA
+      android.permission.USE_FINGERPRINT
+      android.permission.VIBRATE
+      android.permission.ACCESS_NOTIFICATION_POLICY
+      android.permission.READ_PHONE_STATE
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.CALL_PHONE
+      android.permission.WRITE_SETTINGS
+      android.permission.WRITE_SECURE_SETTINGS
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.WAKE_LOCK
+      android.permission.FOREGROUND_SERVICE
+      android.permission.REORDER_TASKS
+    install permissions:
+      android.permission.ACCESS_NOTIFICATION_POLICY: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.EXPAND_STATUS_BAR: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.REORDER_TASKS: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.USE_FINGERPRINT: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=53927 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3002, 3003, 3001]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.READ_PHONE_STATE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CALL_PHONE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CAMERA: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      io.github.sds100.keymapper
+    com.motorola.actions:
+      io.github.sds100.keymapper
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=537
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=508, package=com.google.android.tts
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=526, package=com.google.android.apps.docs
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=535, package=io.github.ylimit.droidbotapp
+    seq=536, package=io.github.sds100.keymapper
+
+
+Dexopt state:
+  [io.github.sds100.keymapper]
+    path: /data/app/~~x-wPpe9R-qTuiigZuYscMg==/io.github.sds100.keymapper-iaeUKKmEEVYjeVgKihlfVQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [io.github.sds100.keymapper]
+     base.apk - 1143
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

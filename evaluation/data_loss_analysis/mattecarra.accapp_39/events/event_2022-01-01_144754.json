@@ -1,0 +1,10 @@
+{
+  "stop_state": "6476b2af843a73367336d26a01c3632f", 
+  "event_str": "IntentEvent(intent='am start mattecarra.accapp/mattecarra.accapp.activities.MainActivity')", 
+  "tag": "2022-01-01_144754", 
+  "event": {
+    "intent": "am start mattecarra.accapp/mattecarra.accapp.activities.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "cda01a053ef05cf444ad4c14ad5c4465"
+}

@@ -1,0 +1,317 @@
+{
+  "stop_state": "132056e7b68219dd8970f26b1bc8ffa1", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-15_004949", 
+  "event": {
+    "views_str": [
+      "e6cb46fa0cb08f498cebf29651eafc13", 
+      "815db8d2563f400a90fa47fb2f48b79a", 
+      "e6cb46fa0cb08f498cebf29651eafc13", 
+      "d11cd3d261fffc0592a432571822431f", 
+      "815db8d2563f400a90fa47fb2f48b79a", 
+      "e6cb46fa0cb08f498cebf29651eafc13", 
+      "d11cd3d261fffc0592a432571822431f", 
+      "08685ff53f95bf94cd9d379d8787c5c0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "e6cb46fa0cb08f498cebf29651eafc13", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            623
+          ], 
+          [
+            692, 
+            707
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "815db8d2563f400a90fa47fb2f48b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            716
+          ], 
+          [
+            692, 
+            800
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "e6cb46fa0cb08f498cebf29651eafc13", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            826
+          ], 
+          [
+            692, 
+            910
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "d11cd3d261fffc0592a432571822431f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            935
+          ], 
+          [
+            692, 
+            1019
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "815db8d2563f400a90fa47fb2f48b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1045
+          ], 
+          [
+            692, 
+            1129
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 66, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 65, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "e6cb46fa0cb08f498cebf29651eafc13", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1171
+          ], 
+          [
+            692, 
+            1255
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "is_password": false, 
+        "parent": 75, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "d11cd3d261fffc0592a432571822431f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1369
+          ], 
+          [
+            692, 
+            1453
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*79", 
+        "checked": false, 
+        "temp_id": 82, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget", 
+        "is_password": false, 
+        "parent": 81, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.apps.adrcotfas.goodtime", 
+        "long_clickable": false, 
+        "view_str": "08685ff53f95bf94cd9d379d8787c5c0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1479
+          ], 
+          [
+            692, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.apps.adrcotfas.goodtime:id/switchWidget[text]OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "407f7b36db938563e3db039ea181eb10"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "a7aa7dfcf8019b7a8eeb914d6aca16e1", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_175607", 
+  "event": {
+    "views_str": [
+      "fc8f66ba7fa2d8079cf13da8b53d45c1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/path_text", 
+        "text": "Shorty/extras.csv", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "547*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/path_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "fc8f66ba7fa2d8079cf13da8b53d45c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            86, 
+            791
+          ], 
+          [
+            633, 
+            870
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/path_text[text]Shorty/extras.csv[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7a6a9476b221d05d5df095b7659f7d69"
+}

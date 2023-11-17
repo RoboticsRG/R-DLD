@@ -1,0 +1,44 @@
+{
+  "stop_state": "1241bdd7d368d3413dafd1c4992c2fb6", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-21_225920", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "702*1504", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          9, 
+          54
+        ], 
+        [
+          711, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1241bdd7d368d3413dafd1c4992c2fb6"
+}

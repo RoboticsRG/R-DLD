@@ -1,0 +1,42 @@
+{
+  "stop_state": "f39fa10db68053d4b2474565ae2af2d5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_223608", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Exibir senha", 
+      "resource_id": "org.wikipedia:id/text_input_end_icon", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          299
+        ], 
+        [
+          692, 
+          383
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3181b0da5b6d6f946a145bc1468f5243"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "235e23c1a151804d7f6ffa985325d6b0", 
+  "event_str": "IntentEvent(intent='am start ch.rmy.android.http_shortcuts/ch.rmy.android.http_shortcuts.activities.main.MainActivity')", 
+  "tag": "2022-01-22_134814", 
+  "event": {
+    "intent": "am start ch.rmy.android.http_shortcuts/ch.rmy.android.http_shortcuts.activities.main.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "87ff2d1d14b20fd6982f2a54c9452840"
+}

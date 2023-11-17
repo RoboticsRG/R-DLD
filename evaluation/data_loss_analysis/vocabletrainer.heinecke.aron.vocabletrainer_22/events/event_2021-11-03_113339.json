@@ -1,0 +1,42 @@
+{
+  "stop_state": "978ecbed36dbae58341ba6ab5dfabb17", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_113339", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/switch_widget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          1212
+        ], 
+        [
+          692, 
+          1259
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bc243fed4a2178a4531d7be5e0ebd0a3"
+}

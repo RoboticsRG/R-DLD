@@ -1,0 +1,127 @@
+{
+  "stop_state": "d794419c728a1a6d7d59cd87ae0c61ee", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_093746", 
+  "event": {
+    "views_str": [
+      "8e8990f5fce94cb52d58160f66b464f9", 
+      "415a87d4dfcc0334c77e460f7a35cb1e", 
+      "e2c1bd7ed207d2f2223017b8af1d1a19"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+        "long_clickable": false, 
+        "view_str": "8e8990f5fce94cb52d58160f66b464f9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            420
+          ], 
+          [
+            692, 
+            476
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+        "long_clickable": false, 
+        "view_str": "415a87d4dfcc0334c77e460f7a35cb1e", 
+        "enabled": false, 
+        "bounds": [
+          [
+            636, 
+            577
+          ], 
+          [
+            692, 
+            633
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 58, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+        "long_clickable": false, 
+        "view_str": "e2c1bd7ed207d2f2223017b8af1d1a19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1302
+          ], 
+          [
+            692, 
+            1358
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "c6bf62d109ddce9817236caa5bb7506f"
+}

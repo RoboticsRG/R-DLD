@@ -1,0 +1,42 @@
+{
+  "stop_state": "13b7c55e76eb09213b085f50ddfe1cf0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_100130", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "ft/s", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "580*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          878
+        ], 
+        [
+          608, 
+          962
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f24e6cf31cc53ba4c4b9f708bf72ba8c"
+}

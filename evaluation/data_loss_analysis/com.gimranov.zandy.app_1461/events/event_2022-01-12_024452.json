@@ -1,0 +1,51 @@
+{
+  "stop_state": "9e34835630bc961e66a989f4b6286658", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_024452", 
+  "event": {
+    "views_str": [
+      "233b70ae8b5f46f6130e9c6d3b6b31c6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": true, 
+        "view_str": "233b70ae8b5f46f6130e9c6d3b6b31c6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            749
+          ], 
+          [
+            673, 
+            828
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fcf3ef74985ae18b49da06b64a62d2cb"
+}

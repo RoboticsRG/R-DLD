@@ -1,0 +1,42 @@
+{
+  "stop_state": "6d741df5be3364019f886f44e3b189d0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-06_074243", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyweather:id/webViewFirstLocation", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*263", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyweather", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          829
+        ], 
+        [
+          720, 
+          1092
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6d741df5be3364019f886f44e3b189d0"
+}

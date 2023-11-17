@@ -1,0 +1,165 @@
+{
+  "stop_state": "193b8474b16b99fea9d0aa8608d0ae4d", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-10_172357", 
+  "event": {
+    "views_str": [
+      "62203bf6635e65f7591550b2781dfa35", 
+      "b95d4501273517dbc3c4fd2b2655fd08", 
+      "7e92b3975d02b5da96070300763c2b89", 
+      "3ee3e968b360a39241177c9b295d017b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.badaix.snapcast:id/host", 
+        "text": "HelloWorldHHelloWorldelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "484*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/host", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.badaix.snapcast", 
+        "long_clickable": true, 
+        "view_str": "62203bf6635e65f7591550b2781dfa35", 
+        "enabled": true, 
+        "bounds": [
+          [
+            239, 
+            593
+          ], 
+          [
+            723, 
+            672
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/host[text]HelloWorldHHelloWorldelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.badaix.snapcast:id/stream_port", 
+        "text": "1704", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "484*79", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/stream_port", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.badaix.snapcast", 
+        "long_clickable": true, 
+        "view_str": "b95d4501273517dbc3c4fd2b2655fd08", 
+        "enabled": true, 
+        "bounds": [
+          [
+            239, 
+            672
+          ], 
+          [
+            723, 
+            751
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/stream_port[text]1704[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.badaix.snapcast:id/control_port", 
+        "text": "1705", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "484*79", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/control_port", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.badaix.snapcast", 
+        "long_clickable": true, 
+        "view_str": "7e92b3975d02b5da96070300763c2b89", 
+        "enabled": true, 
+        "bounds": [
+          [
+            239, 
+            751
+          ], 
+          [
+            723, 
+            830
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.badaix.snapcast:id/control_port[text]1705[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.badaix.snapcast:id/checkBoxAutoStart", 
+        "text": "Auto start Snapclient", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1375*56", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.badaix.snapcast:id/checkBoxAutoStart", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.badaix.snapcast", 
+        "long_clickable": false, 
+        "view_str": "3ee3e968b360a39241177c9b295d017b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            51, 
+            835
+          ], 
+          [
+            1426, 
+            891
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.badaix.snapcast:id/checkBoxAutoStart[text]Auto start Snapclient[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a52b3b86e2c04417c4c292b07c2778de"
+}

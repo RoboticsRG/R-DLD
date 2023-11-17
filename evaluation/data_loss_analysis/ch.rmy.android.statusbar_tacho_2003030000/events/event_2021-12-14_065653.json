@@ -1,0 +1,42 @@
+{
+  "stop_state": "b678d6ec3d8eadfabe372769d21ece66", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_065653", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox", 
+      "text": "Keep updating while screen is off", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          696
+        ], 
+        [
+          692, 
+          780
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cb7d39a26cbb06cb890184799955a637"
+}

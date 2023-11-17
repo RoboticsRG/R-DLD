@@ -1,0 +1,42 @@
+{
+  "stop_state": "674683dc78ff8058fbe09d9a70f10d31", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_030623", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Yesterday's max wind speed", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*69", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          1351
+        ], 
+        [
+          673, 
+          1420
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a644b85f5ea6feb92d6e0791ee1b27a2"
+}

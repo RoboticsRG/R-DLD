@@ -1,0 +1,42 @@
+{
+  "stop_state": "b34ded6e1b78552e326c0c5e0257ac48", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_205236", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Date             Commit Message                 Author\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "564*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          187
+        ], 
+        [
+          599, 
+          271
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b34ded6e1b78552e326c0c5e0257ac48"
+}

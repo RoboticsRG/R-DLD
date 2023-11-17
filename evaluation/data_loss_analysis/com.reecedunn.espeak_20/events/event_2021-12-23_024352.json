@@ -1,0 +1,42 @@
+{
+  "stop_state": "70587e2c08bae8ed6d7389da084dc0aa", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-23_024352", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.reecedunn.espeak:id/LinearLayout1", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*99", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.reecedunn.espeak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          166
+        ], 
+        [
+          706, 
+          265
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "70587e2c08bae8ed6d7389da084dc0aa"
+}

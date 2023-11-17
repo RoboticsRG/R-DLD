@@ -1,0 +1,51 @@
+{
+  "stop_state": "9528d92c88d32cc3a1353aa692d857d0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_135050", 
+  "event": {
+    "views_str": [
+      "c664501befa3fd14c4256ecb8931eff0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_password", 
+        "is_password": true, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "c664501befa3fd14c4256ecb8931eff0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            337
+          ], 
+          [
+            692, 
+            416
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_password[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bf311b7be6efd9872fc84b2165cbaac0"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "db6fd55d1c148ca003847a6d7caa2d60", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-09_115720", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "CANCELAR", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "175*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.y20k.transistor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          276, 
+          926
+        ], 
+        [
+          451, 
+          1010
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "77eb7124a1ec2a236c03a12ac70ae8fa"
+}

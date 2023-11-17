@@ -1,0 +1,203 @@
+{
+  "stop_state": "abc9f591463d460d9fed5053bbc0c29a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-28_112856", 
+  "event": {
+    "views_str": [
+      "e8a7e5d9698e76e57f236a874b5bcdc6", 
+      "824463acd7ef3b9a8b824f258050c006", 
+      "b4563aeab9ad9dd238f4389bebaf2cb5", 
+      "9e7e0cf7506c5238da46a9f8bb7d41e2", 
+      "b4563aeab9ad9dd238f4389bebaf2cb5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "e8a7e5d9698e76e57f236a874b5bcdc6", 
+        "enabled": false, 
+        "bounds": [
+          [
+            636, 
+            621
+          ], 
+          [
+            692, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "824463acd7ef3b9a8b824f258050c006", 
+        "enabled": false, 
+        "bounds": [
+          [
+            636, 
+            763
+          ], 
+          [
+            692, 
+            819
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "b4563aeab9ad9dd238f4389bebaf2cb5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1124
+          ], 
+          [
+            692, 
+            1180
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 55, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 54, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "9e7e0cf7506c5238da46a9f8bb7d41e2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1266
+          ], 
+          [
+            692, 
+            1322
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 60, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "b4563aeab9ad9dd238f4389bebaf2cb5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1423
+          ], 
+          [
+            692, 
+            1479
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "abc9f591463d460d9fed5053bbc0c29a"
+}

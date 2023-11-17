@@ -1,0 +1,10 @@
+{
+  "stop_state": "8ee76b96000e50026d6e54fb76acad3d", 
+  "event_str": "IntentEvent(intent='am start com.gimranov.zandy.app/com.gimranov.zandy.app.MainActivity')", 
+  "tag": "2022-01-12_021718", 
+  "event": {
+    "intent": "am start com.gimranov.zandy.app/com.gimranov.zandy.app.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "492a542b71b92c130dedde830806c4d7"
+}

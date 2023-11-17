@@ -1,0 +1,42 @@
+{
+  "stop_state": "a5a3c1429c7ea3091777a9d8f48fd0b0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_184421", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Pascal", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "132*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          481
+        ], 
+        [
+          139, 
+          537
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 27, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4790745d5a2dc7762752ce66620fe2fe"
+}

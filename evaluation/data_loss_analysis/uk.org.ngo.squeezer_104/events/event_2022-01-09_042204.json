@@ -1,0 +1,42 @@
+{
+  "stop_state": "458870756ba5c721391d31067dde8033", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_042204", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "View", 
+      "resource_id": "uk.org.ngo.squeezer:id/menu_item_view", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "eee8fdd1360b2629c5ac3865ad42978c"
+}

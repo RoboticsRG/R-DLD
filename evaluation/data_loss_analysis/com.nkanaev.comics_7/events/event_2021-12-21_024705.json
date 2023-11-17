@@ -1,0 +1,42 @@
+{
+  "stop_state": "b4fd4ab73ba6369341a2f10b420e5a74", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_024705", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "About", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "560*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.nkanaev.comics", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          656
+        ], 
+        [
+          560, 
+          740
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e5839a61ab909b5d33da29777024cb48"
+}

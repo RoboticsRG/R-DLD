@@ -1,0 +1,42 @@
+{
+  "stop_state": "ed0a6c7b0e95f7d7e2252126031c746d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_021239", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "591*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          64, 
+          820
+        ], 
+        [
+          655, 
+          899
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ed0a6c7b0e95f7d7e2252126031c746d"
+}

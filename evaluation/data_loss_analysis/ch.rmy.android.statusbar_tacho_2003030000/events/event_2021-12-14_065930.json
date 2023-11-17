@@ -1,0 +1,42 @@
+{
+  "stop_state": "de52f9834cca73e61b8246ca3a801967", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_065930", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/toggleButton", 
+      "text": "SPEEDOMETER ENABLED", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1432
+        ], 
+        [
+          692, 
+          1544
+        ]
+      ], 
+      "class": "android.widget.ToggleButton", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1a62a48854b1623ce2a6c50356fdffff"
+}

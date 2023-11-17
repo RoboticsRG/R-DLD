@@ -1,0 +1,144 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        f7ad3e com.polar.nextcloudservices/.SettingsActivity filter c31d79f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        4e570ec com.polar.nextcloudservices/.BootReceiver filter a12cb5
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Registered ContentProviders:
+  com.polar.nextcloudservices/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{2aca889 com.polar.nextcloudservices/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [com.polar.nextcloudservices.lifecycle-process]:
+    Provider{2aca889 com.polar.nextcloudservices/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{1d3b08e com.polar.nextcloudservices}
+
+Key Set Manager:
+  [com.polar.nextcloudservices]
+      Signing KeySets: 622
+
+Packages:
+  Package [com.polar.nextcloudservices] (8c967e6):
+    userId=10703
+    pkg=Package{2c1a0af com.polar.nextcloudservices}
+    codePath=/data/app/~~BBmFbbO8vTYS73MTp6fpaA==/com.polar.nextcloudservices-NcQIvR7ICaGbP6xKA01Yjw==
+    resourcePath=/data/app/~~BBmFbbO8vTYS73MTp6fpaA==/com.polar.nextcloudservices-NcQIvR7ICaGbP6xKA01Yjw==
+    legacyNativeLibraryDir=/data/app/~~BBmFbbO8vTYS73MTp6fpaA==/com.polar.nextcloudservices-NcQIvR7ICaGbP6xKA01Yjw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=10 minSdk=25 targetSdk=29
+    versionName=1.0-beta10
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{2c1a0af com.polar.nextcloudservices}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.polar.nextcloudservices
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2022-01-13 20:45:40
+    firstInstallTime=2022-01-13 20:45:40
+    lastUpdateTime=2022-01-13 20:45:40
+    signatures=PackageSignatures{1c0ecbc version:3, signatures:[ee93b253], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+      android.permission.INTERNET
+      android.permission.GET_ACCOUNTS
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=56707 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.GET_ACCOUNTS: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.polar.nextcloudservices
+    com.motorola.actions:
+      com.polar.nextcloudservices
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=243
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=151, package=com.gimranov.zandy.app
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=197, package=com.google.android.contacts
+    seq=201, package=com.motorola.livewallpaper3
+    seq=205, package=com.github.gschwind.fiddle_assistant
+    seq=213, package=com.google.android.tts
+    seq=215, package=com.otago.open
+    seq=223, package=com.rohit2810.spotit
+    seq=234, package=com.saiga.find.messagefinder
+    seq=236, package=com.google.android.apps.docs
+    seq=240, package=com.utyf.pmetro
+    seq=241, package=io.github.ylimit.droidbotapp
+    seq=242, package=com.polar.nextcloudservices
+
+
+Dexopt state:
+  [com.polar.nextcloudservices]
+    path: /data/app/~~BBmFbbO8vTYS73MTp6fpaA==/com.polar.nextcloudservices-NcQIvR7ICaGbP6xKA01Yjw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.polar.nextcloudservices]
+     base.apk - 1146
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

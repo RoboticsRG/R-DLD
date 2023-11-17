@@ -1,0 +1,43 @@
+{
+  "stop_state": "527923b82fe4b6273a72f412158ff803", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-29_045559", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.nihilus.music:id/search_input", 
+      "text": "Find a track, an artist", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "494*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          134, 
+          64
+        ], 
+        [
+          628, 
+          162
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "4adcbba85801d78714339858066e4f65"
+}

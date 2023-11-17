@@ -1,0 +1,42 @@
+{
+  "stop_state": "193b8474b16b99fea9d0aa8608d0ae4d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_180853", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Settings\u2026", 
+      "resource_id": "de.badaix.snapcast:id/action_settings", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0b9c0361d0086096b0de0eb931342680"
+}

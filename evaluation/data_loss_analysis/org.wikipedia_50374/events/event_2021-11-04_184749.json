@@ -1,0 +1,89 @@
+{
+  "stop_state": "757163210ef868a972886355168e87c5", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_184749", 
+  "event": {
+    "views_str": [
+      "564c0b217aef40beba1955982a8a6eee", 
+      "1fde6f3b9f23903253517ac3ef0bd985"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "564c0b217aef40beba1955982a8a6eee", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            278
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "\u2022\u2022\u2022\u2022", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": true, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "1fde6f3b9f23903253517ac3ef0bd985", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            292
+          ], 
+          [
+            692, 
+            390
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]\u2022\u2022[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6d0488524d421f59016c8b1f472154f8"
+}

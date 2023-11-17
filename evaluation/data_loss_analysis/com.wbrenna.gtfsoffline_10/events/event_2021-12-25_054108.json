@@ -1,0 +1,42 @@
+{
+  "stop_state": "8a9ced00a1a3c232add9711f4f6ea595", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_054108", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.wbrenna.gtfsoffline", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          604, 
+          280
+        ], 
+        [
+          660, 
+          336
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "af65bc00516d5562ec2721413e7f737c"
+}

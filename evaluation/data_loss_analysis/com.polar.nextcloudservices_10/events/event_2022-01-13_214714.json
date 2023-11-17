@@ -1,0 +1,44 @@
+{
+  "stop_state": "6b0081ee477d0e7ac4873f20c2c88596", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-13_214714", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "627*315", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.polar.nextcloudservices", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          656
+        ], 
+        [
+          673, 
+          971
+        ]
+      ], 
+      "class": "android.widget.NumberPicker", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "5866db43b00d321f4d82130392f76cf2"
+}

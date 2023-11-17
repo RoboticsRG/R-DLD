@@ -1,0 +1,42 @@
+{
+  "stop_state": "180703bad1bada3d636ee9994e5b55e9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_224856", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/currencyAutoComplete", 
+      "text": "US Dollars (USA)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          189
+        ], 
+        [
+          692, 
+          287
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "331f4bb81c7372183d73ab54a63adc39"
+}

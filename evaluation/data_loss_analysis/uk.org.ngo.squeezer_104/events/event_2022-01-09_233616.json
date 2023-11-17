@@ -1,0 +1,10 @@
+{
+  "stop_state": "7bb5992750402427f776309bb95e7b1d", 
+  "event_str": "IntentEvent(intent='am start uk.org.ngo.squeezer/uk.org.ngo.squeezer.itemlist.HomeActivity')", 
+  "tag": "2022-01-09_233616", 
+  "event": {
+    "intent": "am start uk.org.ngo.squeezer/uk.org.ngo.squeezer.itemlist.HomeActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "47422f6d81fce985ffe0f6caa78c845e"
+}

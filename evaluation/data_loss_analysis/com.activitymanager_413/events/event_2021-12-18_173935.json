@@ -1,0 +1,42 @@
+{
+  "stop_state": "fc859761d16a3c508be80d6ae4157b97", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_173935", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.activitymanager:id/action_activity_add_shortcut", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*88", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1382
+        ], 
+        [
+          720, 
+          1470
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "61b70a67171bfdad353b84bb543dc079"
+}

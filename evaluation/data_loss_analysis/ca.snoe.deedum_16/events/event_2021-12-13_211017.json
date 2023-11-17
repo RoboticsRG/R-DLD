@@ -1,0 +1,42 @@
+{
+  "stop_state": "433871368e9ae6b50ffb87623aff56e4", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_211017", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "github.com\n/mk270/blizanci", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "528*126", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          84, 
+          383
+        ], 
+        [
+          612, 
+          509
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1fcacc151fea6878a368a71ed0f1554d"
+}

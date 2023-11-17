@@ -1,0 +1,42 @@
+{
+  "stop_state": "8bd41ebe8c1f81e1a31d08cb34a57b7b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_164146", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "24 January 2022", 
+      "resource_id": null, 
+      "text": "24", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyfoodtracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          147, 
+          632
+        ], 
+        [
+          231, 
+          702
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": false
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "09c4a4c628119cdfbd9ecf6eca3a4bd5"
+}

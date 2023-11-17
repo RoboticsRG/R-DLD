@@ -1,0 +1,51 @@
+{
+  "stop_state": "a6046cda1a54d8e959abe927ed84a6c2", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-08_140523", 
+  "event": {
+    "views_str": [
+      "d8835a085c4e6cc57b4708e5c5a88865"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "https://jiten.obfusk.dev", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "dev.obfusk.jiten_webview", 
+        "long_clickable": true, 
+        "view_str": "d8835a085c4e6cc57b4708e5c5a88865", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            803
+          ], 
+          [
+            673, 
+            882
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]https://jiten.obfusk.dev[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9eaa14896dc238c85dc45d341506816c"
+}

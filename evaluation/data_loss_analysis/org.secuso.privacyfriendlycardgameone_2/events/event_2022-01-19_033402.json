@@ -1,0 +1,42 @@
+{
+  "stop_state": "2527537803e1eaacd453f960c7eefd52", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_033402", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Lushlife ProjectHelloHelloWorldHelloWorldHelloWorldWorld MouHelloWorldHelloWorldth Harp Path", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*104", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          269
+        ], 
+        [
+          692, 
+          373
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "85b67fbd7d1720a810dbc4b1d5438e88"
+}

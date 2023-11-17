@@ -1,0 +1,44 @@
+{
+  "stop_state": "be0d815cd697fbbb19a5a3739c836657", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-30_030610", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/select_dialog_listview", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "627*1245", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          175
+        ], 
+        [
+          673, 
+          1420
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "be0d815cd697fbbb19a5a3739c836657"
+}

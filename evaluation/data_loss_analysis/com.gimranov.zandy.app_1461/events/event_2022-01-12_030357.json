@@ -1,0 +1,42 @@
+{
+  "stop_state": "5570768897df58defc5f51bd0fed4299", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_030357", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Delete", 
+      "resource_id": "com.gimranov.zandy.app:id/do_delete", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a8a8df1854f8b8b6644316346b414dc7"
+}

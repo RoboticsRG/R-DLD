@@ -1,0 +1,89 @@
+{
+  "stop_state": "bd138b92e690bfe4d3b49b95d0116fdd", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_205424", 
+  "event": {
+    "views_str": [
+      "f4a7da94198def53ddc7afe0b84d2fb2", 
+      "b26e66383f2697a6f7776e2141e78642"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/text_input", 
+        "text": "Minha lista de leitura", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "571*98", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/text_input", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "f4a7da94198def53ddc7afe0b84d2fb2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            74, 
+            367
+          ], 
+          [
+            645, 
+            465
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/text_input[text]Minha lista de leitura[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/secondary_text_input", 
+        "text": "Descri\u00e7\u00e3o (opcional)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "571*98", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/secondary_text_input", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "b26e66383f2697a6f7776e2141e78642", 
+        "enabled": true, 
+        "bounds": [
+          [
+            74, 
+            506
+          ], 
+          [
+            645, 
+            604
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/secondary_text_input[text]Descri\u00e7\u00e3o (opcional)[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "44dc382686235a1be4c196f7763f7ee0"
+}

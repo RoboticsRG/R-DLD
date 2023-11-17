@@ -1,0 +1,43 @@
+{
+  "stop_state": "a3a7b04aa135f070000e4c6085ea1f5d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_134618", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/holder_running_ind", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*235", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          180
+        ], 
+        [
+          692, 
+          415
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "386609750992ab1b4064a396109e8351"
+}

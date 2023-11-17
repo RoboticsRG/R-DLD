@@ -1,0 +1,42 @@
+{
+  "stop_state": "057660c0f846a679c4e3d4208c746063", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_030641", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Yesterday's min temperature", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          1183
+        ], 
+        [
+          673, 
+          1267
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 33, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d0425795936a35f6d96a49891fcd0f18"
+}

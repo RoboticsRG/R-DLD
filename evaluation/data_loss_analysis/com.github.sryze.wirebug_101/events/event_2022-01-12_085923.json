@@ -1,0 +1,10 @@
+{
+  "stop_state": "d276e050cd814d04906cfcf71d4df96b", 
+  "event_str": "IntentEvent(intent='am start com.github.sryze.wirebug/com.github.sryze.wirebug.MainActivity')", 
+  "tag": "2022-01-12_085923", 
+  "event": {
+    "intent": "am start com.github.sryze.wirebug/com.github.sryze.wirebug.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "27a9274a18d350c09df3e97c2f26d732"
+}

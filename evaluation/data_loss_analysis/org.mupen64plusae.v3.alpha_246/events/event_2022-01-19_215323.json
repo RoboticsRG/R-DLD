@@ -1,0 +1,51 @@
+{
+  "stop_state": "e5224aa5216512d6bd2d2b2bdd7e1a3f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_215323", 
+  "event": {
+    "views_str": [
+      "0f19e6a1d89c4077e742c6a2c938e286"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "489*63", 
+        "checked": false, 
+        "temp_id": 117, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/search_src_text", 
+        "is_password": false, 
+        "parent": 116, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "0f19e6a1d89c4077e742c6a2c938e286", 
+        "enabled": true, 
+        "bounds": [
+          [
+            126, 
+            85
+          ], 
+          [
+            615, 
+            148
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e5224aa5216512d6bd2d2b2bdd7e1a3f"
+}

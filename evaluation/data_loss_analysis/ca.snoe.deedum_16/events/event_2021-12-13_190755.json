@@ -1,0 +1,43 @@
+{
+  "stop_state": "5e2942b240eb0b13e00a6cae8e3df79e", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_190755", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nThe most common way to serve textual content over Gemini is not just plain text like on Gopher, but using a lightweight markup language called \"Gemtext\" (which is served with the unofficial MIME type text/gemini).  This document is a quick introduction to that markup language.  It has some superficial resemblances to Markdown, which will make it easy to learn if you know MD, but it's quite different in other ways.\n\nOnce you've read this document, you might like to occasionally refresh your memory by referring to the:\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*630", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          327
+        ], 
+        [
+          690, 
+          957
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "5e2942b240eb0b13e00a6cae8e3df79e"
+}

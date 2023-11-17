@@ -1,0 +1,51 @@
+{
+  "stop_state": "9b04d269db69d28e015e9f895cb74baf", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_183921", 
+  "event": {
+    "views_str": [
+      "f4635487f952eec3dce49295a3523039"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "qwertqwefsday.eu/agate.gmi", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "f4635487f952eec3dce49295a3523039", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]qwertqwefsday.eu/agate.gmi[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fe0ea4b0fd1e0d7a432eb5a480dee29a"
+}

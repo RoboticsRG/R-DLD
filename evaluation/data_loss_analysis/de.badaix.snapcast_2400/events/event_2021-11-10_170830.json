@@ -1,0 +1,42 @@
+{
+  "stop_state": "536cf353bc3a3380eadd6527b18dbf4a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_170830", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "BadAix", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "91*35", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          322, 
+          353
+        ], 
+        [
+          413, 
+          388
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "956f421f1a1bc6708b08982343be3c2b"
+}

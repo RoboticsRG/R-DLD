@@ -1,0 +1,42 @@
+{
+  "stop_state": "5f2c39a7b37b6974fd57cb37131450ba", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_003659", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/currencyAutoComplete", 
+      "text": "Euros and Francs (France)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          189
+        ], 
+        [
+          692, 
+          287
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7d04bcdbb583b18e1d5b8ed6e32a4719"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "3942cbb9c5006c689e2f38f486a3dfa5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_024559", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Enabled", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1266
+        ], 
+        [
+          140, 
+          1350
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "00c44a47d908368cfeabc73ec9c0a1d7"
+}

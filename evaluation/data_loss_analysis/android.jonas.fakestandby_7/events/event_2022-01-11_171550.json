@@ -1,0 +1,42 @@
+{
+  "stop_state": "04d4b50fa6e7e24d843d3f7dc5005d22", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_171550", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Swipe from bottom to top", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "android.jonas.fakestandby", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          798
+        ], 
+        [
+          673, 
+          882
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "42b6903e2df524a83808fa541de12ade"
+}

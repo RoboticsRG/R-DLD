@@ -1,0 +1,51 @@
+{
+  "stop_state": "1e80f5f6e3eeaa4cfd795c8e66f185f5", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_070600", 
+  "event": {
+    "views_str": [
+      "8a339ff089fb975e34957ce66cd2293d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ru.ra66it.updaterforspotify", 
+        "long_clickable": false, 
+        "view_str": "8a339ff089fb975e34957ce66cd2293d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            292
+          ], 
+          [
+            692, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "943fe51fac0eb0ddab71e1462a28cf21"
+}

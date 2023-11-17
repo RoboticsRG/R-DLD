@@ -1,0 +1,43 @@
+{
+  "stop_state": "34db062f0babd4be44fa21a18d32a913", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-01_111738", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 44, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Helloworld (travel_agency)\nDistrict of Belconnen Benjamin Way ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1382
+        ], 
+        [
+          692, 
+          1494
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "34db062f0babd4be44fa21a18d32a913"
+}

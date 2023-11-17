@@ -1,0 +1,42 @@
+{
+  "stop_state": "cf8e4e98f5485d2d642dac607927cee4", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172715", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Sq Mile", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "138*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          621
+        ], 
+        [
+          505, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 36, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2433b22b6e7ca9b8333376f120af831b"
+}

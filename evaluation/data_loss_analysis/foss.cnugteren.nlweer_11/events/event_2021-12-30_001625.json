@@ -1,0 +1,42 @@
+{
+  "stop_state": "90e9ea5660f3231dc50db87a12489db9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_001625", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Rain last hour (+temp)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          175
+        ], 
+        [
+          673, 
+          259
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 21, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c56de2388435416ddd4b3c47875a16fe"
+}

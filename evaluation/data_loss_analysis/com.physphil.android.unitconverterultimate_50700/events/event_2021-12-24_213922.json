@@ -1,0 +1,42 @@
+{
+  "stop_state": "e5ef0ec0ff8ba7c0cfa6315d193b21b6", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213922", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Megawatt", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "168*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          481
+        ], 
+        [
+          535, 
+          537
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 34, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c79b4db9cdf02ef6d8132b29a06baf53"
+}

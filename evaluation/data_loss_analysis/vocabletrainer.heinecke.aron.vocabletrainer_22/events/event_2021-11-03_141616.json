@@ -1,0 +1,43 @@
+{
+  "stop_state": "7e9d15d8f2075ee5d30290e7f0920e57", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-03_141616", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+      "text": "HelloWorldHelloWorHelloWorldld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "577*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          71, 
+          640
+        ], 
+        [
+          648, 
+          738
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7f64005ca16481d949517b45bb97321e"
+}

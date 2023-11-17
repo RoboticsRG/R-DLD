@@ -1,0 +1,51 @@
+{
+  "stop_state": "6b7570a936481ff0b9b604b09f180b3f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_155021", 
+  "event": {
+    "views_str": [
+      "91cf56a553bb76307c0d7e28b1f2cc00"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.nishantboro.splititeasy:id/createNewGroupName", 
+        "text": "Enter group name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "684*79", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nishantboro.splititeasy:id/createNewGroupName", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nishantboro.splititeasy", 
+        "long_clickable": true, 
+        "view_str": "91cf56a553bb76307c0d7e28b1f2cc00", 
+        "enabled": true, 
+        "bounds": [
+          [
+            18, 
+            187
+          ], 
+          [
+            702, 
+            266
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nishantboro.splititeasy:id/createNewGroupName[text]Enter group name[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e587d2ba999b3b85f6e77d3dc6517b8f"
+}

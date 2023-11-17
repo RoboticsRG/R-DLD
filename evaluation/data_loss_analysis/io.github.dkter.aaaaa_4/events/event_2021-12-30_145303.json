@@ -1,0 +1,42 @@
+{
+  "stop_state": "01e5af53d814e032d28f56e1d12a1d5b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_145303", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/btnCloseKeyboardSettingsReminder", 
+      "text": "I already did, please go away", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "359*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          181, 
+          435
+        ], 
+        [
+          540, 
+          519
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "01e5af53d814e032d28f56e1d12a1d5b"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "8475e9b55af688a1fee3f997943bb4c2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_234550", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "Salvar localiza\u00e7\u00e3o", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "364*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          309, 
+          763
+        ], 
+        [
+          673, 
+          858
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "db1e11632795798d0f53bc2a0d6fb514"
+}

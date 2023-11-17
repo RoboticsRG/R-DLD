@@ -1,0 +1,43 @@
+{
+  "stop_state": "de474cbd8e7d3f50ecb6e96e147e075c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_193446", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/search_src_text", 
+      "text": "Search ROMs", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "559*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          85
+        ], 
+        [
+          685, 
+          148
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "16d8db175c65d733e5f94a0e7ac58976"
+}

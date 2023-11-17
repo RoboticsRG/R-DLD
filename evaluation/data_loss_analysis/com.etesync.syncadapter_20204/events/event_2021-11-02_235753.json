@@ -1,0 +1,42 @@
+{
+  "stop_state": "858e9b184def22999a2ae3024e7e8655", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_235753", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Abrir a gaveta de navega\u00e7\u00e3o", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          98, 
+          152
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b792421debc7a5ca1bd38981aaa3f6f0"
+}

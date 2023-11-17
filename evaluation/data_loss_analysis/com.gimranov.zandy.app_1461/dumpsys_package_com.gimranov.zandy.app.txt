@@ -1,0 +1,162 @@
+Activity Resolver Table:
+  Full MIME Types:
+      text/plain:
+        63884f3 com.gimranov.zandy.app/.MainActivity filter 9439bae
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Base MIME Types:
+      text:
+        63884f3 com.gimranov.zandy.app/.MainActivity filter 9439bae
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Schemes:
+      zotero:
+        63884f3 com.gimranov.zandy.app/.MainActivity filter 8cacc29
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "zotero"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        63884f3 com.gimranov.zandy.app/.MainActivity filter 584d5b0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.SEARCH:
+        1cc7d4f com.gimranov.zandy.app/.ItemActivity filter c599cdc
+          Action: "android.intent.action.SEARCH"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        63884f3 com.gimranov.zandy.app/.MainActivity filter 9439bae
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+Key Set Manager:
+  [com.gimranov.zandy.app]
+      Signing KeySets: 602
+
+Packages:
+  Package [com.gimranov.zandy.app] (3dd00d7):
+    userId=10683
+    pkg=Package{d3c858 com.gimranov.zandy.app}
+    codePath=/data/app/~~lRTz3LeHrr3pqFp7WbsNoQ==/com.gimranov.zandy.app-FcKZ3aVWCZUjUmWx-m2u9w==
+    resourcePath=/data/app/~~lRTz3LeHrr3pqFp7WbsNoQ==/com.gimranov.zandy.app-FcKZ3aVWCZUjUmWx-m2u9w==
+    legacyNativeLibraryDir=/data/app/~~lRTz3LeHrr3pqFp7WbsNoQ==/com.gimranov.zandy.app-FcKZ3aVWCZUjUmWx-m2u9w==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1461 minSdk=14 targetSdk=28
+    versionName=1.4.6.1
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{d3c858 com.gimranov.zandy.app}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.gimranov.zandy.app
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-11 23:11:10
+    firstInstallTime=2022-01-11 23:11:10
+    lastUpdateTime=2022-01-11 23:11:10
+    signatures=PackageSignatures{d474db1 version:3, signatures:[c99c2735], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=40822 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.gimranov.zandy.app
+    com.motorola.actions:
+      com.gimranov.zandy.app
+    com.google.android.apps.photos:
+      com.gimranov.zandy.app
+    com.google.android.apps.youtube.music:
+      com.gimranov.zandy.app
+    com.google.android.youtube:
+      com.gimranov.zandy.app
+    com.google.android.apps.maps:
+      com.gimranov.zandy.app
+    com.google.android.apps.messaging:
+      com.gimranov.zandy.app
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=142
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=77, package=com.motorola.livewallpaper3
+    seq=81, package=ch.famoser.mensa
+    seq=93, package=com.google.android.tts
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=131, package=com.google.android.contacts
+    seq=133, package=com.google.android.apps.docs
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=140, package=io.github.ylimit.droidbotapp
+    seq=141, package=com.gimranov.zandy.app
+
+
+Dexopt state:
+  [com.gimranov.zandy.app]
+    path: /data/app/~~lRTz3LeHrr3pqFp7WbsNoQ==/com.gimranov.zandy.app-FcKZ3aVWCZUjUmWx-m2u9w==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.gimranov.zandy.app]
+     base.apk - 497
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

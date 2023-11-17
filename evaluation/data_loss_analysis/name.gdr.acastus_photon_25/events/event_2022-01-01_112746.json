@@ -1,0 +1,43 @@
+{
+  "stop_state": "374cc30426b66cf0f713a9df941fdcb0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-01_112746", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 38, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Helloworld (travel_agency)\nCity of Greater Dandenong The Hub Arcade ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          698
+        ], 
+        [
+          692, 
+          810
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "99f3486067acd5066664e612b0e1928f"
+}

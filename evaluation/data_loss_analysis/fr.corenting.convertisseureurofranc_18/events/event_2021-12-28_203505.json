@@ -1,0 +1,127 @@
+{
+  "stop_state": "09d97c798347dda81c4e5d18d655e2c7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-28_203505", 
+  "event": {
+    "views_str": [
+      "658c4bc1864041cacb5464f6a550b7d4", 
+      "5a283068be8c19f926d36a4a488de1d9", 
+      "5a283068be8c19f926d36a4a488de1d9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": false, 
+        "view_str": "658c4bc1864041cacb5464f6a550b7d4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            160
+          ], 
+          [
+            692, 
+            244
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": false, 
+        "view_str": "5a283068be8c19f926d36a4a488de1d9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            244
+          ], 
+          [
+            692, 
+            328
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": false, 
+        "view_str": "5a283068be8c19f926d36a4a488de1d9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            328
+          ], 
+          [
+            692, 
+            412
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]fr.corenting.convertisseureurofranc:id/radio[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "2389dc671948a4276839fc894d3dbbdc"
+}

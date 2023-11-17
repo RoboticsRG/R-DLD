@@ -1,0 +1,184 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        8902307 de.badaix.snapcast/.MainActivity filter e753c34
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        47aaa5d de.badaix.snapcast/.BootCompleteReceiver filter 9110fd2
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Key Set Manager:
+  [de.badaix.snapcast]
+      Signing KeySets: 148
+
+Packages:
+  Package [de.badaix.snapcast] (dc40c69):
+    userId=10372
+    pkg=Package{69444d de.badaix.snapcast}
+    codePath=/data/app/~~kSijMS9B0GfV8gZ7kengrQ==/de.badaix.snapcast-TzO3UBUEbdhZ-iVPNgAHWA==
+    resourcePath=/data/app/~~kSijMS9B0GfV8gZ7kengrQ==/de.badaix.snapcast-TzO3UBUEbdhZ-iVPNgAHWA==
+    legacyNativeLibraryDir=/data/app/~~kSijMS9B0GfV8gZ7kengrQ==/de.badaix.snapcast-TzO3UBUEbdhZ-iVPNgAHWA==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=2400 minSdk=16 targetSdk=30
+    versionName=0.24.0.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{69444d de.badaix.snapcast}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/de.badaix.snapcast
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-11-10 14:39:45
+    firstInstallTime=2021-11-10 14:39:45
+    lastUpdateTime=2021-11-10 14:39:45
+    signatures=PackageSignatures{4d1af7c version:3, signatures:[f33dc086], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WAKE_LOCK
+      android.permission.INTERNET
+      android.permission.FOREGROUND_SERVICE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.CHANGE_WIFI_MULTICAST_STATE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.CHANGE_WIFI_MULTICAST_STATE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=24013 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      de.badaix.snapcast
+    com.motorola.actions:
+      de.badaix.snapcast
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=975
+  User 0:
+    seq=0, package=com.motorola.msimsettings
+    seq=5, package=com.android.stk
+    seq=20, package=com.google.android.partnersetup
+    seq=42, package=com.google.android.syncadapters.contacts
+    seq=164, package=com.motorola.gamemode
+    seq=264, package=com.motorola.paks
+    seq=273, package=com.google.android.setupwizard
+    seq=286, package=com.motorola.audiofx
+    seq=297, package=com.google.android.apps.pixelmigrate
+    seq=300, package=com.motorola.coresettingsext
+    seq=323, package=com.android.shell
+    seq=324, package=com.android.settings
+    seq=331, package=android.autoinstalls.config.motorola.layout
+    seq=386, package=org.gateshipone.malp
+    seq=401, package=com.google.android.trichromelibrary_460608533
+    seq=402, package=com.google.android.apps.wellbeing
+    seq=418, package=com.google.android.marvin.talkback
+    seq=425, package=com.google.android.deskclock
+    seq=431, package=com.google.android.calculator
+    seq=433, package=com.google.android.apps.nbu.files
+    seq=458, package=com.motorola.livewallpaper3
+    seq=470, package=com.google.android.gm
+    seq=471, package=com.zegoggles.smssync
+    seq=475, package=com.google.android.videos
+    seq=478, package=com.google.android.inputmethod.latin
+    seq=479, package=com.google.android.calendar
+    seq=497, package=org.calyxinstitute.vpn
+    seq=521, package=pro.oblivioncoding.fluffy_board
+    seq=529, package=pc.javier.actualizadoropendns
+    seq=544, package=com.google.ar.core
+    seq=554, package=com.minar.birday
+    seq=562, package=ir.mrahimy.conceal
+    seq=570, package=org.dyndns.warenix.web2pdf
+    seq=599, package=com.mattieapps.roommates
+    seq=619, package=com.google.android.dialer
+    seq=633, package=ch.logixisland.anuto
+    seq=639, package=io.neurolab
+    seq=652, package=com.google.android.apps.tachyon
+    seq=655, package=com.etesync.syncadapter
+    seq=662, package=com.google.android.apps.messaging
+    seq=682, package=me.zhanghai.android.files
+    seq=697, package=com.google.android.apps.photos
+    seq=701, package=com.google.android.apps.subscriptions.red
+    seq=704, package=com.google.android.googlequicksearchbox
+    seq=707, package=com.google.android.youtube
+    seq=715, package=com.github.ashutoshgngwr.tenbitclockwidget
+    seq=721, package=com.limelight
+    seq=729, package=org.wikipedia
+    seq=735, package=com.dozingcatsoftware.mouse_pounce
+    seq=743, package=com.nathanatos.Cuppa
+    seq=758, package=org.nutritionfacts.dailydozen
+    seq=766, package=org.zephyrsoft.trackworktime
+    seq=790, package=com.example.gesturecapture
+    seq=803, package=com.google.android.modulemetadata
+    seq=804, package=com.google.mainline.telemetry
+    seq=805, package=com.plaincode.clinometer
+    seq=807, package=com.google.android.apps.maps
+    seq=814, package=com.google.android.apps.turbo
+    seq=819, package=com.google.android.as
+    seq=835, package=ru.evgeniy.dpitunnel
+    seq=842, package=com.google.android.gms
+    seq=843, package=com.google.android.trichromelibrary_463807433
+    seq=844, package=com.google.android.webview
+    seq=846, package=com.google.android.ims
+    seq=847, package=com.google.android.apps.youtube.music
+    seq=871, package=com.android.chrome
+    seq=877, package=eu.basicairdata.clinometer
+    seq=878, package=com.example.testsensors
+    seq=881, package=vocabletrainer.heinecke.aron.vocabletrainer
+    seq=884, package=com.github.ruleant.getback_gps
+    seq=894, package=eu.bauerj.paperless_app
+    seq=898, package=dev.obfusk.jiten_webview
+    seq=904, package=com.google.android.contacts
+    seq=905, package=com.wparam.nullkeyboard
+    seq=906, package=com.android.inputmethod.latin
+    seq=907, package=com.google.android.projection.gearhead
+    seq=929, package=de.mwvb.blockpuzzle
+    seq=939, package=org.y20k.transistor
+    seq=945, package=com.craigd.lmsmaterial.app
+    seq=956, package=com.android.vending
+    seq=958, package=com.appmindlab.nano
+    seq=964, package=com.google.android.tts
+    seq=968, package=com.google.android.apps.docs
+    seq=972, package=nl.mpcjanssen.simpletask
+    seq=973, package=io.github.ylimit.droidbotapp
+    seq=974, package=de.badaix.snapcast
+
+
+Dexopt state:
+  [de.badaix.snapcast]
+    path: /data/app/~~kSijMS9B0GfV8gZ7kengrQ==/de.badaix.snapcast-TzO3UBUEbdhZ-iVPNgAHWA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [de.badaix.snapcast]
+     base.apk - 868
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

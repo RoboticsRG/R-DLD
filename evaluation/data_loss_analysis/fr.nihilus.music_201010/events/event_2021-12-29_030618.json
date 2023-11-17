@@ -1,0 +1,44 @@
+{
+  "stop_state": "a9c4aa6d13c56fd66cc79f152ac6f73b", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-29_030618", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.nihilus.music:id/fragment_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1322", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          236
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "androidx.viewpager.widget.ViewPager", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "a9c4aa6d13c56fd66cc79f152ac6f73b"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "1a2405d8ab89788e65ce6a09dd3ec971", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_123337", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/spinner_event", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*42", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          577
+        ], 
+        [
+          678, 
+          619
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "1fba2fc6e345726eb63ce372fe9105be"
+}

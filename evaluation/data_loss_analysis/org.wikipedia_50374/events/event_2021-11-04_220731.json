@@ -1,0 +1,43 @@
+{
+  "stop_state": "70d695ac622a423b6d41040434a77d13", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_220731", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Senha", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          292
+        ], 
+        [
+          692, 
+          390
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8df0bd931a9f0b0bde50be2a385f6246"
+}

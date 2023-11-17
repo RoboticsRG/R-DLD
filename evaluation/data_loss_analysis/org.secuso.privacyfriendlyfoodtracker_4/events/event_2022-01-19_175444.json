@@ -1,0 +1,43 @@
+{
+  "stop_state": "0f16889816184ee8576fb73cfc310315", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-19_175444", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/input_food", 
+      "text": "Teste Teste", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyfoodtracker", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          283
+        ], 
+        [
+          692, 
+          362
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "0511fb58eedb4f30ff206cc229498369"
+}

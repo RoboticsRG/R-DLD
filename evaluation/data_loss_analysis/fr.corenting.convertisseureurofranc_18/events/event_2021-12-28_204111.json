@@ -1,0 +1,42 @@
+{
+  "stop_state": "7e3b03f031c7a6e5d8c676240dadbe4d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_204111", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/sumToConvertText", 
+      "text": "Amount to convert (euros)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          317
+        ], 
+        [
+          692, 
+          415
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "baf440f23a7ae5d9f9be1c943c24abee"
+}

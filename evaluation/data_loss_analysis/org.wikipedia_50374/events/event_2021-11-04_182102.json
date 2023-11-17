@@ -1,0 +1,42 @@
+{
+  "stop_state": "117943939e50b1c9161406c89b73e80b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_182102", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/fragment_onboarding_done_button", 
+      "text": "COME\u00c7AR", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "190*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          530, 
+          1474
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "158a2051aef241aa6e2b6e8bc1e762d7"
+}

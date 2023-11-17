@@ -1,0 +1,42 @@
+{
+  "stop_state": "f1d4059432cbd45bf820d46b1de84baf", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_204945", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "2020-07-11 19:01 update config.toml and bumb v\u2026 int 80h <int@80h.dev>", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*102", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          558
+        ], 
+        [
+          690, 
+          660
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "51652601bb19fae9374f69ce9048b501"
+}

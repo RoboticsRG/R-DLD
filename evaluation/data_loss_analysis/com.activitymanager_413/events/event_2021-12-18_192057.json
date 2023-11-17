@@ -1,0 +1,43 @@
+{
+  "stop_state": "7441577921847efc88ab686a3e2f38f7", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-18_192057", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 39, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*124", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1259
+        ], 
+        [
+          720, 
+          1383
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d96c07e1b0aa1c085f6a87e47d145bc6"
+}

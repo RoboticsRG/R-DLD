@@ -1,0 +1,42 @@
+{
+  "stop_state": "358bac1b3b2724f6a8483a8aa6434020", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-31_190704", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.sds100.keymapper:id/button1", 
+      "text": "GO TO DONTKILLMYAPP.COM", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "443*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.sds100.keymapper", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          29, 
+          1316
+        ], 
+        [
+          472, 
+          1400
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fbea7b19f76cd058d315fc4936a59d8c"
+}

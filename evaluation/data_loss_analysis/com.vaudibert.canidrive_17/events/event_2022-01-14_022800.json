@@ -1,0 +1,42 @@
+{
+  "stop_state": "729b369d4a4bf967b7987c1cc5bddf32", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_022800", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddea\ud83c\uddea Estonia", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "266*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          1039
+        ], 
+        [
+          521, 
+          1104
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cbb86387f4cd5de74885aff1613898ff"
+}

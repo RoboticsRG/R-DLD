@@ -1,0 +1,43 @@
+{
+  "stop_state": "4dc4362c61d25cdc60d5b7c1d459ab0e", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-12_030623", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          749
+        ], 
+        [
+          673, 
+          828
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "4dc4362c61d25cdc60d5b7c1d459ab0e"
+}

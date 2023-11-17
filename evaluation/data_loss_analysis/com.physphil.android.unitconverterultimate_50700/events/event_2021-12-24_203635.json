@@ -1,0 +1,42 @@
+{
+  "stop_state": "89c2f947fcef5f0c9273266b2c6ef89a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_203635", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text", 
+      "text": "Pressure", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          824
+        ], 
+        [
+          462, 
+          908
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 40, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8c5cb6e672d8323851e6c45e7fe36e1f"
+}

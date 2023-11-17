@@ -1,0 +1,266 @@
+Activity Resolver Table:
+  Full MIME Types:
+      text/tab-separated-values:
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter eaad1ec
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter 33979b5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+
+  Base MIME Types:
+      text:
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter eaad1ec
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter 33979b5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+
+  Schemes:
+      k6:
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter 98c284a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "k6"
+          Authority: "": -1 WILD
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter 8424c54
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        47447fd ee.ioc.phon.android.speak/.activity.Preferences filter e1fecf2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        2f5cf43 ee.ioc.phon.android.speak/.PreferencesRecognitionServiceHttp filter 8a1d9c0
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        7c266f9 ee.ioc.phon.android.speak/.PreferencesRecognitionServiceWs filter 6bbe63e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        82fe3bb ee.ioc.phon.android.speak/.demo.HandsfreeDemoActivity filter 16920d8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.VOICE_COMMAND:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter da6fda8
+          Action: "android.intent.action.VOICE_COMMAND"
+          Category: "android.intent.category.DEFAULT"
+      android.speech.action.RECOGNIZE_SPEECH:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter 341649a
+          Action: "android.speech.action.RECOGNIZE_SPEECH"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.SEARCH_LONG_PRESS:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter 6413066
+          Action: "android.intent.action.SEARCH_LONG_PRESS"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.ASSIST:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter 95360c1
+          Action: "android.intent.action.ASSIST"
+          Category: "android.intent.category.DEFAULT"
+          mPriority=-10, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      android.speech.action.VOICE_SEARCH_HANDS_FREE:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter b64dfa7
+          Action: "android.speech.action.VOICE_SEARCH_HANDS_FREE"
+          Category: "android.intent.category.DEFAULT"
+      android.speech.action.WEB_SEARCH:
+        be7b545 ee.ioc.phon.android.speak/.activity.SpeechActionActivity filter 89af1cb
+          Action: "android.speech.action.WEB_SEARCH"
+          Category: "android.intent.category.DEFAULT"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter eaad1ec
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+      android.intent.action.VIEW:
+        1c1c9f ee.ioc.phon.android.speak/.activity.RewritesLoaderActivity filter 33979b5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/tab-separated-values"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.speech.action.GET_LANGUAGE_DETAILS:
+        d4fc31 ee.ioc.phon.android.speak/.GetLanguageDetailsReceiver filter e6c7f16
+          Action: "android.speech.action.GET_LANGUAGE_DETAILS"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.speech.RecognitionService:
+        3ef0097 ee.ioc.phon.android.speak/.service.WebSocketRecognitionService filter abb7284 permission android.permission.RECORD_AUDIO
+          Action: "android.speech.RecognitionService"
+          Category: "android.intent.category.DEFAULT"
+        4cc2a6d ee.ioc.phon.android.speak/.service.HttpRecognitionService filter d2976a2 permission android.permission.RECORD_AUDIO
+          Action: "android.speech.RecognitionService"
+          Category: "android.intent.category.DEFAULT"
+      android.view.InputMethod:
+        190f33 ee.ioc.phon.android.speak/.service.SpeechInputMethodService filter 1bf32f0 permission android.permission.BIND_INPUT_METHOD
+          Action: "android.view.InputMethod"
+
+Permissions:
+  Permission [ee.ioc.phon.android.speak.permission.FETCH_URL] (58e0069):
+    sourcePackage=ee.ioc.phon.android.speak
+    uid=10516 gids=null type=0 prot=dangerous
+    perm=Permission{affdbbb ee.ioc.phon.android.speak.permission.FETCH_URL}
+
+Registered ContentProviders:
+  ee.ioc.phon.android.speak/.provider.AppsContentProvider:
+    Provider{185b8d8 ee.ioc.phon.android.speak/.provider.AppsContentProvider}
+  ee.ioc.phon.android.speak/.provider.FileContentProvider:
+    Provider{351b431 ee.ioc.phon.android.speak/.provider.FileContentProvider}
+
+ContentProvider Authorities:
+  [ee.ioc.phon.android.speak.provider.AppsContentProvider]:
+    Provider{185b8d8 ee.ioc.phon.android.speak/.provider.AppsContentProvider}
+      applicationInfo=ApplicationInfo{d96d716 ee.ioc.phon.android.speak}
+  [ee.ioc.phon.android.speak.provider.FileContentProvider]:
+    Provider{351b431 ee.ioc.phon.android.speak/.provider.FileContentProvider}
+      applicationInfo=ApplicationInfo{fc67897 ee.ioc.phon.android.speak}
+
+Key Set Manager:
+  [ee.ioc.phon.android.speak]
+      Signing KeySets: 433
+
+Packages:
+  Package [ee.ioc.phon.android.speak] (c8d6f22):
+    userId=10516
+    pkg=Package{c098a84 ee.ioc.phon.android.speak}
+    codePath=/data/app/~~nY8CPmUZvV5Av7OiBcl_Vg==/ee.ioc.phon.android.speak-Km7x6tdvYZwyRAf7kop70A==
+    resourcePath=/data/app/~~nY8CPmUZvV5Av7OiBcl_Vg==/ee.ioc.phon.android.speak-Km7x6tdvYZwyRAf7kop70A==
+    legacyNativeLibraryDir=/data/app/~~nY8CPmUZvV5Av7OiBcl_Vg==/ee.ioc.phon.android.speak-Km7x6tdvYZwyRAf7kop70A==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1800 minSdk=21 targetSdk=30
+    versionName=1.8.00
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{c098a84 ee.ioc.phon.android.speak}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    queriesIntents=[Intent { act=android.speech.RecognitionService }, Intent { act=android.intent.action.TTS_SERVICE }]
+    dataDir=/data/user/0/ee.ioc.phon.android.speak
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-28 11:27:48
+    firstInstallTime=2021-12-28 11:27:49
+    lastUpdateTime=2021-12-28 11:27:49
+    signatures=PackageSignatures{e5c626d version:3, signatures:[2aa0c3bf], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      ee.ioc.phon.android.speak.permission.FETCH_URL: prot=dangerous, INSTALLED
+    requested permissions:
+      android.permission.RECORD_AUDIO
+      android.permission.INTERNET
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      com.android.alarm.permission.SET_ALARM
+      android.permission.ACCESS_NOTIFICATION_POLICY
+      android.permission.QUERY_ALL_PACKAGES
+      ee.ioc.phon.android.speak.permission.FETCH_URL
+    install permissions:
+      android.permission.ACCESS_NOTIFICATION_POLICY: granted=true
+      com.android.alarm.permission.SET_ALARM: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+    User 0: ceDataInode=41427 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        ee.ioc.phon.android.speak.permission.FETCH_URL: granted=true
+        android.permission.RECORD_AUDIO: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ee.ioc.phon.android.speak
+    com.motorola.actions:
+      ee.ioc.phon.android.speak
+    com.google.android.gm:
+      ee.ioc.phon.android.speak
+    com.google.android.apps.photos:
+      ee.ioc.phon.android.speak
+    com.google.android.apps.docs:
+      ee.ioc.phon.android.speak
+    com.google.android.videos:
+      ee.ioc.phon.android.speak
+    com.google.android.apps.maps:
+      ee.ioc.phon.android.speak
+    com.google.android.apps.messaging:
+      ee.ioc.phon.android.speak
+    vidma.screenrecorder.videorecorder.videoeditor.lite:
+      ee.ioc.phon.android.speak
+    ee.ioc.phon.android.speak:
+      com.google.android.googlequicksearchbox
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=392
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=365, package=com.google.android.tts
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=389, package=com.google.android.apps.docs
+    seq=390, package=io.github.ylimit.droidbotapp
+    seq=391, package=ee.ioc.phon.android.speak
+
+
+Dexopt state:
+  [ee.ioc.phon.android.speak]
+    path: /data/app/~~nY8CPmUZvV5Av7OiBcl_Vg==/ee.ioc.phon.android.speak-Km7x6tdvYZwyRAf7kop70A==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [ee.ioc.phon.android.speak]
+     base.apk - 459
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

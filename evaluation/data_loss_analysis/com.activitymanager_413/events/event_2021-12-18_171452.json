@@ -1,0 +1,42 @@
+{
+  "stop_state": "896a60f779575f61e93e0059f37290c9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_171452", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.activitymanager:id/search_src_text", 
+      "text": "Activity name or package", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "532*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          140, 
+          71
+        ], 
+        [
+          672, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "896a60f779575f61e93e0059f37290c9"
+}

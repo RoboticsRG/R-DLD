@@ -1,0 +1,51 @@
+{
+  "stop_state": "49b48d3fe4c3dc7c6978655429584313", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_035613", 
+  "event": {
+    "views_str": [
+      "8160d9f4218632066e2d9f711aabfe2a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.markuspage.android.atimetracker:id/activity_edit_name_edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "380*69", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.markuspage.android.atimetracker:id/activity_edit_name_edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "8160d9f4218632066e2d9f711aabfe2a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            275, 
+            759
+          ], 
+          [
+            655, 
+            828
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.markuspage.android.atimetracker:id/activity_edit_name_edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7bbd137f05b971d6f275948f0b45442c"
+}

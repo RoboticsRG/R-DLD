@@ -1,0 +1,42 @@
+{
+  "stop_state": "a21ccf5ca9bd9e60bb094fb87a3df2d1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-19_182656", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "393*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jovial.jrpn", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          327, 
+          222
+        ], 
+        [
+          720, 
+          306
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "37810b50834cd2b12ddeaeb503825939"
+}

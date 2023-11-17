@@ -1,0 +1,42 @@
+{
+  "stop_state": "5c94a312fc65dbdb72864301a1e2f0ea", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_210435", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Mais op\u00e7\u00f5es", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "71*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          649, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "de0be84c5b8d9890ad9307285a9e9e79"
+}

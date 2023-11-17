@@ -1,0 +1,51 @@
+{
+  "stop_state": "3a7a53432dbc954d3833453716ab0759", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_141946", 
+  "event": {
+    "views_str": [
+      "7f547d96dbd37240b9e88a4072208f6b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/editText_name", 
+        "text": "Condition title", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_name", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": true, 
+        "view_str": "7f547d96dbd37240b9e88a4072208f6b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            278
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_name[text]Condition title[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e31e6cff30371c87fc669b2ae1ed326b"
+}

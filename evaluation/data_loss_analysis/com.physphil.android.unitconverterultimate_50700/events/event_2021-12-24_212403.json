@@ -1,0 +1,42 @@
+{
+  "stop_state": "9e37bc9c009d00ec72ac8243b6cd5c1d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212403", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Millimetre (mm)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "234*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          621
+        ], 
+        [
+          241, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 35, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3954f891c5fe46ec862e513abb19cbd7"
+}

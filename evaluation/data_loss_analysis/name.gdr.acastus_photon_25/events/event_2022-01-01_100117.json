@@ -1,0 +1,43 @@
+{
+  "stop_state": "9e85db2b2d53cf868043da52c4e9accd", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-01_100117", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "name.gdr.acastus_photon:id/searchText", 
+      "text": "Enter Address/POI", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "538*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          163
+        ], 
+        [
+          566, 
+          242
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "5bba88ea68f4c78f63e023fecfce27cb"
+}

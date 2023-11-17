@@ -1,0 +1,43 @@
+{
+  "stop_state": "09d97c798347dda81c4e5d18d655e2c7", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-28_230907", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/sumToConvertText", 
+      "text": "Amount to convert (dollars)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          317
+        ], 
+        [
+          692, 
+          415
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "09d97c798347dda81c4e5d18d655e2c7"
+}

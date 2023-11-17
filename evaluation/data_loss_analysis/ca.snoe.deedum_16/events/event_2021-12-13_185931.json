@@ -1,0 +1,43 @@
+{
+  "stop_state": "d1a4bf23200e098fda50ef5d7e84ee4f", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_185931", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 53, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Web proxies", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "271*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1253
+        ], 
+        [
+          306, 
+          1318
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "3ca66ec5c8f64fb053d6f382119532ad"
+}

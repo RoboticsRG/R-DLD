@@ -1,0 +1,42 @@
+{
+  "stop_state": "343207d498ad2887fd325fb2c2ddff3f", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_135238", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HTTP Shortcuts", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "256*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          79
+        ], 
+        [
+          284, 
+          126
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8727b1b197154c23cb145c4c628c48dd"
+}

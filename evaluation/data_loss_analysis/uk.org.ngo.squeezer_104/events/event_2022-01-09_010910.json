@@ -1,0 +1,43 @@
+{
+  "stop_state": "a8c2989f55c52f2ce81f1fc7e6ea5cfa", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-09_010910", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/password", 
+      "text": "\u2022\u2022\u2022", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": true, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          650
+        ], 
+        [
+          678, 
+          748
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "da526266ede73c2b1e1759ebb39df3d9"
+}

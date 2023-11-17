@@ -1,0 +1,42 @@
+{
+  "stop_state": "717c96f4bb1dd3ae91bbabe78f64a8c6", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_114418", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Press this button and speak", 
+      "resource_id": "ee.ioc.phon.android.speak:id/bImeStartStop", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "126*126", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ee.ioc.phon.android.speak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          296, 
+          813
+        ], 
+        [
+          422, 
+          939
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "717c96f4bb1dd3ae91bbabe78f64a8c6"
+}

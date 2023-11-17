@@ -1,0 +1,165 @@
+{
+  "stop_state": "85136ae6359be9e404905534f8f9da5a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-14_023703", 
+  "event": {
+    "views_str": [
+      "528c12c72162417e0a865dee935bb71e", 
+      "c4df2e1fe5080b4489e4afa4f63601ae", 
+      "e5a73be87ed2a3077f6843a6de6ab782", 
+      "608a2015166ff927ae62a9eac08ba654"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Disabled", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]None", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.app.missednotificationsreminder", 
+        "long_clickable": false, 
+        "view_str": "528c12c72162417e0a865dee935bb71e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            56, 
+            1266
+          ], 
+          [
+            140, 
+            1350
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]None[text]Disabled[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.app.missednotificationsreminder:id/intervalName", 
+        "text": "60.00", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "608*98", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/intervalName", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.app.missednotificationsreminder", 
+        "long_clickable": true, 
+        "view_str": "c4df2e1fe5080b4489e4afa4f63601ae", 
+        "enabled": false, 
+        "bounds": [
+          [
+            56, 
+            1350
+          ], 
+          [
+            664, 
+            1448
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/intervalName[text]60.00[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Reminder will repeat forever", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*39", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]None", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.app.missednotificationsreminder", 
+        "long_clickable": false, 
+        "view_str": "e5a73be87ed2a3077f6843a6de6ab782", 
+        "enabled": true, 
+        "bounds": [
+          [
+            56, 
+            1561
+          ], 
+          [
+            140, 
+            1600
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]None[text]Reminder will repeat forever[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.app.missednotificationsreminder:id/repeatsName", 
+        "text": "5", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "608*-45", 
+        "checked": false, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/repeatsName", 
+        "is_password": false, 
+        "parent": 51, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.app.missednotificationsreminder", 
+        "long_clickable": true, 
+        "view_str": "608a2015166ff927ae62a9eac08ba654", 
+        "enabled": false, 
+        "bounds": [
+          [
+            56, 
+            1645
+          ], 
+          [
+            664, 
+            1600
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.app.missednotificationsreminder:id/repeatsName[text]5[,,]"
+      }
+    ]
+  }, 
+  "start_state": "cd116a439fb3210e1c3532696adfada0"
+}

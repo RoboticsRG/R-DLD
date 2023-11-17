@@ -1,0 +1,203 @@
+{
+  "stop_state": "b09a440b8a49e4fc25cfb403c471ec74", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_012305", 
+  "event": {
+    "views_str": [
+      "3a2aa9024398f03716ce38a156728695", 
+      "3a2aa9024398f03716ce38a156728695", 
+      "8b348d462cc0a16c209f02c2bdea9b95", 
+      "3a2aa9024398f03716ce38a156728695", 
+      "3a2aa9024398f03716ce38a156728695"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "3a2aa9024398f03716ce38a156728695", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            188
+          ], 
+          [
+            692, 
+            272
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "3a2aa9024398f03716ce38a156728695", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            657
+          ], 
+          [
+            692, 
+            741
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 50, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "8b348d462cc0a16c209f02c2bdea9b95", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1018
+          ], 
+          [
+            692, 
+            1102
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 57, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 56, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "3a2aa9024398f03716ce38a156728695", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1175
+          ], 
+          [
+            692, 
+            1259
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/switchWidget", 
+        "text": "ON", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*-6", 
+        "checked": true, 
+        "temp_id": 70, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 69, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "3a2aa9024398f03716ce38a156728695", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1564
+          ], 
+          [
+            692, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]uk.org.ngo.squeezer:id/switchWidget[text]ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "b09a440b8a49e4fc25cfb403c471ec74"
+}

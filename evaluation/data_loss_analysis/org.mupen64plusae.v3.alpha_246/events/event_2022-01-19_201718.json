@@ -1,0 +1,42 @@
+{
+  "stop_state": "7b13862893d02fe968c6111657147bc3", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_201718", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox2", 
+      "text": "Download cover art", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          515
+        ], 
+        [
+          692, 
+          571
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8eacfda15f23163bee23d38921f4b8ee"
+}

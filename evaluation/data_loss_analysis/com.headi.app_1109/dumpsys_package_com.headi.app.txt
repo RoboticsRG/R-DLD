@@ -1,0 +1,223 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        a94694a com.headi.app/.MainActivity filter 28190bb
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        e37d016 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 62e7d97
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        6e5c9d8 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 866f131
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        5d9ab84 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter c086f6d
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        cd8d7a2 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 3535c33
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        5d9ab84 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter c086f6d
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        e37d016 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 62e7d97
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        307fbf0 com.headi.app/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 4c99569
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        307fbf0 com.headi.app/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 4c99569
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        307fbf0 com.headi.app/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 4c99569
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        6e5c9d8 com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 866f131
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        788e71c com.headi.app/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 75d1f25
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        d90cbee com.headi.app/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter cdd888f
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Registered ContentProviders:
+  com.headi.app/androidx.work.impl.WorkManagerInitializer:
+    Provider{8f94234 com.headi.app/androidx.work.impl.WorkManagerInitializer}
+
+ContentProvider Authorities:
+  [com.headi.app.workmanager-init]:
+    Provider{8f94234 com.headi.app/androidx.work.impl.WorkManagerInitializer}
+      applicationInfo=ApplicationInfo{c85385d com.headi.app}
+
+Key Set Manager:
+  [com.headi.app]
+      Signing KeySets: 361
+
+Packages:
+  Package [com.headi.app] (6192ab3):
+    userId=10514
+    pkg=Package{f4226a3 com.headi.app}
+    codePath=/data/app/~~Ob6tbbP6d67Di3YLbsn4Tw==/com.headi.app-lN5OMmRO1_F3Ly4IfZRBAQ==
+    resourcePath=/data/app/~~Ob6tbbP6d67Di3YLbsn4Tw==/com.headi.app-lN5OMmRO1_F3Ly4IfZRBAQ==
+    legacyNativeLibraryDir=/data/app/~~Ob6tbbP6d67Di3YLbsn4Tw==/com.headi.app-lN5OMmRO1_F3Ly4IfZRBAQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1109 minSdk=26 targetSdk=30
+    versionName=1.10.9
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{f4226a3 com.headi.app}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.headi.app
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-22 00:21:44
+    firstInstallTime=2021-12-22 00:21:44
+    lastUpdateTime=2021-12-22 00:21:44
+    signatures=PackageSignatures{c024da0 version:3, signatures:[9a5a1b33], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.FOREGROUND_SERVICE
+      android.permission.WAKE_LOCK
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=60028 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.headi.app
+    com.motorola.actions:
+      com.headi.app
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=745
+  User 0:
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=165, package=com.codedead.deadhash
+    seq=173, package=com.dosse.airpods
+    seq=188, package=com.crazylegend.subhub
+    seq=196, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=198, package=com.crazylegend.vigilante
+    seq=208, package=com.ebaschiera.triplecamel
+    seq=216, package=com.dp.logcatapp
+    seq=228, package=com.fr3ts0n.androbd.plugin.gpsprovider
+    seq=240, package=com.fr3ts0n.androbd.plugin.mqtt
+    seq=248, package=com.bobek.compass
+    seq=264, package=com.bytestemplar.tonedef
+    seq=270, package=com.genonbeta.TrebleShot
+    seq=274, package=com.github.gotify.up
+    seq=285, package=com.google.android.webview
+    seq=286, package=com.google.android.trichromelibrary_466410433
+    seq=287, package=com.google.android.googlequicksearchbox
+    seq=288, package=com.google.android.projection.gearhead
+    seq=292, package=com.github.ashutoshgngwr.noice
+    seq=308, package=com.github.gotify
+    seq=317, package=com.funkymuse.aurora
+    seq=325, package=com.github.siggel.coordinatejoker
+    seq=337, package=com.google.android.videos
+    seq=349, package=com.motorola.audiofx
+    seq=355, package=com.anpmech.launcher
+    seq=572, package=com.google.android.setupwizard
+    seq=574, package=com.activitymanager
+    seq=579, package=com.google.android.apps.photos
+    seq=580, package=com.google.android.calendar
+    seq=588, package=com.fr3ts0n.androbd.plugin.sensorprovider
+    seq=598, package=com.iatfei.streakalarm
+    seq=608, package=com.hos_dvk.easyphone.full
+    seq=616, package=com.machiav3lli.derdiedas
+    seq=622, package=com.jovial.jrpn
+    seq=631, package=com.android.chrome
+    seq=634, package=com.google.android.apps.maps
+    seq=635, package=com.google.android.youtube
+    seq=637, package=com.joshuacerdenia.android.nicefeed
+    seq=651, package=com.maltaisn.notes.sync
+    seq=663, package=com.mileskrell.texttorch
+    seq=671, package=com.mzhang.cleantimer
+    seq=679, package=com.mirfatif.mylocation
+    seq=687, package=com.moez.QKSMS
+    seq=694, package=com.mirfatif.noorulhuda
+    seq=699, package=com.google.android.apps.tachyon
+    seq=700, package=com.google.android.gm
+    seq=706, package=com.google.android.tts
+    seq=712, package=com.mirfatif.permissionmanagerx
+    seq=720, package=com.nkanaev.comics
+    seq=726, package=com.google.android.apps.docs
+    seq=728, package=com.odnovolov.forgetmenot
+    seq=732, package=com.nazmar.dicegainz
+    seq=736, package=com.nishantboro.splititeasy
+    seq=740, package=com.google.android.contacts
+    seq=742, package=com.github.cvzi.screenshottile
+    seq=743, package=io.github.ylimit.droidbotapp
+    seq=744, package=com.headi.app
+
+
+Dexopt state:
+  [com.headi.app]
+    path: /data/app/~~Ob6tbbP6d67Di3YLbsn4Tw==/com.headi.app-lN5OMmRO1_F3Ly4IfZRBAQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.headi.app]
+     base.apk - 1272
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

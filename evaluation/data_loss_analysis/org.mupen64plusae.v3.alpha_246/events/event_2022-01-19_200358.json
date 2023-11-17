@@ -1,0 +1,42 @@
+{
+  "stop_state": "4fc99476ad4c9e51556ece7a7bd9a54a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_200358", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox1", 
+      "text": "Rechercher des fichiers zip", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          459
+        ], 
+        [
+          692, 
+          515
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8135f34ba74e312278d0326f5c000ae0"
+}

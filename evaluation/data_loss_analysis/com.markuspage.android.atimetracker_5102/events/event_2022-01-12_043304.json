@@ -1,0 +1,42 @@
+{
+  "stop_state": "22be5e508d34cffec529553c4bf00c6d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_043304", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "Add activity", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "328*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          345, 
+          873
+        ], 
+        [
+          673, 
+          968
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "34d00f995a2ddd6c0265c6f675bdad5a"
+}

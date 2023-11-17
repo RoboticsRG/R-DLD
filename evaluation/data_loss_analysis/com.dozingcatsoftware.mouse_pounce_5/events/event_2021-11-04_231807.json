@@ -1,0 +1,42 @@
+{
+  "stop_state": "8e333ae6fa33cfb6cb7565ade8b54453", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_231807", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Watch the cats", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "302*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dozingcatsoftware.mouse_pounce", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          209, 
+          763
+        ], 
+        [
+          511, 
+          847
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8e333ae6fa33cfb6cb7565ade8b54453"
+}

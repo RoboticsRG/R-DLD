@@ -1,0 +1,51 @@
+{
+  "stop_state": "4c20975a76dfe90e163b3cc73533b9ce", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_101454", 
+  "event": {
+    "views_str": [
+      "613db230ae19598a3ea7dc4246c13a23"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ddosolitary.okcagent:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.ddosolitary.okcagent:id/switchWidget", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.ddosolitary.okcagent", 
+        "long_clickable": false, 
+        "view_str": "613db230ae19598a3ea7dc4246c13a23", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            157
+          ], 
+          [
+            692, 
+            241
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.ddosolitary.okcagent:id/switchWidget[text]ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "7373a7d74fb27bc1bc601bb749f41a0f"
+}

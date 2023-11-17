@@ -1,0 +1,51 @@
+{
+  "stop_state": "6e5314571717f2565e4f2919e2093ea0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_192603", 
+  "event": {
+    "views_str": [
+      "26f873ca84d0e31b26d111757d1290b3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.ruleant.getback_gps:id/location_name", 
+        "text": "Nome do local", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "613*69", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.github.ruleant.getback_gps:id/location_name", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.ruleant.getback_gps", 
+        "long_clickable": true, 
+        "view_str": "26f873ca84d0e31b26d111757d1290b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            53, 
+            811
+          ], 
+          [
+            666, 
+            880
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.github.ruleant.getback_gps:id/location_name[text]Nome do local[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a1c3479ec611dfd7da39323be1569bde"
+}

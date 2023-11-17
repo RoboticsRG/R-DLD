@@ -1,0 +1,469 @@
+{
+  "stop_state": "0c88d615dc32d5c55746a758a7a8c27f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_130750", 
+  "event": {
+    "views_str": [
+      "dc35e9eeb7c643780e46d53bff3b7ad6", 
+      "116bf9bb967f997962cbeedb56be7d9c", 
+      "9ee36188a3a98dc57573f6fe61dfb6f0", 
+      "167fd4583c449ec1abd84567e85391ae", 
+      "167fd4583c449ec1abd84567e85391ae", 
+      "167fd4583c449ec1abd84567e85391ae", 
+      "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+      "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+      "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+      "6e0e96d76d5400fb2d68a34e19dcb6a5", 
+      "6e0e96d76d5400fb2d68a34e19dcb6a5", 
+      "69cb316c327cefdc9d4b46e0821a3e67"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile", 
+        "text": "Export File", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-238*79", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "dc35e9eeb7c643780e46d53bff3b7ad6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            320
+          ], 
+          [
+            -238, 
+            399
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tExportFile[text]Export File[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta", 
+        "text": "Export List Meta", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-14*84", 
+        "checked": true, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "116bf9bb967f997962cbeedb56be7d9c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            485
+          ], 
+          [
+            -14, 
+            569
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMeta[text]Export List Meta[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti", 
+        "text": "Export Multiple Lists", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-14*84", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "9ee36188a3a98dc57573f6fe61dfb6f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            583
+          ], 
+          [
+            -14, 
+            667
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti[text]Export Multiple Lists[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*56", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "167fd4583c449ec1abd84567e85391ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            253
+          ], 
+          [
+            112, 
+            309
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*56", 
+        "checked": false, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "is_password": false, 
+        "parent": 51, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "167fd4583c449ec1abd84567e85391ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            358
+          ], 
+          [
+            112, 
+            414
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*56", 
+        "checked": false, 
+        "temp_id": 63, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect", 
+        "is_password": false, 
+        "parent": 62, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "167fd4583c449ec1abd84567e85391ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            463
+          ], 
+          [
+            112, 
+            519
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkListEntrySelect[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": true, 
+        "temp_id": 83, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1330, 
+            477
+          ], 
+          [
+            720, 
+            524
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": true, 
+        "temp_id": 88, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 87, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1330, 
+            571
+          ], 
+          [
+            720, 
+            618
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": true, 
+        "temp_id": 93, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 92, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "7f9945e63c0aaaa0daa3bf861c5a6d7c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1330, 
+            665
+          ], 
+          [
+            720, 
+            712
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": false, 
+        "temp_id": 102, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 101, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "6e0e96d76d5400fb2d68a34e19dcb6a5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1330, 
+            866
+          ], 
+          [
+            720, 
+            913
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": false, 
+        "temp_id": 115, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 114, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "6e0e96d76d5400fb2d68a34e19dcb6a5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1330, 
+            1212
+          ], 
+          [
+            720, 
+            1259
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-610*47", 
+        "checked": false, 
+        "temp_id": 125, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 124, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "69cb316c327cefdc9d4b46e0821a3e67", 
+        "enabled": false, 
+        "bounds": [
+          [
+            1330, 
+            1468
+          ], 
+          [
+            720, 
+            1515
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[,,]"
+      }
+    ]
+  }, 
+  "start_state": "b900ab1914fa20d201cc78216ca73814"
+}

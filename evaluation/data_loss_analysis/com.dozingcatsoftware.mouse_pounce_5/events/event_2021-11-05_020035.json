@@ -1,0 +1,42 @@
+{
+  "stop_state": "8e333ae6fa33cfb6cb7565ade8b54453", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-05_020035", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "561*824", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dozingcatsoftware.mouse_pounce", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          89, 
+          413
+        ], 
+        [
+          650, 
+          1237
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8e333ae6fa33cfb6cb7565ade8b54453"
+}

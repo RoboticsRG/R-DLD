@@ -1,0 +1,51 @@
+{
+  "stop_state": "981a288fbb2a2862de9c09fe0d2dacd0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_040419", 
+  "event": {
+    "views_str": [
+      "ca52a5199e571485b883d8a3eee4ee60"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "text": "Lushlife ProjectHelloHelloWoHelloWorldHHelloWorldelloWorldrldHellHelloWorldHelloWorldoWorldHelloWorldWorld MouHelloWorldHelloWorldth Harp Path", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "591*231", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "ca52a5199e571485b883d8a3eee4ee60", 
+        "enabled": true, 
+        "bounds": [
+          [
+            64, 
+            744
+          ], 
+          [
+            655, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/editTextDialogUserInput[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "981a288fbb2a2862de9c09fe0d2dacd0"
+}

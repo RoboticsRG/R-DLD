@@ -1,0 +1,43 @@
+{
+  "stop_state": "a6cd122668bba50d4f13687fea550a9b", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-30_040043", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "grmpl.mk.stepandheightcounter:id/editTextHeightcal", 
+      "text": "height [m]", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "175*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "grmpl.mk.stepandheightcounter", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          702
+        ], 
+        [
+          221, 
+          767
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "a6cd122668bba50d4f13687fea550a9b"
+}

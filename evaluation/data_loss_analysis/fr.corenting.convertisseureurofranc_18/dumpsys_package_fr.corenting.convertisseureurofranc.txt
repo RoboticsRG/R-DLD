@@ -1,0 +1,113 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        a1359cb fr.corenting.convertisseureurofranc/.ConverterActivity filter d9b45a8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [fr.corenting.convertisseureurofranc]
+      Signing KeySets: 437
+
+Packages:
+  Package [fr.corenting.convertisseureurofranc] (fe2482f):
+    userId=10520
+    pkg=Package{5e56c56 fr.corenting.convertisseureurofranc}
+    codePath=/data/app/~~nHwwjH6NDCfO_Wt1wVXV4w==/fr.corenting.convertisseureurofranc-KCRqYrktOEJxNzEzptT2GQ==
+    resourcePath=/data/app/~~nHwwjH6NDCfO_Wt1wVXV4w==/fr.corenting.convertisseureurofranc-KCRqYrktOEJxNzEzptT2GQ==
+    legacyNativeLibraryDir=/data/app/~~nHwwjH6NDCfO_Wt1wVXV4w==/fr.corenting.convertisseureurofranc-KCRqYrktOEJxNzEzptT2GQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=18 minSdk=17 targetSdk=30
+    versionName=2.9
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{5e56c56 fr.corenting.convertisseureurofranc}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/fr.corenting.convertisseureurofranc
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-28 20:26:38
+    firstInstallTime=2021-12-28 20:26:38
+    lastUpdateTime=2021-12-28 20:26:38
+    signatures=PackageSignatures{a3584d7 version:3, signatures:[90bf5b7a], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=33287 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      fr.corenting.convertisseureurofranc
+    com.motorola.actions:
+      fr.corenting.convertisseureurofranc
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=408
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=365, package=com.google.android.tts
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=405, package=com.google.android.apps.docs
+    seq=406, package=io.github.ylimit.droidbotapp
+    seq=407, package=fr.corenting.convertisseureurofranc
+
+
+Dexopt state:
+  [fr.corenting.convertisseureurofranc]
+    path: /data/app/~~nHwwjH6NDCfO_Wt1wVXV4w==/fr.corenting.convertisseureurofranc-KCRqYrktOEJxNzEzptT2GQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [fr.corenting.convertisseureurofranc]
+     base.apk - 665
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

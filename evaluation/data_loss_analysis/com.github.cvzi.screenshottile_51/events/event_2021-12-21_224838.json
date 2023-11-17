@@ -1,0 +1,42 @@
+{
+  "stop_state": "c1f1c03e723f7dd86b6d6e368a4aed54", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_224838", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Legacy Method", 
+      "resource_id": "com.github.cvzi.screenshottile:id/switchLegacy", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          41, 
+          397
+        ], 
+        [
+          125, 
+          481
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1241bdd7d368d3413dafd1c4992c2fb6"
+}

@@ -1,0 +1,285 @@
+Activity Resolver Table:
+  Full MIME Types:
+      */*:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter 34dd7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.tshare}"
+          Path: "PatternMatcher{GLOB: .*\.tshare\.*}"
+          Path: "PatternMatcher{GLOB: .*\..*\.tshare}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        5568fd6 com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.SharingActivity filter b32a257
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Wild MIME Types:
+      *:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter 34dd7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.tshare}"
+          Path: "PatternMatcher{GLOB: .*\.tshare\.*}"
+          Path: "PatternMatcher{GLOB: .*\..*\.tshare}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        5568fd6 com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.SharingActivity filter b32a257
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      file:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter 34dd7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.tshare}"
+          Path: "PatternMatcher{GLOB: .*\.tshare\.*}"
+          Path: "PatternMatcher{GLOB: .*\..*\.tshare}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      content:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter 34dd7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.tshare}"
+          Path: "PatternMatcher{GLOB: .*\.tshare\.*}"
+          Path: "PatternMatcher{GLOB: .*\..*\.tshare}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter d88e97b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.service.quicksettings.action.QS_TILE_PREFERENCES:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter a911398
+          Action: "android.service.quicksettings.action.QS_TILE_PREFERENCES"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        5568fd6 com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.SharingActivity filter b32a257
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      android.intent.action.VIEW:
+        5b2ad0a com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity filter 34dd7f1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: .*\.tshare}"
+          Path: "PatternMatcher{GLOB: .*\.tshare\.*}"
+          Path: "PatternMatcher{GLOB: .*\..*\.tshare}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      android.intent.action.SEND_MULTIPLE:
+        5568fd6 com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.SharingActivity filter b32a257
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.quicksettings.action.QS_TILE:
+        84fd144 com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.service.TogglingTileService filter a57022d permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+
+Registered ContentProviders:
+  com.genonbeta.TrebleShot/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{d447018 com.genonbeta.TrebleShot/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  com.genonbeta.TrebleShot/androidx.core.content.FileProvider:
+    Provider{adb3a71 com.genonbeta.TrebleShot/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.genonbeta.TrebleShot.lifecycle-process]:
+    Provider{d447018 com.genonbeta.TrebleShot/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{f8c8056 com.genonbeta.TrebleShot}
+  [org.monora.uprotocol.client.android.fileprovider]:
+    Provider{adb3a71 com.genonbeta.TrebleShot/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{67108d7 com.genonbeta.TrebleShot}
+
+Key Set Manager:
+  [com.genonbeta.TrebleShot]
+      Signing KeySets: 307
+
+Packages:
+  Package [com.genonbeta.TrebleShot] (c1c75c4):
+    userId=10459
+    pkg=Package{d980cad com.genonbeta.TrebleShot}
+    codePath=/data/app/~~ZFwBylw5FFKyqZdIcEqyyQ==/com.genonbeta.TrebleShot-r__5vvvRRTAytEK0LMYGrg==
+    resourcePath=/data/app/~~ZFwBylw5FFKyqZdIcEqyyQ==/com.genonbeta.TrebleShot-r__5vvvRRTAytEK0LMYGrg==
+    legacyNativeLibraryDir=/data/app/~~ZFwBylw5FFKyqZdIcEqyyQ==/com.genonbeta.TrebleShot-r__5vvvRRTAytEK0LMYGrg==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=104 minSdk=16 targetSdk=30
+    versionName=2.0.3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{d980cad com.genonbeta.TrebleShot}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.genonbeta.TrebleShot
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-17 03:20:19
+    firstInstallTime=2021-12-17 03:20:19
+    lastUpdateTime=2021-12-17 03:20:19
+    signatures=PackageSignatures{8684be2 version:3, signatures:[432d56fe], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.CHANGE_WIFI_STATE
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.INTERNET
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.WAKE_LOCK
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.VIBRATE
+      android.permission.WRITE_SETTINGS
+      android.permission.CAMERA
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+    install permissions:
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.CHANGE_WIFI_STATE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=36897 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|APPLY_RESTRICTION]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.genonbeta.TrebleShot
+    com.motorola.actions:
+      com.genonbeta.TrebleShot
+    com.google.android.contacts:
+      com.genonbeta.TrebleShot
+    com.google.android.gm:
+      com.genonbeta.TrebleShot
+    com.google.android.apps.photos:
+      com.genonbeta.TrebleShot
+    com.google.android.apps.youtube.music:
+      com.genonbeta.TrebleShot
+    com.google.android.youtube:
+      com.genonbeta.TrebleShot
+    com.google.android.apps.docs:
+      com.genonbeta.TrebleShot
+    com.google.android.calendar:
+      com.genonbeta.TrebleShot
+    com.google.android.apps.maps:
+      com.genonbeta.TrebleShot
+    vidma.screenrecorder.videorecorder.videoeditor.lite:
+      com.genonbeta.TrebleShot
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=269
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=165, package=com.codedead.deadhash
+    seq=173, package=com.dosse.airpods
+    seq=188, package=com.crazylegend.subhub
+    seq=196, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=198, package=com.crazylegend.vigilante
+    seq=208, package=com.ebaschiera.triplecamel
+    seq=216, package=com.dp.logcatapp
+    seq=228, package=com.fr3ts0n.androbd.plugin.gpsprovider
+    seq=240, package=com.fr3ts0n.androbd.plugin.mqtt
+    seq=248, package=com.bobek.compass
+    seq=260, package=com.google.android.tts
+    seq=264, package=com.bytestemplar.tonedef
+    seq=266, package=com.google.android.apps.docs
+    seq=267, package=io.github.ylimit.droidbotapp
+    seq=268, package=com.genonbeta.TrebleShot
+
+
+Dexopt state:
+  [com.genonbeta.TrebleShot]
+    path: /data/app/~~ZFwBylw5FFKyqZdIcEqyyQ==/com.genonbeta.TrebleShot-r__5vvvRRTAytEK0LMYGrg==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.genonbeta.TrebleShot]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

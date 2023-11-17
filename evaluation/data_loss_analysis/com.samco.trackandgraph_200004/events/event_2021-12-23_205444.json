@@ -1,0 +1,10 @@
+{
+  "stop_state": "73ad8509a146da640243020eef0a2ca2", 
+  "event_str": "IntentEvent(intent='am start com.samco.trackandgraph/com.samco.trackandgraph.MainActivity')", 
+  "tag": "2021-12-23_205444", 
+  "event": {
+    "intent": "am start com.samco.trackandgraph/com.samco.trackandgraph.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "af8cd1cfbf669847ace31081bd483b01"
+}

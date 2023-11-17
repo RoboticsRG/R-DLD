@@ -1,0 +1,42 @@
+{
+  "stop_state": "53e088e1fbfc910a8ee2689b08d07a5e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_162313", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "BBC 5 Live", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          779
+        ], 
+        [
+          706, 
+          863
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ccdd3145b50f647ab74de0facc855356"
+}

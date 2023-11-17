@@ -1,0 +1,203 @@
+{
+  "stop_state": "ad3aa9bf3472d993ff959bc2a98c7c15", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-14_041913", 
+  "event": {
+    "views_str": [
+      "6f71bf4cea71b481e4a3f14bc9ccf9f1", 
+      "aea284ae7cbeb60e9e0461b8e18365ee", 
+      "2bfc7a2f38441eae3eb6c96fff17493d", 
+      "4df3ce30d3f7024cda78cf5891ff3f63", 
+      "65319a9c0f549d4bb8b976b64fdc0ce2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "40kg", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "183*84", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.vaudibert.canidrive", 
+        "long_clickable": true, 
+        "view_str": "6f71bf4cea71b481e4a3f14bc9ccf9f1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            106, 
+            373
+          ], 
+          [
+            289, 
+            457
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]40kg[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vaudibert.canidrive:id/radioMale", 
+        "text": "MALE", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "122*56", 
+        "checked": true, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioMale", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.vaudibert.canidrive", 
+        "long_clickable": false, 
+        "view_str": "aea284ae7cbeb60e9e0461b8e18365ee", 
+        "enabled": true, 
+        "bounds": [
+          [
+            378, 
+            258
+          ], 
+          [
+            500, 
+            314
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioMale[text]MALE[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vaudibert.canidrive:id/radioSexOther", 
+        "text": "OTHER", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "135*56", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioSexOther", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.vaudibert.canidrive", 
+        "long_clickable": false, 
+        "view_str": "2bfc7a2f38441eae3eb6c96fff17493d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            378, 
+            314
+          ], 
+          [
+            513, 
+            370
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioSexOther[text]OTHER[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vaudibert.canidrive:id/radioFemale", 
+        "text": "FEMALE", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "150*56", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioFemale", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.vaudibert.canidrive", 
+        "long_clickable": false, 
+        "view_str": "4df3ce30d3f7024cda78cf5891ff3f63", 
+        "enabled": true, 
+        "bounds": [
+          [
+            378, 
+            370
+          ], 
+          [
+            528, 
+            426
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.vaudibert.canidrive:id/radioFemale[text]FEMALE[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vaudibert.canidrive:id/checkboxYoungDriver", 
+        "text": "Less than 3 years driving.", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "472*56", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.vaudibert.canidrive:id/checkboxYoungDriver", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.vaudibert.canidrive", 
+        "long_clickable": false, 
+        "view_str": "65319a9c0f549d4bb8b976b64fdc0ce2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            124, 
+            895
+          ], 
+          [
+            596, 
+            951
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.vaudibert.canidrive:id/checkboxYoungDriver[text]Less than 3 years driving.[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "4c6340d198e8053e621640cb259416c2"
+}

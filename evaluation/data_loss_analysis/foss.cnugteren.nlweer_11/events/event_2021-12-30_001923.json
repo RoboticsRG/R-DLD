@@ -1,0 +1,44 @@
+{
+  "stop_state": "aed2bd4d8f120fb91be26652ed14bfa9", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-30_001923", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/recycler_view", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1406", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "androidx.recyclerview.widget.RecyclerView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "aed2bd4d8f120fb91be26652ed14bfa9"
+}

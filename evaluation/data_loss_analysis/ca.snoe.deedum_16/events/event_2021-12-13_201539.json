@@ -1,0 +1,51 @@
+{
+  "stop_state": "20301c718519e3bd9a9fdcc13dfce70a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_201539", 
+  "event": {
+    "views_str": [
+      "1de4e10ec8d4cc93c79eb25a64a03611"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "rwv.io/dezhemini/", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "1de4e10ec8d4cc93c79eb25a64a03611", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]rwv.io/dezhemini/[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "13c75ae35194f3275da662cac53d7057"
+}

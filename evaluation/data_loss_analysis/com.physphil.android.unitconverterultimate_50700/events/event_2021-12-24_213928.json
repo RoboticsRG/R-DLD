@@ -1,0 +1,42 @@
+{
+  "stop_state": "b07ae6f5ed4d35f752a1d7e61a407146", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213928", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Watt", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "108*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          341
+        ], 
+        [
+          475, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e5ef0ec0ff8ba7c0cfa6315d193b21b6"
+}

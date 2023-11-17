@@ -1,0 +1,42 @@
+{
+  "stop_state": "12e58726b2fafbe68a1864f550081130", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_025453", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Artists", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "180*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          152
+        ], 
+        [
+          540, 
+          236
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a9c4aa6d13c56fd66cc79f152ac6f73b"
+}

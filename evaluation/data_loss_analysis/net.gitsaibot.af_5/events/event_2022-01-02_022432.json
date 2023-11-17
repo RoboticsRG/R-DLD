@@ -1,0 +1,10 @@
+{
+  "stop_state": "c0e9743cc9feb8aabf6cb0b47ebd1969", 
+  "event_str": "IntentEvent(intent='am start net.gitsaibot.af/net.gitsaibot.af.AixIntro')", 
+  "tag": "2022-01-02_022432", 
+  "event": {
+    "intent": "am start net.gitsaibot.af/net.gitsaibot.af.AixIntro", 
+    "event_type": "intent"
+  }, 
+  "start_state": "12d2eed1078735dc5d824d276e2f27da"
+}

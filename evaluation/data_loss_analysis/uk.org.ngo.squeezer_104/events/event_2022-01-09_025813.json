@@ -1,0 +1,42 @@
+{
+  "stop_state": "0b7da61c1d07acba72b9116cf97ca744", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_025813", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "LICENSE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "142*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          979
+        ], 
+        [
+          519, 
+          1063
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7101c7bf9ea32025ca46868970403234"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "5f186f1f7952bb6e4b2f7a30ca8426c8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_181633", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Tablespoon", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "186*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          411
+        ], 
+        [
+          193, 
+          467
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 46, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8ddee5a4e9a14100e98d5b2662e5bf02"
+}

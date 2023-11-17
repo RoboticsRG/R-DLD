@@ -1,0 +1,10 @@
+{
+  "stop_state": "9301c902ec30e71c8443ee8eb8fd76de", 
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange')", 
+  "tag": "2021-12-25_224012", 
+  "event": {
+    "intent": "am start com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange", 
+    "event_type": "intent"
+  }, 
+  "start_state": "9301c902ec30e71c8443ee8eb8fd76de"
+}

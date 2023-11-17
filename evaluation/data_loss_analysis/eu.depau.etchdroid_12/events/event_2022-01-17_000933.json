@@ -1,0 +1,10 @@
+{
+  "stop_state": "029be7f31117d4aca154e4facb0f5559", 
+  "event_str": "IntentEvent(intent='am start eu.depau.etchdroid/eu.depau.etchdroid.ui.activities.StartActivity')", 
+  "tag": "2022-01-17_000933", 
+  "event": {
+    "intent": "am start eu.depau.etchdroid/eu.depau.etchdroid.ui.activities.StartActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "6d751c71053895f737b0f9c056118878"
+}

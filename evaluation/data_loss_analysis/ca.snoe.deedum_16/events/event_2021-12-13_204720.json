@@ -1,0 +1,51 @@
+{
+  "stop_state": "f66641bf71218e1cdf9661636ef25dd1", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_204720", 
+  "event": {
+    "views_str": [
+      "62d003eb79aa22648a93575e5d1c6703"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "80h.dev/projects/gemserv/commits/7f3248e92d039b9d09d6121379487282e845fb42.txt", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "62d003eb79aa22648a93575e5d1c6703", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "780fbfd26b387fce6f05da1ff505c981"
+}

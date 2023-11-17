@@ -1,0 +1,42 @@
+{
+  "stop_state": "de0be84c5b8d9890ad9307285a9e9e79", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_203144", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Conclu\u00eddo", 
+      "resource_id": "org.wikipedia:id/action_mode_close_button", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          61
+        ], 
+        [
+          98, 
+          145
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "78c7160f30d092091475f3db14dd9846"
+}

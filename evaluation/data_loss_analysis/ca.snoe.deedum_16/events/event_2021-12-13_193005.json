@@ -1,0 +1,43 @@
+{
+  "stop_state": "dcaab177c3a08ee51834d64e52618349", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_193005", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Speculative specification", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "541*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          306
+        ], 
+        [
+          576, 
+          371
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "dcaab177c3a08ee51834d64e52618349"
+}

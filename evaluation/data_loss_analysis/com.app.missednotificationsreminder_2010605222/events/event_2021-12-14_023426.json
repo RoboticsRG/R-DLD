@@ -1,0 +1,42 @@
+{
+  "stop_state": "45e0091cf19f5021db4c9c5df78c258d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_023426", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Reminder will repeat limited number of times", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*39", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1561
+        ], 
+        [
+          140, 
+          1600
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "241bb84c10ecbd0b814ceb01a1750d79"
+}

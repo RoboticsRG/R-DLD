@@ -1,0 +1,42 @@
+{
+  "stop_state": "edd360de0d6bcbff78d5b045ba32f406", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_022550", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Delete drink button", 
+      "resource_id": "com.vaudibert.canidrive:id/buttonRemovePastDrink", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "70*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          527, 
+          573
+        ], 
+        [
+          597, 
+          643
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "281036589d9cacd2b1fcd5fac16a33c1"
+}

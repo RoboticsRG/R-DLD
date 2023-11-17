@@ -1,0 +1,42 @@
+{
+  "stop_state": "4314110a71d652a3f22164c9d37ffdde", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_195835", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_kk", 
+      "text": "0", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "120*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "eu.roggstar.luigithehunter.dsaassistent", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          480, 
+          726
+        ], 
+        [
+          600, 
+          796
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4314110a71d652a3f22164c9d37ffdde"
+}

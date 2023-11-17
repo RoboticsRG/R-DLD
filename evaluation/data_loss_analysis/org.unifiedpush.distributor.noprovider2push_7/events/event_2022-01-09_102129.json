@@ -1,0 +1,10 @@
+{
+  "stop_state": "2fe16e4b1be9235aef44119b153f4da3", 
+  "event_str": "IntentEvent(intent='am start org.unifiedpush.distributor.noprovider2push/org.unifiedpush.distributor.noprovider2push.activities.MainActivity')", 
+  "tag": "2022-01-09_102129", 
+  "event": {
+    "intent": "am start org.unifiedpush.distributor.noprovider2push/org.unifiedpush.distributor.noprovider2push.activities.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "8d400dbbaf5294a74c19ea123c934c40"
+}

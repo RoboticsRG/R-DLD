@@ -1,0 +1,43 @@
+{
+  "stop_state": "0dd3d151cd92dd9097612d342c2f5e17", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-12_063455", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 54, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "May", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*115", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          272
+        ], 
+        [
+          126, 
+          387
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "398376f1009dd0300c70b0b12b0d3469"
+}

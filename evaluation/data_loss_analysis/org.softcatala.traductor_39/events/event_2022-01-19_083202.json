@@ -1,0 +1,43 @@
+{
+  "stop_state": "11e389f202120ee02d1e1221c53bfd68", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-19_083202", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/textToTranslateEdit", 
+      "text": "Type the text to translate", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          194
+        ], 
+        [
+          636, 
+          273
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "557c0507b424ac6b66affddcf391b909"
+}

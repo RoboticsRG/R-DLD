@@ -1,0 +1,42 @@
+{
+  "stop_state": "309b07045c04614d72859fbcc5c9bc67", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_120148", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/design_menu_item_text", 
+      "text": "Data", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          39, 
+          462
+        ], 
+        [
+          451, 
+          546
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "82b580a0364cfc847f5f2f91c0b55f87"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "f41d746fda54034966ee623cab0edf01", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_195701", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/hours", 
+      "text": "9", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "118*140", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          225, 
+          507
+        ], 
+        [
+          343, 
+          647
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f41d746fda54034966ee623cab0edf01"
+}

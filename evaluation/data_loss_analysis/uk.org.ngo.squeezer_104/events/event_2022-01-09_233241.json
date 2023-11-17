@@ -1,0 +1,241 @@
+{
+  "stop_state": "d6b3212dee456b291418e1bc4a7a3861", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-09_233241", 
+  "event": {
+    "views_str": [
+      "0ca75b1d5c6158188aefc0050bfe9bf0", 
+      "67b439e11db48789c6eb5b59c288458b", 
+      "502cd3433ecb385f46c29826c9735701", 
+      "44341d88d1a56fe4144035601edffb92", 
+      "6cc7003ccbe00ec10b56013c07b9ac9d", 
+      "57862ffbfe118e95d6048c1488677674"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/squeezeServer", 
+        "text": "Local server", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": true, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/squeezeServer", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "0ca75b1d5c6158188aefc0050bfe9bf0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            320
+          ], 
+          [
+            692, 
+            404
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/squeezeServer[text]Local server[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/server_address", 
+        "text": "Name or IP address of server", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*98", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/server_address", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": true, 
+        "view_str": "67b439e11db48789c6eb5b59c288458b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            418
+          ], 
+          [
+            678, 
+            516
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/server_address[text]Name or IP address of server[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/username", 
+        "text": "User name (optional)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*98", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/username", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": true, 
+        "view_str": "502cd3433ecb385f46c29826c9735701", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            516
+          ], 
+          [
+            678, 
+            614
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/username[text]User name (optional)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/password", 
+        "text": "\u2022\u2022\u2022", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*98", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/password", 
+        "is_password": true, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": true, 
+        "view_str": "44341d88d1a56fe4144035601edffb92", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            614
+          ], 
+          [
+            678, 
+            712
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]uk.org.ngo.squeezer:id/password[text]\u2022\u2022[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/wol", 
+        "text": "Wake up server (Wake-on-LAN)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "636*84", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]uk.org.ngo.squeezer:id/wol", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "6cc7003ccbe00ec10b56013c07b9ac9d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            712
+          ], 
+          [
+            678, 
+            796
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]uk.org.ngo.squeezer:id/wol[text]Wake up server (Wake-on-LAN)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "uk.org.ngo.squeezer:id/squeezeNetwork", 
+        "text": "mysqueezebox.com", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/squeezeNetwork", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "uk.org.ngo.squeezer", 
+        "long_clickable": false, 
+        "view_str": "57862ffbfe118e95d6048c1488677674", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            838
+          ], 
+          [
+            692, 
+            922
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]uk.org.ngo.squeezer:id/squeezeNetwork[text]mysqueezebox.com[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "74a653a1606ade6164a7155ff1bfe559"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "44c5ad4f3cbb5cf675005d6d55f331cb", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-04_180820", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+      "text": "http://www.listenlive.eutest123/bbcradio1.m3u", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          330
+        ], 
+        [
+          706, 
+          409
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "0fda58c85400f5b6702120bbf424dcaa"
+}

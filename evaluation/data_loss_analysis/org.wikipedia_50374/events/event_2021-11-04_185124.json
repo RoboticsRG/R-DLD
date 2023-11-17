@@ -1,0 +1,51 @@
+{
+  "stop_state": "3059f606b2f8fcc54377351a8fbd7e0c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_185124", 
+  "event": {
+    "views_str": [
+      "c06cd247c6cd3c1ef39b7a32893bae95"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/search_src_text", 
+        "text": "Filtrar minhas listas", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "580*63", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/search_src_text", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "c06cd247c6cd3c1ef39b7a32893bae95", 
+        "enabled": true, 
+        "bounds": [
+          [
+            126, 
+            70
+          ], 
+          [
+            706, 
+            133
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.wikipedia:id/search_src_text[text]Filtrar minhas listas[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "19f403b9026f8204349e92e342a18a13"
+}

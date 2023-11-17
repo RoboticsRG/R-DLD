@@ -1,0 +1,42 @@
+{
+  "stop_state": "fb5d6a5d74158b79160ed23476684873", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_202138", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/statusButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "410*263", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          155, 
+          124
+        ], 
+        [
+          565, 
+          387
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "baa2cb9b78f2b72e5a31b65ed290c901"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "cb86e020b6b5347fedc3428fbb97931d", 
+  "event_str": "IntentEvent(intent='am start com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.Main.TimerActivity')", 
+  "tag": "2021-12-15_034626", 
+  "event": {
+    "intent": "am start com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.Main.TimerActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "9bca3f354c915617c7115e2db171925f"
+}

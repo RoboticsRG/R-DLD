@@ -1,0 +1,42 @@
+{
+  "stop_state": "af65bc00516d5562ec2721413e7f737c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_043404", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "2", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.wbrenna.gtfsoffline", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          470
+        ], 
+        [
+          673, 
+          554
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5ad29e0d89df4280e17a647a2acaf1a9"
+}

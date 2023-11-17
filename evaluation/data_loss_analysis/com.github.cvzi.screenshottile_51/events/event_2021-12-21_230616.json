@@ -1,0 +1,10 @@
+{
+  "stop_state": "899fb3e61a7f83622b1105d6ee5b658b", 
+  "event_str": "IntentEvent(intent='am start com.github.cvzi.screenshottile/com.github.cvzi.screenshottile.activities.MainActivity')", 
+  "tag": "2021-12-21_230616", 
+  "event": {
+    "intent": "am start com.github.cvzi.screenshottile/com.github.cvzi.screenshottile.activities.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f50713ab5a1ab7b35f13f265b6feb3c8"
+}

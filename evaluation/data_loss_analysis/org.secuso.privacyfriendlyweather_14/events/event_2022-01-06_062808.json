@@ -1,0 +1,10 @@
+{
+  "stop_state": "1a65adbc2481c0f7ee9137e3a12e9112", 
+  "event_str": "IntentEvent(intent='am start org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity')", 
+  "tag": "2022-01-06_062808", 
+  "event": {
+    "intent": "am start org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "bd325190254e7c9667d239219837417d"
+}

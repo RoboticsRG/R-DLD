@@ -1,0 +1,42 @@
+{
+  "stop_state": "f4b3410eef7dd6ee74c63ce3797597db", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_145507", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/button_add_code_snippet_success", 
+      "text": "ADD CODE SNIPPET", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "317*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          808
+        ], 
+        [
+          345, 
+          892
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cd6b9783bb40d5e3930abca9e86e7a06"
+}

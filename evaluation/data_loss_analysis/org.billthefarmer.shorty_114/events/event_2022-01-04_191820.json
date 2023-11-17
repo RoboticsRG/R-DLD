@@ -1,0 +1,42 @@
+{
+  "stop_state": "b3c1c2b3a395f5051df06bcbe63d6d8d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_191820", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/cancel", 
+      "text": "CANCEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          206, 
+          460
+        ], 
+        [
+          360, 
+          544
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4a37b774acb777be3c7504b870c70019"
+}

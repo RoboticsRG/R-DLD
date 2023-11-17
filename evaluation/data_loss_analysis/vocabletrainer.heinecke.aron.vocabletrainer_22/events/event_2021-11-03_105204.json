@@ -1,0 +1,51 @@
+{
+  "stop_state": "1c1d7ac67eb40d4dbe14f536ce47ef50", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_105204", 
+  "event": {
+    "views_str": [
+      "30d689a6af23da007ff69adc78d2dff2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tCharInput", 
+        "text": ",", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "571*98", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tCharInput", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "30d689a6af23da007ff69adc78d2dff2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            74, 
+            680
+          ], 
+          [
+            645, 
+            778
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tCharInput[text],[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1c1d7ac67eb40d4dbe14f536ce47ef50"
+}

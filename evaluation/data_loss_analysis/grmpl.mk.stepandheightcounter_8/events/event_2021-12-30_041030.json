@@ -1,0 +1,10 @@
+{
+  "stop_state": "030026716ec6660981ea3f05ceebb88c", 
+  "event_str": "IntentEvent(intent='am start grmpl.mk.stepandheightcounter/grmpl.mk.stepandheightcounter.MainActivity')", 
+  "tag": "2021-12-30_041030", 
+  "event": {
+    "intent": "am start grmpl.mk.stepandheightcounter/grmpl.mk.stepandheightcounter.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "48c908165a9e68a3eaa03f3206926586"
+}

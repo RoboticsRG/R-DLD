@@ -1,0 +1,42 @@
+{
+  "stop_state": "97889823fedfd874ea7b44e121ec6c23", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_040831", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/radioSexOther", 
+      "text": "OTHER", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "135*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          378, 
+          314
+        ], 
+        [
+          513, 
+          370
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "371099058c4103f2a3e77ec8b198f93c"
+}

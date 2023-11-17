@@ -1,0 +1,42 @@
+{
+  "stop_state": "19391121aa34f0e79a5f398ac7408899", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-10_184607", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "at.tacticaldevc.panictrigger:id/configure", 
+      "text": "CONFIGURE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "at.tacticaldevc.panictrigger", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          1474
+        ], 
+        [
+          706, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9221b23106b6374ec991f120926a158f"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "4b436385f9bdced1d5384a50f39eb84c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-19_162149", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jovial.jrpn:id/GButtonMin", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "83*92", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jovial.jrpn", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          578, 
+          1237
+        ], 
+        [
+          661, 
+          1329
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 36, 
+    "event_type": "touch"
+  }, 
+  "start_state": "22e6ef8f82346ee257a1f8ee61cf050d"
+}

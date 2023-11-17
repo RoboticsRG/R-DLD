@@ -1,0 +1,44 @@
+{
+  "stop_state": "a220427cd04c51b82a28d4e35a2fdc4a", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-19_214330", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/select_dialog_listview", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "627*1354", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          175
+        ], 
+        [
+          673, 
+          1529
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "48e1e06f4fd879827b8f09bcec79ac30"
+}

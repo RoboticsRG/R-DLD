@@ -1,0 +1,42 @@
+{
+  "stop_state": "15c12c6b4f513a0aa72ddf388e977f23", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_182213", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nWelcome to 158.nu!\n\nThis site is dedicated to my photo-projects that mainly involve film photography of different kinds. Hopefully I will be able to update regularly.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*294", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          261
+        ], 
+        [
+          690, 
+          555
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "15c12c6b4f513a0aa72ddf388e977f23"
+}

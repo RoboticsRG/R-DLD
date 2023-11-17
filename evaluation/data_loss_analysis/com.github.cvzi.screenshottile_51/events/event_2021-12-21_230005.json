@@ -1,0 +1,42 @@
+{
+  "stop_state": "a9273e9c8d3a09fbc751864f3ddec35b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_230005", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/switch_widget", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "82*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          610, 
+          872
+        ], 
+        [
+          692, 
+          919
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 19, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a9273e9c8d3a09fbc751864f3ddec35b"
+}

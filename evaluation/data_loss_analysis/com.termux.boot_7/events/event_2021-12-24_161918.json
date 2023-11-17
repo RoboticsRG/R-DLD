@@ -1,0 +1,44 @@
+{
+  "stop_state": "d811e514f032f3a32abd3bacb87787da", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-24_161918", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 0, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "722*647", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.termux.boot", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          913
+        ], 
+        [
+          722, 
+          1560
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d811e514f032f3a32abd3bacb87787da"
+}

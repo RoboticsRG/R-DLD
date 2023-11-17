@@ -1,0 +1,42 @@
+{
+  "stop_state": "e1d578afadcc727d94d8aa93fef90e34", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_194429", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Fluid Ounce (UK)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "243*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          621
+        ], 
+        [
+          250, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 49, 
+    "event_type": "touch"
+  }, 
+  "start_state": "935a40241a851387b78266e571587fab"
+}

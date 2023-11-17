@@ -1,0 +1,165 @@
+{
+  "stop_state": "d4bc9964d037c3a278c2eeef42f53b1d", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_115902", 
+  "event": {
+    "views_str": [
+      "1de770a38b041431080a5875aba22057", 
+      "1d9310a52eea014b7f9fa9c994f710ac", 
+      "95b80b57c86fbe6db4f6a7631a817435", 
+      "ec899216ac965664f0015d2ea3b95a0b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "Column A", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "1de770a38b041431080a5875aba22057", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            346
+          ], 
+          [
+            606, 
+            444
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]Column A[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "Column B", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "1d9310a52eea014b7f9fa9c994f710ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            444
+          ], 
+          [
+            606, 
+            542
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]Column B[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "text": "Hint", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*98", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "95b80b57c86fbe6db4f6a7631a817435", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            542
+          ], 
+          [
+            648, 
+            640
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint[text]Hint[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "text": "Additional", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*98", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "ec899216ac965664f0015d2ea3b95a0b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            640
+          ], 
+          [
+            648, 
+            738
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition[text]Additional[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7a589670b15f014224bd74ce38d20dfd"
+}

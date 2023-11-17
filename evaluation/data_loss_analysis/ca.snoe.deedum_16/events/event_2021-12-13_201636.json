@@ -1,0 +1,43 @@
+{
+  "stop_state": "10f91a1fb4a3a9f395657184645200cc", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_201636", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 44, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Minimal Racket 7 or up", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "298*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          1034
+        ], 
+        [
+          359, 
+          1081
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "10f91a1fb4a3a9f395657184645200cc"
+}

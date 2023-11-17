@@ -1,0 +1,43 @@
+{
+  "stop_state": "9cdb7928935b3a604c97d968f5b33271", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-08_140539", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "https://jiten.obfusk.dev", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "dev.obfusk.jiten_webview", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          803
+        ], 
+        [
+          673, 
+          882
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "9eaa14896dc238c85dc45d341506816c"
+}

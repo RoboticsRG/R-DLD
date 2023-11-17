@@ -1,0 +1,42 @@
+{
+  "stop_state": "77ba7413f38163b3b111eccd18dbf851", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-31_184411", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.sds100.keymapper:id/button2", 
+      "text": "TURN OFF", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "190*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.sds100.keymapper", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          501, 
+          1316
+        ], 
+        [
+          691, 
+          1400
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fbea7b19f76cd058d315fc4936a59d8c"
+}

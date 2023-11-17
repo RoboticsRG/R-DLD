@@ -1,0 +1,51 @@
+{
+  "stop_state": "85414ff35bce9c3c61ff65f47b08f845", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_183730", 
+  "event": {
+    "views_str": [
+      "9574e329bb920c5a0a110e6d644f1c55"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/dialog_checkbox", 
+        "text": "N\u00e3o mostrar novamente", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "357*84", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/dialog_checkbox", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "9574e329bb920c5a0a110e6d644f1c55", 
+        "enabled": true, 
+        "bounds": [
+          [
+            83, 
+            813
+          ], 
+          [
+            440, 
+            897
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/dialog_checkbox[text]N\u00e3o mostrar novamente[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9c63ba34b464527f61f22ef59473db8d"
+}

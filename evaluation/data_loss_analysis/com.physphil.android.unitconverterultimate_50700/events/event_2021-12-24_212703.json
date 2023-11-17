@@ -1,0 +1,42 @@
+{
+  "stop_state": "261e9e4d5dfdc8ee754ad1bd127e075e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212703", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Megapascal", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "193*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          341
+        ], 
+        [
+          560, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "27224ea189c73fabb2911746b570c275"
+}

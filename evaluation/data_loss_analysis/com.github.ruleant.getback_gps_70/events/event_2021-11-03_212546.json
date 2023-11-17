@@ -1,0 +1,10 @@
+{
+  "stop_state": "c423cb0cf755e6d4a024716d75d72360", 
+  "event_str": "IntentEvent(intent='am start com.github.ruleant.getback_gps/com.github.ruleant.getback_gps.MainActivity')", 
+  "tag": "2021-11-03_212546", 
+  "event": {
+    "intent": "am start com.github.ruleant.getback_gps/com.github.ruleant.getback_gps.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "3bedecd740a94e9cd8ec21ec9e50c3f4"
+}

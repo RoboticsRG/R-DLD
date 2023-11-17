@@ -1,0 +1,241 @@
+{
+  "stop_state": "5063eb892870f8fb9bab0be997354bf3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_123705", 
+  "event": {
+    "views_str": [
+      "733fea1706e1852a189256e5e5e61a77", 
+      "733fea1706e1852a189256e5e5e61a77", 
+      "d9561bc91be009f1b5dd6b87b1ea5b3d", 
+      "b7809070d57e731ff4960b586f19e488", 
+      "bfa7546a9ff9ddd53a438a04ad19c13a", 
+      "7a087f924fcc7498c383111f5a199e5e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "733fea1706e1852a189256e5e5e61a77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            520
+          ], 
+          [
+            606, 
+            618
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "733fea1706e1852a189256e5e5e61a77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            618
+          ], 
+          [
+            606, 
+            716
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "d9561bc91be009f1b5dd6b87b1ea5b3d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            716
+          ], 
+          [
+            606, 
+            814
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "535*98", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "b7809070d57e731ff4960b586f19e488", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            814
+          ], 
+          [
+            606, 
+            912
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/meaning[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*98", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "bfa7546a9ff9ddd53a438a04ad19c13a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            912
+          ], 
+          [
+            648, 
+            1010
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tHint[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "text": "HelloWorldtest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "577*98", 
+        "checked": false, 
+        "temp_id": 56, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition", 
+        "is_password": false, 
+        "parent": 55, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "7a087f924fcc7498c383111f5a199e5e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            71, 
+            1010
+          ], 
+          [
+            648, 
+            1108
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tAddition[text]HelloWorldtest123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f3452944890490228d46bedfa2410a50"
+}

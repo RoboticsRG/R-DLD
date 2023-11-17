@@ -1,0 +1,42 @@
+{
+  "stop_state": "4b9a1019961f904802770d7a157eea51", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_210202", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] Geminid, a Gemini server written in C", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "567*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1267
+        ], 
+        [
+          602, 
+          1330
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4e5c5fe05ccecb1a39c122ad5118d56b"
+}

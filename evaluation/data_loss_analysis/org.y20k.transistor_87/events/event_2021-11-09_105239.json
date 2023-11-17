@@ -1,0 +1,51 @@
+{
+  "stop_state": "56417b1c88e23fc4e54d140cf6fd4465", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-09_105239", 
+  "event": {
+    "views_str": [
+      "bc781b7f09fbf4fd2541a351e47fa376"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.y20k.transistor:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "403*63", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.y20k.transistor:id/search_src_text", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.y20k.transistor", 
+        "long_clickable": true, 
+        "view_str": "bc781b7f09fbf4fd2541a351e47fa376", 
+        "enabled": true, 
+        "bounds": [
+          [
+            158, 
+            690
+          ], 
+          [
+            561, 
+            753
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.y20k.transistor:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ad0e249b517c333ab01a9df95e6cb462"
+}

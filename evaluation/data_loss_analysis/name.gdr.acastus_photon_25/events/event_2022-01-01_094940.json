@@ -1,0 +1,43 @@
+{
+  "stop_state": "b20a7a550f0f04983fcee5878fedace4", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-01_094940", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 47, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "name.gdr.acastus_photon:id/searchText", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "538*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          163
+        ], 
+        [
+          566, 
+          242
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d1c47e3e7be415f351211639b7f759b2"
+}

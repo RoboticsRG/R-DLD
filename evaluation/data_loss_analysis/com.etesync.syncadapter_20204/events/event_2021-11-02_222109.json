@@ -1,0 +1,42 @@
+{
+  "stop_state": "059361a2f479cab7d534666d9d959dd8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_222109", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Ajuda", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b50c285bcff451688b8258d2fab48651"
+}

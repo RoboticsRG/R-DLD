@@ -1,0 +1,42 @@
+{
+  "stop_state": "becd190f659620ccb9acf9003d686e92", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_213014", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox1", 
+      "text": "Pretra\u017ei zip datoteke", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          459
+        ], 
+        [
+          692, 
+          515
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "67020349e2852bdc285cabdb96e7692f"
+}

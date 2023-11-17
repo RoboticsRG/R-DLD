@@ -1,0 +1,42 @@
+{
+  "stop_state": "31e2593dded3a27ea06226467b7142ed", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_202413", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          809
+        ], 
+        [
+          673, 
+          893
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c746fadf4ef1b014d5ad4958bb6f1466"
+}

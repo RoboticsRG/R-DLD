@@ -1,0 +1,51 @@
+{
+  "stop_state": "3768bde428620e68c1d0b465ce3c4dd2", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-10_183322", 
+  "event": {
+    "views_str": [
+      "cf24429b7a69dd23429c7be55857ca66"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "Panic", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "at.tacticaldevc.panictrigger", 
+        "long_clickable": true, 
+        "view_str": "cf24429b7a69dd23429c7be55857ca66", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            751
+          ], 
+          [
+            638, 
+            830
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]Panic[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9abc96a9827a768bcdffd9f4be8d7910"
+}

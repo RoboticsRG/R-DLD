@@ -1,0 +1,42 @@
+{
+  "stop_state": "d99d346a22c5bc4a406c5917fd1be11e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_194404", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text", 
+      "text": "Volume", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1244
+        ], 
+        [
+          462, 
+          1328
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 76, 
+    "event_type": "touch"
+  }, 
+  "start_state": "aaed22bb3918a6ce94ebf535e0461320"
+}

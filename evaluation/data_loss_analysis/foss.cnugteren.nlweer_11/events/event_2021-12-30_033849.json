@@ -1,0 +1,42 @@
+{
+  "stop_state": "78b16b5e5f5c580768fc9b36cc07152d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_033849", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/textViewContent1", 
+      "text": "Aanvankelijk zeer zacht voor de tijd van het jaar. Vanaf begin volgende week dalende temperaturen. Vrijdag en zaterdag blijft het meest droog, daarna neemt de kans op regen sterk toe.\n\n\n\nEr worden geen waarschuwingen verwacht.", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*237", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1276
+        ], 
+        [
+          664, 
+          1513
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "78b16b5e5f5c580768fc9b36cc07152d"
+}

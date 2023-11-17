@@ -1,0 +1,44 @@
+{
+  "stop_state": "0b7da61c1d07acba72b9116cf97ca744", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-09_014756", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 1, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/scrollView", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "599*1131", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          60, 
+          194
+        ], 
+        [
+          659, 
+          1325
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "0b7da61c1d07acba72b9116cf97ca744"
+}

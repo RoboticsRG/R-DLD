@@ -1,0 +1,42 @@
+{
+  "stop_state": "9d292efc1941a1dc5a2d3683ae4c1088", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_174645", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Czech Koruna", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "210*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          901
+        ], 
+        [
+          577, 
+          957
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 72, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ca5d1af260c85bd0c583725f4941e831"
+}

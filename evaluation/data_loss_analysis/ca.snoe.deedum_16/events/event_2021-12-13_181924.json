@@ -1,0 +1,43 @@
+{
+  "stop_state": "6c4ccc0102b226894fbe5eaf61be8ce4", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_181924", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nWelcome to 158.nu!\n\nThis site is dedicated to my photo-projects that mainly involve film photography of different kinds. Hopefully I will be able to update regularly.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*294", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          261
+        ], 
+        [
+          690, 
+          555
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6c4ccc0102b226894fbe5eaf61be8ce4"
+}

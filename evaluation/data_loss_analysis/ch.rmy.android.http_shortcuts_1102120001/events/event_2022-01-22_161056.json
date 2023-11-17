@@ -1,0 +1,42 @@
+{
+  "stop_state": "323801fd6874b1db9436fc9716d8f1ea", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_161056", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_quick_tile_shortcut", 
+      "text": "Allow triggering via Quick Settings Tile", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          278
+        ], 
+        [
+          692, 
+          362
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3a6d2a10a955a3cf35af8f56f9ab39af"
+}

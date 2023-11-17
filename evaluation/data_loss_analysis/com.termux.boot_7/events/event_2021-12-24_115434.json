@@ -1,0 +1,42 @@
+{
+  "stop_state": "45e38710913585fd6be2f32171f31514", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_115434", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "https://github.com/termux/termux-boot/issues", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "586*37", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.termux.boot", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          1495
+        ], 
+        [
+          600, 
+          1532
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d811e514f032f3a32abd3bacb87787da"
+}

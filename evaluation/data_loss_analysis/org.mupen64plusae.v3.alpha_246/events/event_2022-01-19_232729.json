@@ -1,0 +1,42 @@
+{
+  "stop_state": "ef029dc801c76cfbe153669b99eb76dc", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_232729", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/buttonCancel", 
+      "text": "\u041e\u0422\u041c\u0415\u041d\u0410", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          387, 
+          1456
+        ], 
+        [
+          541, 
+          1540
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "91fdcaa381aef8d73055a84ff83a60a1"
+}

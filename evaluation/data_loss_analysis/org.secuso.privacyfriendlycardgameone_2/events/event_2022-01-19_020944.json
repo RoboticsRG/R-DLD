@@ -1,0 +1,51 @@
+{
+  "stop_state": "ee6cf77be2e410838176650d7252b0b7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_020944", 
+  "event": {
+    "views_str": [
+      "921b078637e10c2bf1b720dbb0c53b9a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "60", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "921b078637e10c2bf1b720dbb0c53b9a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            303, 
+            748
+          ], 
+          [
+            415, 
+            832
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]60[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ee6cf77be2e410838176650d7252b0b7"
+}

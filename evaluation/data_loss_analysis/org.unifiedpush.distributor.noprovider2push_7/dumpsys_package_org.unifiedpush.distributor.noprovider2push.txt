@@ -1,0 +1,202 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        a0cb7af org.unifiedpush.distributor.noprovider2push/.activities.MainActivity filter 7bbb7bc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      org.unifiedpush.android.distributor.UNREGISTER:
+        771fcb org.unifiedpush.distributor.noprovider2push/.services.RegisterBroadcastReceiver filter 6a93a8
+          Action: "org.unifiedpush.android.distributor.REGISTER"
+          Action: "org.unifiedpush.android.distributor.UNREGISTER"
+      android.intent.action.BOOT_COMPLETED:
+        450b345 org.unifiedpush.distributor.noprovider2push/.services.StartReceiver filter 9598a9a
+          Action: "android.intent.action.BOOT_COMPLETED"
+      org.unifiedpush.android.distributor.REGISTER:
+        771fcb org.unifiedpush.distributor.noprovider2push/.services.RegisterBroadcastReceiver filter 6a93a8
+          Action: "org.unifiedpush.android.distributor.REGISTER"
+          Action: "org.unifiedpush.android.distributor.UNREGISTER"
+
+Key Set Manager:
+  [org.unifiedpush.distributor.noprovider2push]
+      Signing KeySets: 561
+
+Packages:
+  Package [org.unifiedpush.distributor.noprovider2push] (4acdc5):
+    userId=10644
+    pkg=Package{5e9d31a org.unifiedpush.distributor.noprovider2push}
+    codePath=/data/app/~~HZA9PrdX_7L7B2NWD2xlOA==/org.unifiedpush.distributor.noprovider2push-nOzDrrqsh-gdmL6exfEeEQ==
+    resourcePath=/data/app/~~HZA9PrdX_7L7B2NWD2xlOA==/org.unifiedpush.distributor.noprovider2push-nOzDrrqsh-gdmL6exfEeEQ==
+    legacyNativeLibraryDir=/data/app/~~HZA9PrdX_7L7B2NWD2xlOA==/org.unifiedpush.distributor.noprovider2push-nOzDrrqsh-gdmL6exfEeEQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=7 minSdk=24 targetSdk=30
+    versionName=1.2.1
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{5e9d31a org.unifiedpush.distributor.noprovider2push}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/org.unifiedpush.distributor.noprovider2push
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-09 05:49:51
+    firstInstallTime=2022-01-09 05:49:51
+    lastUpdateTime=2022-01-09 05:49:51
+    signatures=PackageSignatures{2fcfe4b version:3, signatures:[bd53930f], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.FOREGROUND_SERVICE
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=30140 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      org.unifiedpush.distributor.noprovider2push
+    com.motorola.actions:
+      org.unifiedpush.distributor.noprovider2push
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=967
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=692, package=org.billthefarmer.print
+    seq=696, package=net.typeblog.shelter
+    seq=706, package=net.tjado.usbgadget
+    seq=716, package=org.billthefarmer.tuner
+    seq=724, package=org.ddosolitary.okcagent
+    seq=734, package=org.billthefarmer.shorty
+    seq=746, package=org.billthefarmer.notes
+    seq=750, package=org.nitri.opentopo
+    seq=755, package=com.google.android.apps.messaging
+    seq=763, package=org.ebur.debitum
+    seq=769, package=org.liberty.android.freeotpplus
+    seq=775, package=com.google.android.contacts
+    seq=777, package=org.ligi.passandroid
+    seq=785, package=org.gateshipone.odyssey
+    seq=791, package=io.github.benoitduffez.cupsprint
+    seq=804, package=org.openhab.habdroid
+    seq=822, package=org.purple.smoke
+    seq=834, package=org.secuso.privacyfriendlyweather
+    seq=842, package=org.primftpd
+    seq=846, package=org.piwigo.android
+    seq=850, package=org.secuso.privacyfriendlypasswordgenerator
+    seq=856, package=org.pocketworkstation.pckeyboard
+    seq=864, package=org.ttrssreader
+    seq=877, package=org.unifiedpush.example
+    seq=886, package=rocks.poopjournal.todont
+    seq=896, package=subins2000.manglish
+    seq=910, package=ru.ra66it.updaterforspotify
+    seq=930, package=ryey.easer
+    seq=940, package=se.pp.mc.android.Gerberoid
+    seq=952, package=org.strongswan.android
+    seq=960, package=com.google.android.tts
+    seq=962, package=com.google.android.apps.docs
+    seq=964, package=uk.org.ngo.squeezer
+    seq=965, package=io.github.ylimit.droidbotapp
+    seq=966, package=org.unifiedpush.distributor.noprovider2push
+
+
+Dexopt state:
+  [org.unifiedpush.distributor.noprovider2push]
+    path: /data/app/~~HZA9PrdX_7L7B2NWD2xlOA==/org.unifiedpush.distributor.noprovider2push-nOzDrrqsh-gdmL6exfEeEQ==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [org.unifiedpush.distributor.noprovider2push]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

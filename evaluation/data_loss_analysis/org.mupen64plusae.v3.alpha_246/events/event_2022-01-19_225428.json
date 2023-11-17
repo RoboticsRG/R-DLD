@@ -1,0 +1,42 @@
+{
+  "stop_state": "dc86c1a1adb23b9ce05e9a367c93ecd1", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_225428", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox3", 
+      "text": "Tyhjenn\u00e4 galleria ennen lis\u00e4\u00e4mist\u00e4", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          571
+        ], 
+        [
+          692, 
+          627
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "80878c0ec2b9d327a539e32a6ec0c77f"
+}

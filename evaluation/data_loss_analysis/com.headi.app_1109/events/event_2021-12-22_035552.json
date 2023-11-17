@@ -1,0 +1,43 @@
+{
+  "stop_state": "7be096df21782ff5146dcce7bcd2cbd5", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-22_035552", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*109", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          261
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "45df2307fae81da2e476aecb3237d091"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "8188d922245defaef3cdc5ab7bde22de", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_153914", 
+  "event": {
+    "views_str": [
+      "b9cecd543dbf9c5655b483fdbc01a041"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_captcha", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*57", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_captcha", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "b9cecd543dbf9c5655b483fdbc01a041", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            698
+          ], 
+          [
+            692, 
+            755
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_captcha[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "accbee3708418c8c714bd4335db7e043"
+}

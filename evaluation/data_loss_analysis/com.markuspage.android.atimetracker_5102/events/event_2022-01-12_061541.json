@@ -1,0 +1,42 @@
+{
+  "stop_state": "413a6b09142c9f9ae91d6e0c42866752", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_061541", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "AM", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          308, 
+          818
+        ], 
+        [
+          420, 
+          902
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 23, 
+    "event_type": "touch"
+  }, 
+  "start_state": "413a6b09142c9f9ae91d6e0c42866752"
+}

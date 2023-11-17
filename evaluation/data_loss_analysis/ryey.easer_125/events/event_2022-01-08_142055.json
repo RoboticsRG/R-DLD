@@ -1,0 +1,43 @@
+{
+  "stop_state": "e22a4d0230222245696c72e2137b175f", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_142055", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1146", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          236
+        ], 
+        [
+          720, 
+          1382
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "e22a4d0230222245696c72e2137b175f"
+}

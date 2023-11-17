@@ -1,0 +1,43 @@
+{
+  "stop_state": "975b19cc8fa2ca64dbf5f895034596e5", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_215341", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Subscribing to Gemini pages", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "641*66", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          191
+        ], 
+        [
+          676, 
+          257
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "074f6e33fe6798371a6ad9916839ab6b"
+}

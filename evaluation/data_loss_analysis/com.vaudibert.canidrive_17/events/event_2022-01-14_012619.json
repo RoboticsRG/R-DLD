@@ -1,0 +1,43 @@
+{
+  "stop_state": "56b65a1432cf2e93c9f9b27764d13e38", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_012619", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "0.5 %", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*116", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          484, 
+          631
+        ], 
+        [
+          596, 
+          747
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "de9686daef3d2d834535ee1200b6d4f4"
+}

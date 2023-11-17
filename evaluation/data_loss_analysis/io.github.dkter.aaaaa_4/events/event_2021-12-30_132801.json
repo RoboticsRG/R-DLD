@@ -1,0 +1,43 @@
+{
+  "stop_state": "7a5ddf40d597d7153dfe12a86cb9951c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-30_132801", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/textBox", 
+      "text": "Test your new keyboard here", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          575
+        ], 
+        [
+          692, 
+          654
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7a5ddf40d597d7153dfe12a86cb9951c"
+}

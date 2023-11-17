@@ -1,0 +1,42 @@
+{
+  "stop_state": "391301e9ef6e1e264767a4df67307443", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-05_002646", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Play card: 26 left", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "642*132", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.dozingcatsoftware.mouse_pounce", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          39, 
+          1375
+        ], 
+        [
+          681, 
+          1507
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f9e46453c7ed0eebc11db909b9c5453e"
+}

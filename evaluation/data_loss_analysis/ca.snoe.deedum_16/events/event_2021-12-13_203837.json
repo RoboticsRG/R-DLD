@@ -1,0 +1,43 @@
+{
+  "stop_state": "6553aaeb234f0ddb11da253c35fd67b6", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-13_203837", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 63, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "gemini.circumlunar.space/", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "82a79cbb4d0bb9c577b3418ac4c5b36e"
+}

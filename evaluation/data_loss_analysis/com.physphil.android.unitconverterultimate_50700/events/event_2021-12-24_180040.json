@@ -1,0 +1,42 @@
+{
+  "stop_state": "36754c8ec57b73c423ce927e3e3951ce", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_180040", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Japanese Yen", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "213*27", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1531
+        ], 
+        [
+          580, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 40, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4cdf3449ee064ecd4a69394b47ba694f"
+}

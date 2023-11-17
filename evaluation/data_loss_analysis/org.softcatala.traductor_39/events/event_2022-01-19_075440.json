@@ -1,0 +1,43 @@
+{
+  "stop_state": "a0b2bd47e902024a80a9c6c5d02bd4f6", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_075440", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/languagesSpinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*42", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          194
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "ce7dadf6237bdb7a2e5955cb16f340f2"
+}

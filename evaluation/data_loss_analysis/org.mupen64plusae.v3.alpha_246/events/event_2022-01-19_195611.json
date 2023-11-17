@@ -1,0 +1,51 @@
+{
+  "stop_state": "38c210096c826525356ebf1bf5e7329b", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_195611", 
+  "event": {
+    "views_str": [
+      "9833c49bd30647b3d66ce624e081af89"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mupen64plusae.v3.alpha:id/search_src_text", 
+        "text": "Search ROMs", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "559*63", 
+        "checked": false, 
+        "temp_id": 123, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/search_src_text", 
+        "is_password": false, 
+        "parent": 122, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mupen64plusae.v3.alpha", 
+        "long_clickable": true, 
+        "view_str": "9833c49bd30647b3d66ce624e081af89", 
+        "enabled": true, 
+        "bounds": [
+          [
+            126, 
+            85
+          ], 
+          [
+            685, 
+            148
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mupen64plusae.v3.alpha:id/search_src_text[text]Search ROMs[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "38c210096c826525356ebf1bf5e7329b"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "726ed25592d9a25768f4b987e7bac00e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_071500", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/unitSpinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*42", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          626
+        ], 
+        [
+          692, 
+          668
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f6d38d8b020295946ce3409810b37599"
+}

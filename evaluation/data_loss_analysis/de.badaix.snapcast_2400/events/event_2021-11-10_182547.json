@@ -1,0 +1,42 @@
+{
+  "stop_state": "65de85cc02c7d89ef76490a662deb4da", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_182547", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/host", 
+      "text": "HelloWorldHHelloWorldHelltest123oWorldelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "393*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          257, 
+          593
+        ], 
+        [
+          650, 
+          672
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "65de85cc02c7d89ef76490a662deb4da"
+}

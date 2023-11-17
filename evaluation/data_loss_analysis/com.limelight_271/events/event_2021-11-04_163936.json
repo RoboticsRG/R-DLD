@@ -1,0 +1,10 @@
+{
+  "stop_state": "809a5a88cd2288bb312ba37a0547ae45", 
+  "event_str": "IntentEvent(intent='am start com.limelight/com.limelight.PcView')", 
+  "tag": "2021-11-04_163936", 
+  "event": {
+    "intent": "am start com.limelight/com.limelight.PcView", 
+    "event_type": "intent"
+  }, 
+  "start_state": "bb4abd84d73e28994630f425e421aad2"
+}

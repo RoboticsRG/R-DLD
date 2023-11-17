@@ -1,0 +1,42 @@
+{
+  "stop_state": "32bd3c802854c6fa439ae2b3e1237418", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_052445", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/radioFemale", 
+      "text": "FEMALE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "150*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          378, 
+          370
+        ], 
+        [
+          528, 
+          426
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7e2520b9af7ee273773595d57e7bd68d"
+}

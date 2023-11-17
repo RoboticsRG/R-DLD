@@ -1,0 +1,43 @@
+{
+  "stop_state": "e4d68429b02845b7a4ac0db428ff0bed", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-01_095124", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 32, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "name.gdr.acastus_photon:id/searchText", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "538*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          163
+        ], 
+        [
+          566, 
+          242
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "9e85db2b2d53cf868043da52c4e9accd"
+}

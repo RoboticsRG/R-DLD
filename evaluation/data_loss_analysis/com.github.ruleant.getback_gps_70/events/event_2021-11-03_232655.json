@@ -1,0 +1,43 @@
+{
+  "stop_state": "8475e9b55af688a1fee3f997943bb4c2", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-03_232655", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": "Mais op\u00e7\u00f5es", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          622, 
+          54
+        ], 
+        [
+          720, 
+          138
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8475e9b55af688a1fee3f997943bb4c2"
+}

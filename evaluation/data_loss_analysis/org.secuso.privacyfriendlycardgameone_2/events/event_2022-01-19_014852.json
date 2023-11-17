@@ -1,0 +1,89 @@
+{
+  "stop_state": "2527537803e1eaacd453f960c7eefd52", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_014852", 
+  "event": {
+    "views_str": [
+      "d95f824f66b36affdff9b5914581f165", 
+      "62130cb20f47c966457b35bae345557e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/address", 
+        "text": "address of gamehost", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/address", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "d95f824f66b36affdff9b5914581f165", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            242
+          ], 
+          [
+            692, 
+            321
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/address[text]address of gamehost[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/playerName", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/playerName", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "62130cb20f47c966457b35bae345557e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            321
+          ], 
+          [
+            692, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/playerName[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e0e48fc0db0619930511536aa0879edf"
+}

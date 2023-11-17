@@ -1,0 +1,42 @@
+{
+  "stop_state": "5cf108ae1af9d738b665316715416470", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_183136", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Is heavier than gopher", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "287*48", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          500
+        ], 
+        [
+          348, 
+          548
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5cf108ae1af9d738b665316715416470"
+}

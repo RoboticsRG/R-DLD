@@ -1,0 +1,140 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        157d1af grmpl.mk.stepandheightcounter/.MainActivity filter a1c9bc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  grmpl.mk.stepandheightcounter/androidx.core.content.FileProvider:
+    Provider{302cae6 grmpl.mk.stepandheightcounter/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [grmpl.mk.fileprovider]:
+    Provider{302cae6 grmpl.mk.stepandheightcounter/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{5e6a827 grmpl.mk.stepandheightcounter}
+
+Key Set Manager:
+  [grmpl.mk.stepandheightcounter]
+      Signing KeySets: 451
+
+Packages:
+  Package [grmpl.mk.stepandheightcounter] (8abd4a7):
+    userId=10534
+    pkg=Package{f9baad4 grmpl.mk.stepandheightcounter}
+    codePath=/data/app/~~HjL2n_ia-37ykbEKx74pNg==/grmpl.mk.stepandheightcounter-8P_UtQycprfB-cY-Ibi-6w==
+    resourcePath=/data/app/~~HjL2n_ia-37ykbEKx74pNg==/grmpl.mk.stepandheightcounter-8P_UtQycprfB-cY-Ibi-6w==
+    legacyNativeLibraryDir=/data/app/~~HjL2n_ia-37ykbEKx74pNg==/grmpl.mk.stepandheightcounter-8P_UtQycprfB-cY-Ibi-6w==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=8 minSdk=21 targetSdk=30
+    versionName=1.50
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{f9baad4 grmpl.mk.stepandheightcounter}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/grmpl.mk.stepandheightcounter
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-30 03:43:20
+    firstInstallTime=2021-12-30 03:43:20
+    lastUpdateTime=2021-12-30 03:43:20
+    signatures=PackageSignatures{1a0af72 version:3, signatures:[25a0880c], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACTIVITY_RECOGNITION
+      android.permission.WAKE_LOCK
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=67304 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.ACTIVITY_RECOGNITION: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      grmpl.mk.stepandheightcounter
+    com.motorola.actions:
+      grmpl.mk.stepandheightcounter
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=473
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=466, package=com.google.android.apps.docs
+    seq=468, package=com.google.android.tts
+    seq=470, package=foss.cnugteren.nlweer
+    seq=471, package=io.github.ylimit.droidbotapp
+    seq=472, package=grmpl.mk.stepandheightcounter
+
+
+Dexopt state:
+  [grmpl.mk.stepandheightcounter]
+    path: /data/app/~~HjL2n_ia-37ykbEKx74pNg==/grmpl.mk.stepandheightcounter-8P_UtQycprfB-cY-Ibi-6w==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [grmpl.mk.stepandheightcounter]
+     base.apk - 1094
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

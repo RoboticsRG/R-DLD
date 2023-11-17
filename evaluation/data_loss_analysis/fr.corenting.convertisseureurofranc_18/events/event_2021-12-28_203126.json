@@ -1,0 +1,165 @@
+{
+  "stop_state": "02b90a8382a6fe561d128b7894d6dfda", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-28_203126", 
+  "event": {
+    "views_str": [
+      "66070d3474d1677ba671665c4d7689d2", 
+      "3206ab6a61b247bde9a9f6cc14baec2d", 
+      "5539bed4427b03134182928e0b48210d", 
+      "ed4afa2d704431c62ee3c29c6abad21c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/sumToConvertText", 
+        "text": "Amount to convert (dollars)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/sumToConvertText", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": true, 
+        "view_str": "66070d3474d1677ba671665c4d7689d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            317
+          ], 
+          [
+            692, 
+            415
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/sumToConvertText[text]Amount to convert (dollars)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/yearOfOriginAutoComplete", 
+        "text": "2020", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/yearOfOriginAutoComplete", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": true, 
+        "view_str": "3206ab6a61b247bde9a9f6cc14baec2d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            481
+          ], 
+          [
+            692, 
+            579
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/yearOfOriginAutoComplete[text]2020[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/yearOfResultAutoComplete", 
+        "text": "2020", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/yearOfResultAutoComplete", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": true, 
+        "view_str": "5539bed4427b03134182928e0b48210d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            609
+          ], 
+          [
+            692, 
+            693
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/yearOfResultAutoComplete[text]2020[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "fr.corenting.convertisseureurofranc:id/resultText", 
+        "text": "Result (dollars)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/resultText", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "fr.corenting.convertisseureurofranc", 
+        "long_clickable": true, 
+        "view_str": "ed4afa2d704431c62ee3c29c6abad21c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            870
+          ], 
+          [
+            692, 
+            968
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]fr.corenting.convertisseureurofranc:id/resultText[text]Result (dollars)[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "331f4bb81c7372183d73ab54a63adc39"
+}

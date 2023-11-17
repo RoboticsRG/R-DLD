@@ -1,0 +1,42 @@
+{
+  "stop_state": "f3b282830b38e618bd34089e335ed129", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_220142", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/vibration", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*99", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1185
+        ], 
+        [
+          720, 
+          1284
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fcae24749728b4ea7c0c549106c17f6e"
+}

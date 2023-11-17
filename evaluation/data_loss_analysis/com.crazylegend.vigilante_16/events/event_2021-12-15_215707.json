@@ -1,0 +1,43 @@
+{
+  "stop_state": "979e7a65be5dc6eb733ced979c748fa0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-15_215707", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/inputPasswordLength", 
+      "text": "Password length", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "650*107", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1225
+        ], 
+        [
+          685, 
+          1332
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "facffd95e1b24affa6bd92d6848ba3a3"
+}

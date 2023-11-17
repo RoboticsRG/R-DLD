@@ -1,0 +1,42 @@
+{
+  "stop_state": "443dbfdcf0a171e454b4d5ec5d1cdc47", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_180204", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/aerr_wait", 
+      "text": "Wait", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          849
+        ], 
+        [
+          673, 
+          933
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "443dbfdcf0a171e454b4d5ec5d1cdc47"
+}

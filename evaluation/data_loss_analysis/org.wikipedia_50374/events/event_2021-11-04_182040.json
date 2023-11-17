@@ -1,0 +1,51 @@
+{
+  "stop_state": "158a2051aef241aa6e2b6e8bc1e762d7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_182040", 
+  "event": {
+    "views_str": [
+      "ff4c56b265b2473155a026c2cbf04d90"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/switchView", 
+        "text": "Enviar dados de uso ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "608*84", 
+        "checked": true, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchView", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "ff4c56b265b2473155a026c2cbf04d90", 
+        "enabled": true, 
+        "bounds": [
+          [
+            56, 
+            974
+          ], 
+          [
+            664, 
+            1058
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.wikipedia:id/switchView[text]Enviar dados de uso ATIVADO[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "de4a328c9dd570b5807228e1257b053a"
+}

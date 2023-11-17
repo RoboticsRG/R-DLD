@@ -1,0 +1,10 @@
+{
+  "stop_state": "4314110a71d652a3f22164c9d37ffdde", 
+  "event_str": "IntentEvent(intent='am start eu.roggstar.luigithehunter.dsaassistent/eu.roggstar.luigithehunter.dsaassistent.MainActivity')", 
+  "tag": "2021-12-29_183459", 
+  "event": {
+    "intent": "am start eu.roggstar.luigithehunter.dsaassistent/eu.roggstar.luigithehunter.dsaassistent.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f2bad3364b1888a731481289050e7137"
+}

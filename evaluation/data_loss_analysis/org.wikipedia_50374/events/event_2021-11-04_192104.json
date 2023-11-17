@@ -1,0 +1,43 @@
+{
+  "stop_state": "3bfaf44f1050a2c1095a85d6e0217c4c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_192104", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          516
+        ], 
+        [
+          692, 
+          614
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "5e5f1afbe0c7dcb5925874c85930840f"
+}

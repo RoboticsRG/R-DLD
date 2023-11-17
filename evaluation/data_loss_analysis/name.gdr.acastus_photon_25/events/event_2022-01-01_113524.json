@@ -1,0 +1,42 @@
+{
+  "stop_state": "8c06f97106f512ebc881f05a7e5ffe7c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_113524", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Helloworld (travel_agency)\nArmidale Beardy Street ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1382
+        ], 
+        [
+          692, 
+          1494
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6a65022e2e1e7c4af9da0b5fd9e6533b"
+}

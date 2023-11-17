@@ -1,0 +1,42 @@
+{
+  "stop_state": "2c5e93b39625a641561cf90339229b5b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_214950", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Open main menu", 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/menuItem_openDrawer", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          75
+        ], 
+        [
+          112, 
+          159
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b78e91bdf7a131f446ea5927e5158014"
+}

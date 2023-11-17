@@ -1,0 +1,42 @@
+{
+  "stop_state": "35cf9a88dc48c6e62e74595307f93939", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_201808", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Switch to text input mode for the time input.", 
+      "resource_id": "android:id/toggle_mode", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          67, 
+          1100
+        ], 
+        [
+          151, 
+          1184
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3f8a8ffa2a21ce40da3bfa1e52c04986"
+}

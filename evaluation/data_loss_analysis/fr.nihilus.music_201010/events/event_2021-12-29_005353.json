@@ -1,0 +1,51 @@
+{
+  "stop_state": "a0c8e0e391d91f73136543eec9969637", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-29_005353", 
+  "event": {
+    "views_str": [
+      "d18b34e100e02abc1a1083ad571fd594"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "fr.nihilus.music:id/search_input", 
+        "text": "Find a track, an artist", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "494*98", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]fr.nihilus.music:id/search_input", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "fr.nihilus.music", 
+        "long_clickable": true, 
+        "view_str": "d18b34e100e02abc1a1083ad571fd594", 
+        "enabled": true, 
+        "bounds": [
+          [
+            134, 
+            64
+          ], 
+          [
+            628, 
+            162
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]fr.nihilus.music:id/search_input[text]Find a track, an artist[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4adcbba85801d78714339858066e4f65"
+}

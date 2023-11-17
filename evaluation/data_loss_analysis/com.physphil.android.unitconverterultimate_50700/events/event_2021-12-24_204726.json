@@ -1,0 +1,42 @@
+{
+  "stop_state": "77fd888a58cf0e7eb35ee62c14069206", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_204726", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Bit", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "86*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          341
+        ], 
+        [
+          453, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 35, 
+    "event_type": "touch"
+  }, 
+  "start_state": "334bf999195ab02e4521a64bd56973c4"
+}

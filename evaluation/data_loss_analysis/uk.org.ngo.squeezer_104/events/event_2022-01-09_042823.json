@@ -1,0 +1,44 @@
+{
+  "stop_state": "2032472b9bdc0db7fb7a6da3c3dbb341", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-09_042823", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 1, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "637*1133", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          194
+        ], 
+        [
+          679, 
+          1327
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2032472b9bdc0db7fb7a6da3c3dbb341"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "3b8ff29848a1dd32fa56e98f390a60b9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_053027", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddf1\ud83c\uddf0 Sri Lanka", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "402*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          843
+        ], 
+        [
+          657, 
+          908
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f478ebd9da222d55b863f57db781bde0"
+}

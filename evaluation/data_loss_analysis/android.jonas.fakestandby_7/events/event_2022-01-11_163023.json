@@ -1,0 +1,10 @@
+{
+  "stop_state": "df3b387ef29870cbe209d0a2918b3034", 
+  "event_str": "IntentEvent(intent='am start android.jonas.fakestandby/android.jonas.fakestandby.settings.SettingsActivity')", 
+  "tag": "2022-01-11_163023", 
+  "event": {
+    "intent": "am start android.jonas.fakestandby/android.jonas.fakestandby.settings.SettingsActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "95bfe14af534c1b954c2999afa26b8d1"
+}

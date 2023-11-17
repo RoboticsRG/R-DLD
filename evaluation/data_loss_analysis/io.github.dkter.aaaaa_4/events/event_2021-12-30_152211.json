@@ -1,0 +1,43 @@
+{
+  "stop_state": "68e5eb336afa7d37fe8e8a4137afe82a", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-30_152211", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/textBox", 
+      "text": "Test your new keyboard here", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          575
+        ], 
+        [
+          692, 
+          654
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7cc250d117a769f19525b7ebb65d9c3b"
+}

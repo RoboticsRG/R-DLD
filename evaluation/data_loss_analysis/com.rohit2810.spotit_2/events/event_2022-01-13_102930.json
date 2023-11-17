@@ -1,0 +1,10 @@
+{
+  "stop_state": "29a3d76c571cc75ad728ef9d325316c9", 
+  "event_str": "IntentEvent(intent='am start com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity')", 
+  "tag": "2022-01-13_102930", 
+  "event": {
+    "intent": "am start com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ad7eb935ecad7b4c8a71451bf7578a6b"
+}

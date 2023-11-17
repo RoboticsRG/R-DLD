@@ -1,0 +1,44 @@
+{
+  "stop_state": "ae19fb45fb197803d8682b31661cb150", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-08_133707", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/recycler_view", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1230", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          1382
+        ]
+      ], 
+      "class": "androidx.recyclerview.widget.RecyclerView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "ae19fb45fb197803d8682b31661cb150"
+}

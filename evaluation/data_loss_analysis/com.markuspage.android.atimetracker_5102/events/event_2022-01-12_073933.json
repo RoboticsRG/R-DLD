@@ -1,0 +1,42 @@
+{
+  "stop_state": "a556d6a4b52a3a59f21de6e574aa4e25", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_073933", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/date_picker_header_year", 
+      "text": "2022", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "92*61", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          199
+        ], 
+        [
+          106, 
+          260
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1899c9bd6fab4abfe675b8538e1b0d01"
+}

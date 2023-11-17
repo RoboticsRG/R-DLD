@@ -1,0 +1,42 @@
+{
+  "stop_state": "cb09138b0742a56b26dcfc47d4e3cf1b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_001239", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "BYE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "net.typeblog.shelter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          377, 
+          1140
+        ], 
+        [
+          489, 
+          1235
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2a8a456efe8786e76f0c70d14e85377d"
+}

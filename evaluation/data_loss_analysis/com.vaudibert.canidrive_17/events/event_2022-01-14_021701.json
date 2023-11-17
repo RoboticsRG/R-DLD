@@ -1,0 +1,43 @@
+{
+  "stop_state": "589803ca41bd780f1ecd1251157f4f31", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_021701", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 40, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/textViewPresetDrinkProperties", 
+      "text": "1000.0 ml - 17.0 %", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "456*29", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          851
+        ], 
+        [
+          571, 
+          880
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "741ec27d6a1ca8dda671f0db26583d33"
+}

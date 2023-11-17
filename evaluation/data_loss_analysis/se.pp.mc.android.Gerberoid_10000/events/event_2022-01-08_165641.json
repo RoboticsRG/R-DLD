@@ -1,0 +1,10 @@
+{
+  "stop_state": "3d75781c0b64ff645c6bf98550ab87a9", 
+  "event_str": "IntentEvent(intent='am start se.pp.mc.android.Gerberoid/se.pp.mc.android.Gerberoid.MainActivity')", 
+  "tag": "2022-01-08_165641", 
+  "event": {
+    "intent": "am start se.pp.mc.android.Gerberoid/se.pp.mc.android.Gerberoid.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "689209830a851684815c1bddaa751b68"
+}

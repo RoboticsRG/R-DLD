@@ -1,0 +1,44 @@
+{
+  "stop_state": "1173d0c251e83243d888f9c47afb32ea", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-14_050516", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "183*315", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          106, 
+          258
+        ], 
+        [
+          289, 
+          573
+        ]
+      ], 
+      "class": "android.widget.NumberPicker", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "f36db6c986b29c4e2b3895f3f21e6599"
+}

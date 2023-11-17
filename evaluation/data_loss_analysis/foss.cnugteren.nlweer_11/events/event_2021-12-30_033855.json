@@ -1,0 +1,43 @@
+{
+  "stop_state": "78b16b5e5f5c580768fc9b36cc07152d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-30_033855", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "foss.cnugteren.nlweer:id/textViewContent2", 
+      "text": "[31-12-2021]  Max. 14\u00b0 Min. 11\u00b0 Neerslag 0/2mm Neerslagkans 40% Zonneschijn 30% Windkracht ZW 4 \n\n[01-01-2022]  Max. 14/15\u00b0 Min. 10/11\u00b0 Neerslag 0mm Neerslagkans 20% Zonneschijn 10% Windkracht Z 3 \n\n[02-01-2022]  Max. 12/14\u00b0 Min. 10/11\u00b0 Neerslag 4/9mm Neerslagkans 90% Zonneschijn 10% Windkracht ZW 4 \n\n[03-01-2022]  Max. 10/11\u00b0 Min. 8/9\u00b0 Neerslag 2/8mm Neerslagkans 80% Zonneschijn 20% Windkracht ZW 5 \n\n[04-01-2022]  Max. 7/9\u00b0 Min. 4/7\u00b0 Neerslag 2/8mm Neerslagkans 80% Zonneschijn 10% Windkracht W 4 \n\n[05-01-2022]  Max. 5/7\u00b0 Min. 1/3\u00b0 Neerslag 0/2mm Neerslagkans 40% Zonneschijn 30% Windkracht NW 4", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*24", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1534
+        ], 
+        [
+          664, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "78b16b5e5f5c580768fc9b36cc07152d"
+}

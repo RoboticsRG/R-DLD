@@ -1,0 +1,42 @@
+{
+  "stop_state": "f0774f91507c8ece9e99003b8418d020", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-09_111256", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*157", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.y20k.transistor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          745
+        ], 
+        [
+          720, 
+          902
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "31a845b89e35592c01ca737e81a196f3"
+}

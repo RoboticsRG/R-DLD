@@ -1,0 +1,42 @@
+{
+  "stop_state": "f86da2b1566dc1a0022ffdbe5434eb78", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-09_111938", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Limpar consulta", 
+      "resource_id": "org.y20k.transistor:id/search_close_btn", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "70*82", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.y20k.transistor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          561, 
+          681
+        ], 
+        [
+          631, 
+          763
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ad0e249b517c333ab01a9df95e6cb462"
+}

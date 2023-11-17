@@ -1,0 +1,43 @@
+{
+  "stop_state": "05a476844a086f1d7cb3c9552a805baf", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-15_220819", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "360*358", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          1173
+        ], 
+        [
+          720, 
+          1531
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "05a476844a086f1d7cb3c9552a805baf"
+}

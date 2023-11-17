@@ -1,0 +1,51 @@
+{
+  "stop_state": "97089ddf690e36794f59afa4cb993993", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_202323", 
+  "event": {
+    "views_str": [
+      "32593bd6a21d2eb6a284696b72c7aafe"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "200", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": true, 
+        "view_str": "32593bd6a21d2eb6a284696b72c7aafe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            816
+          ], 
+          [
+            638, 
+            895
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]200[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6f7b2fab8550207fb3ffbe74b32c1631"
+}

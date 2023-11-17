@@ -1,0 +1,89 @@
+{
+  "stop_state": "6d3683570947c3a970e46d75ad399df4", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_082753", 
+  "event": {
+    "views_str": [
+      "1c9b3236dffce436430fc2b7afeb0169", 
+      "1c9b3236dffce436430fc2b7afeb0169"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.sryze.wirebug", 
+        "long_clickable": false, 
+        "view_str": "1c9b3236dffce436430fc2b7afeb0169", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            207
+          ], 
+          [
+            692, 
+            254
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.sryze.wirebug", 
+        "long_clickable": false, 
+        "view_str": "1c9b3236dffce436430fc2b7afeb0169", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            351
+          ], 
+          [
+            692, 
+            398
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "31fbbff39da7c80fad0bb6123316b40c"
+}

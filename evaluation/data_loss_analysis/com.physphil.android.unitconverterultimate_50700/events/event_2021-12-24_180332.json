@@ -1,0 +1,42 @@
+{
+  "stop_state": "1c0ead502a89f6ada8267a085bfe153c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_180332", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Indonesian Rupiah", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "262*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1391
+        ], 
+        [
+          269, 
+          1447
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f60d5c8785cea7ebaa5ff0e3ca5f87f9"
+}

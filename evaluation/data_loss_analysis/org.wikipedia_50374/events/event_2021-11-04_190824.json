@@ -1,0 +1,42 @@
+{
+  "stop_state": "3def332dcc13d263f59fb13c25709cc7", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_190824", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/search_container", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          157
+        ], 
+        [
+          692, 
+          241
+        ]
+      ], 
+      "class": "androidx.cardview.widget.CardView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "117943939e50b1c9161406c89b73e80b"
+}

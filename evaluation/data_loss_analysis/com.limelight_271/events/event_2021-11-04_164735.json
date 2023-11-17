@@ -1,0 +1,42 @@
+{
+  "stop_state": "fe3ad2c0e160fa334293d8d4f9580a9b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_164735", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.limelight", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          614
+        ], 
+        [
+          692, 
+          670
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9e6e260ecefd3ce860e9472fc2652bb9"
+}

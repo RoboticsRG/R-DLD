@@ -1,0 +1,42 @@
+{
+  "stop_state": "ede895280aba54d27828a81d8ecc1a17", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_081525", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Copy address/place to clipboard", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          887
+        ], 
+        [
+          673, 
+          971
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9d6a8a71bff74f2dd86ba477b1438f87"
+}

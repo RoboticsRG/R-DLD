@@ -1,0 +1,51 @@
+{
+  "stop_state": "8ed0f66bad29e838fc8dc314480524ab", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_194348", 
+  "event": {
+    "views_str": [
+      "e86ba6ba3f34d533d598d7695aef61e5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.nishantboro.splititeasy:id/addMemberNameText", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "513*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nishantboro.splititeasy:id/addMemberNameText", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nishantboro.splititeasy", 
+        "long_clickable": true, 
+        "view_str": "e86ba6ba3f34d533d598d7695aef61e5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            189, 
+            194
+          ], 
+          [
+            702, 
+            273
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nishantboro.splititeasy:id/addMemberNameText[text]Name[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a726b3bc542fd37efbd87dcd086e30ed"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "fff6b6cf1edca99616cc4399a6c75db3", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_184734", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Help", 
+      "resource_id": "org.billthefarmer.shorty:id/action_help", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a2dcfaf7e59d7c1c1d5de81ded185393"
+}

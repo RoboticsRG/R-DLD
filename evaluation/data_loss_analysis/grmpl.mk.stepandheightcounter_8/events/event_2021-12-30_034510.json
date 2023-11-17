@@ -1,0 +1,127 @@
+{
+  "stop_state": "def8bed12f9ca9962ee55a10801fc1a4", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-30_034510", 
+  "event": {
+    "views_str": [
+      "bf19d7ad763ac7a6faf319e1a70271d1", 
+      "7e9fde480f3ff9c7cc7f03fe0bb5af4a", 
+      "bf19d7ad763ac7a6faf319e1a70271d1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "grmpl.mk.stepandheightcounter", 
+        "long_clickable": false, 
+        "view_str": "bf19d7ad763ac7a6faf319e1a70271d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            803
+          ], 
+          [
+            692, 
+            859
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "grmpl.mk.stepandheightcounter", 
+        "long_clickable": false, 
+        "view_str": "7e9fde480f3ff9c7cc7f03fe0bb5af4a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1073
+          ], 
+          [
+            692, 
+            1129
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 57, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 56, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "grmpl.mk.stepandheightcounter", 
+        "long_clickable": false, 
+        "view_str": "bf19d7ad763ac7a6faf319e1a70271d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1344
+          ], 
+          [
+            692, 
+            1400
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a9d97830a90fb2f3f6d11ba3906cd4e3"
+}

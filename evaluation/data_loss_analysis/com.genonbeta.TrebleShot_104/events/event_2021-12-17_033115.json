@@ -1,0 +1,89 @@
+{
+  "stop_state": "2d354b8ec6d9259f4c313d18e82014a1", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-17_033115", 
+  "event": {
+    "views_str": [
+      "73236d1e8bb9cfeaec213d1de37d35fd", 
+      "da34e5a74858a695f2edf38428faa6c7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.genonbeta.TrebleShot", 
+        "long_clickable": false, 
+        "view_str": "73236d1e8bb9cfeaec213d1de37d35fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            810
+          ], 
+          [
+            692, 
+            894
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.genonbeta.TrebleShot", 
+        "long_clickable": false, 
+        "view_str": "da34e5a74858a695f2edf38428faa6c7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            919
+          ], 
+          [
+            692, 
+            1003
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "2d354b8ec6d9259f4c313d18e82014a1"
+}

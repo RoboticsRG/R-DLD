@@ -1,0 +1,42 @@
+{
+  "stop_state": "0124ba2b0218ae40f146bfb8e1fc85ac", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_185204", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Edi\u00e7\u00f5es", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "144*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          432, 
+          1460
+        ], 
+        [
+          576, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "aefd06a84205f78b6ab9e2e1ecb22bf0"
+}

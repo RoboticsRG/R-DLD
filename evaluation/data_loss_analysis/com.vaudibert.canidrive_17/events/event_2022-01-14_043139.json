@@ -1,0 +1,42 @@
+{
+  "stop_state": "8621a7fab1ecf6894c39819e2dae88ef", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_043139", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/textViewPresetDrinkDescription", 
+      "text": "MartiniHelloWorldHellHelloWHelloWorldorldoWorldHelloWorld", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "447*71", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          498
+        ], 
+        [
+          562, 
+          569
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8621a7fab1ecf6894c39819e2dae88ef"
+}

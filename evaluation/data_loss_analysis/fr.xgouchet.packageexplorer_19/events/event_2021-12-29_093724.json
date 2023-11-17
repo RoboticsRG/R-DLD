@@ -1,0 +1,10 @@
+{
+  "stop_state": "dceeb869ab6fc6e7b804d49550e7ad78", 
+  "event_str": "IntentEvent(intent='am start fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity')", 
+  "tag": "2021-12-29_093724", 
+  "event": {
+    "intent": "am start fr.xgouchet.packageexplorer/fr.xgouchet.packageexplorer.applist.AppListActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "dceeb869ab6fc6e7b804d49550e7ad78"
+}

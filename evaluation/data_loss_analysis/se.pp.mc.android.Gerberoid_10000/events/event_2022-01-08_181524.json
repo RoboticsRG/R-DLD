@@ -1,0 +1,43 @@
+{
+  "stop_state": "9d8a98c5bf0c2e03330a0c219408267e", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_181524", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 38, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/opt_negghost", 
+      "text": "X", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "112*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          510, 
+          488
+        ], 
+        [
+          622, 
+          572
+        ]
+      ], 
+      "class": "android.widget.ToggleButton", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "9d8a98c5bf0c2e03330a0c219408267e"
+}

@@ -1,0 +1,114 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        d27d79e com.github.gschwind.fiddle_assistant/.MainActivity filter fdd227f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.github.gschwind.fiddle_assistant]
+      Signing KeySets: 612
+
+Packages:
+  Package [com.github.gschwind.fiddle_assistant] (dd44221):
+    userId=10693
+    pkg=Package{e28fd39 com.github.gschwind.fiddle_assistant}
+    codePath=/data/app/~~FeABxttldDKQ96e-jEXUEQ==/com.github.gschwind.fiddle_assistant--hYmddnT_JRCh5uqUm8haw==
+    resourcePath=/data/app/~~FeABxttldDKQ96e-jEXUEQ==/com.github.gschwind.fiddle_assistant--hYmddnT_JRCh5uqUm8haw==
+    legacyNativeLibraryDir=/data/app/~~FeABxttldDKQ96e-jEXUEQ==/com.github.gschwind.fiddle_assistant--hYmddnT_JRCh5uqUm8haw==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=110 minSdk=23 targetSdk=29
+    versionName=1.1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{e28fd39 com.github.gschwind.fiddle_assistant}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.github.gschwind.fiddle_assistant
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2022-01-12 21:40:57
+    firstInstallTime=2022-01-12 21:40:57
+    lastUpdateTime=2022-01-12 21:40:57
+    signatures=PackageSignatures{7b15f7e version:1, signatures:[79893939], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.RECORD_AUDIO
+    User 0: ceDataInode=72178 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.RECORD_AUDIO: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.github.gschwind.fiddle_assistant
+    com.motorola.actions:
+      com.github.gschwind.fiddle_assistant
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=196
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=131, package=com.google.android.contacts
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=147, package=com.motorola.livewallpaper3
+    seq=151, package=com.gimranov.zandy.app
+    seq=159, package=com.google.android.tts
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=193, package=com.google.android.apps.docs
+    seq=194, package=io.github.ylimit.droidbotapp
+    seq=195, package=com.github.gschwind.fiddle_assistant
+
+
+Dexopt state:
+  [com.github.gschwind.fiddle_assistant]
+    path: /data/app/~~FeABxttldDKQ96e-jEXUEQ==/com.github.gschwind.fiddle_assistant--hYmddnT_JRCh5uqUm8haw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.github.gschwind.fiddle_assistant]
+     base.apk - 816
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

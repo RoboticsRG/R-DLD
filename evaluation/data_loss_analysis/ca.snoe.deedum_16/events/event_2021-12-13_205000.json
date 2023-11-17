@@ -1,0 +1,43 @@
+{
+  "stop_state": "69d25ca31be66ecb2c7c463a75d90e63", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-13_205000", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 45, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "80h.dev/projects/gemserv/commits/", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "51652601bb19fae9374f69ce9048b501"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "193b8474b16b99fea9d0aa8608d0ae4d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-10_181918", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/control_port", 
+      "text": "1705123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "393*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          257, 
+          751
+        ], 
+        [
+          650, 
+          830
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "193b8474b16b99fea9d0aa8608d0ae4d"
+}

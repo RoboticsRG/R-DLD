@@ -1,0 +1,43 @@
+{
+  "stop_state": "f50a471d2286c3b525cc36051264d5f8", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_025637", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "59", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*115", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          303, 
+          633
+        ], 
+        [
+          415, 
+          748
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "23b84e5055802b7397323ac52acc977e"
+}

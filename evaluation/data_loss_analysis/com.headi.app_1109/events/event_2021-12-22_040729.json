@@ -1,0 +1,42 @@
+{
+  "stop_state": "0464d21f1a4db2f3f3e805ee9daf7407", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-22_040729", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "09 December 2021", 
+      "resource_id": null, 
+      "text": "9", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "62*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.headi.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          391, 
+          785
+        ], 
+        [
+          453, 
+          855
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": false
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4b8626e7fc07ef6a98f24544ba39bfab"
+}

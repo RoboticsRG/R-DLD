@@ -1,0 +1,42 @@
+{
+  "stop_state": "cb05a95df3c7f9e8999a2ba9eb6d109d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_102700", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/speechButton", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*76", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          273
+        ], 
+        [
+          720, 
+          349
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cb05a95df3c7f9e8999a2ba9eb6d109d"
+}

@@ -1,0 +1,184 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3c897cd com.app.missednotificationsreminder/.settings.MainActivity filter 374882
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        ed3e3c9 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 6156ace
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        62dab93 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 26b07d0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        6fd6def com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 740d0fc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        52df385 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 2a165da
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        6fd6def com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 740d0fc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        ed3e3c9 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 6156ace
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        c5cfa0b com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 74800e8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        c5cfa0b com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 74800e8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        c5cfa0b com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 74800e8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        62dab93 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 26b07d0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        edf2be7 com.app.missednotificationsreminder/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 104394
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        55f4301 com.app.missednotificationsreminder/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 3c005a6
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.notification.NotificationListenerService:
+        3fc0e3d com.app.missednotificationsreminder/.service.ReminderNotificationListenerService filter ed6d632 permission android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+          Action: "android.service.notification.NotificationListenerService"
+
+Registered ContentProviders:
+  com.app.missednotificationsreminder/com.squareup.picasso.PicassoProvider:
+    Provider{f560581 com.app.missednotificationsreminder/com.squareup.picasso.PicassoProvider}
+  com.app.missednotificationsreminder/androidx.core.content.FileProvider:
+    Provider{13d626 com.app.missednotificationsreminder/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.app.missednotificationsreminder.com.squareup.picasso]:
+    Provider{f560581 com.app.missednotificationsreminder/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{b15f267 com.app.missednotificationsreminder}
+  [com.app.missednotificationsreminder.FILEPROVIDER]:
+    Provider{13d626 com.app.missednotificationsreminder/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{addc814 com.app.missednotificationsreminder}
+
+Key Set Manager:
+  [com.app.missednotificationsreminder]
+      Signing KeySets: 275
+
+Packages:
+  Package [com.app.missednotificationsreminder] (6dc78bd):
+    userId=10427
+    pkg=Package{7d72eb2 com.app.missednotificationsreminder}
+    codePath=/data/app/~~h3RJUS4leYnTam29Rcp4og==/com.app.missednotificationsreminder-AHFFxhlgAoMyiSGUe5yyWA==
+    resourcePath=/data/app/~~h3RJUS4leYnTam29Rcp4og==/com.app.missednotificationsreminder-AHFFxhlgAoMyiSGUe5yyWA==
+    legacyNativeLibraryDir=/data/app/~~h3RJUS4leYnTam29Rcp4og==/com.app.missednotificationsreminder-AHFFxhlgAoMyiSGUe5yyWA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2010605222 minSdk=18 targetSdk=29
+    versionName=1.6.5.2.22
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{7d72eb2 com.app.missednotificationsreminder}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.app.missednotificationsreminder
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-12-14 02:31:13
+    firstInstallTime=2021-12-14 02:31:13
+    lastUpdateTime=2021-12-14 02:31:13
+    signatures=PackageSignatures{6854e03 version:3, signatures:[d33b3553], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WAKE_LOCK
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.VIBRATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=21016 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.app.missednotificationsreminder
+    com.motorola.actions:
+      com.app.missednotificationsreminder
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=92
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=9, package=com.google.android.gms
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=83, package=com.google.android.tts
+    seq=87, package=com.google.android.apps.docs
+    seq=89, package=aq.metallists.loudbang
+    seq=90, package=io.github.ylimit.droidbotapp
+    seq=91, package=com.app.missednotificationsreminder
+
+
+Dexopt state:
+  [com.app.missednotificationsreminder]
+    path: /data/app/~~h3RJUS4leYnTam29Rcp4og==/com.app.missednotificationsreminder-AHFFxhlgAoMyiSGUe5yyWA==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.app.missednotificationsreminder]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,43 @@
+{
+  "stop_state": "7ee15cc2091c1ce8433135dc102d52cd", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-10_215238", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "at.tacticaldevc.panictrigger:id/group_select", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "at.tacticaldevc.panictrigger", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          817
+        ], 
+        [
+          673, 
+          901
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "864e16c487408965c938df2839c9062d"
+}

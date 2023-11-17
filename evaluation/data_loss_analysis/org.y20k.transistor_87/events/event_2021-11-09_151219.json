@@ -1,0 +1,42 @@
+{
+  "stop_state": "f86da2b1566dc1a0022ffdbe5434eb78", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-09_151219", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.y20k.transistor:id/card_add_new_station", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*62", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.y20k.transistor", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          68
+        ], 
+        [
+          622, 
+          130
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "db6fd55d1c148ca003847a6d7caa2d60"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "462166726b46bb9bdc21802e41696027", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_110039", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "View on Github", 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/action_github", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b678d6ec3d8eadfabe372769d21ece66"
+}

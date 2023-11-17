@@ -1,0 +1,42 @@
+{
+  "stop_state": "b938a694fed48cc09ee7e70ccde47a86", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_183244", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Millilitre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "143*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1251
+        ], 
+        [
+          510, 
+          1307
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 76, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c778a3359cfe0c12a6258e7e79a7669f"
+}

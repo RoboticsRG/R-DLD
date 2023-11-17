@@ -1,0 +1,51 @@
+{
+  "stop_state": "e14166dbe9fa707ed6f951b1e769e361", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-19_143755", 
+  "event": {
+    "views_str": [
+      "03fb7c29dc5d1b44928d2f5209f24266"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.jovial.jrpn:id/tbDisplay", 
+        "text": "0.000", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "598*137", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/tbDisplay", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jovial.jrpn", 
+        "long_clickable": true, 
+        "view_str": "03fb7c29dc5d1b44928d2f5209f24266", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            191
+          ], 
+          [
+            658, 
+            328
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jovial.jrpn:id/tbDisplay[text]0.000[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0f7dec9b3076a5fe3b4b36287d88ebd0"
+}

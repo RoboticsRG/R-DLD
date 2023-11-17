@@ -1,0 +1,849 @@
+{
+  "stop_state": "c4ff12916f1312d1e53ce7c599379ab9", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-24_175031", 
+  "event": {
+    "views_str": [
+      "ed8ea27c15924e8f47da9ea5ad5a076c", 
+      "1d579eb79481d6b4416751094408ffd8", 
+      "ecaad04f9036c33b7dcffc28a6fa5c0f", 
+      "b1a46ff48cd625273bcf843a534f501d", 
+      "b3c0e547f668fc340b47da3a29b3f0b6", 
+      "8987d785df0f1da9fab0acb79542a302", 
+      "f0a1bdf690acaebde3ca36ae5548ee58", 
+      "88bc1d1cee36ceaa49fe04fe45b3152b", 
+      "3074f1bbff1d64cbd1d2f56d9f399cc1", 
+      "53aaa0de738e00058591960683bd0e67", 
+      "4bf0c898cfbd108dafeb2bb5d2594071", 
+      "5b51698b9e3939d0cdc98a0d784ed655", 
+      "8723d58bca9043e8b9b1b685bb2e1960", 
+      "e75b68a278a74eba4020a539de77b24d", 
+      "a9edfb032a31df552facf8eb2be2c692", 
+      "a4cbd5d465aa60fd292a1356ba838c42", 
+      "f25f00a062de4b3d48d758edac4ce4d2", 
+      "6ed01f60ba95c67f8221d445a9e0645b", 
+      "364a43a151cb075eb4514e2343b9cf23", 
+      "1a769d965b776189f5c15ddc90d84c6c", 
+      "0d30c1e7490763507d3ee9cc8204a8b2", 
+      "9f8e6242e345af2802d9b56d0f8bc13c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "ed8ea27c15924e8f47da9ea5ad5a076c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            200
+          ], 
+          [
+            353, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "1d579eb79481d6b4416751094408ffd8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            200
+          ], 
+          [
+            713, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Kilogram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "156*56", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "ecaad04f9036c33b7dcffc28a6fa5c0f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            341
+          ], 
+          [
+            163, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Kilogram[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Pound", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "128*56", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b1a46ff48cd625273bcf843a534f501d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            411
+          ], 
+          [
+            135, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Pound[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Gram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "117*56", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "b3c0e547f668fc340b47da3a29b3f0b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            481
+          ], 
+          [
+            124, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Gram[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Milligram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "160*56", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8987d785df0f1da9fab0acb79542a302", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            551
+          ], 
+          [
+            167, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Milligram[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ounce", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "127*56", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "f0a1bdf690acaebde3ca36ae5548ee58", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            621
+          ], 
+          [
+            134, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ounce[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Grain", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "115*56", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "88bc1d1cee36ceaa49fe04fe45b3152b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            691
+          ], 
+          [
+            122, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Grain[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Stone", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "120*56", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "3074f1bbff1d64cbd1d2f56d9f399cc1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            761
+          ], 
+          [
+            127, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Stone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (metric)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "192*56", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "53aaa0de738e00058591960683bd0e67", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            831
+          ], 
+          [
+            199, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (metric)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (US/short)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "221*56", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "4bf0c898cfbd108dafeb2bb5d2594071", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            901
+          ], 
+          [
+            228, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (US/short)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (UK/long)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*56", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "5b51698b9e3939d0cdc98a0d784ed655", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            971
+          ], 
+          [
+            219, 
+            1027
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (UK/long)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Kilogram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "156*56", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8723d58bca9043e8b9b1b685bb2e1960", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            341
+          ], 
+          [
+            523, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Kilogram[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Pound", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "128*56", 
+        "checked": true, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "e75b68a278a74eba4020a539de77b24d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            411
+          ], 
+          [
+            495, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Pound[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Gram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "117*56", 
+        "checked": false, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "a9edfb032a31df552facf8eb2be2c692", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            481
+          ], 
+          [
+            484, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Gram[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Milligram", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "160*56", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "a4cbd5d465aa60fd292a1356ba838c42", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            551
+          ], 
+          [
+            527, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Milligram[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ounce", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "127*56", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "f25f00a062de4b3d48d758edac4ce4d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            621
+          ], 
+          [
+            494, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ounce[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Grain", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "115*56", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "6ed01f60ba95c67f8221d445a9e0645b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            691
+          ], 
+          [
+            482, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Grain[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Stone", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "120*56", 
+        "checked": false, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "364a43a151cb075eb4514e2343b9cf23", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            761
+          ], 
+          [
+            487, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Stone[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (metric)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "192*56", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "1a769d965b776189f5c15ddc90d84c6c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            831
+          ], 
+          [
+            559, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (metric)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (US/short)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "221*56", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0d30c1e7490763507d3ee9cc8204a8b2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            901
+          ], 
+          [
+            588, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (US/short)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Ton (UK/long)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*56", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "9f8e6242e345af2802d9b56d0f8bc13c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            971
+          ], 
+          [
+            579, 
+            1027
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Ton (UK/long)[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4469ab6830309a98f5aa693275519070"
+}

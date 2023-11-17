@@ -1,0 +1,10 @@
+{
+  "stop_state": "4870691437ac9a304a8002dd3ac9d1e6", 
+  "event_str": "IntentEvent(intent='am start com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity')", 
+  "tag": "2021-12-17_050142", 
+  "event": {
+    "intent": "am start com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "68b0cac2da6d63d2909a6f385265600a"
+}

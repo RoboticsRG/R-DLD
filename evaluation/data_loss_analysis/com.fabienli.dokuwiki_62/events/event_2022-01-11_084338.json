@@ -1,0 +1,10 @@
+{
+  "stop_state": "a2a6ff9d8d8b4c46e22e1d4d28e16b42", 
+  "event_str": "IntentEvent(intent='am start com.fabienli.dokuwiki/com.fabienli.dokuwiki.MainActivity')", 
+  "tag": "2022-01-11_084338", 
+  "event": {
+    "intent": "am start com.fabienli.dokuwiki/com.fabienli.dokuwiki.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "a214936190e5273a838096fde14c4fbd"
+}

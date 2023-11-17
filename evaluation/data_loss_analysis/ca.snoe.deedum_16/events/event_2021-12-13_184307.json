@@ -1,0 +1,42 @@
+{
+  "stop_state": "8a9a046b96ae9d053a2fb106b2d358be", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_184307", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Installation and Setup", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "481*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1291
+        ], 
+        [
+          516, 
+          1356
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8a9a046b96ae9d053a2fb106b2d358be"
+}

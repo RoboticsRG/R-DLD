@@ -1,0 +1,42 @@
+{
+  "stop_state": "4b78c5c69a16a78792fd13a23f856bd8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_222103", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "JPG (90\uff05)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          929
+        ], 
+        [
+          673, 
+          1013
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "23249f312ac9f1f2efebdde5a7de6ff6"
+}

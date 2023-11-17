@@ -1,0 +1,277 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1c1c207 ru.ra66it.updaterforspotify/.presentation.ui.activity.MainActivity filter 107ef34
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        1c1c207 ru.ra66it.updaterforspotify/.presentation.ui.activity.MainActivity filter 107ef34
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.APPLICATION_PREFERENCES:
+        17ae15d ru.ra66it.updaterforspotify/.presentation.ui.activity.SettingsActivity filter cea7ad2
+          Action: "android.intent.action.APPLICATION_PREFERENCES"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        3893659 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 1d1721e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        1ae77a3 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter acecaa0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        826eaff ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 465f0cc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        88ddf15 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter d9e922a
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        826eaff ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 465f0cc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        3893659 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 1d1721e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        389381b ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 674db8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        389381b ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 674db8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        389381b ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 674db8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        1ae77a3 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter acecaa0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        ff93af7 ru.ra66it.updaterforspotify/androidx.work.impl.diagnostics.DiagnosticsReceiver filter f1f8d64
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        9fa5791 ru.ra66it.updaterforspotify/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 16ba6f6
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Registered ContentProviders:
+  ru.ra66it.updaterforspotify/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{33b3aaa ru.ra66it.updaterforspotify/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  ru.ra66it.updaterforspotify/androidx.core.content.FileProvider:
+    Provider{593f69b ru.ra66it.updaterforspotify/androidx.core.content.FileProvider}
+  ru.ra66it.updaterforspotify/androidx.work.impl.WorkManagerInitializer:
+    Provider{c056a38 ru.ra66it.updaterforspotify/androidx.work.impl.WorkManagerInitializer}
+
+ContentProvider Authorities:
+  [ru.ra66it.updaterforspotify.workmanager-init]:
+    Provider{c056a38 ru.ra66it.updaterforspotify/androidx.work.impl.WorkManagerInitializer}
+      applicationInfo=ApplicationInfo{3fb7a11 ru.ra66it.updaterforspotify}
+  [ru.ra66it.updaterforspotify.provider]:
+    Provider{593f69b ru.ra66it.updaterforspotify/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{b6a5776 ru.ra66it.updaterforspotify}
+  [ru.ra66it.updaterforspotify.lifecycle-process]:
+    Provider{33b3aaa ru.ra66it.updaterforspotify/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{e316177 ru.ra66it.updaterforspotify}
+
+Key Set Manager:
+  [ru.ra66it.updaterforspotify]
+      Signing KeySets: 551
+
+Packages:
+  Package [ru.ra66it.updaterforspotify] (fc2f1e4):
+    userId=10634
+    pkg=Package{60ca64d ru.ra66it.updaterforspotify}
+    codePath=/data/app/~~BMfqXt92qesUxqVlSv7HzA==/ru.ra66it.updaterforspotify-jFQwMheWtgzjGPk5nNMr1g==
+    resourcePath=/data/app/~~BMfqXt92qesUxqVlSv7HzA==/ru.ra66it.updaterforspotify-jFQwMheWtgzjGPk5nNMr1g==
+    legacyNativeLibraryDir=/data/app/~~BMfqXt92qesUxqVlSv7HzA==/ru.ra66it.updaterforspotify-jFQwMheWtgzjGPk5nNMr1g==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=21 minSdk=21 targetSdk=30
+    versionName=1.38
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{60ca64d ru.ra66it.updaterforspotify}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/ru.ra66it.updaterforspotify
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-08 07:04:15
+    firstInstallTime=2022-01-08 07:04:15
+    lastUpdateTime=2022-01-08 07:04:15
+    signatures=PackageSignatures{a9c7502 version:3, signatures:[7c43d1d1], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.QUERY_ALL_PACKAGES
+      android.permission.WAKE_LOCK
+      android.permission.FOREGROUND_SERVICE
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=59181 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ REVOKE_WHEN_REQUESTED|APPLY_RESTRICTION]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ APPLY_RESTRICTION]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ru.ra66it.updaterforspotify
+    com.motorola.actions:
+      ru.ra66it.updaterforspotify
+    com.google.android.contacts:
+      ru.ra66it.updaterforspotify
+    com.google.android.gm:
+      ru.ra66it.updaterforspotify
+    com.google.android.youtube:
+      ru.ra66it.updaterforspotify
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=901
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=692, package=org.billthefarmer.print
+    seq=696, package=net.typeblog.shelter
+    seq=706, package=net.tjado.usbgadget
+    seq=716, package=org.billthefarmer.tuner
+    seq=724, package=org.ddosolitary.okcagent
+    seq=734, package=org.billthefarmer.shorty
+    seq=746, package=org.billthefarmer.notes
+    seq=750, package=org.nitri.opentopo
+    seq=755, package=com.google.android.apps.messaging
+    seq=763, package=org.ebur.debitum
+    seq=769, package=org.liberty.android.freeotpplus
+    seq=775, package=com.google.android.contacts
+    seq=777, package=org.ligi.passandroid
+    seq=785, package=org.gateshipone.odyssey
+    seq=791, package=io.github.benoitduffez.cupsprint
+    seq=804, package=org.openhab.habdroid
+    seq=822, package=org.purple.smoke
+    seq=834, package=org.secuso.privacyfriendlyweather
+    seq=842, package=org.primftpd
+    seq=846, package=org.piwigo.android
+    seq=850, package=org.secuso.privacyfriendlypasswordgenerator
+    seq=856, package=org.pocketworkstation.pckeyboard
+    seq=864, package=org.ttrssreader
+    seq=877, package=org.unifiedpush.example
+    seq=886, package=rocks.poopjournal.todont
+    seq=892, package=com.google.android.tts
+    seq=896, package=subins2000.manglish
+    seq=898, package=com.google.android.apps.docs
+    seq=899, package=io.github.ylimit.droidbotapp
+    seq=900, package=ru.ra66it.updaterforspotify
+
+
+Dexopt state:
+  [ru.ra66it.updaterforspotify]
+    path: /data/app/~~BMfqXt92qesUxqVlSv7HzA==/ru.ra66it.updaterforspotify-jFQwMheWtgzjGPk5nNMr1g==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [ru.ra66it.updaterforspotify]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

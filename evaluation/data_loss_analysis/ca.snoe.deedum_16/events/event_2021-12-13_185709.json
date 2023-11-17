@@ -1,0 +1,51 @@
+{
+  "stop_state": "0961909463c683f65cba260364910ce4", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_185709", 
+  "event": {
+    "views_str": [
+      "2f243e32d7fc4af0a7a701ab4da78689"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gemini.circumlunar.spactest123e/docs/", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "2f243e32d7fc4af0a7a701ab4da78689", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]gemini.circumlunar.spactest123e/docs/[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "23913df2a29669fa9013d93f010c88e3"
+}

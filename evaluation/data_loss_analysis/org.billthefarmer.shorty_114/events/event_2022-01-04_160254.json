@@ -1,0 +1,42 @@
+{
+  "stop_state": "b5b1b72004e3579c65b93ed1a51e6e85", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_160254", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/lu_name", 
+      "text": "BBC Radio 3", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          251
+        ], 
+        [
+          706, 
+          330
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b5b1b72004e3579c65b93ed1a51e6e85"
+}

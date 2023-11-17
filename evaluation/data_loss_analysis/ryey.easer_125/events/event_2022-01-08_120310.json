@@ -1,0 +1,241 @@
+{
+  "stop_state": "5de6398a7884db067197e45e3b25f4c7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_120310", 
+  "event": {
+    "views_str": [
+      "0887889503caed401e57ee4184b7902e", 
+      "78ca8d073de711ea8bb5da49c19fa789", 
+      "f4ef4cce80c735a0ddf2682e9ccdf24e", 
+      "b1be3a1adbf5f37a59bf43f0db8fcc54", 
+      "aa041291e9e3ac834dfe68654baba177", 
+      "e49c4f8cb8d598ad5370d6ecc0b74954"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/editText_script_title", 
+        "text": "Script title", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_script_title", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": true, 
+        "view_str": "0887889503caed401e57ee4184b7902e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            278
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ryey.easer:id/editText_script_title[text]Script title[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/radioButton_event", 
+        "text": "Event", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "309*84", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_event", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "78ca8d073de711ea8bb5da49c19fa789", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            409
+          ], 
+          [
+            337, 
+            493
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_event[text]Event[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/radioButton_condition", 
+        "text": "Condition", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "355*84", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_condition", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "f4ef4cce80c735a0ddf2682e9ccdf24e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            337, 
+            409
+          ], 
+          [
+            692, 
+            493
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]ryey.easer:id/radioButton_condition[text]Condition[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/switch_reverse", 
+        "text": "Reverse Scenario OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "636*84", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_reverse", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "b1be3a1adbf5f37a59bf43f0db8fcc54", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            493
+          ], 
+          [
+            678, 
+            577
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_reverse[text]Reverse Scenario OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/switch_repeatable", 
+        "text": "Reoccurring ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "636*84", 
+        "checked": true, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_repeatable", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "aa041291e9e3ac834dfe68654baba177", 
+        "enabled": true, 
+        "bounds": [
+          [
+            42, 
+            633
+          ], 
+          [
+            678, 
+            717
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_repeatable[text]Reoccurring ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/switch_persistent", 
+        "text": "Volatile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "236*84", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_persistent", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "e49c4f8cb8d598ad5370d6ecc0b74954", 
+        "enabled": true, 
+        "bounds": [
+          [
+            242, 
+            717
+          ], 
+          [
+            478, 
+            801
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]ryey.easer:id/switch_persistent[text]Volatile[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a97aaae38a1f420b78482c31e85af1d2"
+}

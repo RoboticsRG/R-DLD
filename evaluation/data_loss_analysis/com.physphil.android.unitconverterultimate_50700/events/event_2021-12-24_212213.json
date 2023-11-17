@@ -1,0 +1,42 @@
+{
+  "stop_state": "1fb51543fecf3cd14998fc9e8252b112", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212213", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Furlong", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "140*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1111
+        ], 
+        [
+          147, 
+          1167
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 42, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9883584aab0d2650d34989272170ac67"
+}

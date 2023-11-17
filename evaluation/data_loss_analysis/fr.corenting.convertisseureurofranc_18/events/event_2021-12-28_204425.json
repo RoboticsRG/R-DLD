@@ -1,0 +1,43 @@
+{
+  "stop_state": "331f4bb81c7372183d73ab54a63adc39", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-28_204425", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 19, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/resultText", 
+      "text": "Result (dollars)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          870
+        ], 
+        [
+          692, 
+          968
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "331f4bb81c7372183d73ab54a63adc39"
+}

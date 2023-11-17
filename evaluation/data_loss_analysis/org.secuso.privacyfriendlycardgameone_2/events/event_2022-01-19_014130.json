@@ -1,0 +1,89 @@
+{
+  "stop_state": "00211e8d95eda1c89352560686418219", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_014130", 
+  "event": {
+    "views_str": [
+      "d95f824f66b36affdff9b5914581f165", 
+      "dbd1fca06c6cf24483435f90df7dae91"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/address", 
+        "text": "address of gamehost", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/address", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "d95f824f66b36affdff9b5914581f165", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            242
+          ], 
+          [
+            692, 
+            321
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/address[text]address of gamehost[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlycardgameone:id/playerName", 
+        "text": "Name of Player", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/playerName", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlycardgameone", 
+        "long_clickable": true, 
+        "view_str": "dbd1fca06c6cf24483435f90df7dae91", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            321
+          ], 
+          [
+            692, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlycardgameone:id/playerName[text]Name of Player[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4626e4db8600bafa7597ac0dabb53ad8"
+}

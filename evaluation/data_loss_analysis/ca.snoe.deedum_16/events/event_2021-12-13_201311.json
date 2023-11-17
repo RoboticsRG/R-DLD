@@ -1,0 +1,51 @@
+{
+  "stop_state": "02198cc1ec70ba7b7437dc8136f6fdbc", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_201311", 
+  "event": {
+    "views_str": [
+      "a0ef0d4c48ad8c27f05a496130a3c78a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "glasgow.social/gemini-phtest123p", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "a0ef0d4c48ad8c27f05a496130a3c78a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]glasgow.social/gemini-phtest123p[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bb3d413ca833b228300ba4473a46f0f7"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "86d20deb2b70c00c56d4b1da4bc9a4db", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_000237", 
+  "event": {
+    "views_str": [
+      "c28c88e2d340626d3221220975655ff9", 
+      "c28c88e2d340626d3221220975655ff9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 7, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 4, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.famoser.mensa", 
+        "long_clickable": false, 
+        "view_str": "c28c88e2d340626d3221220975655ff9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            133
+          ], 
+          [
+            692, 
+            189
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.famoser.mensa", 
+        "long_clickable": false, 
+        "view_str": "c28c88e2d340626d3221220975655ff9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            217
+          ], 
+          [
+            692, 
+            273
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cc9430dd85e07adb146f448cb18ba896"
+}

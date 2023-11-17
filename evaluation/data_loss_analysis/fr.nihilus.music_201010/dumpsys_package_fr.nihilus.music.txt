@@ -1,0 +1,231 @@
+Activity Resolver Table:
+  Schemes:
+      http:
+        af9b383 fr.nihilus.music/.HomeActivity filter 5b477e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Authority: "github.com": -1
+          Path: "PatternMatcher{LITERAL: /thibseisel/android-odeon}"
+      https:
+        af9b383 fr.nihilus.music/.HomeActivity filter 1a04df
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "github.com": -1
+          Path: "PatternMatcher{LITERAL: /thibseisel/android-odeon}"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        af9b383 fr.nihilus.music/.HomeActivity filter b558900
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.media.action.MEDIA_PLAY_FROM_SEARCH:
+        af9b383 fr.nihilus.music/.HomeActivity filter 9298539
+          Action: "android.media.action.MEDIA_PLAY_FROM_SEARCH"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        a7b7818 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter fb9a271
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        5e05d8a fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter fc40ffb
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        5eec856 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 39b0d7
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        9bbfdc4 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 5f4f4ad
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        5eec856 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 39b0d7
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        a7b7818 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter fb9a271
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        6a713e2 fr.nihilus.music/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ffe8373
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        6a713e2 fr.nihilus.music/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ffe8373
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        6a713e2 fr.nihilus.music/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ffe8373
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        5e05d8a fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter fc40ffb
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        da68c2e fr.nihilus.music/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 833e3cf
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        95d3230 fr.nihilus.music/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 3192ea9
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+      android.intent.action.MEDIA_BUTTON:
+        c0a352c fr.nihilus.music/androidx.media.session.MediaButtonReceiver filter 8943bf5
+          Action: "android.intent.action.MEDIA_BUTTON"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.media.browse.MediaBrowserService:
+        e9b415c fr.nihilus.music/.service.MusicService filter f2d0c65
+          Action: "android.media.browse.MediaBrowserService"
+
+Registered ContentProviders:
+  fr.nihilus.music/androidx.core.content.FileProvider:
+    Provider{1f1b960 fr.nihilus.music/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [fr.nihilus.music.provider]:
+    Provider{1f1b960 fr.nihilus.music/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{aa75e19 fr.nihilus.music}
+
+Key Set Manager:
+  [fr.nihilus.music]
+      Signing KeySets: 439
+
+Packages:
+  Package [fr.nihilus.music] (c29eb0):
+    userId=10522
+    pkg=Package{a3db751 fr.nihilus.music}
+    codePath=/data/app/~~Hs8zR6VjKmli2GGgea-V5g==/fr.nihilus.music-f-g7BQ0lFsZoS4q_u5becQ==
+    resourcePath=/data/app/~~Hs8zR6VjKmli2GGgea-V5g==/fr.nihilus.music-f-g7BQ0lFsZoS4q_u5becQ==
+    legacyNativeLibraryDir=/data/app/~~Hs8zR6VjKmli2GGgea-V5g==/fr.nihilus.music-f-g7BQ0lFsZoS4q_u5becQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=201010 minSdk=21 targetSdk=29
+    versionName=2.1.1
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{a3db751 fr.nihilus.music}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE HAS_DOMAIN_URLS PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/fr.nihilus.music
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-12-29 00:52:36
+    firstInstallTime=2021-12-29 00:52:36
+    lastUpdateTime=2021-12-29 00:52:36
+    signatures=PackageSignatures{3c7ebb6 version:3, signatures:[a67f03f8], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.FOREGROUND_SERVICE
+      android.permission.INTERNET
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=74484 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      fr.nihilus.music
+    com.motorola.actions:
+      fr.nihilus.music
+    com.google.android.deskclock:
+      fr.nihilus.music
+    com.google.android.apps.messaging:
+      fr.nihilus.music
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=419
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=365, package=com.google.android.tts
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=416, package=com.google.android.apps.docs
+    seq=417, package=io.github.ylimit.droidbotapp
+    seq=418, package=fr.nihilus.music
+
+
+Dexopt state:
+  [fr.nihilus.music]
+    path: /data/app/~~Hs8zR6VjKmli2GGgea-V5g==/fr.nihilus.music-f-g7BQ0lFsZoS4q_u5becQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [fr.nihilus.music]
+     base.apk - 850
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,42 @@
+{
+  "stop_state": "76d1099b6734b7468a3709d814c0cf10", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_201257", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.simplemobiletools.thankyou:id/customization_app_icon_color_holder", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*109", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.simplemobiletools.thankyou", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          653
+        ], 
+        [
+          720, 
+          762
+        ]
+      ], 
+      "class": "android.widget.RelativeLayout", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7520c9afc1c9254c3000b86cf03baf96"
+}

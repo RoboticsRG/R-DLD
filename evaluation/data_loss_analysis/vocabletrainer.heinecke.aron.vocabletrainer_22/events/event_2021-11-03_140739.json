@@ -1,0 +1,42 @@
+{
+  "stop_state": "5b5a49cf7e310321412e42b0df16a447", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_140739", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tImportPath", 
+      "text": "Import File", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "454*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          349
+        ], 
+        [
+          468, 
+          428
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5b5a49cf7e310321412e42b0df16a447"
+}

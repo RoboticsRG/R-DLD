@@ -1,0 +1,42 @@
+{
+  "stop_state": "8a9a046b96ae9d053a2fb106b2d358be", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_184156", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Agate", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "131*66", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          191
+        ], 
+        [
+          166, 
+          257
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9b04d269db69d28e015e9f895cb74baf"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "8f1fcec0fbb1d8a72df3e33529079835", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-19_063047", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/translatedTextEdit", 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          273
+        ], 
+        [
+          720, 
+          352
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8f1fcec0fbb1d8a72df3e33529079835"
+}

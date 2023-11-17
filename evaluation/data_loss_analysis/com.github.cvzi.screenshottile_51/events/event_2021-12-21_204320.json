@@ -1,0 +1,42 @@
+{
+  "stop_state": "da93d8f85993edf5cf58c459ed04082c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_204320", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.cvzi.screenshottile:id/buttonSettings", 
+      "text": "More Settings", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "342*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          378, 
+          54
+        ], 
+        [
+          720, 
+          138
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "64cd374df407b93e94bbf3a3e6083886"
+}

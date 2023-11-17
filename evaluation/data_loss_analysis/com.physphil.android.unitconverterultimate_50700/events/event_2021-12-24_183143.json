@@ -1,0 +1,42 @@
+{
+  "stop_state": "238d0015aa0ecc9b3c11a269aff57326", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_183143", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Teaspoon", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "166*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          341
+        ], 
+        [
+          173, 
+          397
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 45, 
+    "event_type": "touch"
+  }, 
+  "start_state": "60b386d8fd82fbf576db48c6b5285c54"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "87890cade991f2930301a7c3c9c92150", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_004119", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "899", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*115", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.polar.nextcloudservices", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          656
+        ], 
+        [
+          673, 
+          771
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "e6a2786406160fdb652adb945e19798d"
+}

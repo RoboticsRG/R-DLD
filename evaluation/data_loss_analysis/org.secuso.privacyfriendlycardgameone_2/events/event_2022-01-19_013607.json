@@ -1,0 +1,44 @@
+{
+  "stop_state": "4bef047921f84601c6cf7ef0ace65a4b", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-19_013607", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/view_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1558", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "android.support.v4.view.ViewPager", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "4bef047921f84601c6cf7ef0ace65a4b"
+}

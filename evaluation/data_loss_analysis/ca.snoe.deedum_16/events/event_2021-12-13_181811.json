@@ -1,0 +1,43 @@
+{
+  "stop_state": "cb4068aead129901249934508a440c97", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_181811", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 27, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Yashica C", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "126*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          1454
+        ], 
+        [
+          187, 
+          1501
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "195334d0f43b647b35ed0581a63b0629"
+}

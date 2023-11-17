@@ -1,0 +1,43 @@
+{
+  "stop_state": "a52b3b86e2c04417c4c292b07c2778de", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-10_161204", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/stream_port", 
+      "text": "1704", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "380*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          257, 
+          672
+        ], 
+        [
+          637, 
+          751
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "a52b3b86e2c04417c4c292b07c2778de"
+}

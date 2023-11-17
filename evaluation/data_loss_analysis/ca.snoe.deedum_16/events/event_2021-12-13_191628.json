@@ -1,0 +1,42 @@
+{
+  "stop_state": "e93b1c3219c24fb305684e375b0c01e2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_191628", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nBelow is a list of 50 public Gemini hosts (besides this one!), listed in the order in which Solderpunk became aware of them.  Not all server admins announced their server to the mailing list or contacted Solderpunk directly, and this list was maintained by hand so some servers which *were* announced may have been overlooked or entered out or order.  As such, this is not a 100% authoritative list of exactly the first 50 Gemini servers in their true historical order of appearance - but it is a pretty good approximation to one, and very likely the best approximateion which will ever exist.\n\nGeminispace is now growing at such a rate that maintaining an exhaustive list of servers by hand is no longer terribly practical or terribly useful.  Thus, this list is no longer being updated and is kept here for mostly historical interest.  The GUS search engine provides an automatically generated list of known hosts which is now the most complete and accurate such list:\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*1008", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          261
+        ], 
+        [
+          690, 
+          1269
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e93b1c3219c24fb305684e375b0c01e2"
+}

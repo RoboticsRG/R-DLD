@@ -1,0 +1,42 @@
+{
+  "stop_state": "331f4bb81c7372183d73ab54a63adc39", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_001913", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/yearOfResultAutoComplete", 
+      "text": "2020", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          609
+        ], 
+        [
+          692, 
+          693
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "331f4bb81c7372183d73ab54a63adc39"
+}

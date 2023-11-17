@@ -1,0 +1,43 @@
+{
+  "stop_state": "3084d59de45f7163f502cce5b92fe4b6", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_172549", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 50, 
+    "view": {
+      "content_description": "[https] Gemini-to-web proxy service", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "450*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1363
+        ], 
+        [
+          485, 
+          1426
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "3ca66ec5c8f64fb053d6f382119532ad"
+}

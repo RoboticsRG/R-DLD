@@ -1,0 +1,42 @@
+{
+  "stop_state": "3995195ff2c52ed6fb6b127d10587668", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_035606", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "grmpl.mk.stepandheightcounter:id/buttonCalibrate", 
+      "text": "CALIBRATE HEIGHT", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "268*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "grmpl.mk.stepandheightcounter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          304, 
+          682
+        ], 
+        [
+          572, 
+          766
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d4619c81c215ad966eef1b7737d09484"
+}

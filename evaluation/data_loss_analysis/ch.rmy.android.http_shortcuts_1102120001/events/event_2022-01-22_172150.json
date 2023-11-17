@@ -1,0 +1,43 @@
+{
+  "stop_state": "22c29137ba840116cfaae8aaab69c97d", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-22_172150", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_failure", 
+      "text": "Add JavaScript code here to run in case the request fails.", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*215", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          977
+        ], 
+        [
+          692, 
+          1192
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7885cfc3b1e966d7fab6398078146bc7"
+}

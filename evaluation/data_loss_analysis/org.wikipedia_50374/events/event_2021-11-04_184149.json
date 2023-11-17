@@ -1,0 +1,10 @@
+{
+  "stop_state": "f740a6eda87cf0a963121dc0cad55f2e", 
+  "event_str": "IntentEvent(intent='am start org.wikipedia/org.wikipedia.main.MainActivity')", 
+  "tag": "2021-11-04_184149", 
+  "event": {
+    "intent": "am start org.wikipedia/org.wikipedia.main.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "0c97e7690f9e8f05902c76e94b43c716"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "da3f85af449c5fd6a619810500cf6711", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_135706", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkExportMulti", 
+      "text": "Export Multiple Lists", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "678*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          583
+        ], 
+        [
+          706, 
+          667
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "db166d1cf74e7ce3452f5152999984b5"
+}

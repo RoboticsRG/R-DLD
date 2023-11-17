@@ -1,0 +1,42 @@
+{
+  "stop_state": "ca84d0a45994a6f51cc0093e725793bd", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_200757", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] GeGoBi, a Gemini server for Gemini-Gopher bi-hosting", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*102", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1165
+        ], 
+        [
+          690, 
+          1267
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4e5c5fe05ccecb1a39c122ad5118d56b"
+}

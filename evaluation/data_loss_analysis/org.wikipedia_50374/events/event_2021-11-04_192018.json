@@ -1,0 +1,43 @@
+{
+  "stop_state": "70ab862ce393bb8e4f73116bf73926ef", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_192018", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Nome de usu\u00e1rio", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          180
+        ], 
+        [
+          692, 
+          278
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "9aea8d8867dbf9b57c794790fb8d7bdf"
+}

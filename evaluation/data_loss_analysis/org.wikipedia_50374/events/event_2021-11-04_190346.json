@@ -1,0 +1,42 @@
+{
+  "stop_state": "3ac2819ffb146bac4ef508ac792ec6e8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_190346", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/add_languages_button", 
+      "text": "ADICIONAR IDIOMAS DA WIKIP\u00c9DIA", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "529*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          95, 
+          669
+        ], 
+        [
+          624, 
+          753
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3def332dcc13d263f59fb13c25709cc7"
+}

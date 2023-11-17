@@ -1,0 +1,44 @@
+{
+  "stop_state": "0021448a3e8dcbf21d4e770df771d0bf", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-22_231333", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.reecedunn.espeak:id/properties", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "692*201", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.reecedunn.espeak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          166
+        ], 
+        [
+          706, 
+          367
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "e4b27d269613959b724f39df9660ec64"
+}

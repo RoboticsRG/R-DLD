@@ -1,0 +1,51 @@
+{
+  "stop_state": "858f5b1356d2c44d018a1bd3dfe0ca50", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_192939", 
+  "event": {
+    "views_str": [
+      "6756b81b8c177a2433cd9bf34fd375d4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.ruleant.getback_gps", 
+        "long_clickable": false, 
+        "view_str": "6756b81b8c177a2433cd9bf34fd375d4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            604, 
+            460
+          ], 
+          [
+            660, 
+            516
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "711cc6155f1bc5d795756f182bec5538"
+}

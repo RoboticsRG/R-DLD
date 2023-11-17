@@ -1,0 +1,42 @@
+{
+  "stop_state": "fe3ad2c0e160fa334293d8d4f9580a9b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_171533", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*94", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          595
+        ], 
+        [
+          720, 
+          689
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fe3ad2c0e160fa334293d8d4f9580a9b"
+}

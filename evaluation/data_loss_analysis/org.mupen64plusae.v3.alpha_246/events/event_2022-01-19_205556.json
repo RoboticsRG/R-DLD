@@ -1,0 +1,42 @@
+{
+  "stop_state": "6987230e15e8925e6363d86808cefe30", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_205556", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/buttonOk", 
+      "text": "\u041e\u041a", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          548, 
+          1456
+        ], 
+        [
+          702, 
+          1540
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6987230e15e8925e6363d86808cefe30"
+}

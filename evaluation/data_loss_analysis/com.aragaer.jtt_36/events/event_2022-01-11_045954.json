@@ -1,0 +1,42 @@
+{
+  "stop_state": "f1b05b906863fecfe65a295dbed88066", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_045954", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Clock", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "311*53", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.aragaer.jtt", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          311, 
+          107
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f1b05b906863fecfe65a295dbed88066"
+}

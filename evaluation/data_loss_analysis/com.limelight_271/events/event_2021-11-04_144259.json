@@ -1,0 +1,44 @@
+{
+  "stop_state": "fe3ad2c0e160fa334293d8d4f9580a9b", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-11-04_144259", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1546", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          720, 
+          1600
+        ]
+      ], 
+      "class": "android.widget.ListView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "fe3ad2c0e160fa334293d8d4f9580a9b"
+}

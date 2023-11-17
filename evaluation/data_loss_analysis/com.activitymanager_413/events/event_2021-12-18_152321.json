@@ -1,0 +1,42 @@
+{
+  "stop_state": "cc72c5c101643d396b0fe94ce7d4a7b2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-18_152321", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/aerr_close", 
+      "text": "Close app", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "android", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          765
+        ], 
+        [
+          673, 
+          849
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "443dbfdcf0a171e454b4d5ec5d1cdc47"
+}

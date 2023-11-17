@@ -1,0 +1,51 @@
+{
+  "stop_state": "f5274afcef15714d87c29b288fcf722e", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_185501", 
+  "event": {
+    "views_str": [
+      "d55caf8776664c8bbcbc3eee135fbf3d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gemini.circumlunar.space/docs/companion/", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "d55caf8776664c8bbcbc3eee135fbf3d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]gemini.circumlunar.space/docs/companion/[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b8432fa5543eec384bc9782851ae8d8e"
+}

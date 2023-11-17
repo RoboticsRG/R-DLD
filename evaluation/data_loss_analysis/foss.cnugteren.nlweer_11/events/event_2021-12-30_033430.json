@@ -1,0 +1,165 @@
+{
+  "stop_state": "2ee933769ff9d94e5c3609f96a9f615c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-30_033430", 
+  "event": {
+    "views_str": [
+      "6611aa0d903506c346a66bfceeae18ae", 
+      "6611aa0d903506c346a66bfceeae18ae", 
+      "6611aa0d903506c346a66bfceeae18ae", 
+      "af359d7d76caa98902c54a49f5631b0e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "foss.cnugteren.nlweer:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "foss.cnugteren.nlweer", 
+        "long_clickable": false, 
+        "view_str": "6611aa0d903506c346a66bfceeae18ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            282
+          ], 
+          [
+            692, 
+            329
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "foss.cnugteren.nlweer:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "foss.cnugteren.nlweer", 
+        "long_clickable": false, 
+        "view_str": "6611aa0d903506c346a66bfceeae18ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            538
+          ], 
+          [
+            692, 
+            585
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "foss.cnugteren.nlweer:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 53, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 52, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "foss.cnugteren.nlweer", 
+        "long_clickable": false, 
+        "view_str": "6611aa0d903506c346a66bfceeae18ae", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1012
+          ], 
+          [
+            692, 
+            1059
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "foss.cnugteren.nlweer:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "foss.cnugteren.nlweer", 
+        "long_clickable": false, 
+        "view_str": "af359d7d76caa98902c54a49f5631b0e", 
+        "enabled": false, 
+        "bounds": [
+          [
+            610, 
+            1140
+          ], 
+          [
+            692, 
+            1187
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]foss.cnugteren.nlweer:id/switchWidget[text]OFF[,,]"
+      }
+    ]
+  }, 
+  "start_state": "60c5fc65797a8e69a39612f6e443bf15"
+}

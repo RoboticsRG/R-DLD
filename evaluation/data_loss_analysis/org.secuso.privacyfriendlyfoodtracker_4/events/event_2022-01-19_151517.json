@@ -1,0 +1,165 @@
+{
+  "stop_state": "cfdd2c454003f227c0fb7b13e8ad4202", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_151517", 
+  "event": {
+    "views_str": [
+      "a367e0629996a06a57be324cf3d29986", 
+      "004554393a5674a283036f15795fc4e6", 
+      "0017a8d75b91164847e2dc12dce7f3f1", 
+      "1fe8bc276ded79880fca662ae87036da"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/search_term", 
+        "text": "HelloWorld", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-28*79", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/search_term", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": true, 
+        "view_str": "a367e0629996a06a57be324cf3d29986", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            283
+          ], 
+          [
+            -28, 
+            362
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/search_term[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/input_food", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_food", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": true, 
+        "view_str": "004554393a5674a283036f15795fc4e6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            283
+          ], 
+          [
+            692, 
+            362
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_food[text]Name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/input_amount", 
+        "text": "Amount in g", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_amount", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": true, 
+        "view_str": "0017a8d75b91164847e2dc12dce7f3f1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            410
+          ], 
+          [
+            692, 
+            489
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_amount[text]Amount in g[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/input_calories", 
+        "text": "kCal/100g", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_calories", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.secuso.privacyfriendlyfoodtracker", 
+        "long_clickable": true, 
+        "view_str": "1fe8bc276ded79880fca662ae87036da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            537
+          ], 
+          [
+            692, 
+            616
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.secuso.privacyfriendlyfoodtracker:id/input_calories[text]kCal/100g[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4bb453c329b839b73376a04a57f76baf"
+}

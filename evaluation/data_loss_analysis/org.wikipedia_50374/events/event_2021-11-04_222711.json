@@ -1,0 +1,42 @@
+{
+  "stop_state": "0c97e7690f9e8f05902c76e94b43c716", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_222711", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/forgot_password_link", 
+      "text": "Esqueceu sua senha?", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "259*41", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          87, 
+          974
+        ], 
+        [
+          346, 
+          1015
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c832bf8b2857a2405dd7453facecd508"
+}

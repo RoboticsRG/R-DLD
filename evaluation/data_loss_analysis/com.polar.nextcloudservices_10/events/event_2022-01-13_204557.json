@@ -1,0 +1,165 @@
+{
+  "stop_state": "f94e754b6688656425b6bbfe555f2bdc", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-13_204557", 
+  "event": {
+    "views_str": [
+      "86f0b5fc3decc341b04468092c9c92c0", 
+      "86f0b5fc3decc341b04468092c9c92c0", 
+      "84f8ee52918d7ee049b782aec600b938", 
+      "84f8ee52918d7ee049b782aec600b938"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": false, 
+        "view_str": "86f0b5fc3decc341b04468092c9c92c0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            884
+          ], 
+          [
+            692, 
+            931
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": false, 
+        "view_str": "86f0b5fc3decc341b04468092c9c92c0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1027
+          ], 
+          [
+            692, 
+            1074
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": false, 
+        "view_str": "84f8ee52918d7ee049b782aec600b938", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1169
+          ], 
+          [
+            692, 
+            1216
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": false, 
+        "view_str": "84f8ee52918d7ee049b782aec600b938", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1297
+          ], 
+          [
+            692, 
+            1344
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "f94e754b6688656425b6bbfe555f2bdc"
+}

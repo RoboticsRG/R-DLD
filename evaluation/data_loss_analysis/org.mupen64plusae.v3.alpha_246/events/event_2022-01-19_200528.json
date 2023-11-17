@@ -1,0 +1,43 @@
+{
+  "stop_state": "ff8e4518e9f1ab8e0060370a71592ad4", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_200528", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/search_src_text", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "489*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          85
+        ], 
+        [
+          615, 
+          148
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "ff8e4518e9f1ab8e0060370a71592ad4"
+}

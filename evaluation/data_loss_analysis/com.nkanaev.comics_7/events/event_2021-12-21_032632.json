@@ -1,0 +1,10 @@
+{
+  "stop_state": "513e1fb3b218b358bed6f9d64347d31f", 
+  "event_str": "IntentEvent(intent='am start com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity')", 
+  "tag": "2021-12-21_032632", 
+  "event": {
+    "intent": "am start com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "513e1fb3b218b358bed6f9d64347d31f"
+}

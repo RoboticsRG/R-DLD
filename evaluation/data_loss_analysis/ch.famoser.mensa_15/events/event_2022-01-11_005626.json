@@ -1,0 +1,42 @@
+{
+  "stop_state": "86d20deb2b70c00c56d4b1da4bc9a4db", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_005626", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*317", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.famoser.mensa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1156
+        ], 
+        [
+          720, 
+          1473
+        ]
+      ], 
+      "class": "android.widget.RelativeLayout", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "86d20deb2b70c00c56d4b1da4bc9a4db"
+}

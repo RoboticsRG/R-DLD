@@ -1,0 +1,10 @@
+{
+  "stop_state": "956f421f1a1bc6708b08982343be3c2b", 
+  "event_str": "IntentEvent(intent='am start de.badaix.snapcast/de.badaix.snapcast.MainActivity')", 
+  "tag": "2021-11-10_182949", 
+  "event": {
+    "intent": "am start de.badaix.snapcast/de.badaix.snapcast.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "9dacdae1cd3829cc1bf9fca025376bb4"
+}

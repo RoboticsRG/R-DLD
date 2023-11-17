@@ -1,0 +1,127 @@
+{
+  "stop_state": "a5c0e1f4a19697afc387c80fb4ae13a7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_232440", 
+  "event": {
+    "views_str": [
+      "65939d51d932db326e8dbf9ceb738a52", 
+      "65939d51d932db326e8dbf9ceb738a52", 
+      "65939d51d932db326e8dbf9ceb738a52"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": false, 
+        "view_str": "65939d51d932db326e8dbf9ceb738a52", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            266
+          ], 
+          [
+            692, 
+            322
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": false, 
+        "view_str": "65939d51d932db326e8dbf9ceb738a52", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            749
+          ], 
+          [
+            692, 
+            805
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*-49", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": false, 
+        "view_str": "65939d51d932db326e8dbf9ceb738a52", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1414
+          ], 
+          [
+            692, 
+            1365
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "132451b1ef4415f59306c0ff2646c613"
+}

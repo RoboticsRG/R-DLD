@@ -1,0 +1,10 @@
+{
+  "stop_state": "da0ec39a7b1ca8a96678fef86e7676f0", 
+  "event_str": "IntentEvent(intent='am start org.secuso.privacyfriendlycardgameone/org.secuso.privacyfriendlywerwolf.activity.SplashActivity')", 
+  "tag": "2022-01-19_050203", 
+  "event": {
+    "intent": "am start org.secuso.privacyfriendlycardgameone/org.secuso.privacyfriendlywerwolf.activity.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "d1879413d20c05dabcc11fe7530db66c"
+}

@@ -1,0 +1,44 @@
+{
+  "stop_state": "9986444e2194500c544c441ca18c7f80", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-11-24_130301", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.utazukin.ichaival:id/recycler_view", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1504", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          720, 
+          1558
+        ]
+      ], 
+      "class": "androidx.recyclerview.widget.RecyclerView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "9986444e2194500c544c441ca18c7f80"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "2ccd7b2de2de05f328b03327cf11419d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-09_031032", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/username", 
+      "text": "test123test123HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          516
+        ], 
+        [
+          678, 
+          614
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2ccd7b2de2de05f328b03327cf11419d"
+}

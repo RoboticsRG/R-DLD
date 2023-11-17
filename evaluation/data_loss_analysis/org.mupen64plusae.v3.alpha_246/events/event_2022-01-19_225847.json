@@ -1,0 +1,42 @@
+{
+  "stop_state": "ebd03cc05c0ac1e0d8d94499493e9838", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_225847", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox4", 
+      "text": "Scan subdirectories", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          627
+        ], 
+        [
+          692, 
+          683
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "32d144c163b1d345b15b3ab285254e05"
+}

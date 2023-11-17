@@ -1,0 +1,43 @@
+{
+  "stop_state": "d728be635a48fb0d1537925a9fe9e19a", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-04_192057", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/url", 
+      "text": "http://www.listenlive.eu/bbcradio1.m3u", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          367
+        ], 
+        [
+          706, 
+          446
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "a3e2774696593c0a094d7c2dd94f2600"
+}

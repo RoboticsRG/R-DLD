@@ -1,0 +1,43 @@
+{
+  "stop_state": "727a4e69dda02d9456c4b614dc72fb61", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_183602", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/layer_spinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "428*57", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1480
+        ], 
+        [
+          456, 
+          1537
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "dc71f35c97b847770edc4dea78de5705"
+}

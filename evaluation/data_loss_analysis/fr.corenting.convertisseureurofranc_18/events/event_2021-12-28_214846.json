@@ -1,0 +1,10 @@
+{
+  "stop_state": "09d97c798347dda81c4e5d18d655e2c7", 
+  "event_str": "IntentEvent(intent='am start fr.corenting.convertisseureurofranc/fr.corenting.convertisseureurofranc.ConverterActivity')", 
+  "tag": "2021-12-28_214846", 
+  "event": {
+    "intent": "am start fr.corenting.convertisseureurofranc/fr.corenting.convertisseureurofranc.ConverterActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "a5131c7e14b8fd3eac1789a5c25fc0cc"
+}

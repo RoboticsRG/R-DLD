@@ -1,0 +1,42 @@
+{
+  "stop_state": "ff40d90eff1b4d73d089b5babd2eab5b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_211751", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Kilometres/litre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "226*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          551
+        ], 
+        [
+          593, 
+          607
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 23, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6be483a7dce7f3c94c99710d7b7ce3c3"
+}

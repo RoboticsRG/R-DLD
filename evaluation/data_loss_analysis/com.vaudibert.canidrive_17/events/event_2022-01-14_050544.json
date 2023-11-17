@@ -1,0 +1,42 @@
+{
+  "stop_state": "5be68ee075c8f2fce20d589708732350", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_050544", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\udde6\ud83c\uddea United Arab Emirates", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "402*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          1298
+        ], 
+        [
+          657, 
+          1363
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f478ebd9da222d55b863f57db781bde0"
+}

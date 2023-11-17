@@ -1,0 +1,10 @@
+{
+  "stop_state": "834729cc5b582f204595f9c69c7a9cb7", 
+  "event_str": "IntentEvent(intent='am start amirz.dngprocessor/amirz.dngprocessor.MainActivity')", 
+  "tag": "2022-01-10_035848", 
+  "event": {
+    "intent": "am start amirz.dngprocessor/amirz.dngprocessor.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "0a84faeb7ca424e87fbfa5ca8b116e40"
+}

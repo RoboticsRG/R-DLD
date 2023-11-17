@@ -1,0 +1,42 @@
+{
+  "stop_state": "1c365dbf4d446bf738d459958f73c2fb", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_191438", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/switchWidget", 
+      "text": "ATIVADO", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          1376
+        ], 
+        [
+          692, 
+          1460
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 18, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1c365dbf4d446bf738d459958f73c2fb"
+}

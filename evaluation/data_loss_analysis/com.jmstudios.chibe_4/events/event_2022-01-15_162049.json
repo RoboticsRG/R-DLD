@@ -1,0 +1,89 @@
+{
+  "stop_state": "03f2364c74e4f3a725f5a167e444e087", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-15_162049", 
+  "event": {
+    "views_str": [
+      "03c0baf2d49da20c56aa4a1236d44c97", 
+      "8bbb07c0022e729e9e42435c1fcc4e4e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input_hour", 
+        "text": "9", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "88*93", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input_hour", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": true, 
+        "view_str": "03c0baf2d49da20c56aa4a1236d44c97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            88, 
+            847
+          ], 
+          [
+            176, 
+            940
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input_hour[text]9[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input_minute", 
+        "text": "00", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "88*93", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input_minute", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": true, 
+        "view_str": "8bbb07c0022e729e9e42435c1fcc4e4e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            176, 
+            847
+          ], 
+          [
+            264, 
+            940
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input_minute[text]00[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "35cf9a88dc48c6e62e74595307f93939"
+}

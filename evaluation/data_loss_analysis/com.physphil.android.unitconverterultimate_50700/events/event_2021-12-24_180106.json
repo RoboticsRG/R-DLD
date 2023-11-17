@@ -1,0 +1,51 @@
+{
+  "stop_state": "36754c8ec57b73c423ce927e3e3951ce", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-24_180106", 
+  "event": {
+    "views_str": [
+      "a4bd830a8035ddf8eb01354f174426e3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "a4bd830a8035ddf8eb01354f174426e3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            718
+          ], 
+          [
+            692, 
+            774
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3dbac937b0b34ff5756c2568f64f76bd"
+}

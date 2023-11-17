@@ -1,0 +1,43 @@
+{
+  "stop_state": "5d9774ad8a8bb3b6d9fd9e43ff141b87", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-15_004824", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": "Back", 
+      "resource_id": "com.apps.adrcotfas.goodtime:id/mi_button_back", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1432
+        ], 
+        [
+          126, 
+          1530
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "5d9774ad8a8bb3b6d9fd9e43ff141b87"
+}

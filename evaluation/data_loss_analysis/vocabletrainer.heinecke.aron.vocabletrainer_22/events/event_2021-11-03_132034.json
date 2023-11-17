@@ -1,0 +1,43 @@
+{
+  "stop_state": "05da041e7b2482266734160a888df1a0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-03_132034", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/view_foreground", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*103", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          720, 
+          255
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1f2bef541cca375766629f8df51ef239"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "a9c8dffd5b40fa6bdbe666c20708169a", 
+  "event_str": "IntentEvent(intent='am start com.wbrenna.gtfsoffline/com.wbrenna.gtfsoffline.MainActivity')", 
+  "tag": "2021-12-25_020445", 
+  "event": {
+    "intent": "am start com.wbrenna.gtfsoffline/com.wbrenna.gtfsoffline.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "28c41fb3494e5df43e4691aa4676d074"
+}

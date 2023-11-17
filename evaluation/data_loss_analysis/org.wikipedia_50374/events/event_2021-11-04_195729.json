@@ -1,0 +1,43 @@
+{
+  "stop_state": "9aea8d8867dbf9b57c794790fb8d7bdf", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-04_195729", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 19, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "E-mail (Opcional)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          516
+        ], 
+        [
+          692, 
+          614
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "966bce596d6c40904ead5c16ea38d9dd"
+}

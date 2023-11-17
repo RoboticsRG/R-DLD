@@ -1,0 +1,42 @@
+{
+  "stop_state": "a0b877add9f0fe58411de16942f4c660", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_031046", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/squeezeNetwork", 
+      "text": "mysqueezebox.com", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          838
+        ], 
+        [
+          692, 
+          922
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "607fff71f3b74558c0e41bd22164ae9f"
+}

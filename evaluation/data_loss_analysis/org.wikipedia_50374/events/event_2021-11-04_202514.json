@@ -1,0 +1,42 @@
+{
+  "stop_state": "c7048078d8a16e31ae4e961cc69f5184", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_202514", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/login_create_account_button", 
+      "text": "JUNTE-SE \u00c0 WIKIPEDIA", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          579
+        ], 
+        [
+          692, 
+          663
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ea70803837e356941963c5109b5afc1b"
+}

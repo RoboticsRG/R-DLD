@@ -1,0 +1,51 @@
+{
+  "stop_state": "2725732c102b857a0ae396a4bb74dd0e", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-09_104305", 
+  "event": {
+    "views_str": [
+      "e542c78046e94b145d5eb68d46d98a1b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.y20k.transistor:id/search_src_text", 
+        "text": "Nome ou endere\u00e7o do stream", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "473*63", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.y20k.transistor:id/search_src_text", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.y20k.transistor", 
+        "long_clickable": true, 
+        "view_str": "e542c78046e94b145d5eb68d46d98a1b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            158, 
+            716
+          ], 
+          [
+            631, 
+            779
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.y20k.transistor:id/search_src_text[text]Nome ou endere\u00e7o do stream[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f86da2b1566dc1a0022ffdbe5434eb78"
+}

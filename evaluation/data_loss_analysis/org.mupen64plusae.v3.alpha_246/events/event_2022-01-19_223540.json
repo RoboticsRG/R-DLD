@@ -1,0 +1,42 @@
+{
+  "stop_state": "daa0151e3c90a89f2b8d4b6a2970780e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_223540", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button3", 
+      "text": "ZARZ\u0104DZAJ PROFILAMI", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "321*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          67, 
+          847
+        ], 
+        [
+          388, 
+          942
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3bd7f70ff756572e7473f30008cb29c4"
+}

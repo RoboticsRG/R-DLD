@@ -1,0 +1,42 @@
+{
+  "stop_state": "5293094b6fca326816eaa2201b7b79b8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_212806", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] Agate on crates.io", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "313*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1120
+        ], 
+        [
+          348, 
+          1183
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8500d8fd5bbab9aa6b9a2520a08e94cf"
+}

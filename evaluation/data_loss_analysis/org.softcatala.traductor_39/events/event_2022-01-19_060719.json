@@ -1,0 +1,127 @@
+{
+  "stop_state": "0515750c9a2c021c8fc480a87144644d", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_060719", 
+  "event": {
+    "views_str": [
+      "b0c2fbd257917f3db3ef215406b2bb19", 
+      "fbb364a0d8507141922e83da8db92bf8", 
+      "7a0b2d2f131a25fdd4c577085acd54a7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.softcatala.traductor:id/valencia", 
+        "text": "Use Valencian variant", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "296*56", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.softcatala.traductor:id/valencia", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.softcatala.traductor", 
+        "long_clickable": false, 
+        "view_str": "b0c2fbd257917f3db3ef215406b2bb19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            194
+          ], 
+          [
+            296, 
+            250
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.softcatala.traductor:id/valencia[text]Use Valencian variant[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.softcatala.traductor:id/textToTranslateEdit", 
+        "text": "Type the text to translate", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*79", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/textToTranslateEdit", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.softcatala.traductor", 
+        "long_clickable": true, 
+        "view_str": "fbb364a0d8507141922e83da8db92bf8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            250
+          ], 
+          [
+            636, 
+            329
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/textToTranslateEdit[text]Type the text to translate[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.softcatala.traductor:id/translatedTextEdit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*79", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/translatedTextEdit", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.softcatala.traductor", 
+        "long_clickable": true, 
+        "view_str": "7a0b2d2f131a25fdd4c577085acd54a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            329
+          ], 
+          [
+            636, 
+            408
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/translatedTextEdit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cb6b5a970c08a5929ced00f6f55bf74d"
+}

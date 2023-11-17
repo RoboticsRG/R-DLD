@@ -1,0 +1,42 @@
+{
+  "stop_state": "90b2ebe3edf24ad1f485b30177122d50", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-13_073331", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.rohit2810.spotit:id/btnBatterySettings", 
+      "text": "5. Find your manufacturer settings here", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*34", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.rohit2810.spotit", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1468
+        ], 
+        [
+          720, 
+          1502
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "714fa4b283656e96af3525e803ccfc97"
+}

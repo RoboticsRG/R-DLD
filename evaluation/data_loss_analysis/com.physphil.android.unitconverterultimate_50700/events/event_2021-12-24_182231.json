@@ -1,0 +1,42 @@
+{
+  "stop_state": "dfd7c9d92108daf39142b37fb9f6c3b1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_182231", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Danish Krone", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "204*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          971
+        ], 
+        [
+          571, 
+          1027
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 73, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e2739737f26de64cc7673e9de4861ddf"
+}

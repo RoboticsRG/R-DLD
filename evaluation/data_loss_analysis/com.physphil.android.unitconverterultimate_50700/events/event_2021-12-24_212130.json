@@ -1,0 +1,42 @@
+{
+  "stop_state": "05d168c0235e58b190068af7a12d652f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212130", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Nanometre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "180*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          761
+        ], 
+        [
+          547, 
+          817
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 50, 
+    "event_type": "touch"
+  }, 
+  "start_state": "64ac768201880a98795efaa17340436c"
+}

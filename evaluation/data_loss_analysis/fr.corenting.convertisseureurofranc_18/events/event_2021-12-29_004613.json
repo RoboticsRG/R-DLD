@@ -1,0 +1,43 @@
+{
+  "stop_state": "baf440f23a7ae5d9f9be1c943c24abee", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-29_004613", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.corenting.convertisseureurofranc:id/yearOfOriginAutoComplete", 
+      "text": "2020", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.corenting.convertisseureurofranc", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          481
+        ], 
+        [
+          692, 
+          579
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "180703bad1bada3d636ee9994e5b55e9"
+}

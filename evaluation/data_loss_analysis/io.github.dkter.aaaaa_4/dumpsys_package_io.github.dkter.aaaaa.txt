@@ -1,0 +1,129 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        5108d5f io.github.dkter.aaaaa/.MainActivity filter 99953ac
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.view.InputMethod:
+        cf3875 io.github.dkter.aaaaa/.AaaaaInputMethodService filter aece00a permission android.permission.BIND_INPUT_METHOD
+          Action: "android.view.InputMethod"
+
+Key Set Manager:
+  [io.github.dkter.aaaaa]
+      Signing KeySets: 455
+
+Packages:
+  Package [io.github.dkter.aaaaa] (147c532):
+    userId=10538
+    pkg=Package{506283 io.github.dkter.aaaaa}
+    codePath=/data/app/~~2EolGb3em2zB8kwH0mMq7Q==/io.github.dkter.aaaaa-chhXjIPwk96x554x-ObFkw==
+    resourcePath=/data/app/~~2EolGb3em2zB8kwH0mMq7Q==/io.github.dkter.aaaaa-chhXjIPwk96x554x-ObFkw==
+    legacyNativeLibraryDir=/data/app/~~2EolGb3em2zB8kwH0mMq7Q==/io.github.dkter.aaaaa-chhXjIPwk96x554x-ObFkw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=4 minSdk=21 targetSdk=30
+    versionName=4
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{506283 io.github.dkter.aaaaa}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/io.github.dkter.aaaaa
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-30 12:30:09
+    firstInstallTime=2021-12-30 12:30:09
+    lastUpdateTime=2021-12-30 12:30:09
+    signatures=PackageSignatures{4900c00 version:3, signatures:[e8daacb], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=59502 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      io.github.dkter.aaaaa
+    com.motorola.actions:
+      io.github.dkter.aaaaa
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=481
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=466, package=com.google.android.apps.docs
+    seq=468, package=com.google.android.tts
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=479, package=io.github.ylimit.droidbotapp
+    seq=480, package=io.github.dkter.aaaaa
+
+
+Dexopt state:
+  [io.github.dkter.aaaaa]
+    path: /data/app/~~2EolGb3em2zB8kwH0mMq7Q==/io.github.dkter.aaaaa-chhXjIPwk96x554x-ObFkw==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [io.github.dkter.aaaaa]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

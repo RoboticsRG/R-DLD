@@ -1,0 +1,127 @@
+{
+  "stop_state": "1dbb67e558a0ef9829267babb771916a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_154358", 
+  "event": {
+    "views_str": [
+      "5032537880a47b283abb55ce77b3a99c", 
+      "cada67a203f8a93c3da6bdb0d1cae7d7", 
+      "b97faf51fe05891d06a9be6e1524e7dd"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "Search stations", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "495*63", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "5032537880a47b283abb55ce77b3a99c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            140, 
+            71
+          ], 
+          [
+            635, 
+            134
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search stations[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_name", 
+        "text": "Station name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "cada67a203f8a93c3da6bdb0d1cae7d7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            251
+          ], 
+          [
+            706, 
+            330
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name[text]Station name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+        "text": "Station url", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "b97faf51fe05891d06a9be6e1524e7dd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            330
+          ], 
+          [
+            706, 
+            409
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url[text]Station url[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6ce71a58c5e9c2f9f0f02a1ae97f2724"
+}

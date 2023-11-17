@@ -1,0 +1,42 @@
+{
+  "stop_state": "1fc2d83de6c3300ff07c10f921777775", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_201350", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Combine your private key with the certificate and put in the certs directory", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "629*94", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          997
+        ], 
+        [
+          690, 
+          1091
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1fc2d83de6c3300ff07c10f921777775"
+}

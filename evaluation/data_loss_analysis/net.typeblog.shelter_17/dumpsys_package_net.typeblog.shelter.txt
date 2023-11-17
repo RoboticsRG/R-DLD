@@ -1,0 +1,488 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.media.action.IMAGE_CAPTURE:
+        faa18bc net.typeblog.shelter/.ui.CameraProxyActivity filter c5e0045
+          Action: "android.media.action.IMAGE_CAPTURE"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.FREEZE_ALL_IN_LIST:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        9bb5390 net.typeblog.shelter/.ui.MainActivity filter 998a489
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      net.typeblog.shelter.action.TRY_START_SERVICE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.UNINSTALL_PACKAGE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.START_FILE_SHUTTLE_2:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.PUBLIC_FREEZE_ALL:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.START_FILE_SHUTTLE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.INSTALL_PACKAGE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.FINALIZE_PROVISION:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+      net.typeblog.shelter.action.START_SERVICE:
+        315fc8e net.typeblog.shelter/.ui.DummyActivity filter 723fcaf
+          Action: "net.typeblog.shelter.action.FINALIZE_PROVISION"
+          Action: "net.typeblog.shelter.action.START_SERVICE"
+          Action: "net.typeblog.shelter.action.TRY_START_SERVICE"
+          Action: "net.typeblog.shelter.action.INSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNINSTALL_PACKAGE"
+          Action: "net.typeblog.shelter.action.UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_UNFREEZE_AND_LAUNCH"
+          Action: "net.typeblog.shelter.action.PUBLIC_FREEZE_ALL"
+          Action: "net.typeblog.shelter.action.FREEZE_ALL_IN_LIST"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE"
+          Action: "net.typeblog.shelter.action.START_FILE_SHUTTLE_2"
+          Action: "net.typeblog.shelter.action.SYNCHRONIZE_PREFERENCE"
+          Action: "net.typeblog.shelter.action.PACKAGEINSTALLER_CALLBACK"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.app.action.DEVICE_ADMIN_DISABLED:
+        279539a net.typeblog.shelter/.receivers.ShelterDeviceAdminReceiver filter 83db4cb
+          Action: "android.app.action.DEVICE_ADMIN_ENABLED"
+          Action: "android.app.action.DEVICE_ADMIN_DISABLED"
+          Action: "android.app.action.PROVISION_MANAGED_PROFILE"
+      android.app.action.DEVICE_ADMIN_ENABLED:
+        279539a net.typeblog.shelter/.receivers.ShelterDeviceAdminReceiver filter 83db4cb
+          Action: "android.app.action.DEVICE_ADMIN_ENABLED"
+          Action: "android.app.action.DEVICE_ADMIN_DISABLED"
+          Action: "android.app.action.PROVISION_MANAGED_PROFILE"
+      android.app.action.PROVISION_MANAGED_PROFILE:
+        279539a net.typeblog.shelter/.receivers.ShelterDeviceAdminReceiver filter 83db4cb
+          Action: "android.app.action.DEVICE_ADMIN_ENABLED"
+          Action: "android.app.action.DEVICE_ADMIN_DISABLED"
+          Action: "android.app.action.PROVISION_MANAGED_PROFILE"
+
+Provider Resolver Table:
+  Non-Data Actions:
+      android.content.action.DOCUMENTS_PROVIDER:
+        f5e04a8 net.typeblog.shelter/.util.CrossProfileDocumentsProvider filter 2635bc1
+          Action: "android.content.action.DOCUMENTS_PROVIDER"
+
+Registered ContentProviders:
+  net.typeblog.shelter/.util.FileProviderProxy:
+    Provider{b44bd7b net.typeblog.shelter/.util.FileProviderProxy}
+  net.typeblog.shelter/.util.CrossProfileDocumentsProvider:
+    Provider{f5e04a8 net.typeblog.shelter/.util.CrossProfileDocumentsProvider}
+
+ContentProvider Authorities:
+  [net.typeblog.shelter.files]:
+    Provider{b44bd7b net.typeblog.shelter/.util.FileProviderProxy}
+      applicationInfo=ApplicationInfo{6225798 net.typeblog.shelter}
+  [net.typeblog.shelter.documents]:
+    Provider{f5e04a8 net.typeblog.shelter/.util.CrossProfileDocumentsProvider}
+      applicationInfo=ApplicationInfo{adfcbf1 net.typeblog.shelter}
+
+Key Set Manager:
+  [net.typeblog.shelter]
+      Signing KeySets: 505
+
+Packages:
+  Package [net.typeblog.shelter] (548b066):
+    userId=10588
+    pkg=Package{ed373d6 net.typeblog.shelter}
+    codePath=/data/app/~~jkucOr5I98_PLQAR6D9CZA==/net.typeblog.shelter-kNg_ZIAmeAbTy8DkO40T_g==
+    resourcePath=/data/app/~~jkucOr5I98_PLQAR6D9CZA==/net.typeblog.shelter-kNg_ZIAmeAbTy8DkO40T_g==
+    legacyNativeLibraryDir=/data/app/~~jkucOr5I98_PLQAR6D9CZA==/net.typeblog.shelter-kNg_ZIAmeAbTy8DkO40T_g==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=17 minSdk=24 targetSdk=30
+    versionName=1.6
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{ed373d6 net.typeblog.shelter}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    queriesIntents=[Intent { act=android.intent.action.MAIN }]
+    dataDir=/data/user/0/net.typeblog.shelter
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-03 20:25:10
+    firstInstallTime=2022-01-03 20:25:10
+    lastUpdateTime=2022-01-03 20:25:10
+    signatures=PackageSignatures{ad7b657 version:3, signatures:[b47bf842], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.REQUEST_DELETE_PACKAGES
+      android.permission.FOREGROUND_SERVICE
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.PACKAGE_USAGE_STATS
+    install permissions:
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.REQUEST_DELETE_PACKAGES: granted=true
+    User 0: ceDataInode=79193 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      net.typeblog.shelter
+    com.motorola.actions:
+      net.typeblog.shelter
+    com.google.android.contacts:
+      net.typeblog.shelter
+    com.google.android.gm:
+      net.typeblog.shelter
+    com.google.android.youtube:
+      net.typeblog.shelter
+    com.google.android.apps.maps:
+      net.typeblog.shelter
+    net.typeblog.shelter:
+      com.google.android.documentsui
+      com.motorola.survey
+      com.motorola.moto.demo
+      com.motorola.iqdataupload
+      com.google.android.apps.googleassistant
+      com.motorola.brapps
+      com.google.android.wfcactivation
+      com.motorola.motodisplay
+      com.motorola.moto
+      com.motorola.gamemode
+      com.google.android.dialer
+      com.google.android.projection.gearhead
+      com.motorola.actions
+      com.motorola.help
+      com.motorola.camera3
+      com.motorola.easyprefix
+      com.google.android.apps.nbu.files
+      com.motorola.dynamicvolume
+      com.motorola.genie
+      com.google.android.apps.pixelmigrate
+      com.motorola.invisiblenet
+      com.motorola.fmplayer
+      com.google.android.googlequicksearchbox
+      com.android.inputmethod.latin
+      com.google.android.contacts
+      com.google.android.apps.tachyon
+      com.google.android.marvin.talkback
+      com.google.android.calculator
+      com.motorola.audiofx
+      com.google.android.gm
+      com.google.android.apps.photos
+      com.android.chrome
+      com.google.android.apps.youtube.music
+      com.google.android.deskclock
+      com.google.android.youtube
+      com.google.android.apps.docs
+      com.google.android.apps.subscriptions.red
+      com.google.android.calendar
+      com.google.android.videos
+      com.google.android.apps.maps
+      com.motorola.photoeditor
+      com.google.android.apps.messaging
+      com.google.android.inputmethod.latin
+      com.summit.motorola.rcs
+      com.att.iqi
+      com.motorola.livewallpaper3
+      [com.motorola.android.fota,com.motorola.ccc.ota,com.motorola.ccc.notification,com.motorola.ccc.internal,com.motorola.ccc.devicemanagement]
+      com.motorola.setup
+      com.motorola.demo
+      com.motorola.motocit
+      com.google.android.apps.wallpaper
+      com.android.wallpaper
+      com.google.android.setupwizard
+      com.google.android.cellbroadcastreceiver
+      com.facebook.katana
+      com.example.testsensors
+      org.y20k.transistor
+      vidma.screenrecorder.videorecorder.videoeditor.lite
+      org.zwanoo.android.speedtest
+      com.github.ashutoshgngwr.tenbitclockwidget
+      com.github.ruleant.getback_gps
+      io.github.ylimit.droidbotapp
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=695
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=571, package=name.gdr.acastus_photon
+    seq=579, package=mattecarra.accapp
+    seq=585, package=moe.dic1911.urlsanitizer
+    seq=589, package=net.christianbeier.droidvnc_ng
+    seq=593, package=com.google.android.contacts
+    seq=599, package=net.gitsaibot.af
+    seq=611, package=mobi.maptrek
+    seq=617, package=nl.mpcjanssen.simpletask.webdav
+    seq=625, package=net.nurik.roman.muzei
+    seq=631, package=me.hackerchick.sharetoinputstick
+    seq=642, package=me.ranko.autodark
+    seq=654, package=org.adaway
+    seq=658, package=com.google.android.tts
+    seq=666, package=org.billthefarmer.diary
+    seq=674, package=org.anothermonitor
+    seq=682, package=org.bandev.buddhaquotes
+    seq=690, package=com.google.android.apps.docs
+    seq=692, package=org.billthefarmer.print
+    seq=693, package=io.github.ylimit.droidbotapp
+    seq=694, package=net.typeblog.shelter
+
+
+Dexopt state:
+  [net.typeblog.shelter]
+    path: /data/app/~~jkucOr5I98_PLQAR6D9CZA==/net.typeblog.shelter-kNg_ZIAmeAbTy8DkO40T_g==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [net.typeblog.shelter]
+     base.apk - 671
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

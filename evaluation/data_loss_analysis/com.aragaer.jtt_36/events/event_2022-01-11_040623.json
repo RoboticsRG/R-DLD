@@ -1,0 +1,89 @@
+{
+  "stop_state": "1c4d3ed67be7ecbbe9b8d654d66b4119", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_040623", 
+  "event": {
+    "views_str": [
+      "f3faab587cc4f30d0f02e47f64825183", 
+      "4827ccced10740d458faf99c532c5edc"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Clock", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "311*53", 
+        "checked": true, 
+        "temp_id": 5, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 4, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": false, 
+        "view_str": "f3faab587cc4f30d0f02e47f64825183", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            54
+          ], 
+          [
+            311, 
+            107
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Clock[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Today", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "311*53", 
+        "checked": false, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 4, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": false, 
+        "view_str": "4827ccced10740d458faf99c532c5edc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            311, 
+            54
+          ], 
+          [
+            622, 
+            107
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Today[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c9d82f026ff9a9d8161477e621abaa29"
+}

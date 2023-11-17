@@ -1,0 +1,10 @@
+{
+  "stop_state": "8e33f35a4b34da11ab3a89773f49e82b", 
+  "event_str": "IntentEvent(intent='am start org.secuso.privacyfriendlyfoodtracker/org.secuso.privacyfriendlyfoodtracker.ui.SplashActivity')", 
+  "tag": "2022-01-19_151009", 
+  "event": {
+    "intent": "am start org.secuso.privacyfriendlyfoodtracker/org.secuso.privacyfriendlyfoodtracker.ui.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "0fccb3b4bdd07e9a71c20921ba20b36c"
+}

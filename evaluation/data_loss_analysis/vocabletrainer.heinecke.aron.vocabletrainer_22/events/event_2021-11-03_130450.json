@@ -1,0 +1,42 @@
+{
+  "stop_state": "8d7707c2fa8bdd2b808d9151cbddd66e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_130450", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Informix UNLOAD CSV", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          1030
+        ], 
+        [
+          673, 
+          1142
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 14, 
+    "event_type": "touch"
+  }, 
+  "start_state": "00d70685ab4387ce9af15ec4664f467e"
+}

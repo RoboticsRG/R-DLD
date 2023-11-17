@@ -1,0 +1,42 @@
+{
+  "stop_state": "3d75468f8f5c609b3c6a29ba10ae4e45", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_230154", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Atualizar", 
+      "resource_id": "com.github.ruleant.getback_gps:id/menu_refresh", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          524, 
+          54
+        ], 
+        [
+          622, 
+          138
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3d75468f8f5c609b3c6a29ba10ae4e45"
+}

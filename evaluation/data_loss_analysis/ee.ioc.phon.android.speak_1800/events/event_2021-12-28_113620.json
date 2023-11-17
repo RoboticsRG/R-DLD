@@ -1,0 +1,42 @@
+{
+  "stop_state": "373ed403f7c8eebe18b7553f46f2bfa8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_113620", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "K\u00f5nele settings", 
+      "resource_id": "ee.ioc.phon.android.speak:id/bSettings", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ee.ioc.phon.android.speak", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          652
+        ], 
+        [
+          596, 
+          708
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e276d496e44ea3a2118ecbb8c7df5b38"
+}

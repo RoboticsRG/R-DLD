@@ -1,0 +1,42 @@
+{
+  "stop_state": "7b147d993f49bf6fcafbef9f0f477eb0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_162044", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/resume", 
+      "text": "Resume", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "146*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          455, 
+          218
+        ], 
+        [
+          601, 
+          274
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "91254dfc94e098ed346bfabfb7b8ade3"
+}

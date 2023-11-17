@@ -1,0 +1,42 @@
+{
+  "stop_state": "895ab42e8f58c62cc0bcf025d80f1fe8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_010032", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.etesync.syncadapter:id/show_advanced", 
+      "text": "Show advanced settings", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "657*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          858
+        ], 
+        [
+          692, 
+          914
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bead51467ad01491ebfa62b4d624f141"
+}

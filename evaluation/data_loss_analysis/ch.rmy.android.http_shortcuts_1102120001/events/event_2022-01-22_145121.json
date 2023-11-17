@@ -1,0 +1,127 @@
+{
+  "stop_state": "fab763048155064bec074a62e0e5c4c8", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_145121", 
+  "event": {
+    "views_str": [
+      "0935476827f0815efc27a59864bc6633", 
+      "cf0510f7994c6c9a788b1d9c4ff42f4e", 
+      "a589781364bcc35c995baaad5369e0af"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_prepare", 
+        "text": "Add JavaScript code here to run before the shortcut is executed, e.g., to prepare some variables.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*215", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_prepare", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "0935476827f0815efc27a59864bc6633", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            209
+          ], 
+          [
+            692, 
+            424
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_prepare[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_success", 
+        "text": "Add JavaScript code here to run after the shortcut is executed, e.g., to process the response.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*215", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_success", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "cf0510f7994c6c9a788b1d9c4ff42f4e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            593
+          ], 
+          [
+            692, 
+            808
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_success[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_failure", 
+        "text": "Add JavaScript code here to run in case the request fails.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*215", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_failure", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "a589781364bcc35c995baaad5369e0af", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            977
+          ], 
+          [
+            692, 
+            1192
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_failure[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7885cfc3b1e966d7fab6398078146bc7"
+}

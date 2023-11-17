@@ -1,0 +1,773 @@
+{
+  "stop_state": "44df7cf5c10afcd47b818ef5f06b1698", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-24_172906", 
+  "event": {
+    "views_str": [
+      "ed8ea27c15924e8f47da9ea5ad5a076c", 
+      "1d579eb79481d6b4416751094408ffd8", 
+      "61450b59b5195745f36a0d0614a726f8", 
+      "cdc45b32a4cecbe94fd71984922f18a3", 
+      "40f78b4e49b6de8bf63be49a3a54b051", 
+      "db729918814e0c3eb880c7b56f948c30", 
+      "7ef1f210688464614e99a83af3cfe5d6", 
+      "274cc56e69f47f6f9e575a80336621d8", 
+      "c7f5e7ce0abec20d9d9cdabd3c48c3cc", 
+      "a916ca76163e4c41b9340c6cf55fc782", 
+      "0264771d09995a0a4321efb4fd3f66d4", 
+      "57822c13f5ca485db7b7a671b072d50f", 
+      "f29cb73f9a4c0ec4a8c50c9ae0149837", 
+      "d74d599bf855e5e1045299770e89afb3", 
+      "aca81810921a0e7e495f4ee6ab0271cb", 
+      "8b22d57c8eddb42be66b83807b7e71af", 
+      "95fb3a96a09d2f58e08a309d9d0ede99", 
+      "ad3f781106dc6bcba0ac5b87336d616c", 
+      "2fa14656968f0f4613d4f4ca997251bc", 
+      "83086ee7e244637c7fa6e161ef7925c6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "ed8ea27c15924e8f47da9ea5ad5a076c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            200
+          ], 
+          [
+            353, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "1d579eb79481d6b4416751094408ffd8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            200
+          ], 
+          [
+            713, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Kilometre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "197*56", 
+        "checked": false, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "61450b59b5195745f36a0d0614a726f8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            341
+          ], 
+          [
+            204, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Kilometre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Metre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "155*56", 
+        "checked": false, 
+        "temp_id": 69, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "cdc45b32a4cecbe94fd71984922f18a3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            411
+          ], 
+          [
+            162, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Metre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Centimetre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*56", 
+        "checked": false, 
+        "temp_id": 70, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "40f78b4e49b6de8bf63be49a3a54b051", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            481
+          ], 
+          [
+            219, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Centimetre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hectare", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "143*56", 
+        "checked": true, 
+        "temp_id": 71, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "db729918814e0c3eb880c7b56f948c30", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            551
+          ], 
+          [
+            150, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hectare[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Mile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "138*56", 
+        "checked": false, 
+        "temp_id": 72, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "7ef1f210688464614e99a83af3cfe5d6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            621
+          ], 
+          [
+            145, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Mile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Yard", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "141*56", 
+        "checked": false, 
+        "temp_id": 73, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "274cc56e69f47f6f9e575a80336621d8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            691
+          ], 
+          [
+            148, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Yard[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Foot", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "141*56", 
+        "checked": false, 
+        "temp_id": 74, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "c7f5e7ce0abec20d9d9cdabd3c48c3cc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            761
+          ], 
+          [
+            148, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Foot[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Inch", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "139*56", 
+        "checked": false, 
+        "temp_id": 75, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "a916ca76163e4c41b9340c6cf55fc782", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            831
+          ], 
+          [
+            146, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Inch[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Acre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "106*56", 
+        "checked": false, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0264771d09995a0a4321efb4fd3f66d4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            901
+          ], 
+          [
+            113, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Acre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Kilometre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "197*56", 
+        "checked": false, 
+        "temp_id": 78, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "57822c13f5ca485db7b7a671b072d50f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            341
+          ], 
+          [
+            564, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Kilometre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Metre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "155*56", 
+        "checked": false, 
+        "temp_id": 79, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "f29cb73f9a4c0ec4a8c50c9ae0149837", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            411
+          ], 
+          [
+            522, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Metre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Centimetre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "212*56", 
+        "checked": false, 
+        "temp_id": 80, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "d74d599bf855e5e1045299770e89afb3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            481
+          ], 
+          [
+            579, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Centimetre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Hectare", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "143*56", 
+        "checked": true, 
+        "temp_id": 81, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "aca81810921a0e7e495f4ee6ab0271cb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            551
+          ], 
+          [
+            510, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Hectare[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Mile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "138*56", 
+        "checked": false, 
+        "temp_id": 82, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "8b22d57c8eddb42be66b83807b7e71af", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            621
+          ], 
+          [
+            505, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Mile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Yard", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "141*56", 
+        "checked": false, 
+        "temp_id": 83, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "95fb3a96a09d2f58e08a309d9d0ede99", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            691
+          ], 
+          [
+            508, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Yard[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Foot", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "141*56", 
+        "checked": false, 
+        "temp_id": 84, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "ad3f781106dc6bcba0ac5b87336d616c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            761
+          ], 
+          [
+            508, 
+            817
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Foot[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Sq Inch", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "139*56", 
+        "checked": false, 
+        "temp_id": 85, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "2fa14656968f0f4613d4f4ca997251bc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            831
+          ], 
+          [
+            506, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Sq Inch[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Acre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "106*56", 
+        "checked": false, 
+        "temp_id": 86, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "83086ee7e244637c7fa6e161ef7925c6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            901
+          ], 
+          [
+            473, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Acre[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1cbcec6287cd00acca608efe2f3bb62b"
+}

@@ -1,0 +1,1001 @@
+{
+  "stop_state": "7b351b0b3dea296e0a025944f73173cb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_162610", 
+  "event": {
+    "views_str": [
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "7c76064d2c4ccd9387aa5f23fb70c192", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8", 
+      "583f44a35153c7e60aa6eca0d8d9c7a8"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*-7", 
+        "checked": true, 
+        "temp_id": 4, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            132
+          ], 
+          [
+            72, 
+            125
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            140
+          ], 
+          [
+            72, 
+            182
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            197
+          ], 
+          [
+            72, 
+            239
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            254
+          ], 
+          [
+            72, 
+            296
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            311
+          ], 
+          [
+            72, 
+            353
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            368
+          ], 
+          [
+            72, 
+            410
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            425
+          ], 
+          [
+            72, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            482
+          ], 
+          [
+            72, 
+            524
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            539
+          ], 
+          [
+            72, 
+            581
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            596
+          ], 
+          [
+            72, 
+            638
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            653
+          ], 
+          [
+            72, 
+            695
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "7c76064d2c4ccd9387aa5f23fb70c192", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            710
+          ], 
+          [
+            72, 
+            752
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 51, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            767
+          ], 
+          [
+            72, 
+            809
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 56, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 55, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            824
+          ], 
+          [
+            72, 
+            866
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            881
+          ], 
+          [
+            72, 
+            923
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 64, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 63, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            938
+          ], 
+          [
+            72, 
+            980
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 67, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            995
+          ], 
+          [
+            72, 
+            1037
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 72, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 71, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1052
+          ], 
+          [
+            72, 
+            1094
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 75, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1109
+          ], 
+          [
+            72, 
+            1151
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 80, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 79, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1166
+          ], 
+          [
+            72, 
+            1208
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 84, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 83, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1223
+          ], 
+          [
+            72, 
+            1265
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 88, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 87, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1280
+          ], 
+          [
+            72, 
+            1322
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 92, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 91, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1337
+          ], 
+          [
+            72, 
+            1379
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 96, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 95, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1394
+          ], 
+          [
+            72, 
+            1436
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 100, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 99, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1451
+          ], 
+          [
+            72, 
+            1493
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "42*42", 
+        "checked": true, 
+        "temp_id": 104, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible", 
+        "is_password": false, 
+        "parent": 103, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "se.pp.mc.android.Gerberoid", 
+        "long_clickable": false, 
+        "view_str": "583f44a35153c7e60aa6eca0d8d9c7a8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1508
+          ], 
+          [
+            72, 
+            1550
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]se.pp.mc.android.Gerberoid:id/layer_visible[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "7b351b0b3dea296e0a025944f73173cb"
+}

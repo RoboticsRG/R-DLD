@@ -1,0 +1,42 @@
+{
+  "stop_state": "2e1982714c18a9239eb8b20b9ab5e3e5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_121935", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.ashutoshgngwr.tenbitclockwidget:id/positive_button", 
+      "text": "OK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ashutoshgngwr.tenbitclockwidget", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          547, 
+          1049
+        ], 
+        [
+          659, 
+          1144
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ca2f11a97bedec4558be55d28796b561"
+}

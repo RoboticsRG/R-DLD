@@ -1,0 +1,42 @@
+{
+  "stop_state": "4df656a8ede44f2344a3e81d32c01afb", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_023450", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "START WORK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "186*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          329, 
+          802
+        ], 
+        [
+          515, 
+          886
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "aa6c1bfc526745c9e08684523da1cd14"
+}

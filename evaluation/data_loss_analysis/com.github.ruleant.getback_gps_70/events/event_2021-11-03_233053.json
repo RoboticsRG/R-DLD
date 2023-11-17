@@ -1,0 +1,42 @@
+{
+  "stop_state": "09e90955af28506d4b3c6d3a4457a5e1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_233053", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Configura\u00e7\u00f5es, Navegar para cima", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "306*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          306, 
+          138
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "57dcc38478cba5751245573fe772981b"
+}

@@ -1,0 +1,241 @@
+{
+  "stop_state": "ef70e74f2da06f7cb2a3477a98875dcb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_201542", 
+  "event": {
+    "views_str": [
+      "ea5e095a54f9df5d3a565f6a757dfa42", 
+      "ea5e095a54f9df5d3a565f6a757dfa42", 
+      "ea5e095a54f9df5d3a565f6a757dfa42", 
+      "79f22b27d68d674d0c7e6369fc710d7b", 
+      "79f22b27d68d674d0c7e6369fc710d7b", 
+      "79f22b27d68d674d0c7e6369fc710d7b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "ea5e095a54f9df5d3a565f6a757dfa42", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            77
+          ], 
+          [
+            692, 
+            124
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "ea5e095a54f9df5d3a565f6a757dfa42", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            468
+          ], 
+          [
+            692, 
+            515
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "ea5e095a54f9df5d3a565f6a757dfa42", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            587
+          ], 
+          [
+            692, 
+            634
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "79f22b27d68d674d0c7e6369fc710d7b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            740
+          ], 
+          [
+            692, 
+            787
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "79f22b27d68d674d0c7e6369fc710d7b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1029
+          ], 
+          [
+            692, 
+            1076
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "79f22b27d68d674d0c7e6369fc710d7b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            1202
+          ], 
+          [
+            692, 
+            1249
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8e0b36c9cd2e3a91b0f80317e144c63c"
+}

@@ -1,0 +1,102 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        ce7f4c8 ch.famoser.mensa/.activities.MainActivity filter 6085961
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [ch.famoser.mensa]
+      Signing KeySets: 590
+
+Packages:
+  Package [ch.famoser.mensa] (edfc573):
+    userId=10671
+    pkg=Package{d624c30 ch.famoser.mensa}
+    codePath=/data/app/~~pydgsis-3qeaIb1OHyTsoQ==/ch.famoser.mensa-NJTDVlcLXqN4EBaZ3wBQlw==
+    resourcePath=/data/app/~~pydgsis-3qeaIb1OHyTsoQ==/ch.famoser.mensa-NJTDVlcLXqN4EBaZ3wBQlw==
+    legacyNativeLibraryDir=/data/app/~~pydgsis-3qeaIb1OHyTsoQ==/ch.famoser.mensa-NJTDVlcLXqN4EBaZ3wBQlw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=15 minSdk=21 targetSdk=29
+    versionName=1.5.5
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{d624c30 ch.famoser.mensa}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/ch.famoser.mensa
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2022-01-10 23:51:19
+    firstInstallTime=2022-01-10 23:51:19
+    lastUpdateTime=2022-01-10 23:51:19
+    signatures=PackageSignatures{33140a9 version:1, signatures:[c32e3969], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=13824 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ch.famoser.mensa
+    com.motorola.actions:
+      ch.famoser.mensa
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=76
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=12, package=com.motorola.livewallpaper3
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=29, package=com.google.android.tts
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=61, package=com.google.android.contacts
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=73, package=com.google.android.apps.docs
+    seq=74, package=io.github.ylimit.droidbotapp
+    seq=75, package=ch.famoser.mensa
+
+
+Dexopt state:
+  [ch.famoser.mensa]
+    path: /data/app/~~pydgsis-3qeaIb1OHyTsoQ==/ch.famoser.mensa-NJTDVlcLXqN4EBaZ3wBQlw==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [ch.famoser.mensa]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,10 @@
+{
+  "stop_state": "6c5657227e1563b3d345ac382295dce8", 
+  "event_str": "IntentEvent(intent='am start ru.ra66it.updaterforspotify/ru.ra66it.updaterforspotify.presentation.ui.activity.MainActivity')", 
+  "tag": "2022-01-08_082819", 
+  "event": {
+    "intent": "am start ru.ra66it.updaterforspotify/ru.ra66it.updaterforspotify.presentation.ui.activity.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "b5dfa52df09315a69731569108a3801b"
+}

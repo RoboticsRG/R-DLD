@@ -1,0 +1,43 @@
+{
+  "stop_state": "01c39e9a1f83c9095534ad819df13953", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-19_080035", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.softcatala.traductor:id/translatedTextEdit", 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.softcatala.traductor", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          273
+        ], 
+        [
+          636, 
+          352
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "01c39e9a1f83c9095534ad819df13953"
+}

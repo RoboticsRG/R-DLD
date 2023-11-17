@@ -1,0 +1,10 @@
+{
+  "stop_state": "f983fd30455b60645b57e073615237d2", 
+  "event_str": "IntentEvent(intent='am start ch.famoser.mensa/ch.famoser.mensa.activities.MainActivity')", 
+  "tag": "2022-01-11_012211", 
+  "event": {
+    "intent": "am start ch.famoser.mensa/ch.famoser.mensa.activities.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "cd875b6cfbd252af4c98d2e07322836c"
+}

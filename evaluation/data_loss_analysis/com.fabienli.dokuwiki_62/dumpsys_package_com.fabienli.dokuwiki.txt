@@ -1,0 +1,117 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1105fe6 com.fabienli.dokuwiki/.MainActivity filter 3151927
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.SEARCH"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.SEARCH:
+        1105fe6 com.fabienli.dokuwiki/.MainActivity filter 3151927
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.SEARCH"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.fabienli.dokuwiki/androidx.core.content.FileProvider:
+    Provider{d6c410d com.fabienli.dokuwiki/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.fabienli.dokuwiki.fileprovider]:
+    Provider{d6c410d com.fabienli.dokuwiki/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{ff7d8c2 com.fabienli.dokuwiki}
+
+Key Set Manager:
+  [com.fabienli.dokuwiki]
+      Signing KeySets: 594
+
+Packages:
+  Package [com.fabienli.dokuwiki] (4df2341):
+    userId=10675
+    pkg=Package{89e96d3 com.fabienli.dokuwiki}
+    codePath=/data/app/~~V_mUbRjRNZHX97zrxfHmJA==/com.fabienli.dokuwiki-1XY9c3tkurgd8Y1r0k_OSw==
+    resourcePath=/data/app/~~V_mUbRjRNZHX97zrxfHmJA==/com.fabienli.dokuwiki-1XY9c3tkurgd8Y1r0k_OSw==
+    legacyNativeLibraryDir=/data/app/~~V_mUbRjRNZHX97zrxfHmJA==/com.fabienli.dokuwiki-1XY9c3tkurgd8Y1r0k_OSw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=62 minSdk=15 targetSdk=30
+    versionName=v0.18
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{89e96d3 com.fabienli.dokuwiki}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.fabienli.dokuwiki
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-11 08:42:23
+    firstInstallTime=2022-01-11 08:42:23
+    lastUpdateTime=2022-01-11 08:42:23
+    signatures=PackageSignatures{b28e109 version:3, signatures:[f16135c5], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=39051 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.fabienli.dokuwiki
+    com.motorola.actions:
+      com.fabienli.dokuwiki
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=102
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=61, package=com.google.android.contacts
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=77, package=com.motorola.livewallpaper3
+    seq=81, package=ch.famoser.mensa
+    seq=93, package=com.google.android.tts
+    seq=97, package=com.aragaer.jtt
+    seq=99, package=com.google.android.apps.docs
+    seq=100, package=io.github.ylimit.droidbotapp
+    seq=101, package=com.fabienli.dokuwiki
+
+
+Dexopt state:
+  [com.fabienli.dokuwiki]
+    path: /data/app/~~V_mUbRjRNZHX97zrxfHmJA==/com.fabienli.dokuwiki-1XY9c3tkurgd8Y1r0k_OSw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.fabienli.dokuwiki]
+     base.apk - 1116
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

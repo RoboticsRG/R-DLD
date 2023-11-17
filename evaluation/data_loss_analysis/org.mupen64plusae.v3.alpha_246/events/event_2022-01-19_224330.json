@@ -1,0 +1,42 @@
+{
+  "stop_state": "4fd5a6b32aaa092cdb7e121965a7822b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_224330", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox4", 
+      "text": "Skanowa\u0107 podkatalogi", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          627
+        ], 
+        [
+          692, 
+          683
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0f11a935a6fd47dbbd0e6cec8f8adfc4"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "269f1bae8a9ddc30e9d5a4155e82c32d", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_013129", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/textViewPresetDrinkDescription", 
+      "text": "Soft cider", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "368*38", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          792
+        ], 
+        [
+          483, 
+          830
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 18, 
+    "event_type": "touch"
+  }, 
+  "start_state": "82477573a2f6eb4eab1bc175b689812a"
+}

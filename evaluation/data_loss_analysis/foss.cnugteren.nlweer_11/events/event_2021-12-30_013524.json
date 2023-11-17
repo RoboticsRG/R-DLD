@@ -1,0 +1,42 @@
+{
+  "stop_state": "268dc87ff592617294b608bfe33b26cd", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_013524", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Forecast tomorrow", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          427
+        ], 
+        [
+          673, 
+          511
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c1e5cc3569052c732b7b19707a8f7239"
+}

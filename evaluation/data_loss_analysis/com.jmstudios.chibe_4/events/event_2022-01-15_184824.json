@@ -1,0 +1,42 @@
+{
+  "stop_state": "91608c2c83432adf10fdb166be526cf7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_184824", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jmstudios.chibe:id/button_delete_vibration", 
+      "text": "\u232b DEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "181*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          450, 
+          799
+        ], 
+        [
+          631, 
+          883
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "91608c2c83432adf10fdb166be526cf7"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "fc74c67cdfc71889afb7ac6859845b67", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172454", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Sq Metre", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "155*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          411
+        ], 
+        [
+          522, 
+          467
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 33, 
+    "event_type": "touch"
+  }, 
+  "start_state": "fc74c67cdfc71889afb7ac6859845b67"
+}

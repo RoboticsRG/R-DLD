@@ -1,0 +1,127 @@
+{
+  "stop_state": "78c7160f30d092091475f3db14dd9846", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_193257", 
+  "event": {
+    "views_str": [
+      "384507a456ca1bac78c996687000bb52", 
+      "7e16167d512cbc8175485b3de6e1c649", 
+      "7e16167d512cbc8175485b3de6e1c649"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/wiki_language_checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "384507a456ca1bac78c996687000bb52", 
+        "enabled": true, 
+        "bounds": [
+          [
+            25, 
+            250
+          ], 
+          [
+            109, 
+            334
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/wiki_language_checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "7e16167d512cbc8175485b3de6e1c649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            25, 
+            334
+          ], 
+          [
+            109, 
+            418
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.wikipedia:id/wiki_language_checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": false, 
+        "view_str": "7e16167d512cbc8175485b3de6e1c649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            25, 
+            418
+          ], 
+          [
+            109, 
+            502
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.wikipedia:id/wiki_language_checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "78c7160f30d092091475f3db14dd9846"
+}

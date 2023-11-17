@@ -1,0 +1,114 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        f9a42c6 com.bobek.compass/.MainActivity filter 2af287
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.bobek.compass]
+      Signing KeySets: 303
+
+Packages:
+  Package [com.bobek.compass] (e7f0070):
+    userId=10455
+    pkg=Package{17fabf9 com.bobek.compass}
+    codePath=/data/app/~~V9GKnZgsybnxWOb-dV2urw==/com.bobek.compass-4u6yU3jBPmSqUdYvm5K2sw==
+    resourcePath=/data/app/~~V9GKnZgsybnxWOb-dV2urw==/com.bobek.compass-4u6yU3jBPmSqUdYvm5K2sw==
+    legacyNativeLibraryDir=/data/app/~~V9GKnZgsybnxWOb-dV2urw==/com.bobek.compass-4u6yU3jBPmSqUdYvm5K2sw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5 minSdk=21 targetSdk=30
+    versionName=1.4
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{17fabf9 com.bobek.compass}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.bobek.compass
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-12-16 18:12:10
+    firstInstallTime=2021-12-16 18:12:10
+    lastUpdateTime=2021-12-16 18:12:10
+    signatures=PackageSignatures{558473e version:3, signatures:[a0f0d2c], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    User 0: ceDataInode=35490 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.bobek.compass
+    com.motorola.actions:
+      com.bobek.compass
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=245
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=165, package=com.codedead.deadhash
+    seq=173, package=com.dosse.airpods
+    seq=188, package=com.crazylegend.subhub
+    seq=196, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=198, package=com.crazylegend.vigilante
+    seq=204, package=com.google.android.tts
+    seq=208, package=com.ebaschiera.triplecamel
+    seq=216, package=com.dp.logcatapp
+    seq=228, package=com.fr3ts0n.androbd.plugin.gpsprovider
+    seq=240, package=com.fr3ts0n.androbd.plugin.mqtt
+    seq=242, package=com.google.android.apps.docs
+    seq=243, package=io.github.ylimit.droidbotapp
+    seq=244, package=com.bobek.compass
+
+
+Dexopt state:
+  [com.bobek.compass]
+    path: /data/app/~~V9GKnZgsybnxWOb-dV2urw==/com.bobek.compass-4u6yU3jBPmSqUdYvm5K2sw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.bobek.compass]
+     base.apk - 554
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

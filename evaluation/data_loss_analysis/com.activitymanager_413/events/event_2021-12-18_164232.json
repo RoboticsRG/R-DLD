@@ -1,0 +1,44 @@
+{
+  "stop_state": "2f67f7b5cacffe59de35cec8b644e7d6", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-18_164232", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "722*1408", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.activitymanager", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          722, 
+          1560
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "251faa42a4045163c9ca8e3826f9f1e3"
+}

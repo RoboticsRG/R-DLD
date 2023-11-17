@@ -1,0 +1,42 @@
+{
+  "stop_state": "f41d746fda54034966ee623cab0edf01", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_191915", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/pm_label", 
+      "text": "PM", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "43*61", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          508, 
+          578
+        ], 
+        [
+          551, 
+          639
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f41d746fda54034966ee623cab0edf01"
+}

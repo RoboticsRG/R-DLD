@@ -1,0 +1,42 @@
+{
+  "stop_state": "54c566a91928b94b3e041676ef0f36db", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_171339", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.jmstudios.chibe:id/skip", 
+      "text": "SKIP", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "175*111", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          1447
+        ], 
+        [
+          189, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5b5e0f19703048321f12e4200fe18202"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "27ccb9bbaa690ad49171137e18e05885", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_022636", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "START BREAK", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "193*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          319, 
+          802
+        ], 
+        [
+          512, 
+          886
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bcb5b883125d1227af8a1ef5d8904208"
+}

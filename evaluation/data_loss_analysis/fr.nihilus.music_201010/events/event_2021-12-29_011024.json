@@ -1,0 +1,42 @@
+{
+  "stop_state": "086018e3dca9925ca7e049da94bd8c35", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-29_011024", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Set by Battery Saver", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.nihilus.music", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          803
+        ], 
+        [
+          673, 
+          887
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e664ca6e3eb305568e6d6d3408a93b5c"
+}

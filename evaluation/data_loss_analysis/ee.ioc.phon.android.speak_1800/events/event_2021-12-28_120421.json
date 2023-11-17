@@ -1,0 +1,2483 @@
+{
+  "stop_state": "8cdc67ed5c5cc0e690c7a5e86e373578", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-28_120421", 
+  "event": {
+    "views_str": [
+      "27531a07752e6a073c8e74f302567f38", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "27531a07752e6a073c8e74f302567f38", 
+      "26a9254d61a50fafe8b6d936aacd7649", 
+      "26a9254d61a50fafe8b6d936aacd7649"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            180
+          ], 
+          [
+            706, 
+            236
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            294
+          ], 
+          [
+            706, 
+            350
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            408
+          ], 
+          [
+            706, 
+            464
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            522
+          ], 
+          [
+            706, 
+            578
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            636
+          ], 
+          [
+            706, 
+            692
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            750
+          ], 
+          [
+            706, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 44, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            864
+          ], 
+          [
+            706, 
+            920
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 53, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            978
+          ], 
+          [
+            706, 
+            1034
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 58, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 54, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1092
+          ], 
+          [
+            706, 
+            1148
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 63, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1206
+          ], 
+          [
+            706, 
+            1262
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1320
+          ], 
+          [
+            706, 
+            1376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 73, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 69, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1434
+          ], 
+          [
+            706, 
+            1490
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*10", 
+        "checked": false, 
+        "temp_id": 78, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 74, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1548
+          ], 
+          [
+            706, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 86, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            180
+          ], 
+          [
+            706, 
+            236
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 91, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 87, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            294
+          ], 
+          [
+            706, 
+            350
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 96, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 92, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            408
+          ], 
+          [
+            706, 
+            464
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 101, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 97, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            522
+          ], 
+          [
+            706, 
+            578
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 106, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 102, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            636
+          ], 
+          [
+            706, 
+            692
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 111, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 107, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            750
+          ], 
+          [
+            706, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 116, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 112, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            864
+          ], 
+          [
+            706, 
+            920
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 121, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 117, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            978
+          ], 
+          [
+            706, 
+            1034
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 126, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 122, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1092
+          ], 
+          [
+            706, 
+            1148
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 131, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 127, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1206
+          ], 
+          [
+            706, 
+            1262
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 136, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 132, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1320
+          ], 
+          [
+            706, 
+            1376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 141, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 137, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1434
+          ], 
+          [
+            706, 
+            1490
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*10", 
+        "checked": false, 
+        "temp_id": 146, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 142, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1548
+          ], 
+          [
+            706, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 154, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 150, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            180
+          ], 
+          [
+            706, 
+            236
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 159, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 155, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            294
+          ], 
+          [
+            706, 
+            350
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 164, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 160, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            408
+          ], 
+          [
+            706, 
+            464
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 169, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 165, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            522
+          ], 
+          [
+            706, 
+            578
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 174, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 170, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            636
+          ], 
+          [
+            706, 
+            692
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 179, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 175, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            750
+          ], 
+          [
+            706, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 184, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 180, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            864
+          ], 
+          [
+            706, 
+            920
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 189, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 185, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            978
+          ], 
+          [
+            706, 
+            1034
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 194, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 190, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1092
+          ], 
+          [
+            706, 
+            1148
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 199, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 195, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1206
+          ], 
+          [
+            706, 
+            1262
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 204, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 200, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1320
+          ], 
+          [
+            706, 
+            1376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 209, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 205, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1434
+          ], 
+          [
+            706, 
+            1490
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*10", 
+        "checked": false, 
+        "temp_id": 214, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 210, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1548
+          ], 
+          [
+            706, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 222, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 218, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            180
+          ], 
+          [
+            706, 
+            236
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 227, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 223, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            294
+          ], 
+          [
+            706, 
+            350
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 232, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 228, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            408
+          ], 
+          [
+            706, 
+            464
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 237, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 233, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            522
+          ], 
+          [
+            706, 
+            578
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 242, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 238, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            636
+          ], 
+          [
+            706, 
+            692
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 247, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 243, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            750
+          ], 
+          [
+            706, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 252, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 248, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            864
+          ], 
+          [
+            706, 
+            920
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 257, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 253, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            978
+          ], 
+          [
+            706, 
+            1034
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 262, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 258, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1092
+          ], 
+          [
+            706, 
+            1148
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 267, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 263, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1206
+          ], 
+          [
+            706, 
+            1262
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 272, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 268, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1320
+          ], 
+          [
+            706, 
+            1376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 277, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 273, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1434
+          ], 
+          [
+            706, 
+            1490
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*10", 
+        "checked": false, 
+        "temp_id": 282, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 278, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1548
+          ], 
+          [
+            706, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 290, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 286, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            180
+          ], 
+          [
+            706, 
+            236
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 295, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 291, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            294
+          ], 
+          [
+            706, 
+            350
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 300, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 296, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            408
+          ], 
+          [
+            706, 
+            464
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 305, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 301, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            522
+          ], 
+          [
+            706, 
+            578
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 310, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 306, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            636
+          ], 
+          [
+            706, 
+            692
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 315, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 311, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            750
+          ], 
+          [
+            706, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 320, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 316, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            864
+          ], 
+          [
+            706, 
+            920
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 325, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 321, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            978
+          ], 
+          [
+            706, 
+            1034
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 330, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 326, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1092
+          ], 
+          [
+            706, 
+            1148
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 335, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 331, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1206
+          ], 
+          [
+            706, 
+            1262
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 340, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 336, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "27531a07752e6a073c8e74f302567f38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1320
+          ], 
+          [
+            706, 
+            1376
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 345, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 341, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1434
+          ], 
+          [
+            706, 
+            1490
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ee.ioc.phon.android.speak:id/check", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*10", 
+        "checked": false, 
+        "temp_id": 350, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check", 
+        "is_password": false, 
+        "parent": 346, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.ioc.phon.android.speak", 
+        "long_clickable": false, 
+        "view_str": "26a9254d61a50fafe8b6d936aacd7649", 
+        "enabled": true, 
+        "bounds": [
+          [
+            650, 
+            1548
+          ], 
+          [
+            706, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ee.ioc.phon.android.speak:id/check[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8cdc67ed5c5cc0e690c7a5e86e373578"
+}

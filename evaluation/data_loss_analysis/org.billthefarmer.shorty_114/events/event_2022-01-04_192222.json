@@ -1,0 +1,44 @@
+{
+  "stop_state": "fff6b6cf1edca99616cc4399a6c75db3", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-04_192222", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 1, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/scroll", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "692*1406", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          152
+        ], 
+        [
+          706, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "fff6b6cf1edca99616cc4399a6c75db3"
+}

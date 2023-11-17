@@ -1,0 +1,89 @@
+{
+  "stop_state": "59e26ba3d5960052b0c0540bbeaee4c0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_040945", 
+  "event": {
+    "views_str": [
+      "c7d2578c8bef1cb1647cb7ab70861217", 
+      "9e1e0f39ca5aa5b0cdbdc2662af72291"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.aragaer.jtt:id/lat", 
+        "text": "0.0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*62", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.aragaer.jtt:id/lat", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": true, 
+        "view_str": "c7d2578c8bef1cb1647cb7ab70861217", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            753
+          ], 
+          [
+            673, 
+            815
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.aragaer.jtt:id/lat[text]0.0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.aragaer.jtt:id/lon", 
+        "text": "0.0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*62", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.aragaer.jtt:id/lon", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.aragaer.jtt", 
+        "long_clickable": true, 
+        "view_str": "9e1e0f39ca5aa5b0cdbdc2662af72291", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            851
+          ], 
+          [
+            673, 
+            913
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.aragaer.jtt:id/lon[text]0.0[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "21bd0f314a1bad1d12e2256df09238dd"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "6d741df5be3364019f886f44e3b189d0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-06_070626", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart", 
+      "text": ">", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "720*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyweather", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          750
+        ], 
+        [
+          720, 
+          829
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6d741df5be3364019f886f44e3b189d0"
+}

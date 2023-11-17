@@ -1,0 +1,42 @@
+{
+  "stop_state": "34b22c617404b9ae18a22eefcbf0c1d9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_043228", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/design_menu_item_text", 
+      "text": "Join Game", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          462
+        ], 
+        [
+          462, 
+          546
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0cc628802a1424f73661c538d0e0a56a"
+}

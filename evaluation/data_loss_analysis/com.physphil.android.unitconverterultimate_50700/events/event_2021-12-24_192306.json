@@ -1,0 +1,42 @@
+{
+  "stop_state": "26454b612c420d267d3244560814739c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_192306", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Brazilian Real", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "206*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          551
+        ], 
+        [
+          573, 
+          607
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 67, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0eff065830212dd4c19f7fc0e653ab9e"
+}

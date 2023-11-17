@@ -1,0 +1,165 @@
+{
+  "stop_state": "1ab8d216547455e3fd96deaab19ed540", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-15_195523", 
+  "event": {
+    "views_str": [
+      "1716fc4d5219da68162d38ce4fa3a479", 
+      "e5e0a4b84b0bbaacc1a758cfc16d395a", 
+      "e5e0a4b84b0bbaacc1a758cfc16d395a", 
+      "1716fc4d5219da68162d38ce4fa3a479"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": false, 
+        "view_str": "1716fc4d5219da68162d38ce4fa3a479", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            285
+          ], 
+          [
+            692, 
+            369
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": false, 
+        "view_str": "e5e0a4b84b0bbaacc1a758cfc16d395a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            610
+          ], 
+          [
+            692, 
+            694
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": false, 
+        "view_str": "e5e0a4b84b0bbaacc1a758cfc16d395a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            790
+          ], 
+          [
+            692, 
+            874
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.crazylegend.vigilante:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.crazylegend.vigilante", 
+        "long_clickable": false, 
+        "view_str": "1716fc4d5219da68162d38ce4fa3a479", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            987
+          ], 
+          [
+            692, 
+            1071
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.crazylegend.vigilante:id/switchWidget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "499f3fb57dc46d31d1beb5d4f014e3ac"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "0f9eb0b0584b710dc14a25f9e08eec7c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_161440", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_require_confirmation", 
+      "text": "Require confirmation before execution", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          376
+        ], 
+        [
+          692, 
+          460
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "835f39dfba20a868dccc085647db934c"
+}

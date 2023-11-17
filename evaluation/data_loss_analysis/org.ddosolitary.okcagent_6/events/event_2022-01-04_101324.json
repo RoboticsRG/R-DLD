@@ -1,0 +1,10 @@
+{
+  "stop_state": "685d461789ff34f16d2b9d1f3b305d92", 
+  "event_str": "IntentEvent(intent='am start org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity')", 
+  "tag": "2022-01-04_101324", 
+  "event": {
+    "intent": "am start org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "7ea817456916384a00e1cbbbc60f5041"
+}

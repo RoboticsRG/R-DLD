@@ -1,0 +1,109 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        97fa53 amirz.dngprocessor/.MainActivity filter e2d0f90
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        d4db089 amirz.dngprocessor/.scheduler.BootReceiver filter 8d4188e
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Key Set Manager:
+  [amirz.dngprocessor]
+      Signing KeySets: 578
+
+Packages:
+  Package [amirz.dngprocessor] (699d936):
+    userId=10279
+    pkg=Package{1625272 amirz.dngprocessor}
+    codePath=/data/app/~~JsdQWm-oHA0TTOk8DP_6jA==/amirz.dngprocessor-oMxINAD3fJWdkOpr9EMbag==
+    resourcePath=/data/app/~~JsdQWm-oHA0TTOk8DP_6jA==/amirz.dngprocessor-oMxINAD3fJWdkOpr9EMbag==
+    legacyNativeLibraryDir=/data/app/~~JsdQWm-oHA0TTOk8DP_6jA==/amirz.dngprocessor-oMxINAD3fJWdkOpr9EMbag==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5 minSdk=24 targetSdk=28
+    versionName=5
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{1625272 amirz.dngprocessor}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/amirz.dngprocessor
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2022-01-10 00:35:56
+    firstInstallTime=2022-01-10 00:35:56
+    lastUpdateTime=2022-01-10 00:35:56
+    signatures=PackageSignatures{22806c3 version:1, signatures:[b1ee8e65], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    requested permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.FOREGROUND_SERVICE
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+    User 0: ceDataInode=72167 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ REVOKE_WHEN_REQUESTED|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      amirz.dngprocessor
+    com.motorola.actions:
+      amirz.dngprocessor
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=17
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=7, package=com.google.android.apps.docs
+    seq=12, package=com.motorola.livewallpaper3
+    seq=13, package=com.google.android.apps.maps
+    seq=14, package=com.google.android.ims
+    seq=15, package=io.github.ylimit.droidbotapp
+    seq=16, package=amirz.dngprocessor
+
+
+Dexopt state:
+  [amirz.dngprocessor]
+    path: /data/app/~~JsdQWm-oHA0TTOk8DP_6jA==/amirz.dngprocessor-oMxINAD3fJWdkOpr9EMbag==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [amirz.dngprocessor]
+     base.apk - 262
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

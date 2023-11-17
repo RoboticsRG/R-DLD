@@ -1,0 +1,43 @@
+{
+  "stop_state": "878a74dfc307d21ebd530097c6895261", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_022445", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 26, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/textViewPresetDrinkDescription", 
+      "text": "Light beerHelloWorld", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "447*38", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          372
+        ], 
+        [
+          562, 
+          410
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "a8c166c891fa6e29d6dcf635625931ae"
+}

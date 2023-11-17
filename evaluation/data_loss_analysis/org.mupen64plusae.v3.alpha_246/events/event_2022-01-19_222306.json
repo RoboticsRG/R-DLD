@@ -1,0 +1,42 @@
+{
+  "stop_state": "0d1b0916615c09b252a482316ff2bf0a", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_222306", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/logcatCancel", 
+      "text": "ANULUJ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "137*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          384, 
+          1454
+        ], 
+        [
+          521, 
+          1549
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8e3bb72bd92ed338fe9662f8fce29608"
+}

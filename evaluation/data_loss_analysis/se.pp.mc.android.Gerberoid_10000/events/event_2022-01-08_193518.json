@@ -1,0 +1,43 @@
+{
+  "stop_state": "ce64c09d764a2a9a0b957084a3bac1bb", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_193518", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 18, 
+    "view": {
+      "content_description": "Load EXCELLON Drill File", 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/action_drill", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "88*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          544, 
+          1467
+        ], 
+        [
+          632, 
+          1551
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "ce64c09d764a2a9a0b957084a3bac1bb"
+}

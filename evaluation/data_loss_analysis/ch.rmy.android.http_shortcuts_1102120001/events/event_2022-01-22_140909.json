@@ -1,0 +1,51 @@
+{
+  "stop_state": "84d80b96238f15bdbcdb76ecbae0ec2f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_140909", 
+  "event": {
+    "views_str": [
+      "a54c177b337b19158188372f1330e73c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_code_prepare", 
+        "text": "Add JavaScript code here", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*563", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_prepare", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "a54c177b337b19158188372f1330e73c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            743
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_code_prepare[text]Add JavaScript code here[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4c55822002a6c2f7165c0e620d6939b1"
+}

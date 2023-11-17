@@ -1,0 +1,42 @@
+{
+  "stop_state": "c8bd115588e99d132fdd5c0f432be768", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_223104", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.cvzi.screenshottile:id/itemRadio", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          64, 
+          655
+        ], 
+        [
+          148, 
+          739
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": false
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c8bd115588e99d132fdd5c0f432be768"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "2e9e00746347a45ebf04b93643d9f7aa", 
+  "event_str": "IntentEvent(intent='am start com.markuspage.android.atimetracker/com.markuspage.android.atimetracker.Activities')", 
+  "tag": "2022-01-12_064646", 
+  "event": {
+    "intent": "am start com.markuspage.android.atimetracker/com.markuspage.android.atimetracker.Activities", 
+    "event_type": "intent"
+  }, 
+  "start_state": "78c01866e579022f955810632e3abe95"
+}

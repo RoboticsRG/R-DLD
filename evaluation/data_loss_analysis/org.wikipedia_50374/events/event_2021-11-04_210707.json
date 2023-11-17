@@ -1,0 +1,42 @@
+{
+  "stop_state": "a0f6cdf3435cc1372f8d846ce8510f8a", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_210707", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/theme_chooser_match_system_theme_switch", 
+      "text": "Corresponder tema do sistema DESATIVADO", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1281
+        ], 
+        [
+          692, 
+          1365
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5eab16a6e4e83f30316c1e239009b267"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "487c2b1085a074bdcc663ee377d8aa2b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_194958", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Gallon (UK)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "183*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1041
+        ], 
+        [
+          550, 
+          1097
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 73, 
+    "event_type": "touch"
+  }, 
+  "start_state": "50d76e1e18b9754d99992b4a42e207c7"
+}

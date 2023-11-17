@@ -1,0 +1,42 @@
+{
+  "stop_state": "8075e0ad92507ea576ccf2c67224cdfd", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_215112", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox2", 
+      "text": "Baixar arte da capa", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          515
+        ], 
+        [
+          692, 
+          571
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4aaac2a5108a182bc38ffb6dc2c7e1c5"
+}

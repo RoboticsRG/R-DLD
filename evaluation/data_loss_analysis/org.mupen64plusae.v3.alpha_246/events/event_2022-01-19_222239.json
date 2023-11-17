@@ -1,0 +1,42 @@
+{
+  "stop_state": "9c3b95c220c627f347ac6e206f86c564", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_222239", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button3", 
+      "text": "UDOST\u0118PNIJ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "189*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          67, 
+          1427
+        ], 
+        [
+          256, 
+          1522
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e3790a767ce973ee571bf1185741cc54"
+}

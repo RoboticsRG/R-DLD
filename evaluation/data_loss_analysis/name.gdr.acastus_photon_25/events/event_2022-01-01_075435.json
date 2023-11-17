@@ -1,0 +1,51 @@
+{
+  "stop_state": "02354eb447e1b3bd5f25102010f13b9f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-01_075435", 
+  "event": {
+    "views_str": [
+      "f4ea3ae9d273d1044e38aeff4ea774a6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "name.gdr.acastus_photon:id/searchText", 
+        "text": "Enter Address/POI", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "538*79", 
+        "checked": false, 
+        "temp_id": 7, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]name.gdr.acastus_photon:id/searchText", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "name.gdr.acastus_photon", 
+        "long_clickable": true, 
+        "view_str": "f4ea3ae9d273d1044e38aeff4ea774a6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            163
+          ], 
+          [
+            566, 
+            242
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]name.gdr.acastus_photon:id/searchText[text]Enter Address/POI[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7b6d06c8caf745d93589fb0db9dfb0dc"
+}

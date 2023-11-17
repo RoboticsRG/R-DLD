@@ -1,0 +1,51 @@
+{
+  "stop_state": "27333f53771beb052b6e7b1985bd533a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-15_094417", 
+  "event": {
+    "views_str": [
+      "cb46ca6c89cc5ab3072ea255fd3b9643"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.dosse.airpods", 
+        "long_clickable": false, 
+        "view_str": "cb46ca6c89cc5ab3072ea255fd3b9643", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            282
+          ], 
+          [
+            692, 
+            329
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cd689e33a4983b5e05f48460a10c3d0f"
+}

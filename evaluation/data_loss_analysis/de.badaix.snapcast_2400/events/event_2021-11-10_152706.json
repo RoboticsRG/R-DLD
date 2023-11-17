@@ -1,0 +1,42 @@
+{
+  "stop_state": "391e89058d6155fd45cfec062ab000d9", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_152706", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/btn_scan", 
+      "text": "SCAN FOR SERVER", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "258*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          230, 
+          905
+        ], 
+        [
+          488, 
+          989
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "391e89058d6155fd45cfec062ab000d9"
+}

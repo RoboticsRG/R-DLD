@@ -1,0 +1,51 @@
+{
+  "stop_state": "33e2943fdaca3981db79f7e3877be22f", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_104548", 
+  "event": {
+    "views_str": [
+      "3f8b42920e5378c74dd45c6a17e374b5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tImportPath", 
+        "text": "Import File", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "454*79", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tImportPath", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "3f8b42920e5378c74dd45c6a17e374b5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            349
+          ], 
+          [
+            468, 
+            428
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tImportPath[text]Import File[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "33e2943fdaca3981db79f7e3877be22f"
+}

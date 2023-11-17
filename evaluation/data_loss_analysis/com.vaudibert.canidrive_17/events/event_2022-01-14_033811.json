@@ -1,0 +1,42 @@
+{
+  "stop_state": "4dd326771a60281b195d6f290a61c373", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_033811", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "571*127", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          9, 
+          690
+        ], 
+        [
+          580, 
+          817
+        ]
+      ], 
+      "class": "android.view.ViewGroup", 
+      "focusable": false
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5f94e029181c438a7638df0ae17c3ba2"
+}

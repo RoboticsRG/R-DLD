@@ -1,0 +1,89 @@
+{
+  "stop_state": "df1afe1ed894b0f77a7e30b8bcb30238", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_190242", 
+  "event": {
+    "views_str": [
+      "ce17acfd6e079c2ab4d9b35300e1d68b", 
+      "d3a8c22d36e2ad279faf2c4813e85720"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gemini.circumlunar.spaHelloWorldce/, Homepage", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*118", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "ce17acfd6e079c2ab4d9b35300e1d68b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            250
+          ], 
+          [
+            706, 
+            368
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]gemini.circumlunar.spaHelloWorldce/, Homepage[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gus.guru/searchHelloWorld, Search Engine (page that takes input)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*118", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "d3a8c22d36e2ad279faf2c4813e85720", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            368
+          ], 
+          [
+            706, 
+            486
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3636f93e1477246a6a4d61713244df85"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "956f421f1a1bc6708b08982343be3c2b", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_184058", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Back to the top", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "189*35", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          1524
+        ], 
+        [
+          203, 
+          1559
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "956f421f1a1bc6708b08982343be3c2b"
+}

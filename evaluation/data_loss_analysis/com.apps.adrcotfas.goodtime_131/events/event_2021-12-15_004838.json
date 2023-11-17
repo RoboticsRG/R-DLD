@@ -1,0 +1,42 @@
+{
+  "stop_state": "857a7340023efc9c39476f2ce45e784c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_004838", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Back", 
+      "resource_id": "com.apps.adrcotfas.goodtime:id/mi_button_back", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1432
+        ], 
+        [
+          126, 
+          1530
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5d9774ad8a8bb3b6d9fd9e43ff141b87"
+}

@@ -1,0 +1,317 @@
+{
+  "stop_state": "88f19e10e5eb9f16aa08a7c823fd4811", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-03_110224", 
+  "event": {
+    "views_str": [
+      "dd978429e2aa14929d403b43d9a68bc0", 
+      "81396a07d1b8698da1d2d1a1e8f20f5d", 
+      "b3f2df076a3699d48dd880a0d207d8e8", 
+      "49f7b59c7aea1626881c5379b470bf85", 
+      "e878056cfaeaf89900cf82b7018334a9", 
+      "23899ca49a28b91dce4c654ec5005955", 
+      "d74387925aaf3ea4b3c50fb32c4eba3d", 
+      "cc2e42ab9469638c0cb3248905a0598e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAllowTips", 
+        "text": "Allow Hints", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "706*84", 
+        "checked": true, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAllowTips", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "dd978429e2aa14929d403b43d9a68bc0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            250
+          ], 
+          [
+            720, 
+            334
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAllowTips[text]Allow Hints[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsSolveTimes", 
+        "text": "Times to solve", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsSolveTimes", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": true, 
+        "view_str": "81396a07d1b8698da1d2d1a1e8f20f5d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            348
+          ], 
+          [
+            706, 
+            427
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsSolveTimes[text]Times to solve[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsA", 
+        "text": "Ask column A", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "209*84", 
+        "checked": true, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsA", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "b3f2df076a3699d48dd880a0d207d8e8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            427
+          ], 
+          [
+            223, 
+            511
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsA[text]Ask column A[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsB", 
+        "text": "Ask column B", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "209*84", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsB", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "49f7b59c7aea1626881c5379b470bf85", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            511
+          ], 
+          [
+            223, 
+            595
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsB[text]Ask column B[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsAB", 
+        "text": "Ask random column", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "279*84", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsAB", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "e878056cfaeaf89900cf82b7018334a9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            595
+          ], 
+          [
+            293, 
+            679
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsAB[text]Ask random column[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/chkTSettingsChkCaseSens", 
+        "text": "check case sensitive", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "692*84", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkTSettingsChkCaseSens", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "23899ca49a28b91dce4c654ec5005955", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            693
+          ], 
+          [
+            706, 
+            777
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/chkTSettingsChkCaseSens[text]check case sensitive[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkTrimSpaces", 
+        "text": "Ignore surrounding spaces", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "692*84", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkTrimSpaces", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "d74387925aaf3ea4b3c50fb32c4eba3d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            791
+          ], 
+          [
+            706, 
+            875
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkTrimSpaces[text]Ignore surrounding spaces[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAdditionAuto", 
+        "text": "Auto mode for additions", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "692*84", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAdditionAuto", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+        "long_clickable": false, 
+        "view_str": "cc2e42ab9469638c0cb3248905a0598e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            889
+          ], 
+          [
+            706, 
+            973
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsChkAdditionAuto[text]Auto mode for additions[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "98f544cdd1cf161ef14d776e64bec9c1"
+}

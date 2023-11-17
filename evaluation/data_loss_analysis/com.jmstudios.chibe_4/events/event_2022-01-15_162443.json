@@ -1,0 +1,51 @@
+{
+  "stop_state": "91608c2c83432adf10fdb166be526cf7", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-15_162443", 
+  "event": {
+    "views_str": [
+      "e11e0490b5cb6ee48252eca46ce46a63"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.jmstudios.chibe:id/custom_pattern_text", 
+        "text": "Use the buttons to create a pattern", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "543*79", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.jmstudios.chibe:id/custom_pattern_text", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": true, 
+        "view_str": "e11e0490b5cb6ee48252eca46ce46a63", 
+        "enabled": true, 
+        "bounds": [
+          [
+            88, 
+            699
+          ], 
+          [
+            631, 
+            778
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.jmstudios.chibe:id/custom_pattern_text[text]Use the buttons to create a pattern[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "91608c2c83432adf10fdb166be526cf7"
+}

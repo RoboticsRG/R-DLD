@@ -1,0 +1,42 @@
+{
+  "stop_state": "2d10330026303584133639b5f57329a8", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_072756", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Every 3 weeks", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "504*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ru.ra66it.updaterforspotify", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          108, 
+          840
+        ], 
+        [
+          612, 
+          924
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d4cd1adf9af0b05336d2d8ef017deaa9"
+}

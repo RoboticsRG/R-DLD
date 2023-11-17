@@ -1,0 +1,140 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        13674cc foss.cnugteren.nlweer/.MainActivity filter d8e1315
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  foss.cnugteren.nlweer/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{b18ba23 foss.cnugteren.nlweer/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [foss.cnugteren.nlweer.lifecycle-process]:
+    Provider{b18ba23 foss.cnugteren.nlweer/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{c501b20 foss.cnugteren.nlweer}
+
+Key Set Manager:
+  [foss.cnugteren.nlweer]
+      Signing KeySets: 449
+
+Packages:
+  Package [foss.cnugteren.nlweer] (11f7cd9):
+    userId=10532
+    pkg=Package{b48769e foss.cnugteren.nlweer}
+    codePath=/data/app/~~E4B8VvHe8i39oMbT8-bzSQ==/foss.cnugteren.nlweer-_E1BSuqPeTG4QEgZFOiNuQ==
+    resourcePath=/data/app/~~E4B8VvHe8i39oMbT8-bzSQ==/foss.cnugteren.nlweer-_E1BSuqPeTG4QEgZFOiNuQ==
+    legacyNativeLibraryDir=/data/app/~~E4B8VvHe8i39oMbT8-bzSQ==/foss.cnugteren.nlweer-_E1BSuqPeTG4QEgZFOiNuQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=11 minSdk=21 targetSdk=29
+    versionName=1.9.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{b48769e foss.cnugteren.nlweer}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/foss.cnugteren.nlweer
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-12-29 23:07:15
+    firstInstallTime=2021-12-29 23:07:15
+    lastUpdateTime=2021-12-29 23:07:15
+    signatures=PackageSignatures{e32d57f version:1, signatures:[2d276087], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=24706 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      foss.cnugteren.nlweer
+    com.motorola.actions:
+      foss.cnugteren.nlweer
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=461
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=422, package=com.google.android.tts
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=458, package=com.google.android.apps.docs
+    seq=459, package=io.github.ylimit.droidbotapp
+    seq=460, package=foss.cnugteren.nlweer
+
+
+Dexopt state:
+  [foss.cnugteren.nlweer]
+    path: /data/app/~~E4B8VvHe8i39oMbT8-bzSQ==/foss.cnugteren.nlweer-_E1BSuqPeTG4QEgZFOiNuQ==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [foss.cnugteren.nlweer]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

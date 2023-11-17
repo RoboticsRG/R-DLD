@@ -1,0 +1,10 @@
+{
+  "stop_state": "2a8a456efe8786e76f0c70d14e85377d", 
+  "event_str": "IntentEvent(intent='am start net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity')", 
+  "tag": "2022-01-03_214433", 
+  "event": {
+    "intent": "am start net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "ecd19a5a61a5c0d40d864c2e09454075"
+}

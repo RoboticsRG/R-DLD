@@ -1,0 +1,43 @@
+{
+  "stop_state": "f24e6cf31cc53ba4c4b9f708bf72ba8c", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-14_083856", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.statusbar_tacho:id/unitSpinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*42", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ch.rmy.android.statusbar_tacho", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          626
+        ], 
+        [
+          692, 
+          668
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "11def3d3300d38e62a954eb83cd7018d"
+}

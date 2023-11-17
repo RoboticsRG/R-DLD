@@ -1,0 +1,43 @@
+{
+  "stop_state": "e1a78aa198c5258802f0a27647ac07f3", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-14_035212", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.app.missednotificationsreminder:id/intervalName", 
+      "text": "29.00", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "608*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          1350
+        ], 
+        [
+          664, 
+          1448
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "e1a78aa198c5258802f0a27647ac07f3"
+}

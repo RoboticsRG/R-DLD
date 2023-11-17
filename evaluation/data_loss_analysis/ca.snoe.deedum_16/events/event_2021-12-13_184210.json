@@ -1,0 +1,43 @@
+{
+  "stop_state": "8a9a046b96ae9d053a2fb106b2d358be", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_184210", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 24, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nAgate is a server for the Gemini network protocol, built with the Rust programming language. Agate has very few features, and can only serve static files. It uses async I/O, and should be quite efficient even when running on low-end hardware and serving many concurrent requests.\n\nSince Agate by default uses port 1965, you should be able to run other servers (like e.g. Apache or nginx) on the same device.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*504", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          439
+        ], 
+        [
+          690, 
+          943
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8a9a046b96ae9d053a2fb106b2d358be"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "066a290d2c82a3364b44d5c9505962b8", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_140113", 
+  "event": {
+    "views_str": [
+      "8448256114a0eab4878c938a37b2a028", 
+      "ac89a4cee7d47843540f6d998b590454", 
+      "8ca51d3d434409d232b97e075dfc8480", 
+      "b229f14619c46be3a93d8dd52e4df97e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_launcher_shortcut", 
+        "text": "Show as app shortcut on launcher", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_launcher_shortcut", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "8448256114a0eab4878c938a37b2a028", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            264
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_launcher_shortcut[text]Show as app shortcut on launcher[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_quick_tile_shortcut", 
+        "text": "Allow triggering via Quick Settings Tile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_quick_tile_shortcut", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "ac89a4cee7d47843540f6d998b590454", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            278
+          ], 
+          [
+            692, 
+            362
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_quick_tile_shortcut[text]Allow triggering via Quick Settings Tile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_require_confirmation", 
+        "text": "Require confirmation before execution", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_require_confirmation", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "8ca51d3d434409d232b97e075dfc8480", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            376
+          ], 
+          [
+            692, 
+            460
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_require_confirmation[text]Require confirmation before execution[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_wait_for_connection", 
+        "text": "Wait for connection when offline", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_wait_for_connection", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": false, 
+        "view_str": "b229f14619c46be3a93d8dd52e4df97e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            474
+          ], 
+          [
+            692, 
+            558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.http_shortcuts:id/input_wait_for_connection[text]Wait for connection when offline[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "835f39dfba20a868dccc085647db934c"
+}

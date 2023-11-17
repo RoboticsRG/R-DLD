@@ -1,0 +1,42 @@
+{
+  "stop_state": "11ae4e09acaa1c609828867a55c13dcd", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_180612", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Australian Dollar", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "239*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          411
+        ], 
+        [
+          246, 
+          467
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 47, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2da98e6c9203940ac885bfab737a1c94"
+}

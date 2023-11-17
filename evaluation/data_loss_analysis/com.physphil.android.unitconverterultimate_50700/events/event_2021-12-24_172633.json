@@ -1,0 +1,42 @@
+{
+  "stop_state": "88bb665b510b0a16fe6294c538945195", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_172633", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Sq Yard", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "141*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          691
+        ], 
+        [
+          148, 
+          747
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 28, 
+    "event_type": "touch"
+  }, 
+  "start_state": "25197c404c3681ce19306748a0fddc75"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "1d5514c320aff2cab3590a3f4c7fe98c", 
+  "event_str": "IntentEvent(intent='am start io.anuke.mindustry/mindustry.android.AndroidLauncher')", 
+  "tag": "2021-12-12_034844", 
+  "event": {
+    "intent": "am start io.anuke.mindustry/mindustry.android.AndroidLauncher", 
+    "event_type": "intent"
+  }, 
+  "start_state": "2e9a343981bed81d444e7f59b0545210"
+}

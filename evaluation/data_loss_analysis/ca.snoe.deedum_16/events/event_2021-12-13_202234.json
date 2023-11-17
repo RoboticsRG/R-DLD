@@ -1,0 +1,42 @@
+{
+  "stop_state": "1fc2d83de6c3300ff07c10f921777775", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_202234", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Enter the project directory and create a certificate for your server (a self signed certificate is fine, in fact it's encouraged!)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "629*141", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          822
+        ], 
+        [
+          690, 
+          963
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1fc2d83de6c3300ff07c10f921777775"
+}

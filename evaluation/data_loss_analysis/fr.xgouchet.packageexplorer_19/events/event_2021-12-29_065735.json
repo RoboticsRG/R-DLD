@@ -1,0 +1,43 @@
+{
+  "stop_state": "3f78d224de6917d341ec080d9c11448c", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-29_065735", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.xgouchet.packageexplorer:id/search_src_text", 
+      "text": "   ", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "439*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "fr.xgouchet.packageexplorer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          112, 
+          70
+        ], 
+        [
+          551, 
+          133
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1388cec73f3120b8ac1b756bea83fe12"
+}

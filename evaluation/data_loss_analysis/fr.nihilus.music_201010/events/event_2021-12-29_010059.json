@@ -1,0 +1,10 @@
+{
+  "stop_state": "5d193dd639ff26c4dddc23adceb2376c", 
+  "event_str": "IntentEvent(intent='am start fr.nihilus.music/fr.nihilus.music.HomeActivity')", 
+  "tag": "2021-12-29_010059", 
+  "event": {
+    "intent": "am start fr.nihilus.music/fr.nihilus.music.HomeActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "8748c8082557b2379f166c7898bd16b7"
+}

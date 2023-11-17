@@ -1,0 +1,42 @@
+{
+  "stop_state": "e16da7b4edfde7dfd56ef44dd0d9bcbc", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_182358", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "# 158.nu\n\nWelcome to 158.nu!\n\nThis site is dedicated to my photo-projects that mainly involve film photography of different kinds. Hopefully I will be able to update regularly.\n\n## Photography\n\nI enjoy photography since a few years back. I started out with a digital Nikon D3000 that I bought new, mainly to photograph abandoned buildings with a few friends. After that, the hobby stuck, and I got a used D90.\n\nIn 2014 I bought a Nikon FM, which was my introduction to the wonderful world of film photography. Since then, I've mostly been shooting film.\n\n### Cameras\n\nThese are my current cameras.\n\n* Nikon D90\n* Nikon FM\n* Holga 120CFN\n* Yashica C\n\n### Albums\n\nHere you'll find some photo albums I've compiled.\n\n=> imitation.gmi  Imitation\n=> orebrobilder.gmi  \u00d6rebrobilder\n=> vasterbilder.gmi  V\u00e4sterbilder\n=> 158.gmi  Project 158\n=> old.gmi  Old stuff\n\n## Contact\n\nIf you wish to reach me, it's possible to do so via e-mail. The address is:\n\n* hej at 158 dot nu\n\n## News and updates\n\nIn this section I will try to publish small updates regarding the site and progress.\n\n### 2021-10-12\n\nThe Imitation-album has been updated with new images from this late summer. I've been busy in the dark-room the last few days and gone through some of the negatives I've produced during the summer and beginning of the fall. These particular photos were taken on an early Saturday morning in September, and the light was pretty poor as a result.\n\nI used TMax 100 this time, and I have come to like it more and more the last few months. Developed in TMax Dev and taken with my old 50mm, I think most of them turned out pretty well, perhaps a little dirty. I have to consider if this process of developing, enlarging and then scanning is really the right way to go about this. I might have to do some tests with scanning negatives again to minimize the amount of dirt that gets through.\n\n### 2021-07-21\n\nI've added a new album; Imitation. This project concentrates on mannequins, and I hope that it will be interesting. I've always found them mildly threatening and creepy.\n\nI've also gotten a new lens, but I've yet to appreciate it's potential. It's a zoom, and it's a lot softer than my sharp 50mm that I've loved for so many years. But it makes it possible to shoot landscapes and city-scapes in a more convenient way, and probably that is what I'm going to use it for.\n\n### 2021-06-30\n\nThe heat has really hit us up here in the North! Many warm days by the lake or out and about. Not as many days down in the lab, sadly. Despite that, I've taken the time to compile some more images for publication. An additional image has been added to the 158-album.\n\nI've also published a new album called \"\u00d6rebrobilder\". Some pictures from \"V\u00e4sterbilder\" might have been better placed in the new one. Oh well.\n\nGot some new optics and supplies these last few weeks and it's starting to come together. Excited to see what I can get out of the new glass!\n\nI also have some ideas for a new project, so stay tuned for that.\n\n### 2021-05-23\n\nWork continues in the lab. I've been out photographing some during the spring, and I'm adding some of the results to the album \"V\u00e4sterbilder\". I will buy new chemicals and material this month and continue working on cataloging my old work.\n\n### 2021-04-21\n\nI've been working on and off during the last month, and have found some new energy to shoot. I guess it comes with the spring-weather. Added some pictures to \"Project 158\", a simple collection of images obsessing with the number 158. These are scanned from prints. I will probably continue using this technique going forward.\n\n### 2021-03-17\n\nThe latest news. The darkroom has come along nicely. I have everything I need in place, and also gotten some things related to 6x6, which makes it possible for me to print 6x6 as well as 35mm. This is very exciting.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*1371", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          187
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dab7c225756ecc652d4a198eaccc80b4"
+}

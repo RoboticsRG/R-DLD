@@ -1,0 +1,42 @@
+{
+  "stop_state": "81c5d98843f816253d6ed0221ef93426", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_193625", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text", 
+      "text": "Fuel Consumption", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          488
+        ], 
+        [
+          462, 
+          572
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 44, 
+    "event_type": "touch"
+  }, 
+  "start_state": "49cf30df190e5e2f1e07c51698ed928c"
+}

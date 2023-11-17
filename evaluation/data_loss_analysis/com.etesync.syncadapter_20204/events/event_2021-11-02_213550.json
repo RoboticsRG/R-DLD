@@ -1,0 +1,165 @@
+{
+  "stop_state": "bffff39baa62a1b46faaaf5d905847c0", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-02_213550", 
+  "event": {
+    "views_str": [
+      "d775afc4da66475a06638d7d78a02503", 
+      "e99cf890a794b9fcf97f87fddfa1b51a", 
+      "82e3df62f4fa21fb0a35415e16890f00", 
+      "fa45e3f9a51a506784f66a3a0e5f8312"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Username", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*108", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "d775afc4da66475a06638d7d78a02503", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            396
+          ], 
+          [
+            692, 
+            504
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]Username[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*108", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "e99cf890a794b9fcf97f87fddfa1b51a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            529
+          ], 
+          [
+            692, 
+            637
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*108", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "82e3df62f4fa21fb0a35415e16890f00", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            662
+          ], 
+          [
+            692, 
+            770
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.etesync.syncadapter:id/custom_server", 
+        "text": "EteSync Server URL", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*108", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.etesync.syncadapter:id/custom_server", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "fa45e3f9a51a506784f66a3a0e5f8312", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            914
+          ], 
+          [
+            692, 
+            1022
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.etesync.syncadapter:id/custom_server[text]EteSync Server URL[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "945fc5ba5d13ff611f12fb74570dbc3e"
+}

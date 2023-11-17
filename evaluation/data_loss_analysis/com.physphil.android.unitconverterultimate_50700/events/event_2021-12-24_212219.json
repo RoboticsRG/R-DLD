@@ -1,0 +1,42 @@
+{
+  "stop_state": "f3c4386938ef0df08696a16479b06173", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212219", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Yard", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "106*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          831
+        ], 
+        [
+          473, 
+          887
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 51, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1fb51543fecf3cd14998fc9e8252b112"
+}

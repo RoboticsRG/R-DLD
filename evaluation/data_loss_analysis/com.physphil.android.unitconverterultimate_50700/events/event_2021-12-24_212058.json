@@ -1,0 +1,42 @@
+{
+  "stop_state": "a1e8ec80697c42fcf74d9b537bfebaf2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_212058", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Feet", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "104*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          901
+        ], 
+        [
+          471, 
+          957
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 52, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9a584f9f9fa7ccd7eef7a7230fd5d41e"
+}

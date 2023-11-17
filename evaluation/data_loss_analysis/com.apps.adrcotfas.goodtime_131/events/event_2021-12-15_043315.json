@@ -1,0 +1,10 @@
+{
+  "stop_state": "c03ca3a15d37cdb1972ad20698744b72", 
+  "event_str": "KeyEvent(name=BACK)", 
+  "tag": "2021-12-15_043315", 
+  "event": {
+    "event_type": "key", 
+    "name": "BACK"
+  }, 
+  "start_state": "5cb8d23c300948a108f0849b56f0bcdc"
+}

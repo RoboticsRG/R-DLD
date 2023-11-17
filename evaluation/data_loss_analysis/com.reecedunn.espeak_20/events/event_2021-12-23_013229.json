@@ -1,0 +1,44 @@
+{
+  "stop_state": "79368b7677b7fdcc384371c35ec3cf65", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-23_013229", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.reecedunn.espeak:id/category", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "314*84", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.reecedunn.espeak", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          359, 
+          707
+        ], 
+        [
+          673, 
+          791
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "c3d13f34bc26ce7c851e23bea4204200"
+}

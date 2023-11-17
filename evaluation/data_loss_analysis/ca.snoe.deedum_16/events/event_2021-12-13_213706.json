@@ -1,0 +1,42 @@
+{
+  "stop_state": "b8432fa5543eec384bc9782851ae8d8e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_213706", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nThe following \"companion specifications\" describe optional practices which are not part of the core Gemini protocol specification, but which are intended to establish clear guidelines for \"good citizenship\" in Geminispace and to increase inter-operability of Gemini software via widely adopted conventions.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*378", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          327
+        ], 
+        [
+          690, 
+          705
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b8432fa5543eec384bc9782851ae8d8e"
+}

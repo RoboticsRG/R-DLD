@@ -1,0 +1,127 @@
+{
+  "stop_state": "3018e6168cec1f315f15a57fa086a635", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-18_142803", 
+  "event": {
+    "views_str": [
+      "b7b9826dc9c1015e3d12b29a0e87150b", 
+      "b7b9826dc9c1015e3d12b29a0e87150b", 
+      "b7b9826dc9c1015e3d12b29a0e87150b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.activitymanager:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.activitymanager", 
+        "long_clickable": false, 
+        "view_str": "b7b9826dc9c1015e3d12b29a0e87150b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            264
+          ], 
+          [
+            692, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.activitymanager:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.activitymanager", 
+        "long_clickable": false, 
+        "view_str": "b7b9826dc9c1015e3d12b29a0e87150b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            392
+          ], 
+          [
+            692, 
+            476
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.activitymanager:id/switchWidget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.activitymanager", 
+        "long_clickable": false, 
+        "view_str": "b7b9826dc9c1015e3d12b29a0e87150b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            520
+          ], 
+          [
+            692, 
+            604
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.activitymanager:id/switchWidget[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6cab1d481b87c5d1b9d33b5ebaaa473a"
+}

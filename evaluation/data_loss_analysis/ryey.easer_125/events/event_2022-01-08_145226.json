@@ -1,0 +1,44 @@
+{
+  "stop_state": "309b07045c04614d72859fbcc5c9bc67", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-08_145226", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ryey.easer:id/view_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1146", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ryey.easer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          236
+        ], 
+        [
+          720, 
+          1382
+        ]
+      ], 
+      "class": "androidx.viewpager.widget.ViewPager", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "309b07045c04614d72859fbcc5c9bc67"
+}

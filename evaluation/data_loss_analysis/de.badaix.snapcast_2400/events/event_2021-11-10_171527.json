@@ -1,0 +1,42 @@
+{
+  "stop_state": "dabf7e96c6f649f94125f0eb60f61472", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_171527", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Johannes Pohl", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "187*35", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          110, 
+          414
+        ], 
+        [
+          297, 
+          449
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "956f421f1a1bc6708b08982343be3c2b"
+}

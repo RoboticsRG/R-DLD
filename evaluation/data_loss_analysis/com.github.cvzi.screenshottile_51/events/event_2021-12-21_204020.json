@@ -1,0 +1,42 @@
+{
+  "stop_state": "1f5d92a473c4e79b271c823e00588dae", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_204020", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u26a0\ufe0f Accessibility service is disabled", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "638*34", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          41, 
+          1182
+        ], 
+        [
+          679, 
+          1216
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "899fb3e61a7f83622b1105d6ee5b658b"
+}

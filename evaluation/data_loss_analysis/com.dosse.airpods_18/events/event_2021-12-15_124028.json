@@ -1,0 +1,10 @@
+{
+  "stop_state": "10ea4ae917bcb36f9d3b9bae978644a8", 
+  "event_str": "IntentEvent(intent='am start com.dosse.airpods/com.dosse.airpods.ui.MainActivity')", 
+  "tag": "2021-12-15_124028", 
+  "event": {
+    "intent": "am start com.dosse.airpods/com.dosse.airpods.ui.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "f8779d94f042a5a5be7e0a54b3e97a42"
+}

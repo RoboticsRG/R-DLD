@@ -1,0 +1,42 @@
+{
+  "stop_state": "103596cb9a8a67500e057b0d56ab49f3", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_051716", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Show password", 
+      "resource_id": "uk.org.ngo.squeezer:id/text_input_end_icon", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          594, 
+          621
+        ], 
+        [
+          678, 
+          705
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "607fff71f3b74558c0e41bd22164ae9f"
+}

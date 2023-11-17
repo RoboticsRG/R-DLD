@@ -1,0 +1,10 @@
+{
+  "stop_state": "7cc250d117a769f19525b7ebb65d9c3b", 
+  "event_str": "IntentEvent(intent='am start io.github.dkter.aaaaa/io.github.dkter.aaaaa.MainActivity')", 
+  "tag": "2021-12-30_163018", 
+  "event": {
+    "intent": "am start io.github.dkter.aaaaa/io.github.dkter.aaaaa.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "e5690ef1ba0fbfca4e354599976abcd1"
+}

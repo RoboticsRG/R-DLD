@@ -1,0 +1,43 @@
+{
+  "stop_state": "b9259b87420f2d66b8c889b40adcdbd7", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-04_191950", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 30, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+      "text": "http://www.listenlive.eu/bbc6music.m3u", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          330
+        ], 
+        [
+          706, 
+          409
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d6c5781486a8e8823c332cd6363615e2"
+}

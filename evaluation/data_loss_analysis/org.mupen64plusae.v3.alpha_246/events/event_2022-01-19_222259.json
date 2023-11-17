@@ -1,0 +1,44 @@
+{
+  "stop_state": "8e3bb72bd92ed338fe9662f8fce29608", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2022-01-19_222259", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/logcatScroll", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "702*1293", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          9, 
+          161
+        ], 
+        [
+          711, 
+          1454
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8e3bb72bd92ed338fe9662f8fce29608"
+}

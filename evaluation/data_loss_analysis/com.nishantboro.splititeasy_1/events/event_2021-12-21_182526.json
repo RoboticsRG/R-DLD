@@ -1,0 +1,42 @@
+{
+  "stop_state": "678ac1d774ce7b897d7185332dbf6e85", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_182526", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Share", 
+      "resource_id": "com.nishantboro.splititeasy:id/mainMenuShare", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.nishantboro.splititeasy", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          636, 
+          61
+        ], 
+        [
+          720, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "db83668f9869e6bfd9ac32cb60a5343d"
+}

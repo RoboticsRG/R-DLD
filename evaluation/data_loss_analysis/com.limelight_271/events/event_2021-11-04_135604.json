@@ -1,0 +1,203 @@
+{
+  "stop_state": "fe3ad2c0e160fa334293d8d4f9580a9b", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_135604", 
+  "event": {
+    "views_str": [
+      "d048bccfd4045651400cbebc521c6d27", 
+      "88aeb55f840019789671854ce132b20f", 
+      "88aeb55f840019789671854ce132b20f", 
+      "d048bccfd4045651400cbebc521c6d27", 
+      "88aeb55f840019789671854ce132b20f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": false, 
+        "view_str": "d048bccfd4045651400cbebc521c6d27", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            614
+          ], 
+          [
+            692, 
+            670
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": false, 
+        "view_str": "88aeb55f840019789671854ce132b20f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1014
+          ], 
+          [
+            692, 
+            1070
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": false, 
+        "view_str": "88aeb55f840019789671854ce132b20f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1187
+          ], 
+          [
+            692, 
+            1243
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": false, 
+        "view_str": "d048bccfd4045651400cbebc521c6d27", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1346
+          ], 
+          [
+            692, 
+            1402
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": true, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.limelight", 
+        "long_clickable": false, 
+        "view_str": "88aeb55f840019789671854ce132b20f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            636, 
+            1505
+          ], 
+          [
+            692, 
+            1561
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "fe3ad2c0e160fa334293d8d4f9580a9b"
+}

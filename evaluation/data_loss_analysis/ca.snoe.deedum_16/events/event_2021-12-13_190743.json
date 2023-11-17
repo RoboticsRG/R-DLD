@@ -1,0 +1,42 @@
+{
+  "stop_state": "5e2942b240eb0b13e00a6cae8e3df79e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_190743", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "A quick introduction to \"gemtext\" markup", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "523*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          891
+        ], 
+        [
+          558, 
+          954
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 15, 
+    "event_type": "touch"
+  }, 
+  "start_state": "dcbb3295faf72935b33eb3f7fd5b0799"
+}

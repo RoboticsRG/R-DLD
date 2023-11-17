@@ -1,0 +1,42 @@
+{
+  "stop_state": "e9b3e51d4f0f38d3472fdfeb9482cc08", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_130226", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/rTSettingsA", 
+      "text": "Ask column A", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "209*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          427
+        ], 
+        [
+          223, 
+          511
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e9b3e51d4f0f38d3472fdfeb9482cc08"
+}

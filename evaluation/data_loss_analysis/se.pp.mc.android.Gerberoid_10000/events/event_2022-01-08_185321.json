@@ -1,0 +1,43 @@
+{
+  "stop_state": "7e668a77efe823557cb62e044c6d0100", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-08_185321", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 33, 
+    "view": {
+      "content_description": "Zoom in", 
+      "resource_id": "se.pp.mc.android.Gerberoid:id/action_zoom_in", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          481, 
+          61
+        ], 
+        [
+          565, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7e668a77efe823557cb62e044c6d0100"
+}

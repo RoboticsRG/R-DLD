@@ -1,0 +1,10 @@
+{
+  "stop_state": "8687dc3ec4e5e0391c8b59181c418dc2", 
+  "event_str": "IntentEvent(intent='am start io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity')", 
+  "tag": "2021-12-31_175359", 
+  "event": {
+    "intent": "am start io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "fb24a99235beaf36466c098e2944d0f1"
+}

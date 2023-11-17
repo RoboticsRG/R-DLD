@@ -1,0 +1,42 @@
+{
+  "stop_state": "b7be32d913e47d5a402192bda01854ea", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-09_010811", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "uk.org.ngo.squeezer:id/server_address", 
+      "text": "Name or IP address of server", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "636*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "uk.org.ngo.squeezer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          418
+        ], 
+        [
+          678, 
+          516
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b7be32d913e47d5a402192bda01854ea"
+}

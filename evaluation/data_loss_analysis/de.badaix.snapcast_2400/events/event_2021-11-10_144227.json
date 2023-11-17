@@ -1,0 +1,51 @@
+{
+  "stop_state": "340c6d823fc5a2bee98d7e5a820a16ee", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-10_144227", 
+  "event": {
+    "views_str": [
+      "dffc9a833739d18e3b360bba083d0eb1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.badaix.snapcast:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "56*56", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.badaix.snapcast:id/checkbox", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.badaix.snapcast", 
+        "long_clickable": false, 
+        "view_str": "dffc9a833739d18e3b360bba083d0eb1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            629, 
+            243
+          ], 
+          [
+            685, 
+            299
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.badaix.snapcast:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b10a2e0d0d97a229a4193f0467c00d9c"
+}

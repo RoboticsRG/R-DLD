@@ -1,0 +1,10 @@
+{
+  "stop_state": "b4ff82a525d058e4b5b7b8891d53a72a", 
+  "event_str": "IntentEvent(intent='am start com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity')", 
+  "tag": "2021-11-02_212535", 
+  "event": {
+    "intent": "am start com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "2cfbea82bb16180943c8e643f12643c3"
+}

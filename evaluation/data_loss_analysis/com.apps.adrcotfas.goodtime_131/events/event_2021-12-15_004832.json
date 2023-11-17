@@ -1,0 +1,44 @@
+{
+  "stop_state": "5d9774ad8a8bb3b6d9fd9e43ff141b87", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-15_004832", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.apps.adrcotfas.goodtime:id/mi_pager", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1404", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          54
+        ], 
+        [
+          720, 
+          1458
+        ]
+      ], 
+      "class": "c.q.a.b", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "5d9774ad8a8bb3b6d9fd9e43ff141b87"
+}

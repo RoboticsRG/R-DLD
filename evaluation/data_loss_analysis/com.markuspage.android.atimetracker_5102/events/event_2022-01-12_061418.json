@@ -1,0 +1,241 @@
+{
+  "stop_state": "097c5fac5308e028a73aa0e33b225f09", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-12_061418", 
+  "event": {
+    "views_str": [
+      "149b13a94650b980766c3767bb49bdbe", 
+      "a6ce5e8693826bb8d2e8a29087814882", 
+      "83ab903fa83415134621884a6426850e", 
+      "c2147be1930593eb02509cb7595529f6", 
+      "cc25721c106548c11dfe44c9c25bb867", 
+      "c089477617be568b0dd6d8ca7b2b573a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "Jan", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "149b13a94650b980766c3767bb49bdbe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            387
+          ], 
+          [
+            126, 
+            471
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]Jan[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "12", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "a6ce5e8693826bb8d2e8a29087814882", 
+        "enabled": true, 
+        "bounds": [
+          [
+            154, 
+            387
+          ], 
+          [
+            266, 
+            471
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]12[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "2022", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "13*84", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "83ab903fa83415134621884a6426850e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            294, 
+            387
+          ], 
+          [
+            307, 
+            471
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]2022[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "5", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 56, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 54, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "c2147be1930593eb02509cb7595529f6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            818
+          ], 
+          [
+            140, 
+            902
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]5[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "44", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "cc25721c106548c11dfe44c9c25bb867", 
+        "enabled": true, 
+        "bounds": [
+          [
+            168, 
+            818
+          ], 
+          [
+            280, 
+            902
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]44[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "AM", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "112*84", 
+        "checked": false, 
+        "temp_id": 64, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 63, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.markuspage.android.atimetracker", 
+        "long_clickable": true, 
+        "view_str": "c089477617be568b0dd6d8ca7b2b573a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            308, 
+            818
+          ], 
+          [
+            420, 
+            902
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]AM[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "097c5fac5308e028a73aa0e33b225f09"
+}

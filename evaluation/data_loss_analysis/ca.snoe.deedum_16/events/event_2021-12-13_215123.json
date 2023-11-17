@@ -1,0 +1,42 @@
+{
+  "stop_state": "2bf56e24baf85a8b2f794c046827eaab", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_215123", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nGemini server admins may serve a robot policy for their server at the URL with path /robots.txt, i.e. the server example.net should serve its policy at gemini://example.net/robots.txt.\n\nThe robots.txt file should be served with a MIME media type of text/plain.\n\nThe format of the robots.txt file is as per the original robots.txt specification for the web, i.e.:\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*230", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1328
+        ], 
+        [
+          690, 
+          1558
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2bf56e24baf85a8b2f794c046827eaab"
+}

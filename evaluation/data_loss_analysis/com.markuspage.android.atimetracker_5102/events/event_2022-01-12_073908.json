@@ -1,0 +1,42 @@
+{
+  "stop_state": "19210a71d6407ba0b772d94c79e1e3a7", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_073908", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/pm_label", 
+      "text": "PM", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "43*61", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          508, 
+          1026
+        ], 
+        [
+          551, 
+          1087
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 38, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9c42adcc9a497c7f61ce6a5589339e46"
+}

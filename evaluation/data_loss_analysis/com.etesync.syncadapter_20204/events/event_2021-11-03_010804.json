@@ -1,0 +1,42 @@
+{
+  "stop_state": "b792421debc7a5ca1bd38981aaa3f6f0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_010804", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "Cancelar", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "290*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          361, 
+          984
+        ], 
+        [
+          651, 
+          1068
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "27447ddd0a37d3283fe6b5d477176f7a"
+}

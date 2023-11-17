@@ -1,0 +1,42 @@
+{
+  "stop_state": "c9213ebc1a3ecd3ad789164cb6187a24", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_230836", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "(Pois k\u00e4yt\u00f6st\u00e4)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          406
+        ], 
+        [
+          673, 
+          518
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "22b7b229da390d2113a303de88b6eb5e"
+}

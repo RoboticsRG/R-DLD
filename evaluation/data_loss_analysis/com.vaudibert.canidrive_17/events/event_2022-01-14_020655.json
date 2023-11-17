@@ -1,0 +1,10 @@
+{
+  "stop_state": "32a3b6464eb2d191c252104f8d612c8f", 
+  "event_str": "IntentEvent(intent='am start com.vaudibert.canidrive/com.vaudibert.canidrive.ui.MainActivity')", 
+  "tag": "2022-01-14_020655", 
+  "event": {
+    "intent": "am start com.vaudibert.canidrive/com.vaudibert.canidrive.ui.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "180477c1a7877a494089a6ffd6d96c41"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "94c35ea0b1ce54e81cf44766ee8a2d1d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_190250", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Icelandic Krona", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "228*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          7, 
+          1251
+        ], 
+        [
+          235, 
+          1307
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 18, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c5ce18c1203b11f30acaf153b567b684"
+}

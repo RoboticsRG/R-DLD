@@ -1,0 +1,42 @@
+{
+  "stop_state": "10fe8870322c52a39ab89723e16f44fe", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-10_165549", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.badaix.snapcast:id/stream_port", 
+      "text": "1704", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "393*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          257, 
+          672
+        ], 
+        [
+          650, 
+          751
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "10fe8870322c52a39ab89723e16f44fe"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "56c496bbb3439cab5045bb8df2c3ade3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-08_123421", 
+  "event": {
+    "views_str": [
+      "6d60c4418b814063844d94f2967100e7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ryey.easer:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 7, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ryey.easer:id/checkbox", 
+        "is_password": false, 
+        "parent": 4, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ryey.easer", 
+        "long_clickable": false, 
+        "view_str": "6d60c4418b814063844d94f2967100e7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            601, 
+            76
+          ], 
+          [
+            685, 
+            160
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ryey.easer:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "8cecccf4290dcaef4d5b8771c7a01968"
+}

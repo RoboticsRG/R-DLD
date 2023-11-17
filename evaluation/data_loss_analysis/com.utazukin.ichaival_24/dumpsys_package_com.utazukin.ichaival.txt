@@ -1,0 +1,205 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1b98c1c com.utazukin.ichaival/.ArchiveList filter e596025
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.utazukin.ichaival/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{e053588 com.utazukin.ichaival/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [com.utazukin.ichaival.lifecycle-process]:
+    Provider{e053588 com.utazukin.ichaival/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{db76b21 com.utazukin.ichaival}
+
+Key Set Manager:
+  [com.utazukin.ichaival]
+      Signing KeySets: 219
+
+Packages:
+  Package [com.utazukin.ichaival] (2045d17):
+    userId=10452
+    pkg=Package{642db46 com.utazukin.ichaival}
+    codePath=/data/app/~~lN_aTmFmt4gagpmwlcUH4g==/com.utazukin.ichaival-_hgphCMQnSsJqfxyh35m2A==
+    resourcePath=/data/app/~~lN_aTmFmt4gagpmwlcUH4g==/com.utazukin.ichaival-_hgphCMQnSsJqfxyh35m2A==
+    legacyNativeLibraryDir=/data/app/~~lN_aTmFmt4gagpmwlcUH4g==/com.utazukin.ichaival-_hgphCMQnSsJqfxyh35m2A==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=24 minSdk=21 targetSdk=30
+    versionName=1.1.1
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{642db46 com.utazukin.ichaival}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.utazukin.ichaival
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2021-11-24 12:37:28
+    firstInstallTime=2021-11-24 12:37:28
+    lastUpdateTime=2021-11-24 12:37:28
+    signatures=PackageSignatures{76ae107 version:3, signatures:[a41859f2], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=50032 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.utazukin.ichaival
+    com.motorola.actions:
+      com.utazukin.ichaival
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=1489
+  User 0:
+    seq=0, package=com.motorola.msimsettings
+    seq=5, package=com.android.stk
+    seq=20, package=com.google.android.partnersetup
+    seq=42, package=com.google.android.syncadapters.contacts
+    seq=164, package=com.motorola.gamemode
+    seq=264, package=com.motorola.paks
+    seq=273, package=com.google.android.setupwizard
+    seq=297, package=com.google.android.apps.pixelmigrate
+    seq=300, package=com.motorola.coresettingsext
+    seq=323, package=com.android.shell
+    seq=331, package=android.autoinstalls.config.motorola.layout
+    seq=386, package=org.gateshipone.malp
+    seq=401, package=com.google.android.trichromelibrary_460608533
+    seq=402, package=com.google.android.apps.wellbeing
+    seq=418, package=com.google.android.marvin.talkback
+    seq=425, package=com.google.android.deskclock
+    seq=431, package=com.google.android.calculator
+    seq=458, package=com.motorola.livewallpaper3
+    seq=471, package=com.zegoggles.smssync
+    seq=478, package=com.google.android.inputmethod.latin
+    seq=497, package=org.calyxinstitute.vpn
+    seq=521, package=pro.oblivioncoding.fluffy_board
+    seq=529, package=pc.javier.actualizadoropendns
+    seq=554, package=com.minar.birday
+    seq=562, package=ir.mrahimy.conceal
+    seq=570, package=org.dyndns.warenix.web2pdf
+    seq=599, package=com.mattieapps.roommates
+    seq=633, package=ch.logixisland.anuto
+    seq=639, package=io.neurolab
+    seq=655, package=com.etesync.syncadapter
+    seq=721, package=com.limelight
+    seq=729, package=org.wikipedia
+    seq=735, package=com.dozingcatsoftware.mouse_pounce
+    seq=743, package=com.nathanatos.Cuppa
+    seq=758, package=org.nutritionfacts.dailydozen
+    seq=766, package=org.zephyrsoft.trackworktime
+    seq=790, package=com.example.gesturecapture
+    seq=803, package=com.google.android.modulemetadata
+    seq=804, package=com.google.mainline.telemetry
+    seq=814, package=com.google.android.apps.turbo
+    seq=835, package=ru.evgeniy.dpitunnel
+    seq=843, package=com.google.android.trichromelibrary_463807433
+    seq=878, package=com.example.testsensors
+    seq=905, package=com.wparam.nullkeyboard
+    seq=906, package=com.android.inputmethod.latin
+    seq=907, package=com.google.android.projection.gearhead
+    seq=929, package=de.mwvb.blockpuzzle
+    seq=945, package=com.craigd.lmsmaterial.app
+    seq=958, package=com.appmindlab.nano
+    seq=972, package=nl.mpcjanssen.simpletask
+    seq=976, package=de.badaix.snapcast
+    seq=980, package=org.billthefarmer.editor
+    seq=986, package=com.pvpc.precio_luz
+    seq=996, package=wseemann.media.romote
+    seq=1017, package=com.motorola.ccc.ota
+    seq=1019, package=com.emanuelef.remote_capture
+    seq=1033, package=com.pitchedapps.frost
+    seq=1040, package=net.nitratine.priceperunit
+    seq=1053, package=com.google.android.calendar
+    seq=1080, package=com.android.settings
+    seq=1091, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=1095, package=org.y20k.transistor
+    seq=1103, package=com.google.android.apps.nbu.files
+    seq=1111, package=com.google.android.videos
+    seq=1118, package=com.google.android.googlequicksearchbox
+    seq=1119, package=com.google.ar.core
+    seq=1128, package=com.motorola.audiofx
+    seq=1159, package=eu.basicairdata.clinometer
+    seq=1160, package=com.plaincode.clinometer
+    seq=1173, package=com.motorola.screenshoteditor
+    seq=1180, package=com.motorola.moto
+    seq=1191, package=com.android.chrome
+    seq=1192, package=com.google.android.trichromelibrary_466404533
+    seq=1196, package=com.google.android.gm
+    seq=1197, package=com.google.android.apps.tachyon
+    seq=1200, package=com.google.android.as
+    seq=1201, package=com.google.android.apps.photos
+    seq=1202, package=com.google.android.apps.maps
+    seq=1215, package=org.zwanoo.android.speedtest
+    seq=1224, package=com.github.ashutoshgngwr.tenbitclockwidget
+    seq=1230, package=com.google.android.gms
+    seq=1243, package=vocabletrainer.heinecke.aron.vocabletrainer
+    seq=1257, package=com.github.ruleant.getback_gps
+    seq=1266, package=com.google.android.apps.youtube.music
+    seq=1267, package=com.google.android.webview
+    seq=1268, package=com.google.android.ims
+    seq=1269, package=com.google.android.apps.subscriptions.red
+    seq=1276, package=com.google.android.apps.messaging
+    seq=1277, package=com.google.android.dialer
+    seq=1279, package=com.google.android.youtube
+    seq=1295, package=xyz.zedler.patrick.grocy
+    seq=1305, package=com.oriondev.moneywallet
+    seq=1313, package=io.github.muntashirakon.setedit
+    seq=1323, package=me.zhanghai.android.files
+    seq=1350, package=com.gianlu.aria2android
+    seq=1372, package=ch.rmy.android.http_shortcuts
+    seq=1395, package=fr.gaulupeau.apps.InThePoche
+    seq=1411, package=dev.obfusk.jiten_webview
+    seq=1419, package=com.simplemobiletools.gallery.pro
+    seq=1427, package=eu.bauerj.paperless_app
+    seq=1443, package=be.ppareit.swiftp_free
+    seq=1451, package=de.luhmer.owncloudnewsreader
+    seq=1453, package=com.google.android.contacts
+    seq=1463, package=com.chesire.nekome
+    seq=1469, package=com.google.android.tts
+    seq=1473, package=net.reichholf.dreamdroid
+    seq=1483, package=com.google.android.apps.docs
+    seq=1486, package=com.android.vending
+    seq=1487, package=io.github.ylimit.droidbotapp
+    seq=1488, package=com.utazukin.ichaival
+
+
+Dexopt state:
+  [com.utazukin.ichaival]
+    path: /data/app/~~lN_aTmFmt4gagpmwlcUH4g==/com.utazukin.ichaival-_hgphCMQnSsJqfxyh35m2A==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.utazukin.ichaival]
+     base.apk - 677
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

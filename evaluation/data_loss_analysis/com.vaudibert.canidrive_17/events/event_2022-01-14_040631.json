@@ -1,0 +1,42 @@
+{
+  "stop_state": "bf7793ef73f281c0e5d8c05b90967091", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_040631", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddef\ud83c\uddf4 Jordan", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "266*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          909
+        ], 
+        [
+          521, 
+          974
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "760e763a1e4090d7915b683069650a6c"
+}

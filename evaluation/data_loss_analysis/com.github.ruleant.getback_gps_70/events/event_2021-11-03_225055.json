@@ -1,0 +1,42 @@
+{
+  "stop_state": "09e90955af28506d4b3c6d3a4457a5e1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_225055", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "Renomear destino", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "364*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.ruleant.getback_gps", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          309, 
+          639
+        ], 
+        [
+          673, 
+          734
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5f2c57bcda41c5911cc3b64e20003e8a"
+}

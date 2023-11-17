@@ -1,0 +1,42 @@
+{
+  "stop_state": "17891f5520b91943e2f60c3942ed2746", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_032920", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gimranov.zandy.app:id/creator_mode", 
+      "text": "Single Field", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "117*68", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.gimranov.zandy.app", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          64, 
+          790
+        ], 
+        [
+          181, 
+          858
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 12, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d5560603ac5101773932fa4f2a3ed57a"
+}

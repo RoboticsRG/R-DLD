@@ -1,0 +1,42 @@
+{
+  "stop_state": "3ac2819ffb146bac4ef508ac792ec6e8", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_185621", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Idiomas da Wikip\u00e9dia", 
+      "resource_id": "org.wikipedia:id/search_lang_button_container", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "74*50", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          632, 
+          77
+        ], 
+        [
+          706, 
+          127
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3def332dcc13d263f59fb13c25709cc7"
+}

@@ -1,0 +1,126 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        377724f com.github.sryze.wirebug/.MainActivity filter 6c9eddc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        e9b7ee5 com.github.sryze.wirebug/.BootCompletedReceiver filter 2fcfdba
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Key Set Manager:
+  [com.github.sryze.wirebug]
+      Signing KeySets: 606
+
+Packages:
+  Package [com.github.sryze.wirebug] (4963ec4):
+    userId=10687
+    pkg=Package{a882f0f com.github.sryze.wirebug}
+    codePath=/data/app/~~Ae0ZmfefeZ-hMTPBy-dWrg==/com.github.sryze.wirebug-ypUaywdciPe16rpzu025KA==
+    resourcePath=/data/app/~~Ae0ZmfefeZ-hMTPBy-dWrg==/com.github.sryze.wirebug-ypUaywdciPe16rpzu025KA==
+    legacyNativeLibraryDir=/data/app/~~Ae0ZmfefeZ-hMTPBy-dWrg==/com.github.sryze.wirebug-ypUaywdciPe16rpzu025KA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=101 minSdk=15 targetSdk=23
+    versionName=1.0.1
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{a882f0f com.github.sryze.wirebug}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.github.sryze.wirebug
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-12 08:26:47
+    firstInstallTime=2022-01-12 08:26:47
+    lastUpdateTime=2022-01-12 08:26:47
+    signatures=PackageSignatures{eeccb9c version:1, signatures:[e66888c0], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WAKE_LOCK
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=30123 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.github.sryze.wirebug
+    com.motorola.actions:
+      com.github.sryze.wirebug
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=166
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=131, package=com.google.android.contacts
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=147, package=com.motorola.livewallpaper3
+    seq=151, package=com.gimranov.zandy.app
+    seq=159, package=com.google.android.tts
+    seq=161, package=com.google.android.apps.docs
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=164, package=io.github.ylimit.droidbotapp
+    seq=165, package=com.github.sryze.wirebug
+
+
+Dexopt state:
+  [com.github.sryze.wirebug]
+    path: /data/app/~~Ae0ZmfefeZ-hMTPBy-dWrg==/com.github.sryze.wirebug-ypUaywdciPe16rpzu025KA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.github.sryze.wirebug]
+     base.apk - 648
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,42 @@
+{
+  "stop_state": "cf06c438c555961bef73610a507cb7e1", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_213330", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/more_languages", 
+      "text": "MAIS", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "127*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          579, 
+          153
+        ], 
+        [
+          706, 
+          237
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f17da857ead0893be8a5366bf2bb9c5c"
+}

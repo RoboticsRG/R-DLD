@@ -1,0 +1,43 @@
+{
+  "stop_state": "6452e6b053672e40e56c178ce8dacbdd", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_195720", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 37, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Translations", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "277*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1125
+        ], 
+        [
+          312, 
+          1190
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6452e6b053672e40e56c178ce8dacbdd"
+}

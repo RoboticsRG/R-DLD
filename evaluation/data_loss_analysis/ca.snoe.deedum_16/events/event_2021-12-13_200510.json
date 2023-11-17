@@ -1,0 +1,44 @@
+{
+  "stop_state": "a2016110cc8b2085c16f9d024302c8ee", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-12-13_200510", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          142, 
+          234
+        ], 
+        [
+          226, 
+          318
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "a2016110cc8b2085c16f9d024302c8ee"
+}

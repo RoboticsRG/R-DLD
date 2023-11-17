@@ -1,0 +1,42 @@
+{
+  "stop_state": "8cdc67ed5c5cc0e690c7a5e86e373578", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-28_120717", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ee.ioc.phon.android.speak:id/check", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "ee.ioc.phon.android.speak", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          650, 
+          978
+        ], 
+        [
+          706, 
+          1034
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 40, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8cdc67ed5c5cc0e690c7a5e86e373578"
+}

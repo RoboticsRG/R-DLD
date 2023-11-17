@@ -1,0 +1,10 @@
+{
+  "stop_state": "edb991f38af5d51b67af8913d396fb23", 
+  "event_str": "IntentEvent(intent='am start com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity')", 
+  "tag": "2021-12-14_030813", 
+  "event": {
+    "intent": "am start com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "59440783799e80665076218d82f645fa"
+}

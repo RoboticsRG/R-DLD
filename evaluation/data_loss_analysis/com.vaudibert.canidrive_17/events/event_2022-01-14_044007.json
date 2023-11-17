@@ -1,0 +1,42 @@
+{
+  "stop_state": "f36db6c986b29c4e2b3895f3f21e6599", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_044007", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/checkboxYoungDriver", 
+      "text": "Less than 21 years old.", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "472*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          124, 
+          895
+        ], 
+        [
+          596, 
+          951
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a0e22f14e4f0bb478c0460650daf8d87"
+}

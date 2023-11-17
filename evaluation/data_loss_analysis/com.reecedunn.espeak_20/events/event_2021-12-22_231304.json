@@ -1,0 +1,10 @@
+{
+  "stop_state": "7e29086474570870425f0bfd69b0b05f", 
+  "event_str": "KeyEvent(name=HOME)", 
+  "tag": "2021-12-22_231304", 
+  "event": {
+    "event_type": "key", 
+    "name": "HOME"
+  }, 
+  "start_state": "9f89e154a81e578a0051e29cf74cc895"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "39fec8a332dd0f5b672ebf4f548c4156", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_221102", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/buttonFilePicker", 
+      "text": "SELECT FILE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "185*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          267, 
+          279
+        ], 
+        [
+          452, 
+          363
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d9008a90f307fde65d3f738d3b8db066"
+}

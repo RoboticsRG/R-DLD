@@ -1,0 +1,51 @@
+{
+  "stop_state": "4e2d9486ca1b1b3197b7e930d5c42138", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_173442", 
+  "event": {
+    "views_str": [
+      "50a871ac1c9865a918f099359ee72b9e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "https://lists.orbitalfox.eu/listinfo/gemini", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "50a871ac1c9865a918f099359ee72b9e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            692, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]https://lists.orbitalfox.eu/listinfo/gemini[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ad14d4be1dd4c1b9c1a06f3df202c996"
+}

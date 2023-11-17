@@ -1,0 +1,42 @@
+{
+  "stop_state": "2d2f168483a604bcfa934182f5dedf14", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_024531", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddec\ud83c\uddea Georgia", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "266*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          974
+        ], 
+        [
+          521, 
+          1039
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b93d0a5c7ac2fb777844ef90fc137eb6"
+}

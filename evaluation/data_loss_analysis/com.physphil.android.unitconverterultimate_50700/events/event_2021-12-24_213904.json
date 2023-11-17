@@ -1,0 +1,42 @@
+{
+  "stop_state": "55d8dfd0f2e0ffd29b2873c3273f26b0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_213904", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Calorie/second", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "224*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          761
+        ], 
+        [
+          591, 
+          817
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 38, 
+    "event_type": "touch"
+  }, 
+  "start_state": "7409247917853a4908821f72e2e42021"
+}

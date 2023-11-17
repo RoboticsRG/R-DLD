@@ -1,0 +1,42 @@
+{
+  "stop_state": "becd190f659620ccb9acf9003d686e92", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_212416", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mupen64plusae.v3.alpha:id/checkBox3", 
+      "text": "O\u010disti galeriju prije dodavanja", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*56", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.mupen64plusae.v3.alpha", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          571
+        ], 
+        [
+          692, 
+          627
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9f194fce7302a81f6d461f9fec39cae4"
+}

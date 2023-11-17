@@ -1,0 +1,44 @@
+{
+  "stop_state": "903a275cc4d19614bd2ff2aaa52c4ab1", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-11-10_160629", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 1, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "P\u00e1gina da Web n\u00e3o dispon\u00edvel", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "722*1408", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "de.badaix.snapcast", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          152
+        ], 
+        [
+          722, 
+          1560
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "903a275cc4d19614bd2ff2aaa52c4ab1"
+}

@@ -1,0 +1,507 @@
+{
+  "stop_state": "188b6df3b0051c3183a9fd1a6ba78005", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-29_183508", 
+  "event": {
+    "views_str": [
+      "3841538924cd8fa2952bae0aaa75f022", 
+      "f9ea45f51f0e9725a58ef778bb46437d", 
+      "df5d5c418ede840121af813cf815dca8", 
+      "b0166adce906f131c6305ff5fc597efe", 
+      "9fc1191ad05c53be337d90d53abfb4a6", 
+      "58d19443d71a133eeb34dd72afc303e9", 
+      "b2091b980392dd88a75e8b3e74ff7ca7", 
+      "d2e7f66af6cc40349e9c4ab51735ad9d", 
+      "e5954e8794b1b17d88563d48aa777121", 
+      "e53878853095ca7c21c56228c068e9a1", 
+      "365863bea506d1d8ba167c4ee0c86c48", 
+      "47b31b1bbfc455ed15838640fb1b1927", 
+      "c1518bd6328de332c3f69111f569d9c2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_mu", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_mu", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "3841538924cd8fa2952bae0aaa75f022", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            236
+          ], 
+          [
+            600, 
+            306
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_mu[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_kl", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_kl", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "f9ea45f51f0e9725a58ef778bb46437d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            306
+          ], 
+          [
+            600, 
+            376
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_kl[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_in", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_in", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "df5d5c418ede840121af813cf815dca8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            376
+          ], 
+          [
+            600, 
+            446
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_in[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_ff", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ff", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "b0166adce906f131c6305ff5fc597efe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            446
+          ], 
+          [
+            600, 
+            516
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ff[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_ge", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ge", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "9fc1191ad05c53be337d90d53abfb4a6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            516
+          ], 
+          [
+            600, 
+            586
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ge[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_ch", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ch", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "58d19443d71a133eeb34dd72afc303e9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            586
+          ], 
+          [
+            600, 
+            656
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ch[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_ko", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ko", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "b2091b980392dd88a75e8b3e74ff7ca7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            656
+          ], 
+          [
+            600, 
+            726
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ko[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_kk", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_kk", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "d2e7f66af6cc40349e9c4ab51735ad9d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            726
+          ], 
+          [
+            600, 
+            796
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_kk[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_so", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_so", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "e5954e8794b1b17d88563d48aa777121", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            796
+          ], 
+          [
+            600, 
+            866
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_so[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_mr", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_mr", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "e53878853095ca7c21c56228c068e9a1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            866
+          ], 
+          [
+            600, 
+            936
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_mr[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_gs", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_gs", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "365863bea506d1d8ba167c4ee0c86c48", 
+        "enabled": true, 
+        "bounds": [
+          [
+            480, 
+            936
+          ], 
+          [
+            600, 
+            1006
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_gs[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_lep", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_lep", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "47b31b1bbfc455ed15838640fb1b1927", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            1006
+          ], 
+          [
+            240, 
+            1076
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_lep[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_ast", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "120*70", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ast", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.roggstar.luigithehunter.dsaassistent", 
+        "long_clickable": true, 
+        "view_str": "c1518bd6328de332c3f69111f569d9c2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            1076
+          ], 
+          [
+            240, 
+            1146
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.roggstar.luigithehunter.dsaassistent:id/tv_ast[text]0[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4314110a71d652a3f22164c9d37ffdde"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "991fa3bc022127e281b3966d1ab5d1f1", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-13_184321", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 46, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "test123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8a9a046b96ae9d053a2fb106b2d358be"
+}

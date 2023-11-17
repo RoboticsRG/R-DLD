@@ -1,0 +1,43 @@
+{
+  "stop_state": "2d8d31ab1e4a75db777fa2807d823e59", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-09_075955", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.unifiedpush.distributor.noprovider2push:id/settings_proxy_value", 
+      "text": "HelloWorldHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.unifiedpush.distributor.noprovider2push", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          570
+        ], 
+        [
+          692, 
+          654
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2d8d31ab1e4a75db777fa2807d823e59"
+}

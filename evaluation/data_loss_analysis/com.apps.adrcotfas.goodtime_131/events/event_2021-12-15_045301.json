@@ -1,0 +1,42 @@
+{
+  "stop_state": "b3307e6069c91dc2919504a44bd97f02", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-15_045301", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.apps.adrcotfas.goodtime:id/timeLabel", 
+      "text": "16:42", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "445*311", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.apps.adrcotfas.goodtime", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          138, 
+          591
+        ], 
+        [
+          583, 
+          902
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4dd88f507fc965d24b1cea7cb8fd7668"
+}

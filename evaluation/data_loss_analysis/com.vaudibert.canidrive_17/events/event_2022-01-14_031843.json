@@ -1,0 +1,43 @@
+{
+  "stop_state": "c1cf7a7177a669f60123ed23b00b160d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-14_031843", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/spinnerCountry", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "350*65", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          821
+        ], 
+        [
+          605, 
+          886
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "35d930f8fc2c71704359ad5cc43191c2"
+}

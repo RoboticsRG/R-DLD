@@ -1,0 +1,42 @@
+{
+  "stop_state": "92329b613b3763e713a0983a4b7c965e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_195012", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/am_pm_spinner", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          477, 
+          856
+        ], 
+        [
+          631, 
+          940
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6c414c7b186825029db22ed586acf6be"
+}

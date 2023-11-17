@@ -1,0 +1,43 @@
+{
+  "stop_state": "bed0928817594779ff812350fe82f6d4", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-12-13_202538", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 62, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "rwv.io/dezhemini/", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "412*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          61
+        ], 
+        [
+          440, 
+          145
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "13c75ae35194f3275da662cac53d7057"
+}

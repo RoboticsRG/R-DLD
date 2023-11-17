@@ -1,0 +1,42 @@
+{
+  "stop_state": "856274c85e55acd2dfd6a5f175273155", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_200056", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Ton (UK/long)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "212*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          971
+        ], 
+        [
+          579, 
+          1027
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 44, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f1f6d2b1e333b743b8c11cf03010bb17"
+}

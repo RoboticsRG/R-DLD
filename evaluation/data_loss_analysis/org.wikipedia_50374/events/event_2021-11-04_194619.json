@@ -1,0 +1,42 @@
+{
+  "stop_state": "c7048078d8a16e31ae4e961cc69f5184", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_194619", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/positiveButton", 
+      "text": "ENTRAR / JUNTAR-SE \u00c0 WIKIP\u00c9DIA", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "473*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          56, 
+          851
+        ], 
+        [
+          529, 
+          935
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0124ba2b0218ae40f146bfb8e1fc85ac"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "3b8cc6cc3216f804a809e886661d87fb", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-11_115333", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fabienli.dokuwiki:id/design_menu_item_text", 
+      "text": "Synchro", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.fabienli.dokuwiki", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          574
+        ], 
+        [
+          462, 
+          658
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "9a9c72006aacf5f46d7a65ef9bafa30c"
+}

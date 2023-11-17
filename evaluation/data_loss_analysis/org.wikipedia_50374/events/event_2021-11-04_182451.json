@@ -1,0 +1,42 @@
+{
+  "stop_state": "3def332dcc13d263f59fb13c25709cc7", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_182451", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Limpar consulta", 
+      "resource_id": "org.wikipedia:id/search_close_btn", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "70*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          544, 
+          71
+        ], 
+        [
+          614, 
+          134
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "ccd7a49030f6a17e108f8ce6d4a3becf"
+}

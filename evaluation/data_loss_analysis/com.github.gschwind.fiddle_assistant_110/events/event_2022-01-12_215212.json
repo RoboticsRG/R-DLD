@@ -1,0 +1,10 @@
+{
+  "stop_state": "1a750950b78d5acf1633a0bce2f193ce", 
+  "event_str": "IntentEvent(intent='am start com.github.gschwind.fiddle_assistant/com.github.gschwind.fiddle_assistant.MainActivity')", 
+  "tag": "2022-01-12_215212", 
+  "event": {
+    "intent": "am start com.github.gschwind.fiddle_assistant/com.github.gschwind.fiddle_assistant.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "42629c69ef0c639dd36f75a1e15c0dc3"
+}

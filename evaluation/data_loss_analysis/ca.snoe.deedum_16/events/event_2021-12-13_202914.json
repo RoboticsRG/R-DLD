@@ -1,0 +1,89 @@
+{
+  "stop_state": "864abbc8bb3f1ae7d01d917759769e9a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_202914", 
+  "event": {
+    "views_str": [
+      "f0f6e4900961f67b608a6cf4e0dd4ab6", 
+      "ed3fd5b1c29c59421e6345e07632b67d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "f0f6e4900961f67b608a6cf4e0dd4ab6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "655*85", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "ed3fd5b1c29c59421e6345e07632b67d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            35, 
+            226
+          ], 
+          [
+            690, 
+            311
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "471afe4d576d5dac8aeeecdeaac3a978"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "d2e1948f3d2d4f1d385779f496e7959d", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_115202", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/bExportSelFile", 
+      "text": "SELECT FILE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "224*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          496, 
+          318
+        ], 
+        [
+          720, 
+          402
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e1c43b66811760fbe515a8fcb63695dd"
+}

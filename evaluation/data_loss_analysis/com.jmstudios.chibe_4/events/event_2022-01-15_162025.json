@@ -1,0 +1,89 @@
+{
+  "stop_state": "f41d746fda54034966ee623cab0edf01", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-15_162025", 
+  "event": {
+    "views_str": [
+      "29abcf368b6b532b745af77cc100acbc", 
+      "285168fe35c4f37eb75c89ba10b40adb"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/am_label", 
+        "text": "AM", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "44*61", 
+        "checked": true, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/am_label", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": false, 
+        "view_str": "29abcf368b6b532b745af77cc100acbc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            508, 
+            531
+          ], 
+          [
+            552, 
+            592
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/am_label[text]AM[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/pm_label", 
+        "text": "PM", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "43*61", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/pm_label", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.jmstudios.chibe", 
+        "long_clickable": false, 
+        "view_str": "285168fe35c4f37eb75c89ba10b40adb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            508, 
+            578
+          ], 
+          [
+            551, 
+            639
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/pm_label[text]PM[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3f8a8ffa2a21ce40da3bfa1e52c04986"
+}

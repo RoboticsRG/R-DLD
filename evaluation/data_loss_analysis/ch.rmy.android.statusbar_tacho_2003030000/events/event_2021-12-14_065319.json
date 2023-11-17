@@ -1,0 +1,89 @@
+{
+  "stop_state": "f6d38d8b020295946ce3409810b37599", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-14_065319", 
+  "event": {
+    "views_str": [
+      "0e87effb5e7e8b33ebbdabc1195a9e80", 
+      "ffac3b865193865732ac8cae8d6645cd"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox", 
+        "text": "Keep updating while screen is off", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*84", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.statusbar_tacho", 
+        "long_clickable": false, 
+        "view_str": "0e87effb5e7e8b33ebbdabc1195a9e80", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            696
+          ], 
+          [
+            692, 
+            780
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.rmy.android.statusbar_tacho:id/keepOnWhileScreenOffCheckbox[text]Keep updating while screen is off[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.statusbar_tacho:id/toggleButton", 
+        "text": "SPEEDOMETER DISABLED", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "664*112", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]ch.rmy.android.statusbar_tacho:id/toggleButton", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.statusbar_tacho", 
+        "long_clickable": false, 
+        "view_str": "ffac3b865193865732ac8cae8d6645cd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            1432
+          ], 
+          [
+            692, 
+            1544
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]ch.rmy.android.statusbar_tacho:id/toggleButton[text]SPEEDOMETER DISABLED[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cb7d39a26cbb06cb890184799955a637"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "cbb86387f4cd5de74885aff1613898ff", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_020835", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/spinnerCountry", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "350*65", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          821
+        ], 
+        [
+          605, 
+          886
+        ]
+      ], 
+      "class": "android.widget.Spinner", 
+      "focusable": true
+    }, 
+    "id": 6, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e6cad0ea6a98a1266d0c6f6f67ce2fb8"
+}

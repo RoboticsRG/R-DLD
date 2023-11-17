@@ -1,0 +1,42 @@
+{
+  "stop_state": "6bfefbd1f43f77705e89de2316d66d32", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-14_061136", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.app.missednotificationsreminder:id/radio", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.app.missednotificationsreminder", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          160
+        ], 
+        [
+          692, 
+          244
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": false
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c877b2421644343e1ccc411e3279dc41"
+}

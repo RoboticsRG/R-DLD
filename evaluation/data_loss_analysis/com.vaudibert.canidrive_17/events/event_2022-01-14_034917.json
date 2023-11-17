@@ -1,0 +1,42 @@
+{
+  "stop_state": "cc0929dce2f3bbaab29a02f6ca797285", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_034917", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\uddee\ud83c\uddf9 Italy", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "266*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          844
+        ], 
+        [
+          521, 
+          909
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b2c5192c7c621608b82864135ffc9099"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "2396ece3de9fe71d6cdd6c8696407c16", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-11_231645", 
+  "event": {
+    "views_str": [
+      "97c6f557f6c2f1c340945efcddeba9fc"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "   Search items", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "587*63", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gimranov.zandy.app", 
+        "long_clickable": true, 
+        "view_str": "97c6f557f6c2f1c340945efcddeba9fc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            119, 
+            63
+          ], 
+          [
+            706, 
+            126
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]   Search items[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0ef54f4a8fea1756fbcd958822e108a7"
+}

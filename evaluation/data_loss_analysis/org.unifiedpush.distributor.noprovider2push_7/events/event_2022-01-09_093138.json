@@ -1,0 +1,43 @@
+{
+  "stop_state": "b0b0b0a17fb8293771203478231a5d20", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-09_093138", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.unifiedpush.distributor.noprovider2push:id/settings_proxy_value", 
+      "text": "HelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.unifiedpush.distributor.noprovider2push", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          570
+        ], 
+        [
+          692, 
+          654
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "02617ce04f8b38835d0639e2abe8f26b"
+}

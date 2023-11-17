@@ -1,0 +1,43 @@
+{
+  "stop_state": "11375916054e073ed224f09b8e157a94", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_223006", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/search_src_text", 
+      "text": "Pesquisar na Wikip\u00e9dia", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "576*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          71
+        ], 
+        [
+          702, 
+          134
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "11375916054e073ed224f09b8e157a94"
+}

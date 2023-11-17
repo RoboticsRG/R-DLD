@@ -1,0 +1,42 @@
+{
+  "stop_state": "76f8d40359ab797b66745947086ab73b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_170735", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyfoodtracker:id/design_menu_item_text", 
+      "text": "Tutorial", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyfoodtracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          492
+        ], 
+        [
+          462, 
+          576
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 45, 
+    "event_type": "touch"
+  }, 
+  "start_state": "87286e707f2a092389c768ac7b4faf84"
+}

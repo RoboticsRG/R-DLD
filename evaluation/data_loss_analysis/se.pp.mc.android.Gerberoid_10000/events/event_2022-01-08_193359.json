@@ -1,0 +1,42 @@
+{
+  "stop_state": "7b351b0b3dea296e0a025944f73173cb", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-08_193359", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "MAGENTA 4", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "11*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "se.pp.mc.android.Gerberoid", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          662, 
+          877
+        ], 
+        [
+          673, 
+          961
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 24, 
+    "event_type": "touch"
+  }, 
+  "start_state": "180c3e0766a6df9e6be5e573b0599446"
+}

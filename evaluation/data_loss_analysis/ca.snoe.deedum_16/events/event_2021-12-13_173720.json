@@ -1,0 +1,42 @@
+{
+  "stop_state": "6452e6b053672e40e56c178ce8dacbdd", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_173720", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Gemini documentation", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "292*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          892
+        ], 
+        [
+          327, 
+          955
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 17, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bcd026594d6ac81c7c5b1cc12aa8120c"
+}

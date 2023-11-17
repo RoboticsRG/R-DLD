@@ -1,0 +1,43 @@
+{
+  "stop_state": "809a5a88cd2288bb312ba37a0547ae45", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-04_172144", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.limelight:id/fragmentView", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "720*1432", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          168
+        ], 
+        [
+          720, 
+          1600
+        ]
+      ], 
+      "class": "android.widget.GridView", 
+      "focusable": false
+    }
+  }, 
+  "start_state": "809a5a88cd2288bb312ba37a0547ae45"
+}

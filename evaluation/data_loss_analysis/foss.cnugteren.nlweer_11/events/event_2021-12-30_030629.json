@@ -1,0 +1,42 @@
+{
+  "stop_state": "874b52038f0e129cdac6c56d2abd76b0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_030629", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "Relative humidity", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          763
+        ], 
+        [
+          673, 
+          847
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 28, 
+    "event_type": "touch"
+  }, 
+  "start_state": "674683dc78ff8058fbe09d9a70f10d31"
+}

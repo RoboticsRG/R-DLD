@@ -1,0 +1,42 @@
+{
+  "stop_state": "716d3fadd13bdc9da68f7d85c300031e", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_193046", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Bulgarian Lev", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "206*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          621
+        ], 
+        [
+          573, 
+          677
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 27, 
+    "event_type": "touch"
+  }, 
+  "start_state": "90d3e7dae25e10af41888f5b0f595486"
+}

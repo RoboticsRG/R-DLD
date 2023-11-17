@@ -1,0 +1,42 @@
+{
+  "stop_state": "a135bc5afcd63779d5a4c1e25c792932", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_205541", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Miles", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "116*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          411
+        ], 
+        [
+          483, 
+          467
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 45, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b46e832f1ea3a2e6c700c7a6894b56d8"
+}

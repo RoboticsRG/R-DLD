@@ -1,0 +1,42 @@
+{
+  "stop_state": "b792421debc7a5ca1bd38981aaa3f6f0", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_234743", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "N\u00c3O MOSTRAR NOVAMENTE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "407*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          245, 
+          862
+        ], 
+        [
+          652, 
+          946
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "42e6d184c9d6cb4d7429a8ce99928315"
+}

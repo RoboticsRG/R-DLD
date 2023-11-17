@@ -1,0 +1,42 @@
+{
+  "stop_state": "50207ff5ab813996839c4415bd60f94f", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_214052", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/feed_content_type_checkbox", 
+      "text": "ATIVADO", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          615, 
+          197
+        ], 
+        [
+          699, 
+          281
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": true
+    }, 
+    "id": 18, 
+    "event_type": "touch"
+  }, 
+  "start_state": "50207ff5ab813996839c4415bd60f94f"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "24928bd2c164bb35479ea7e20c61e835", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_012309", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "\ud83c\udde8\ud83c\udde6 Canada", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "414*65", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          255, 
+          1299
+        ], 
+        [
+          669, 
+          1364
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": false
+    }, 
+    "id": 8, 
+    "event_type": "touch"
+  }, 
+  "start_state": "571d568c6997e30f101a15185f64dfbe"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "3cad367223786d651f1df134b7543611", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_145617", 
+  "event": {
+    "views_str": [
+      "2c984f2c69202b5ec6f617376c846521"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/input_url", 
+        "text": "https://", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*79", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_url", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "2c984f2c69202b5ec6f617376c846521", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            322
+          ], 
+          [
+            692, 
+            401
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/input_url[text]https://[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b8a76b5b7653dff0681b46276d21a1bb"
+}

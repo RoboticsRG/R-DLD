@@ -1,0 +1,42 @@
+{
+  "stop_state": "06bea4c651f04fc4c00538c255913fe8", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_030951", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/textViewPresetDrinkDescription", 
+      "text": "WhiskyHelloWorld", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "447*38", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          115, 
+          498
+        ], 
+        [
+          562, 
+          536
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "61272a92fda8a32c923a24076ac2d8ea"
+}

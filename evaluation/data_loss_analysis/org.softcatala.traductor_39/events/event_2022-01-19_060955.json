@@ -1,0 +1,89 @@
+{
+  "stop_state": "9f3f6367c9097b341071428aeb48a11c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-19_060955", 
+  "event": {
+    "views_str": [
+      "fbb364a0d8507141922e83da8db92bf8", 
+      "7a0b2d2f131a25fdd4c577085acd54a7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.softcatala.traductor:id/textToTranslateEdit", 
+        "text": "Type the text to translate", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "720*79", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/textToTranslateEdit", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.softcatala.traductor", 
+        "long_clickable": true, 
+        "view_str": "fbb364a0d8507141922e83da8db92bf8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            194
+          ], 
+          [
+            720, 
+            273
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/textToTranslateEdit[text]Type the text to translate[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.softcatala.traductor:id/translatedTextEdit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "636*79", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/translatedTextEdit", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.softcatala.traductor", 
+        "long_clickable": true, 
+        "view_str": "7a0b2d2f131a25fdd4c577085acd54a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            273
+          ], 
+          [
+            636, 
+            352
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.softcatala.traductor:id/translatedTextEdit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "01c39e9a1f83c9095534ad819df13953"
+}

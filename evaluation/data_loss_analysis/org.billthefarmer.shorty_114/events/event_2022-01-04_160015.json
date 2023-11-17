@@ -1,0 +1,89 @@
+{
+  "stop_state": "3d90249453c0f29de28ab41308bb2a4a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-04_160015", 
+  "event": {
+    "views_str": [
+      "6cc5aed9e1253e940b7d367baf5ba77f", 
+      "ac8a4b149e6c75a381c17a2074d545f4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_name", 
+        "text": "BBC Radio 2", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "6cc5aed9e1253e940b7d367baf5ba77f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            251
+          ], 
+          [
+            706, 
+            330
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_name[text]BBC Radio 2[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.shorty:id/lu_url", 
+        "text": "http://www.listenlive.eu/bbcradio2.m3u", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*79", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.shorty", 
+        "long_clickable": true, 
+        "view_str": "ac8a4b149e6c75a381c17a2074d545f4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            330
+          ], 
+          [
+            706, 
+            409
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.shorty:id/lu_url[text]http://www.listenlive.eu/bbcradio2.m3u[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ccdd3145b50f647ab74de0facc855356"
+}

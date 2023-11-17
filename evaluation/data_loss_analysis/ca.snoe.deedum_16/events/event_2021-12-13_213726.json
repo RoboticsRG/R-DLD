@@ -1,0 +1,43 @@
+{
+  "stop_state": "2bf56e24baf85a8b2f794c046827eaab", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_213726", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "\nThis document describes an adaptation of the web's de-facto standard robots.txt mechanism for controlling access to Gemini resources by automated clients (hereafter \"bots\").\n\nGemini server admins may use robots.txt to convey their desired bot policy in a machine-readable format.\n\nAuthors of automated Gemini clients (e.g. search engine crawlers, web proxies, etc.) are strongly encouraged to check for such policies and to comply with them when found.\n\nServer admins should understand that it is impossible to *enforce* a robots.txt policy and must be prepared to use e.g. firewall rules to block access by misbehaving bots.  This is equally true of Gemini and the web.\n", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*882", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          374
+        ], 
+        [
+          690, 
+          1256
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2bf56e24baf85a8b2f794c046827eaab"
+}

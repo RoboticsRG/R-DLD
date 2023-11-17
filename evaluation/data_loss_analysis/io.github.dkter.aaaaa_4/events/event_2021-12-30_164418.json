@@ -1,0 +1,42 @@
+{
+  "stop_state": "fde6c59499b3186b4fae807b27305b98", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_164418", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "io.github.dkter.aaaaa:id/btnKeyboardSettings", 
+      "text": "CLICK TO OPEN KEYBOARD SETTINGS", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "475*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "io.github.dkter.aaaaa", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          123, 
+          351
+        ], 
+        [
+          598, 
+          435
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bf46da6e80a7fc92b77bcd1ad350beb6"
+}

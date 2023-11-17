@@ -1,0 +1,44 @@
+{
+  "stop_state": "7911d26056b3d169b12831478520d3bf", 
+  "event_str": "ScrollEvent(direction=UP)", 
+  "tag": "2021-11-04_222137", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/horizontal_scroll_languages", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": false, 
+      "size": "565*84", 
+      "scrollable": true, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          153
+        ], 
+        [
+          579, 
+          237
+        ]
+      ], 
+      "class": "android.widget.HorizontalScrollView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "7911d26056b3d169b12831478520d3bf"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "f1b05b906863fecfe65a295dbed88066", 
+  "event_str": "IntentEvent(intent='am start com.aragaer.jtt/com.aragaer.jtt.JTTMainActivity')", 
+  "tag": "2022-01-11_051636", 
+  "event": {
+    "intent": "am start com.aragaer.jtt/com.aragaer.jtt.JTTMainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "dedb06903c4644a6cf94f47e51f1cbce"
+}

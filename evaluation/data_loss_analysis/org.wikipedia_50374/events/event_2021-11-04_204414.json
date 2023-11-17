@@ -1,0 +1,43 @@
+{
+  "stop_state": "fbdc8bc02c7e55e4f4d278b91d995e38", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-04_204414", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/search_src_text", 
+      "text": "Filtrar minhas listas", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "580*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          126, 
+          70
+        ], 
+        [
+          706, 
+          133
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "ed94c83481c879073f1f8b0481ad5b3a"
+}

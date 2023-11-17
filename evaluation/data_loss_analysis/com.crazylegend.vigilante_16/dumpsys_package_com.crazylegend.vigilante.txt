@@ -1,0 +1,276 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        74bdaf9 com.crazylegend.vigilante/.MainActivity filter d9a4a3e
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        74bdaf9 com.crazylegend.vigilante/.MainActivity filter d9a4a3e
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        b4db7bb com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 3b464d8
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        3e62db5 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 9eccc4a
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        198f031 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter e336316
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        d161497 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 76f684
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.LOCKED_BOOT_COMPLETED:
+        744b09f com.crazylegend.vigilante/.boot.BootReceiver filter 9d5ec
+          Action: "android.intent.action.LOCKED_BOOT_COMPLETED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.intent.action.DEVICE_STORAGE_OK:
+        198f031 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter e336316
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        b4db7bb com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 3b464d8
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        fdb5e6d com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.RescheduleReceiver filter c7a9aa2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        fdb5e6d com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.RescheduleReceiver filter c7a9aa2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        744b09f com.crazylegend.vigilante/.boot.BootReceiver filter 9d5ec
+          Action: "android.intent.action.LOCKED_BOOT_COMPLETED"
+          Action: "android.intent.action.BOOT_COMPLETED"
+        fdb5e6d com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.RescheduleReceiver filter c7a9aa2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        3e62db5 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 9eccc4a
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        45c7469 com.crazylegend.vigilante/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 90bbeee
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        69d6333 com.crazylegend.vigilante/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 1aef6f0
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.accessibilityservice.AccessibilityService:
+        840ff8f com.crazylegend.vigilante/.service.VigilanteService filter 924921c permission android.permission.BIND_ACCESSIBILITY_SERVICE
+          Action: "android.accessibilityservice.AccessibilityService"
+
+Registered ContentProviders:
+  com.crazylegend.vigilante/androidx.startup.InitializationProvider:
+    Provider{1e1e8ed com.crazylegend.vigilante/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.crazylegend.vigilante.androidx-startup]:
+    Provider{1e1e8ed com.crazylegend.vigilante/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{6769322 com.crazylegend.vigilante}
+
+Key Set Manager:
+  [com.crazylegend.vigilante]
+      Signing KeySets: 293
+
+Packages:
+  Package [com.crazylegend.vigilante] (f9d31b3):
+    userId=10445
+    pkg=Package{e84e370 com.crazylegend.vigilante}
+    codePath=/data/app/~~Jel_cNudQrSVMZZ1tNpZvA==/com.crazylegend.vigilante-6chVvQP-M5fYDCttnFiGpw==
+    resourcePath=/data/app/~~Jel_cNudQrSVMZZ1tNpZvA==/com.crazylegend.vigilante-6chVvQP-M5fYDCttnFiGpw==
+    legacyNativeLibraryDir=/data/app/~~Jel_cNudQrSVMZZ1tNpZvA==/com.crazylegend.vigilante-6chVvQP-M5fYDCttnFiGpw==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=16 minSdk=24 targetSdk=30
+    versionName=1.2.3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{e84e370 com.crazylegend.vigilante}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    queriesIntents=[Intent { act=android.intent.action.MAIN }]
+    dataDir=/data/user/0/com.crazylegend.vigilante
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      androidx.window.extensions
+      androidx.window.sidecar
+    timeStamp=2021-12-15 18:53:10
+    firstInstallTime=2021-12-15 18:53:10
+    lastUpdateTime=2021-12-15 18:53:10
+    signatures=PackageSignatures{48126e9 version:3, signatures:[761d10d6], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    requested permissions:
+      android.permission.FOREGROUND_SERVICE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+      android.permission.USE_BIOMETRIC
+      android.permission.USE_FINGERPRINT
+      android.permission.VIBRATE
+      android.permission.WAKE_LOCK
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: granted=true
+      android.permission.USE_FINGERPRINT: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.USE_BIOMETRIC: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=33245 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.crazylegend.vigilante
+    com.motorola.actions:
+      com.crazylegend.vigilante
+    com.google.android.contacts:
+      com.crazylegend.vigilante
+    com.google.android.gm:
+      com.crazylegend.vigilante
+    com.google.android.youtube:
+      com.crazylegend.vigilante
+    com.crazylegend.vigilante:
+      com.google.android.documentsui
+      com.motorola.survey
+      com.motorola.moto.demo
+      com.motorola.iqdataupload
+      com.google.android.apps.googleassistant
+      com.motorola.brapps
+      com.google.android.wfcactivation
+      com.motorola.motodisplay
+      com.motorola.moto
+      com.motorola.gamemode
+      com.google.android.dialer
+      com.google.android.projection.gearhead
+      com.motorola.actions
+      com.motorola.help
+      com.motorola.camera3
+      com.motorola.easyprefix
+      com.google.android.apps.nbu.files
+      com.motorola.dynamicvolume
+      com.motorola.genie
+      com.google.android.apps.pixelmigrate
+      com.motorola.invisiblenet
+      com.motorola.fmplayer
+      com.google.android.googlequicksearchbox
+      com.android.inputmethod.latin
+      com.google.android.contacts
+      com.google.android.apps.tachyon
+      com.google.android.marvin.talkback
+      com.google.android.calculator
+      com.motorola.audiofx
+      com.google.android.gm
+      com.google.android.apps.photos
+      com.android.chrome
+      com.google.android.apps.youtube.music
+      com.google.android.deskclock
+      com.google.android.youtube
+      com.google.android.apps.docs
+      com.google.android.apps.subscriptions.red
+      com.google.android.calendar
+      com.google.android.videos
+      com.google.android.apps.maps
+      com.motorola.photoeditor
+      com.google.android.apps.messaging
+      com.google.android.inputmethod.latin
+      com.summit.motorola.rcs
+      com.att.iqi
+      com.motorola.livewallpaper3
+      [com.motorola.ccc.ota,com.motorola.ccc.internal,com.motorola.ccc.notification,com.motorola.android.fota,com.motorola.ccc.devicemanagement]
+      com.motorola.setup
+      com.motorola.demo
+      com.motorola.motocit
+      com.google.android.apps.wallpaper
+      com.android.wallpaper
+      com.google.android.setupwizard
+      com.google.android.cellbroadcastreceiver
+      com.facebook.katana
+      com.example.gesturecapture
+      com.example.testsensors
+      net.nitratine.priceperunit
+      org.y20k.transistor
+      vidma.screenrecorder.videorecorder.videoeditor.lite
+      org.zwanoo.android.speedtest
+      com.github.ashutoshgngwr.tenbitclockwidget
+      com.github.ruleant.getback_gps
+      io.github.ylimit.droidbotapp
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=193
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=67, package=com.gianlu.aria2app
+    seq=70, package=app.zeusln.zeus
+    seq=75, package=ca.snoe.deedum
+    seq=89, package=aq.metallists.loudbang
+    seq=92, package=com.google.android.gms
+    seq=96, package=com.app.missednotificationsreminder
+    seq=104, package=ch.rmy.android.statusbar_tacho
+    seq=118, package=com.akdev.nofbeventscraper
+    seq=128, package=ch.bailu.aat
+    seq=136, package=com.android.vending
+    seq=140, package=com.google.android.tts
+    seq=142, package=cl.coders.faketraveler
+    seq=153, package=com.apps.adrcotfas.goodtime
+    seq=165, package=com.codedead.deadhash
+    seq=173, package=com.dosse.airpods
+    seq=188, package=com.crazylegend.subhub
+    seq=190, package=com.google.android.apps.docs
+    seq=191, package=io.github.ylimit.droidbotapp
+    seq=192, package=com.crazylegend.vigilante
+
+
+Dexopt state:
+  [com.crazylegend.vigilante]
+    path: /data/app/~~Jel_cNudQrSVMZZ1tNpZvA==/com.crazylegend.vigilante-6chVvQP-M5fYDCttnFiGpw==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [com.crazylegend.vigilante]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

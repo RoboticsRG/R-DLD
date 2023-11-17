@@ -1,0 +1,43 @@
+{
+  "stop_state": "1b47fa4ebe12cde95ef8aef27dff8862", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2022-01-11_074147", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": "\u305d\u306e\u4ed6\u306e\u30aa\u30d7\u30b7\u30e7\u30f3", 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*53", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.aragaer.jtt", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          622, 
+          54
+        ], 
+        [
+          720, 
+          107
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "1b47fa4ebe12cde95ef8aef27dff8862"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "b06c2d2e5be04eb1e168a030723b64e5", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_193059", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Indian Rupee", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "200*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1321
+        ], 
+        [
+          567, 
+          1377
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 109, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b06c2d2e5be04eb1e168a030723b64e5"
+}

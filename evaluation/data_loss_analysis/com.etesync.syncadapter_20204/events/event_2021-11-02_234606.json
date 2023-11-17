@@ -1,0 +1,43 @@
+{
+  "stop_state": "5b80afd79ab72921ec21481116b9e4df", 
+  "event_str": "SetTextEvent", 
+  "tag": "2021-11-02_234606", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "localhost", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "543*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          88, 
+          481
+        ], 
+        [
+          631, 
+          560
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "6443ed69c0c950cd92cf39336ca7330d"
+}

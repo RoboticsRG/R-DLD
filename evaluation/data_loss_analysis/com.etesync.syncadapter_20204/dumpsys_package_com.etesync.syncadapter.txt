@@ -1,0 +1,234 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        92f33c1 com.etesync.syncadapter/.ui.AccountsActivity filter 3240766
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        f7c6aa7 com.etesync.syncadapter/.ui.setup.LoginActivity filter 4a27b54
+          Action: "android.intent.action.MAIN"
+
+Receiver Resolver Table:
+  Schemes:
+      package:
+        1ba4afd com.etesync.syncadapter/.App$AppUpdatedReceiver filter bd933f2
+          Action: "android.intent.action.PACKAGE_REPLACED"
+          Scheme: "package"
+          Path: "PatternMatcher{LITERAL: com.etesync.syncadapter}"
+        87b0a43 com.etesync.syncadapter/.AccountSettings$AppUpdatedReceiver filter c55f8c0
+          Action: "android.intent.action.PACKAGE_REPLACED"
+          Scheme: "package"
+          Path: "PatternMatcher{LITERAL: com.etesync.syncadapter}"
+        6e599f9 com.etesync.syncadapter/.PackageChangedReceiver filter 4429d3e
+          Action: "android.intent.action.PACKAGE_ADDED"
+          Action: "android.intent.action.PACKAGE_FULLY_REMOVED"
+          Scheme: "package"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.content.SyncAdapter:
+        cdcdcb5 com.etesync.syncadapter/.syncadapter.CalendarsSyncAdapterService filter e474f4a
+          Action: "android.content.SyncAdapter"
+        bc17ebb com.etesync.syncadapter/.syncadapter.TasksSyncAdapterService filter 5a21fd8
+          Action: "android.content.SyncAdapter"
+        4cb8f31 com.etesync.syncadapter/.syncadapter.TasksOrgSyncAdapterService filter 1331616
+          Action: "android.content.SyncAdapter"
+        d18ed6d com.etesync.syncadapter/.syncadapter.AddressBooksSyncAdapterService filter b427da2
+          Action: "android.content.SyncAdapter"
+        ae30a33 com.etesync.syncadapter/.syncadapter.ContactsSyncAdapterService filter 63911f0
+          Action: "android.content.SyncAdapter"
+      android.accounts.AccountAuthenticator:
+        83a079f com.etesync.syncadapter/.syncadapter.AccountAuthenticatorService filter 301e0ec
+          Action: "android.accounts.AccountAuthenticator"
+        e7f4b97 com.etesync.syncadapter/.syncadapter.NullAuthenticatorService filter 3056184
+          Action: "android.accounts.AccountAuthenticator"
+
+Registered ContentProviders:
+  com.etesync.syncadapter/androidx.core.content.FileProvider:
+    Provider{bc351f9 com.etesync.syncadapter/androidx.core.content.FileProvider}
+  com.etesync.syncadapter/.syncadapter.AddressBookProvider:
+    Provider{4b9f53e com.etesync.syncadapter/.syncadapter.AddressBookProvider}
+  com.etesync.syncadapter/org.acra.attachment.AcraContentProvider:
+    Provider{7da7f9f com.etesync.syncadapter/org.acra.attachment.AcraContentProvider}
+  com.etesync.syncadapter/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{ee4f8ec com.etesync.syncadapter/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+
+ContentProvider Authorities:
+  [com.etesync.syncadapter.lifecycle-process]:
+    Provider{ee4f8ec com.etesync.syncadapter/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{dde14b5 com.etesync.syncadapter}
+  [com.etesync.syncadapter.log]:
+    Provider{bc351f9 com.etesync.syncadapter/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{adc274a com.etesync.syncadapter}
+  [com.etesync.syncadapter.acra]:
+    Provider{7da7f9f com.etesync.syncadapter/org.acra.attachment.AcraContentProvider}
+      applicationInfo=ApplicationInfo{f176bb com.etesync.syncadapter}
+  [com.etesync.syncadapter.addressbooks]:
+    Provider{4b9f53e com.etesync.syncadapter/.syncadapter.AddressBookProvider}
+      applicationInfo=ApplicationInfo{89eb7d8 com.etesync.syncadapter}
+
+Key Set Manager:
+  [com.etesync.syncadapter]
+      Signing KeySets: 89
+
+Packages:
+  Package [com.etesync.syncadapter] (3eaac79):
+    userId=10311
+    pkg=Package{a84731 com.etesync.syncadapter}
+    codePath=/data/app/~~SvFyAbK-4nWQzh6P6e_ATg==/com.etesync.syncadapter-9wzweyMm-u_PjC4Es7xxzA==
+    resourcePath=/data/app/~~SvFyAbK-4nWQzh6P6e_ATg==/com.etesync.syncadapter-9wzweyMm-u_PjC4Es7xxzA==
+    legacyNativeLibraryDir=/data/app/~~SvFyAbK-4nWQzh6P6e_ATg==/com.etesync.syncadapter-9wzweyMm-u_PjC4Es7xxzA==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=20204 minSdk=21 targetSdk=29
+    versionName=2.2.4
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{a84731 com.etesync.syncadapter}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.etesync.syncadapter
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-11-02 20:57:20
+    firstInstallTime=2021-11-02 20:57:21
+    lastUpdateTime=2021-11-02 20:57:21
+    signatures=PackageSignatures{e3d6e16 version:1, signatures:[768310a2], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.INTERNET
+      android.permission.READ_SYNC_SETTINGS
+      android.permission.READ_SYNC_STATS
+      android.permission.WRITE_SYNC_SETTINGS
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_CONTACTS
+      android.permission.WRITE_CONTACTS
+      android.permission.READ_CALENDAR
+      android.permission.WRITE_CALENDAR
+      org.dmfs.permission.READ_TASKS
+      org.dmfs.permission.WRITE_TASKS
+      org.tasks.permission.READ_TASKS
+      org.tasks.permission.WRITE_TASKS
+    install permissions:
+      android.permission.WRITE_SYNC_SETTINGS: granted=true
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.READ_SYNC_STATS: granted=true
+      android.permission.READ_SYNC_SETTINGS: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=16816 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_CALENDAR: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_CONTACTS: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_CALENDAR: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_CONTACTS: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.etesync.syncadapter
+    com.motorola.actions:
+      com.etesync.syncadapter
+    com.google.android.contacts:
+      com.etesync.syncadapter
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=644
+  User 0:
+    seq=0, package=com.motorola.msimsettings
+    seq=5, package=com.android.stk
+    seq=20, package=com.google.android.partnersetup
+    seq=42, package=com.google.android.syncadapters.contacts
+    seq=164, package=com.motorola.gamemode
+    seq=264, package=com.motorola.paks
+    seq=273, package=com.google.android.setupwizard
+    seq=286, package=com.motorola.audiofx
+    seq=297, package=com.google.android.apps.pixelmigrate
+    seq=300, package=com.motorola.coresettingsext
+    seq=312, package=com.google.android.as
+    seq=323, package=com.android.shell
+    seq=324, package=com.android.settings
+    seq=329, package=com.android.vending
+    seq=331, package=android.autoinstalls.config.motorola.layout
+    seq=336, package=com.google.android.googlequicksearchbox
+    seq=386, package=org.gateshipone.malp
+    seq=396, package=com.google.android.gms
+    seq=399, package=com.google.android.webview
+    seq=400, package=com.android.chrome
+    seq=401, package=com.google.android.trichromelibrary_460608533
+    seq=402, package=com.google.android.apps.wellbeing
+    seq=411, package=com.google.android.apps.youtube.music
+    seq=418, package=com.google.android.marvin.talkback
+    seq=423, package=com.google.android.projection.gearhead
+    seq=425, package=com.google.android.deskclock
+    seq=428, package=com.google.android.apps.tachyon
+    seq=430, package=com.google.android.apps.messaging
+    seq=431, package=com.google.android.calculator
+    seq=433, package=com.google.android.apps.nbu.files
+    seq=435, package=com.google.android.apps.subscriptions.red
+    seq=439, package=com.google.android.contacts
+    seq=458, package=com.motorola.livewallpaper3
+    seq=470, package=com.google.android.gm
+    seq=471, package=com.zegoggles.smssync
+    seq=475, package=com.google.android.videos
+    seq=476, package=com.google.android.apps.maps
+    seq=478, package=com.google.android.inputmethod.latin
+    seq=479, package=com.google.android.calendar
+    seq=497, package=org.calyxinstitute.vpn
+    seq=521, package=pro.oblivioncoding.fluffy_board
+    seq=529, package=pc.javier.actualizadoropendns
+    seq=544, package=com.google.ar.core
+    seq=554, package=com.minar.birday
+    seq=562, package=ir.mrahimy.conceal
+    seq=570, package=org.dyndns.warenix.web2pdf
+    seq=584, package=com.google.android.apps.photos
+    seq=585, package=com.google.android.ims
+    seq=589, package=com.google.android.youtube
+    seq=599, package=com.mattieapps.roommates
+    seq=619, package=com.google.android.dialer
+    seq=627, package=com.google.android.tts
+    seq=633, package=ch.logixisland.anuto
+    seq=639, package=io.neurolab
+    seq=640, package=io.github.ylimit.droidbotapp
+    seq=642, package=com.google.android.apps.docs
+    seq=643, package=com.etesync.syncadapter
+
+
+Dexopt state:
+  [com.etesync.syncadapter]
+    path: /data/app/~~SvFyAbK-4nWQzh6P6e_ATg==/com.etesync.syncadapter-9wzweyMm-u_PjC4Es7xxzA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.etesync.syncadapter]
+     base.apk - 1072
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

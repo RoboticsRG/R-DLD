@@ -1,0 +1,89 @@
+{
+  "stop_state": "6294d44bfe3419f8b11f205d465fe339", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_180730", 
+  "event": {
+    "views_str": [
+      "e1ee53bb8c1e4fd1c6988966979c8ab6", 
+      "d3a8c22d36e2ad279faf2c4813e85720"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gemini.circumlunar.space/, Homepage", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*118", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "e1ee53bb8c1e4fd1c6988966979c8ab6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            250
+          ], 
+          [
+            706, 
+            368
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]gemini.circumlunar.space/, Homepage[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gus.guru/search, Search Engine (page that takes input)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "692*118", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "d3a8c22d36e2ad279faf2c4813e85720", 
+        "enabled": true, 
+        "bounds": [
+          [
+            14, 
+            368
+          ], 
+          [
+            706, 
+            486
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "abc227816870f3f709414a11f5d13e28"
+}

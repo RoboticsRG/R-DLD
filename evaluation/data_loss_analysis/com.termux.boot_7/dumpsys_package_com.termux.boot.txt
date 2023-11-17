@@ -1,0 +1,115 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        267bee2 com.termux.boot/.BootActivity filter 7215273
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        8415530 com.termux.boot/.BootReceiver filter ee615a9
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Key Set Manager:
+  [com.termux.boot]
+      Signing KeySets: 389
+
+Packages:
+  Package [com.termux.boot] (8f16bad):
+    userId=10472
+    sharedUser=SharedUserSetting{99dd51e com.termux/10472}
+    pkg=Package{25711ff com.termux.boot}
+    codePath=/data/app/~~OTHotNM0ynBHRA6BeFjdhA==/com.termux.boot-8wOh35giS143wD15N28rKQ==
+    resourcePath=/data/app/~~OTHotNM0ynBHRA6BeFjdhA==/com.termux.boot-8wOh35giS143wD15N28rKQ==
+    legacyNativeLibraryDir=/data/app/~~OTHotNM0ynBHRA6BeFjdhA==/com.termux.boot-8wOh35giS143wD15N28rKQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=7 minSdk=21 targetSdk=28
+    versionName=0.7
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{25711ff com.termux.boot}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/com.termux.boot
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-12-24 11:53:35
+    firstInstallTime=2021-12-24 11:53:35
+    lastUpdateTime=2021-12-24 11:53:35
+    signatures=PackageSignatures{c88bcc version:1, signatures:[7c3fcce], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WAKE_LOCK
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=73595 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      com.termux.boot
+    com.motorola.actions:
+      com.termux.boot
+  queryable via interaction:
+    User 0:
+
+Shared users:
+  SharedUser [com.termux] (99dd51e):
+    userId=10472
+    Packages
+      PackageSetting{8f16bad com.termux.boot/10472}
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.WAKE_LOCK: granted=true
+
+Package Changes:
+  Sequence number=74
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=25, package=com.google.android.tts
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=67, package=com.google.android.contacts
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=71, package=com.google.android.apps.docs
+    seq=72, package=io.github.ylimit.droidbotapp
+    seq=73, package=com.termux.boot
+
+
+Dexopt state:
+  [com.termux.boot]
+    path: /data/app/~~OTHotNM0ynBHRA6BeFjdhA==/com.termux.boot-8wOh35giS143wD15N28rKQ==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.termux.boot]
+     base.apk - 230
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

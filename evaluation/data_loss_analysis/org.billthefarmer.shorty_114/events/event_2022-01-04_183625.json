@@ -1,0 +1,42 @@
+{
+  "stop_state": "96264dd6f69980ed4d3b44f7a89de8a9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_183625", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Play", 
+      "resource_id": "org.billthefarmer.shorty:id/action_play", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "96264dd6f69980ed4d3b44f7a89de8a9"
+}

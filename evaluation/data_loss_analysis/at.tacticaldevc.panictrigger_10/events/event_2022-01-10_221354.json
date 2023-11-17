@@ -1,0 +1,43 @@
+{
+  "stop_state": "864e16c487408965c938df2839c9062d", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-10_221354", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "at.tacticaldevc.panictrigger:id/contact_number", 
+      "text": "Phone number", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "627*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "at.tacticaldevc.panictrigger", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          738
+        ], 
+        [
+          673, 
+          817
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "864e16c487408965c938df2839c9062d"
+}

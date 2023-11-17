@@ -1,0 +1,42 @@
+{
+  "stop_state": "5596587e110a58246c3e4059da8e0186", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_174654", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "[https] Gemini-to-web proxy service", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "450*63", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          1363
+        ], 
+        [
+          485, 
+          1426
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 22, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8e3016ee350f8c9148e3380f4888d7b2"
+}

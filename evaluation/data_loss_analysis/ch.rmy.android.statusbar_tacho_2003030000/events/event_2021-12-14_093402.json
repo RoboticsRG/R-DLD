@@ -1,0 +1,10 @@
+{
+  "stop_state": "1a62a48854b1623ce2a6c50356fdffff", 
+  "event_str": "IntentEvent(intent='am start ch.rmy.android.statusbar_tacho/ch.rmy.android.statusbar_tacho.activities.SettingsActivity')", 
+  "tag": "2021-12-14_093402", 
+  "event": {
+    "intent": "am start ch.rmy.android.statusbar_tacho/ch.rmy.android.statusbar_tacho.activities.SettingsActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "64b585c1909a80773c2d9edb6719fdf8"
+}

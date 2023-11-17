@@ -1,0 +1,42 @@
+{
+  "stop_state": "df1afe1ed894b0f77a7e30b8bcb30238", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_190319", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "gus.guru/searchHelloWotest123rld, Search Engine (page that takes input)", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*118", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          368
+        ], 
+        [
+          706, 
+          486
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 7, 
+    "event_type": "touch"
+  }, 
+  "start_state": "df1afe1ed894b0f77a7e30b8bcb30238"
+}

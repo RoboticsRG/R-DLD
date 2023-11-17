@@ -1,0 +1,42 @@
+{
+  "stop_state": "8e0b36c9cd2e3a91b0f80317e144c63c", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-21_213751", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "CANCEL", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "137*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.github.cvzi.screenshottile", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          515, 
+          978
+        ], 
+        [
+          652, 
+          1062
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bca00c5aaf95dcf64a88e71cc89bc035"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "646a0bbc2d0e18853b56c86f3d69cf48", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-24_124619", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": null, 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "557*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.utazukin.ichaival", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          81, 
+          749
+        ], 
+        [
+          638, 
+          828
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "646a0bbc2d0e18853b56c86f3d69cf48"
+}

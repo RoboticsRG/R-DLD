@@ -1,0 +1,89 @@
+{
+  "stop_state": "c8bd115588e99d132fdd5c0f432be768", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_202743", 
+  "event": {
+    "views_str": [
+      "c826081d1ae0b2ec0687d75e2a851e99", 
+      "e8b1ab9ef6f5a67c68258205d8febc1e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.cvzi.screenshottile:id/itemRadio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.cvzi.screenshottile:id/itemRadio", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "c826081d1ae0b2ec0687d75e2a851e99", 
+        "enabled": true, 
+        "bounds": [
+          [
+            64, 
+            655
+          ], 
+          [
+            148, 
+            739
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.cvzi.screenshottile:id/itemRadio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.cvzi.screenshottile:id/itemRadio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.cvzi.screenshottile:id/itemRadio", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "e8b1ab9ef6f5a67c68258205d8febc1e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            64, 
+            809
+          ], 
+          [
+            148, 
+            893
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.cvzi.screenshottile:id/itemRadio[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c8bd115588e99d132fdd5c0f432be768"
+}

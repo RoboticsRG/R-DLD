@@ -1,0 +1,10 @@
+{
+  "stop_state": "4b450df2fb65a1e44a3c1e37543fd566", 
+  "event_str": "IntentEvent(intent='am start com.nishantboro.splititeasy/com.nishantboro.splititeasy.MainActivity')", 
+  "tag": "2021-12-21_193624", 
+  "event": {
+    "intent": "am start com.nishantboro.splititeasy/com.nishantboro.splititeasy.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "8bb4b13c816c5bf8d7e01db9c06edb1f"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "b4ff82a525d058e4b5b7b8891d53a72a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-02_212504", 
+  "event": {
+    "views_str": [
+      "44d5d3f522e0e0553a3299702f02b3e6", 
+      "c2f2961bcb4a77e5e3b12f30d7a3a83e", 
+      "c2f2961bcb4a77e5e3b12f30d7a3a83e", 
+      "c2f2961bcb4a77e5e3b12f30d7a3a83e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.etesync.syncadapter:id/switchWidget", 
+        "text": "ATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": false, 
+        "view_str": "44d5d3f522e0e0553a3299702f02b3e6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            375
+          ], 
+          [
+            692, 
+            459
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget[text]ATIVADO[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.etesync.syncadapter:id/switchWidget", 
+        "text": "DESATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": false, 
+        "view_str": "c2f2961bcb4a77e5e3b12f30d7a3a83e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            747
+          ], 
+          [
+            692, 
+            831
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget[text]DESATIVADO[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.etesync.syncadapter:id/switchWidget", 
+        "text": "DESATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": false, 
+        "view_str": "c2f2961bcb4a77e5e3b12f30d7a3a83e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            994
+          ], 
+          [
+            692, 
+            1078
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget[text]DESATIVADO[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.etesync.syncadapter:id/switchWidget", 
+        "text": "DESATIVADO", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*61", 
+        "checked": false, 
+        "temp_id": 63, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget", 
+        "is_password": false, 
+        "parent": 62, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": false, 
+        "view_str": "c2f2961bcb4a77e5e3b12f30d7a3a83e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            608, 
+            1497
+          ], 
+          [
+            692, 
+            1558
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.etesync.syncadapter:id/switchWidget[text]DESATIVADO[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "91a34aa714c724b15d7419535fbec1ac"
+}

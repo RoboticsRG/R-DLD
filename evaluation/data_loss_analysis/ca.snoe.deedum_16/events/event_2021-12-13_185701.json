@@ -1,0 +1,43 @@
+{
+  "stop_state": "23913df2a29669fa9013d93f010c88e3", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_185701", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 28, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Gemini protocol documentation", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*133", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          191
+        ], 
+        [
+          690, 
+          324
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "23913df2a29669fa9013d93f010c88e3"
+}

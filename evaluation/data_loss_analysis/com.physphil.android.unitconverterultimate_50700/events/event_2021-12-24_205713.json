@@ -1,0 +1,42 @@
+{
+  "stop_state": "d71f42e89777ff3fa60cc17946666f02", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_205713", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Nautical Mile", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "202*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          1041
+        ], 
+        [
+          569, 
+          1097
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 54, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f180f139d37bfafb36587bd6521c96fa"
+}

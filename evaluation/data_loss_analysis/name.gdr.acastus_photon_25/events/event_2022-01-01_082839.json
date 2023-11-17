@@ -1,0 +1,42 @@
+{
+  "stop_state": "8c06f97106f512ebc881f05a7e5ffe7c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_082839", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "helloworld : 9264.35 mi (travel_agency)\nMount Gambier Commercial Street West ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          584
+        ], 
+        [
+          692, 
+          696
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 22, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a9b8f4cc4a4594b28e346485ba53c742"
+}

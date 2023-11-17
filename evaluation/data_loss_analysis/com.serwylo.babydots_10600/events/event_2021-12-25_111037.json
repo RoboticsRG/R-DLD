@@ -1,0 +1,10 @@
+{
+  "stop_state": "de20914da3f6b3e1932425b5dc8e48aa", 
+  "event_str": "IntentEvent(intent='am start com.serwylo.babydots/com.serwylo.babydots.MainActivity')", 
+  "tag": "2021-12-25_111037", 
+  "event": {
+    "intent": "am start com.serwylo.babydots/com.serwylo.babydots.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "73eefa3f943bee0646f9b57c5b52c193"
+}

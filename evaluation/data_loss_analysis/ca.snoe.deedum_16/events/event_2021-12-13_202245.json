@@ -1,0 +1,43 @@
+{
+  "stop_state": "6fb0129d9309e594c9e47fd67b0f1c0d", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_202245", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 30, 
+    "view": {
+      "content_description": "[https] A Gemini server written in Node, based on Express", 
+      "resource_id": "", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "655*102", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          773
+        ], 
+        [
+          690, 
+          875
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "312bce66fef260ee5e82f4e7854621a0"
+}

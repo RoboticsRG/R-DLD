@@ -1,0 +1,134 @@
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$ ls
+dld.egg-info  DLD-tool-Arduino  droidbot-tool  installer.py  README.md  setup.py  venv
+(venv) davi@davi-System-Product-Name:~/projetos_(venv) davi@davi-System-Product-Name:~/projetos_gi(venv) davi@davi-System-Product-Name:~/projetos_git/(venv) davi@davi-System-Product-Name:~/projetos_git/DL(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-to(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-A(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Ard(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$ (venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Ard(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-A(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Ard(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Ardui(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Ardui(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$(((((((((((venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$ ls
+dld.egg-info      droidbot-tool  README.md  venv
+DLD-tool-Arduino  installer.py   setup.py
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$ python installer.py -install
+Starting dld installation...
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+Obtaining file:///home/davi/projetos_git/DLD-tool-Arduino/droidbot-tool
+Collecting androguard
+  Downloading androguard-3.3.5-py2-none-any.whl (922 kB)
+     |████████████████████████████████| 922 kB 1.5 MB/s
+Collecting networkx
+  Downloading networkx-2.2.zip (1.7 MB)
+     |████████████████████████████████| 1.7 MB 43.6 MB/s
+Collecting Pillow
+  Downloading Pillow-6.2.2-cp27-cp27mu-manylinux1_x86_64.whl (2.1 MB)
+     |████████████████████████████████| 2.1 MB 32.5 MB/s
+Collecting pyserial
+  Downloading pyserial-3.5-py2.py3-none-any.whl (90 kB)
+     |████████████████████████████████| 90 kB 2.3 MB/s
+Collecting click
+  Downloading click-7.1.2-py2.py3-none-any.whl (82 kB)
+     |████████████████████████████████| 82 kB 127 kB/s
+Collecting pygments
+  Downloading Pygments-2.5.2-py2.py3-none-any.whl (896 kB)
+     |████████████████████████████████| 896 kB 53.2 MB/s
+Collecting future
+  Downloading future-0.18.2.tar.gz (829 kB)
+     |████████████████████████████████| 829 kB 31.7 MB/s
+Collecting matplotlib
+  Downloading matplotlib-2.2.5-cp27-cp27mu-manylinux1_x86_64.whl (12.8 MB)
+     |████████████████████████████████| 12.8 MB 36.8 MB/s
+Collecting colorama
+  Downloading colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Collecting pydot>=1.4.1
+  Downloading pydot-1.4.2-py2.py3-none-any.whl (21 kB)
+Collecting ipython<6,>=5.0.0
+  Downloading ipython-5.10.0-py2-none-any.whl (760 kB)
+     |████████████████████████████████| 760 kB 56.9 MB/s
+Collecting lxml
+  Downloading lxml-4.6.3-cp27-cp27mu-manylinux1_x86_64.whl (5.5 MB)
+     |████████████████████████████████| 5.5 MB 25.1 MB/s
+Collecting asn1crypto>=0.24.0
+  Downloading asn1crypto-1.4.0-py2.py3-none-any.whl (104 kB)
+     |████████████████████████████████| 104 kB 84.9 MB/s
+Collecting decorator>=4.3.0
+  Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting backports.functools-lru-cache
+  Downloading backports.functools_lru_cache-1.6.4-py2.py3-none-any.whl (5.9 kB)
+Collecting numpy>=1.7.1
+  Downloading numpy-1.16.6-cp27-cp27mu-manylinux1_x86_64.whl (17.0 MB)
+     |████████████████████████████████| 17.0 MB 3.8 MB/s
+Collecting six>=1.10
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Collecting pytz
+  Downloading pytz-2021.1-py2.py3-none-any.whl (510 kB)
+     |████████████████████████████████| 510 kB 5.3 MB/s
+Collecting python-dateutil>=2.1
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+     |████████████████████████████████| 247 kB 5.1 MB/s
+Collecting cycler>=0.10
+  Downloading cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
+Collecting kiwisolver>=1.0.1
+  Downloading kiwisolver-1.1.0-cp27-cp27mu-manylinux1_x86_64.whl (93 kB)
+     |████████████████████████████████| 93 kB 454 kB/s
+Collecting subprocess32
+  Downloading subprocess32-3.5.4-cp27-cp27mu-manylinux2014_x86_64.whl (69 kB)
+     |████████████████████████████████| 69 kB 1.3 MB/s
+Collecting pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+     |████████████████████████████████| 67 kB 1.2 MB/s
+Collecting simplegeneric>0.8
+  Downloading simplegeneric-0.8.1.zip (12 kB)
+Collecting backports.shutil-get-terminal-size; python_version == "2.7"
+  Downloading backports.shutil_get_terminal_size-1.0.0-py2.py3-none-any.whl (6.5 kB)
+Requirement already satisfied: setuptools>=18.5 in /home/davi/projetos_git/DLD-tool-Arduino/venv/lib/python2.7/site-packages (from ipython<6,>=5.0.0->androguard->droidbot==1.0.2b4) (44.1.1)
+Collecting pathlib2; python_version == "2.7" or python_version == "3.3"
+  Downloading pathlib2-2.3.6-py2.py3-none-any.whl (17 kB)
+Collecting pexpect; sys_platform != "win32"
+  Downloading pexpect-4.8.0-py2.py3-none-any.whl (59 kB)
+     |████████████████████████████████| 59 kB 1.3 MB/s
+Collecting pickleshare
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting prompt-toolkit<2.0.0,>=1.0.4
+  Downloading prompt_toolkit-1.0.18-py2-none-any.whl (245 kB)
+     |████████████████████████████████| 245 kB 5.3 MB/s
+Collecting traitlets>=4.2
+  Downloading traitlets-4.3.3-py2.py3-none-any.whl (75 kB)
+     |████████████████████████████████| 75 kB 931 kB/s
+Collecting scandir; python_version < "3.5"
+  Downloading scandir-1.10.0.tar.gz (33 kB)
+Collecting ptyprocess>=0.5
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Collecting wcwidth
+  Downloading wcwidth-0.2.5-py2.py3-none-any.whl (30 kB)
+Collecting enum34; python_version == "2.7"
+  Downloading enum34-1.1.10-py2-none-any.whl (11 kB)
+Collecting ipython-genutils
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Building wheels for collected packages: networkx, future, simplegeneric, scandir
+  Building wheel for networkx (setup.py) ... done
+  Created wheel for networkx: filename=networkx-2.2-py2.py3-none-any.whl size=1526903 sha256=721625f9a479ca2678dc0e1ab1058e06369a4707fc297ff41e48863c7fbaeec8
+  Stored in directory: /home/davi/.cache/pip/wheels/df/80/48/106e63760ff0dcd3658613d93c1ecf64301b9261172f2c1acf
+  Building wheel for future (setup.py) ... done
+  Created wheel for future: filename=future-0.18.2-py2-none-any.whl size=502566 sha256=87277ba433c8d95c1f4b72d7b3e57f628f2f3ea354c9071e40c1d051d1ce12ac
+  Stored in directory: /home/davi/.cache/pip/wheels/5f/11/0c/aad680baf5ef4fbcbab992c9f03e1130357e0c173a4fdabfff
+  Building wheel for simplegeneric (setup.py) ... done
+  Created wheel for simplegeneric: filename=simplegeneric-0.8.1-py2-none-any.whl size=5074 sha256=4a56fed8c0c56f8e1d26f22f5df7954c8547dcd440aa1f80a72cac8c434da813
+  Stored in directory: /home/davi/.cache/pip/wheels/1b/83/23/9d866729c0090bfc62d03a5bd43080fb07a5f4fad10a09399a
+  Building wheel for scandir (setup.py) ... done
+  Created wheel for scandir: filename=scandir-1.10.0-cp27-cp27mu-linux_x86_64.whl size=11146 sha256=c10d52a0afbb1515a9600a1711d1a49b92002e68c639906a99516a63d39034eb
+  Stored in directory: /home/davi/.cache/pip/wheels/58/2c/26/52406f7d1f19bcc47a6fbd1037a5f293492f5cf1d58c539edb
+Successfully built networkx future simplegeneric scandir
+Installing collected packages: click, pygments, future, backports.functools-lru-cache, numpy, six, pytz, python-dateutil, cycler, kiwisolver, subprocess32, pyparsing, matplotlib, colorama, decorator, networkx, pydot, simplegeneric, backports.shutil-get-terminal-size, scandir, pathlib2, ptyprocess, pexpect, pickleshare, wcwidth, prompt-toolkit, enum34, ipython-genutils, traitlets, ipython, lxml, asn1crypto, androguard, Pillow, pyserial, droidbot
+  Running setup.py develop for droidbot
+Successfully installed Pillow-6.2.2 androguard-3.3.5 asn1crypto-1.4.0 backports.functools-lru-cache-1.6.4 backports.shutil-get-terminal-size-1.0.0 click-7.1.2 colorama-0.4.4 cycler-0.10.0 decorator-4.4.2 droidbot enum34-1.1.10 future-0.18.2 ipython-5.10.0 ipython-genutils-0.2.0 kiwisolver-1.1.0 lxml-4.6.3 matplotlib-2.2.5 networkx-2.2 numpy-1.16.6 pathlib2-2.3.6 pexpect-4.8.0 pickleshare-0.7.5 prompt-toolkit-1.0.18 ptyprocess-0.7.0 pydot-1.4.2 pygments-2.5.2 pyparsing-2.4.7 pyserial-3.5 python-dateutil-2.8.2 pytz-2021.1 scandir-1.10.0 simplegeneric-0.8.1 six-1.16.0 subprocess32-3.5.4 traitlets-4.3.3 wcwidth-0.2.5
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+Obtaining file:///home/davi/projetos_git/DLD-tool-Arduino
+Installing collected packages: dld
+  Running setup.py develop for dld
+Successfully installed dld
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+Done!
+(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$(venv) davi@davi-System-Product-Name:~/projetos_git/DLD-tool-Arduino$

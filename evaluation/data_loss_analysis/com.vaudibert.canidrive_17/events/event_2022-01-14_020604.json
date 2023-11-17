@@ -1,0 +1,43 @@
+{
+  "stop_state": "a47f1d59759c1d7a01ef430e106bc676", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-14_020604", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/editTextNewPresetName", 
+      "text": "Triple beerHelloWorld", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "650*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          231
+        ], 
+        [
+          685, 
+          326
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "2df105f7c9c864e7a95c8935e2120c84"
+}

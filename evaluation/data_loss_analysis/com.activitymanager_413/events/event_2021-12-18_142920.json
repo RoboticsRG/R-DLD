@@ -1,0 +1,10 @@
+{
+  "stop_state": "1d8abfac97cae9e2fb399e26110a3d31", 
+  "event_str": "IntentEvent(intent='am start com.activitymanager/com.sdex.activityrunner.MainActivity')", 
+  "tag": "2021-12-18_142920", 
+  "event": {
+    "intent": "am start com.activitymanager/com.sdex.activityrunner.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "1d8abfac97cae9e2fb399e26110a3d31"
+}

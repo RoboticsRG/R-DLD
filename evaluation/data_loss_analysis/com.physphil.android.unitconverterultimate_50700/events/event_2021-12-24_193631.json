@@ -1,0 +1,469 @@
+{
+  "stop_state": "137221e5af8c5c611cafa0b3153014b3", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-24_193631", 
+  "event": {
+    "views_str": [
+      "ed8ea27c15924e8f47da9ea5ad5a076c", 
+      "1d579eb79481d6b4416751094408ffd8", 
+      "920894a3a8d7f010acd286707196873b", 
+      "cb361228e7a685c550894dc371f6bf0f", 
+      "2726399468bc4671cf62e2a158c55727", 
+      "95f4f9a54afc4507f523fe758f07333e", 
+      "ffc406541d4d40387baaaebaa3382eb5", 
+      "c5eafa1acfced77b17b643e803a200be", 
+      "0dab8f6430f7e9b3a76b9f9e0516063d", 
+      "9bf970b7db727cd379f6b49482faf17d", 
+      "f29f3a8e98db5ecf146fdb7140c26bb8", 
+      "4687f415277af56e68538ae69ce28b3a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "ed8ea27c15924e8f47da9ea5ad5a076c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            200
+          ], 
+          [
+            353, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_from[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "346*79", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": true, 
+        "view_str": "1d579eb79481d6b4416751094408ffd8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            200
+          ], 
+          [
+            713, 
+            279
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.physphil.android.unitconverterultimate:id/header_value_to[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/gallon (US)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "249*56", 
+        "checked": true, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "920894a3a8d7f010acd286707196873b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            341
+          ], 
+          [
+            256, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/gallon (US)[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/gallon (UK)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "250*56", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "cb361228e7a685c550894dc371f6bf0f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            411
+          ], 
+          [
+            257, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/gallon (UK)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Litres/100km", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "204*56", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "2726399468bc4671cf62e2a158c55727", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            481
+          ], 
+          [
+            211, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Litres/100km[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Kilometres/litre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "226*56", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "95f4f9a54afc4507f523fe758f07333e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            551
+          ], 
+          [
+            233, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Kilometres/litre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/litre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "167*56", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "ffc406541d4d40387baaaebaa3382eb5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            7, 
+            621
+          ], 
+          [
+            174, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/litre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/gallon (US)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "249*56", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "c5eafa1acfced77b17b643e803a200be", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            341
+          ], 
+          [
+            616, 
+            397
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/gallon (US)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/gallon (UK)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "250*56", 
+        "checked": true, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "0dab8f6430f7e9b3a76b9f9e0516063d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            411
+          ], 
+          [
+            617, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/gallon (UK)[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Litres/100km", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "204*56", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "9bf970b7db727cd379f6b49482faf17d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            481
+          ], 
+          [
+            571, 
+            537
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Litres/100km[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Kilometres/litre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "226*56", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "f29f3a8e98db5ecf146fdb7140c26bb8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            551
+          ], 
+          [
+            593, 
+            607
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Kilometres/litre[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Miles/litre", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "167*56", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.physphil.android.unitconverterultimate", 
+        "long_clickable": false, 
+        "view_str": "4687f415277af56e68538ae69ce28b3a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            367, 
+            621
+          ], 
+          [
+            534, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Miles/litre[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "81c5d98843f816253d6ed0221ef93426"
+}

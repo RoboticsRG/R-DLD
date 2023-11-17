@@ -1,0 +1,42 @@
+{
+  "stop_state": "5ff1e85e32b59b33bdd0fee04450b489", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-22_161034", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.rmy.android.http_shortcuts:id/input_wait_for_connection", 
+      "text": "Wait for connection when offline", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ch.rmy.android.http_shortcuts", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          474
+        ], 
+        [
+          692, 
+          558
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": true
+    }, 
+    "id": 9, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b2b059314a167d7ec7c72e56c4ccef3a"
+}

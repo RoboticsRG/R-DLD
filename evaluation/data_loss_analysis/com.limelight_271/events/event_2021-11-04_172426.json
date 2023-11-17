@@ -1,0 +1,42 @@
+{
+  "stop_state": "bb4abd84d73e28994630f425e421aad2", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_172426", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button3", 
+      "text": "HELP", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "112*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.limelight", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          67, 
+          857
+        ], 
+        [
+          179, 
+          952
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f5df48a5acdfc85a5d302d82b0f518a3"
+}

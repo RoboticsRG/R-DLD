@@ -1,0 +1,42 @@
+{
+  "stop_state": "8feabfea919ea8c88ea238f1b4a99487", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-12_073844", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "365*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.markuspage.android.atimetracker", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          341, 
+          138
+        ], 
+        [
+          706, 
+          222
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focusable": false
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1810cc581eb799806e27a56d76e26119"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "0f7aa234a802d78cdece16789800fccc", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-20_130814", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.mzhang.cleantimer:id/lightSwitch", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "70*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.mzhang.cleantimer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          594, 
+          1474
+        ], 
+        [
+          664, 
+          1544
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a6d09f1862160ff8c72f5955f821c4f4"
+}

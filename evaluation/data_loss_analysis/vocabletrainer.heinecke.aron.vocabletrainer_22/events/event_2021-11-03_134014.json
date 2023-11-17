@@ -1,0 +1,43 @@
+{
+  "stop_state": "d449cd7e7790bac289b36d1c47dc9af9", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-11-03_134014", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsSolveTimes", 
+      "text": "123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          348
+        ], 
+        [
+          706, 
+          427
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "d449cd7e7790bac289b36d1c47dc9af9"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "d095d907cc06f1ec1c8efd5a88643c7b", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-04_170659", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/checkbox", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "56*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.billthefarmer.shorty", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          629, 
+          243
+        ], 
+        [
+          685, 
+          299
+        ]
+      ], 
+      "class": "android.widget.CheckBox", 
+      "focusable": false
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "345c2e5c4fcef0e91c8c19f363bcbf75"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "dab2877361ef1c0379eabf7498fb84c9", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-19_032407", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlycardgameone:id/design_menu_item_text", 
+      "text": "New Game", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "434*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlycardgameone", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          378
+        ], 
+        [
+          462, 
+          462
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a0fb0ad8b06b99d95566d6369b85f59f"
+}

@@ -1,0 +1,43 @@
+{
+  "stop_state": "4314110a71d652a3f22164c9d37ffdde", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-29_225307", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 25, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.roggstar.luigithehunter.dsaassistent:id/tv_lep", 
+      "text": "0", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "120*70", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "eu.roggstar.luigithehunter.dsaassistent", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          1006
+        ], 
+        [
+          240, 
+          1076
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "4314110a71d652a3f22164c9d37ffdde"
+}

@@ -1,0 +1,164 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        5878fc1 org.secuso.privacyfriendlycardgameone/org.secuso.privacyfriendlywerwolf.activity.SplashActivity filter 8cb3366
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [org.secuso.privacyfriendlycardgameone]
+      Signing KeySets: 688
+
+Packages:
+  Package [org.secuso.privacyfriendlycardgameone] (6460a3e):
+    userId=10770
+    pkg=Package{51ad5be org.secuso.privacyfriendlycardgameone}
+    codePath=/data/app/~~cmvXwfsETEyz5COkBMQh-A==/org.secuso.privacyfriendlycardgameone-9a-8iObaGvG5yUiTQWs7nw==
+    resourcePath=/data/app/~~cmvXwfsETEyz5COkBMQh-A==/org.secuso.privacyfriendlycardgameone-9a-8iObaGvG5yUiTQWs7nw==
+    legacyNativeLibraryDir=/data/app/~~cmvXwfsETEyz5COkBMQh-A==/org.secuso.privacyfriendlycardgameone-9a-8iObaGvG5yUiTQWs7nw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 minSdk=21 targetSdk=25
+    versionName=1.0.1
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{51ad5be org.secuso.privacyfriendlycardgameone}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/org.secuso.privacyfriendlycardgameone
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-01-19 01:35:37
+    firstInstallTime=2022-01-19 01:35:38
+    lastUpdateTime=2022-01-19 01:35:38
+    signatures=PackageSignatures{97a9e04 version:1, signatures:[cd7ed53d], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=50621 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      org.secuso.privacyfriendlycardgameone
+    com.motorola.actions:
+      org.secuso.privacyfriendlycardgameone
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=537
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=81, package=ch.famoser.mensa
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=115, package=android.jonas.fakestandby
+    seq=129, package=com.example.hochi.nextcompanion
+    seq=137, package=com.google.android.videos
+    seq=139, package=com.gabm.fancyplaces
+    seq=151, package=com.gimranov.zandy.app
+    seq=163, package=com.markuspage.android.atimetracker
+    seq=173, package=com.github.sryze.wirebug
+    seq=181, package=com.haringeymobile.ukweather
+    seq=191, package=com.marv42.ebt.newnote
+    seq=205, package=com.github.gschwind.fiddle_assistant
+    seq=215, package=com.otago.open
+    seq=223, package=com.rohit2810.spotit
+    seq=234, package=com.saiga.find.messagefinder
+    seq=240, package=com.utyf.pmetro
+    seq=246, package=com.polar.nextcloudservices
+    seq=254, package=com.vaudibert.canidrive
+    seq=264, package=de.mw136.tonuino
+    seq=272, package=de.sirjofri.fingerlist
+    seq=280, package=com.vadimfrolov.duorem
+    seq=290, package=com.android.vending
+    seq=291, package=com.google.android.ims
+    seq=292, package=com.google.android.googlequicksearchbox
+    seq=297, package=com.google.android.youtube
+    seq=299, package=de.rampro.activitydiary
+    seq=320, package=email.schaal.ocreader
+    seq=326, package=de.tap.easy_xkcd
+    seq=337, package=com.google.android.trichromelibrary_469208733
+    seq=338, package=com.google.android.webview
+    seq=340, package=com.google.android.gm
+    seq=341, package=com.google.android.apps.subscriptions.red
+    seq=342, package=com.google.android.dialer
+    seq=343, package=com.google.android.apps.tachyon
+    seq=344, package=com.google.android.apps.youtube.music
+    seq=345, package=com.google.android.apps.photos
+    seq=346, package=com.google.android.apps.maps
+    seq=348, package=felixwiemuth.simplereminder
+    seq=354, package=com.jmstudios.chibe
+    seq=361, package=com.android.chrome
+    seq=373, package=com.noahjutz.splitfit.fdroid
+    seq=379, package=fr.unix_experience.owncloud_sms
+    seq=389, package=io.mainframe.hacs
+    seq=396, package=it.niedermann.nextcloud.deck
+    seq=426, package=gal.sli.singal
+    seq=432, package=com.google.android.contacts
+    seq=438, package=de.ph1b.audiobook
+    seq=448, package=eu.depau.etchdroid
+    seq=456, package=net.justdave.nwsweatheralertswidget
+    seq=464, package=org.andresoviedo.dddmodel2
+    seq=470, package=net.czlee.debatekeeper
+    seq=478, package=namlit.siteswapgenerator
+    seq=492, package=in.ac.dducollegedu.shell
+    seq=498, package=com.google.android.tts
+    seq=502, package=open.com.permissionsmanager
+    seq=508, package=org.freenetproject.mobile
+    seq=516, package=org.paladyn.mediclog
+    seq=522, package=net.dcnnt
+    seq=530, package=com.motorola.livewallpaper3
+    seq=532, package=net.programmierecke.radiodroid2
+    seq=534, package=com.google.android.apps.docs
+    seq=535, package=io.github.ylimit.droidbotapp
+    seq=536, package=org.secuso.privacyfriendlycardgameone
+
+
+Dexopt state:
+  [org.secuso.privacyfriendlycardgameone]
+    path: /data/app/~~cmvXwfsETEyz5COkBMQh-A==/org.secuso.privacyfriendlycardgameone-9a-8iObaGvG5yUiTQWs7nw==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [org.secuso.privacyfriendlycardgameone]
+     base.apk - 686
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

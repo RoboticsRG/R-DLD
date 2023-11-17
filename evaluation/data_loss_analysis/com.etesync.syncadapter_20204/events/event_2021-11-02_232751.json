@@ -1,0 +1,51 @@
+{
+  "stop_state": "67b6e49fa6c8bc01cd8a9b3520b2c6d5", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-02_232751", 
+  "event": {
+    "views_str": [
+      "74185964acaf1f4035c94c62efc65179"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "8118", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "543*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.etesync.syncadapter", 
+        "long_clickable": true, 
+        "view_str": "74185964acaf1f4035c94c62efc65179", 
+        "enabled": true, 
+        "bounds": [
+          [
+            88, 
+            483
+          ], 
+          [
+            631, 
+            562
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]8118[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e38f3b492e587a7b4562685016b1a48e"
+}

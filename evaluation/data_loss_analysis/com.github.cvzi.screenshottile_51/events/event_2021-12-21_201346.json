@@ -1,0 +1,89 @@
+{
+  "stop_state": "1241bdd7d368d3413dafd1c4992c2fb6", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-21_201346", 
+  "event": {
+    "views_str": [
+      "dbb5a06a9a23a5b6dbc3ab6148c73abb", 
+      "4a3d0fe3d2882c63e79257852cdc1e36"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Legacy Method", 
+        "resource_id": "com.github.cvzi.screenshottile:id/switchLegacy", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.github.cvzi.screenshottile:id/switchLegacy", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "dbb5a06a9a23a5b6dbc3ab6148c73abb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            41, 
+            397
+          ], 
+          [
+            125, 
+            481
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.github.cvzi.screenshottile:id/switchLegacy[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "Native Method", 
+        "resource_id": "com.github.cvzi.screenshottile:id/switchNative", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "84*84", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.github.cvzi.screenshottile:id/switchNative", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.cvzi.screenshottile", 
+        "long_clickable": false, 
+        "view_str": "4a3d0fe3d2882c63e79257852cdc1e36", 
+        "enabled": true, 
+        "bounds": [
+          [
+            41, 
+            1098
+          ], 
+          [
+            125, 
+            1182
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.github.cvzi.screenshottile:id/switchNative[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1241bdd7d368d3413dafd1c4992c2fb6"
+}

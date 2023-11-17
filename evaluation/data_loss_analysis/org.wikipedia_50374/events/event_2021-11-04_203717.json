@@ -1,0 +1,42 @@
+{
+  "stop_state": "3446c3fecc2f663349916dd3fcefa9cc", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-04_203717", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.wikipedia:id/reading_lists_overflow_sort_by", 
+      "text": "Ordenar por\u2026", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "345*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.wikipedia", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          361, 
+          69
+        ], 
+        [
+          706, 
+          153
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "a8dc5994ce4c1879f612258c98bfecab"
+}

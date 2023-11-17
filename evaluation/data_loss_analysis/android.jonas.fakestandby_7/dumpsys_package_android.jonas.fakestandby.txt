@@ -1,0 +1,134 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        e93834b android.jonas.fakestandby/.settings.SettingsActivity filter dd1f128
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.jonas.fakestandby.license:
+        6ce0e41 android.jonas.fakestandby/.settings.LicenseActivity filter 55a0fe6
+          Action: "android.jonas.fakestandby.license"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.SCREEN_OFF:
+        a150927 android.jonas.fakestandby/.service.PhoneLockReceiver filter ee8f7d4
+          Action: "android.intent.action.SCREEN_OFF"
+          Action: "android.intent.action.SCREEN_ON"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.SCREEN_ON:
+        a150927 android.jonas.fakestandby/.service.PhoneLockReceiver filter ee8f7d4
+          Action: "android.intent.action.SCREEN_OFF"
+          Action: "android.intent.action.SCREEN_ON"
+          Category: "android.intent.category.DEFAULT"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.quicksettings.action.QS_TILE:
+        a3f10c3 android.jonas.fakestandby/.quicktile.OverlayQuickTile filter dc7bd40 permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+      android.accessibilityservice.AccessibilityService:
+        6ac4d7d android.jonas.fakestandby/.service.AccessibilityOverlayService filter 2a74472 permission android.permission.BIND_ACCESSIBILITY_SERVICE
+          Action: "android.accessibilityservice.AccessibilityService"
+
+Key Set Manager:
+  [android.jonas.fakestandby]
+      Signing KeySets: 596
+
+Packages:
+  Package [android.jonas.fakestandby] (ea4949a):
+    userId=10677
+    pkg=Package{1d14704 android.jonas.fakestandby}
+    codePath=/data/app/~~xpSMh1-VWeGzx45MNL3OHw==/android.jonas.fakestandby-AYaMtAArNp5jiWzYl1FNmA==
+    resourcePath=/data/app/~~xpSMh1-VWeGzx45MNL3OHw==/android.jonas.fakestandby-AYaMtAArNp5jiWzYl1FNmA==
+    legacyNativeLibraryDir=/data/app/~~xpSMh1-VWeGzx45MNL3OHw==/android.jonas.fakestandby-AYaMtAArNp5jiWzYl1FNmA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=7 minSdk=23 targetSdk=28
+    versionName=1.3.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{1d14704 android.jonas.fakestandby}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/android.jonas.fakestandby
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2022-01-11 13:13:37
+    firstInstallTime=2022-01-11 13:13:37
+    lastUpdateTime=2022-01-11 13:13:37
+    signatures=PackageSignatures{8b99a46 version:1, signatures:[ed6c5cc8], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.WAKE_LOCK
+    install permissions:
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=66433 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      android.jonas.fakestandby
+    com.motorola.actions:
+      android.jonas.fakestandby
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=110
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=5, package=com.google.android.gms
+    seq=14, package=com.google.android.ims
+    seq=19, package=com.google.android.apps.maps
+    seq=25, package=amirz.dngprocessor
+    seq=33, package=com.annie.dictionary.fork
+    seq=43, package=apps.amine.bou.readerforselfoss
+    seq=53, package=ca.andries.portknocker
+    seq=61, package=com.google.android.contacts
+    seq=63, package=at.tacticaldevc.panictrigger
+    seq=71, package=app.zeusln.zeus
+    seq=77, package=com.motorola.livewallpaper3
+    seq=81, package=ch.famoser.mensa
+    seq=93, package=com.google.android.tts
+    seq=97, package=com.aragaer.jtt
+    seq=105, package=com.fabienli.dokuwiki
+    seq=107, package=com.google.android.apps.docs
+    seq=108, package=io.github.ylimit.droidbotapp
+    seq=109, package=android.jonas.fakestandby
+
+
+Dexopt state:
+  [android.jonas.fakestandby]
+    path: /data/app/~~xpSMh1-VWeGzx45MNL3OHw==/android.jonas.fakestandby-AYaMtAArNp5jiWzYl1FNmA==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [android.jonas.fakestandby]
+     base.apk - 1076
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

@@ -1,0 +1,42 @@
+{
+  "stop_state": "f36db6c986b29c4e2b3895f3f21e6599", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-14_045917", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/buttonToDrinker", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "98*98", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          42, 
+          1418
+        ], 
+        [
+          140, 
+          1516
+        ]
+      ], 
+      "class": "android.widget.ImageButton", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "271789b91e4cc8f50f4078c00d9e9da6"
+}

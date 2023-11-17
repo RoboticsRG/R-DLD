@@ -1,0 +1,51 @@
+{
+  "stop_state": "a7f0c9f35d5c306557103ced5cf61769", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-13_191001", 
+  "event": {
+    "views_str": [
+      "20a2b4d91f22d6690f5a64b19fe5f34c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "", 
+        "text": "gemini.circumlunar.space/docs/cheatsheet.gmi", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "412*84", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ca.snoe.deedum", 
+        "long_clickable": false, 
+        "view_str": "20a2b4d91f22d6690f5a64b19fe5f34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            61
+          ], 
+          [
+            440, 
+            145
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id][text]gemini.circumlunar.space/docs/cheatsheet.gmi[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "cb7e1ac79b281f322eeb32ed83af3842"
+}

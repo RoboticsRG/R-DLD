@@ -1,0 +1,43 @@
+{
+  "stop_state": "bb3d413ca833b228300ba4473a46f0f7", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-13_201303", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 25, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Then edit it with the location of your new certificate - most other options are optional", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "629*94", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          1254
+        ], 
+        [
+          690, 
+          1348
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "bb3d413ca833b228300ba4473a46f0f7"
+}

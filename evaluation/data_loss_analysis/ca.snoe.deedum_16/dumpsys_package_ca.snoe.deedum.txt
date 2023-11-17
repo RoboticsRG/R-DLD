@@ -1,0 +1,117 @@
+Activity Resolver Table:
+  Schemes:
+      gemini:
+        6762b0 ca.snoe.deedum/.MainActivity filter 36d529
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "gemini"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        6762b0 ca.snoe.deedum/.MainActivity filter 30170ae
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [ca.snoe.deedum]
+      Signing KeySets: 271
+
+Packages:
+  Package [ca.snoe.deedum] (637518):
+    userId=10423
+    pkg=Package{d6b5790 ca.snoe.deedum}
+    codePath=/data/app/~~GeMGW5LfYOsxuu81mq6_XQ==/ca.snoe.deedum-2ONWKPGlq6GcrV7Ulv5f4Q==
+    resourcePath=/data/app/~~GeMGW5LfYOsxuu81mq6_XQ==/ca.snoe.deedum-2ONWKPGlq6GcrV7Ulv5f4Q==
+    legacyNativeLibraryDir=/data/app/~~GeMGW5LfYOsxuu81mq6_XQ==/ca.snoe.deedum-2ONWKPGlq6GcrV7Ulv5f4Q==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=16 minSdk=16 targetSdk=29
+    versionName=2021.0221.1640
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{d6b5790 ca.snoe.deedum}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/ca.snoe.deedum
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.base
+    usesLibraryFiles:
+      /system/framework/android.test.base.jar
+    timeStamp=2021-12-13 17:24:27
+    firstInstallTime=2021-12-13 17:24:27
+    lastUpdateTime=2021-12-13 17:24:27
+    signatures=PackageSignatures{4c25889 version:3, signatures:[2c839fcd], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERACT_ACROSS_USERS
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+    User 0: ceDataInode=51752 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      ca.snoe.deedum
+    com.motorola.actions:
+      ca.snoe.deedum
+    com.google.android.apps.messaging:
+      ca.snoe.deedum
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=72
+  User 0:
+    seq=1, package=com.motorola.audiofx
+    seq=6, package=com.google.android.videos
+    seq=9, package=com.google.android.gms
+    seq=14, package=com.google.android.youtube
+    seq=16, package=rocks.tbog.tblauncher
+    seq=27, package=org.thosp.yourlocalweather
+    seq=31, package=app.reading.stoic.stoicreading
+    seq=38, package=com.android.chrome
+    seq=44, package=com.google.android.tts
+    seq=46, package=app.seeneva.reader
+    seq=52, package=cc.echonet.coolmicapp
+    seq=60, package=ch.blinkenlights.android.vanilla
+    seq=63, package=io.github.ylimit.droidbotapp
+    seq=67, package=com.gianlu.aria2app
+    seq=69, package=com.google.android.apps.docs
+    seq=70, package=app.zeusln.zeus
+    seq=71, package=ca.snoe.deedum
+
+
+Dexopt state:
+  [ca.snoe.deedum]
+    path: /data/app/~~GeMGW5LfYOsxuu81mq6_XQ==/ca.snoe.deedum-2ONWKPGlq6GcrV7Ulv5f4Q==/base.apk
+      arm64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [ca.snoe.deedum]
+     base.apk - 316
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

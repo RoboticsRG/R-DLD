@@ -1,0 +1,181 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        a882f8a mattecarra.accapp/.activities.MainActivity filter 93479fb
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        a882f8a mattecarra.accapp/.activities.MainActivity filter 93479fb
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BOOT_COMPLETED:
+        ba49a18 mattecarra.accapp/.receivers.AccBootReceiver filter 2991c71
+          Action: "android.intent.action.BOOT_COMPLETED"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.service.quicksettings.action.QS_TILE:
+        241ba56 mattecarra.accapp/.services.AccProfileTileService filter 146bad7 permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+        1553fc4 mattecarra.accapp/.services.AccdTileService filter 520ead permission android.permission.BIND_QUICK_SETTINGS_TILE
+          Action: "android.service.quicksettings.action.QS_TILE"
+
+Registered ContentProviders:
+  mattecarra.accapp/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{d7c787b mattecarra.accapp/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  mattecarra.accapp/androidx.core.content.FileProvider:
+    Provider{4d6f698 mattecarra.accapp/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [mattecarra.accapp.fileprovider]:
+    Provider{4d6f698 mattecarra.accapp/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{397ef1 mattecarra.accapp}
+  [mattecarra.accapp.lifecycle-process]:
+    Provider{d7c787b mattecarra.accapp/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{c8eaad6 mattecarra.accapp}
+
+Key Set Manager:
+  [mattecarra.accapp]
+      Signing KeySets: 477
+
+Packages:
+  Package [mattecarra.accapp] (8502157):
+    userId=10560
+    pkg=Package{490e444 mattecarra.accapp}
+    codePath=/data/app/~~i66iIsOUmCjbItjwl8qa1Q==/mattecarra.accapp-mLIs264gcuz57rGlVYAkyA==
+    resourcePath=/data/app/~~i66iIsOUmCjbItjwl8qa1Q==/mattecarra.accapp-mLIs264gcuz57rGlVYAkyA==
+    legacyNativeLibraryDir=/data/app/~~i66iIsOUmCjbItjwl8qa1Q==/mattecarra.accapp-mLIs264gcuz57rGlVYAkyA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=39 minSdk=16 targetSdk=30
+    versionName=1.0.35
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{490e444 mattecarra.accapp}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    dataDir=/data/user/0/mattecarra.accapp
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2022-01-01 12:22:15
+    firstInstallTime=2022-01-01 12:22:15
+    lastUpdateTime=2022-01-01 12:22:15
+    signatures=PackageSignatures{7d6192d version:3, signatures:[e7ac1abc], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.INTERNET
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=46072 installed=true hidden=false suspended=false distractionFlags=0 stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    com.motorola.gamemode:
+      mattecarra.accapp
+    com.motorola.actions:
+      mattecarra.accapp
+    com.google.android.contacts:
+      mattecarra.accapp
+    com.google.android.gm:
+      mattecarra.accapp
+    com.google.android.youtube:
+      mattecarra.accapp
+  queryable via interaction:
+    User 0:
+
+Package Changes:
+  Sequence number=574
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=19, package=com.samco.trackandgraph
+    seq=29, package=com.planes.android
+    seq=37, package=com.sunilpaulmathew.translator
+    seq=69, package=com.szchoiceway.aios.bridge
+    seq=77, package=com.termux.boot
+    seq=91, package=com.physphil.android.unitconverterultimate
+    seq=105, package=com.yacgroup.yacguide.dev
+    seq=113, package=com.wbrenna.gtfsoffline
+    seq=123, package=com.truchsess.send2car
+    seq=131, package=com.serwylo.babydots
+    seq=139, package=com.wbrawner.simplemarkdown.free
+    seq=166, package=com.simplemobiletools.thankyou
+    seq=176, package=de.fff.ccgt
+    seq=184, package=de.dennisguse.opentracks
+    seq=190, package=com.yacgroup.yacguide
+    seq=305, package=com.google.android.setupwizard
+    seq=307, package=de.deftk.openww.android
+    seq=315, package=de.bahnhoefe.deutschlands.bahnhofsfotos
+    seq=321, package=com.google.android.contacts
+    seq=325, package=com.team242.robozzle
+    seq=333, package=de.eidottermihi.raspicheck
+    seq=341, package=de.jkliemann.parkendd
+    seq=351, package=de.k3b.android.androFotoFinder
+    seq=367, package=de.grobox.liberario
+    seq=377, package=de.seemoo.at_tracking_detection
+    seq=387, package=de.moekadu.tuner
+    seq=395, package=ee.ioc.phon.android.speak
+    seq=403, package=de.hauke_stieler.geonotes
+    seq=410, package=vidma.screenrecorder.videorecorder.videoeditor.lite
+    seq=414, package=fr.corenting.convertisseureurofranc
+    seq=424, package=fr.nihilus.music
+    seq=429, package=net.nitratine.priceperunit
+    seq=432, package=com.example.gesturecapture
+    seq=435, package=fr.xgouchet.packageexplorer
+    seq=440, package=fr.fdesousa.bikesharinghub
+    seq=448, package=de.k3b.android.geo2articlesmap
+    seq=456, package=eu.roggstar.luigithehunter.dsaassistent
+    seq=470, package=foss.cnugteren.nlweer
+    seq=474, package=grmpl.mk.stepandheightcounter
+    seq=478, package=io.github.deweyreed.clipboardcleaner
+    seq=482, package=io.github.dkter.aaaaa
+    seq=488, package=io.github.x0b.rcx
+    seq=502, package=espero.jiofibatterynotifier
+    seq=512, package=lu.fisch.canze
+    seq=520, package=jp.takke.cpustats
+    seq=528, package=com.motorola.audiofx
+    seq=530, package=idv.markkuo.ambitsync
+    seq=534, package=it.danieleverducci.nextcloudmaps
+    seq=541, package=io.github.sds100.keymapper
+    seq=551, package=com.google.android.tts
+    seq=553, package=io.rebble.charon
+    seq=565, package=mn.tck.semitone
+    seq=567, package=com.google.android.apps.docs
+    seq=571, package=name.gdr.acastus_photon
+    seq=572, package=io.github.ylimit.droidbotapp
+    seq=573, package=mattecarra.accapp
+
+
+Dexopt state:
+  [mattecarra.accapp]
+    path: /data/app/~~i66iIsOUmCjbItjwl8qa1Q==/mattecarra.accapp-mLIs264gcuz57rGlVYAkyA==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown]
+
+
+Compiler stats:
+  [mattecarra.accapp]
+    (No recorded stats)
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

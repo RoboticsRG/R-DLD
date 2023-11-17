@@ -1,0 +1,42 @@
+{
+  "stop_state": "92329b613b3763e713a0983a4b7c965e", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-15_175016", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "PM", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "70*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.jmstudios.chibe", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          477, 
+          856
+        ], 
+        [
+          547, 
+          940
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "941b1a73a018237d3d7a34aa4b3775b5"
+}

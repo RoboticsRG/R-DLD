@@ -1,0 +1,10 @@
+{
+  "stop_state": "2ce2ed3e9b1dd860a9779fb37202f0fa", 
+  "event_str": "IntentEvent(intent='am start com.jmstudios.chibe/com.jmstudios.chibe.ChibeActivity')", 
+  "tag": "2022-01-15_182635", 
+  "event": {
+    "intent": "am start com.jmstudios.chibe/com.jmstudios.chibe.ChibeActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "7d8c50078acdebb87eb16032fa110e16"
+}

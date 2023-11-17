@@ -1,0 +1,42 @@
+{
+  "stop_state": "1ed1434c23fcdf4e297846281c4a3c60", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_093246", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "name.gdr.acastus_photon:id/searchText", 
+      "text": "Enter Address/POI", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "538*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          163
+        ], 
+        [
+          566, 
+          242
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1ed1434c23fcdf4e297846281c4a3c60"
+}

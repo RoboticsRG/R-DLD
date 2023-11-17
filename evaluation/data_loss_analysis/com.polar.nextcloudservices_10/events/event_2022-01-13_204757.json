@@ -1,0 +1,51 @@
+{
+  "stop_state": "a3391c8373344b281220d5362deb05eb", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-13_204757", 
+  "event": {
+    "views_str": [
+      "77000c712bab298c79545bb3733664a9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "10", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "627*84", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.polar.nextcloudservices", 
+        "long_clickable": true, 
+        "view_str": "77000c712bab298c79545bb3733664a9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            46, 
+            771
+          ], 
+          [
+            673, 
+            855
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]10[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a3391c8373344b281220d5362deb05eb"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "f427c4e75af5602cf2b9873c71c0d528", 
+  "event_str": "FillUIEvent", 
+  "tag": "2022-01-22_134523", 
+  "event": {
+    "views_str": [
+      "decead3a68b48c230619ed4523cc3421"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.rmy.android.http_shortcuts:id/md_input_message", 
+        "text": "", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "524*98", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/md_input_message", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.rmy.android.http_shortcuts", 
+        "long_clickable": true, 
+        "view_str": "decead3a68b48c230619ed4523cc3421", 
+        "enabled": true, 
+        "bounds": [
+          [
+            98, 
+            741
+          ], 
+          [
+            622, 
+            839
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.rmy.android.http_shortcuts:id/md_input_message[text][enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "343207d498ad2887fd325fb2c2ddff3f"
+}

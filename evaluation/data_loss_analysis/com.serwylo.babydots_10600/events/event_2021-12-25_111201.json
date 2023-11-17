@@ -1,0 +1,42 @@
+{
+  "stop_state": "b0ec8e4e1973092589ed93deb40eeebf", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_111201", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Lock", 
+      "resource_id": "com.serwylo.babydots:id/menu_lock", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.serwylo.babydots", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          565, 
+          61
+        ], 
+        [
+          649, 
+          145
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focusable": true
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "de20914da3f6b3e1932425b5dc8e48aa"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "88f19e10e5eb9f16aa08a7c823fd4811", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_110258", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/tSettingsSolveTimes", 
+      "text": "123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "692*79", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          14, 
+          348
+        ], 
+        [
+          706, 
+          427
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "88f19e10e5eb9f16aa08a7c823fd4811"
+}

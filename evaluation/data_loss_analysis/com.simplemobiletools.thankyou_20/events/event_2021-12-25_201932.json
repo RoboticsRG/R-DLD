@@ -1,0 +1,42 @@
+{
+  "stop_state": "92b75cf9c8120c0068f8ab8c7e4d2573", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-25_201932", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.simplemobiletools.thankyou:id/rate_star_5", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.simplemobiletools.thankyou", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          501, 
+          756
+        ], 
+        [
+          585, 
+          840
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focusable": true
+    }, 
+    "id": 4, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1a635bc08a7838a81f5e5cb939a922b0"
+}

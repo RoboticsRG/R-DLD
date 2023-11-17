@@ -1,0 +1,165 @@
+{
+  "stop_state": "a4d3ec6ba806af0263d4c45a68df31ca", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-11-04_183313", 
+  "event": {
+    "views_str": [
+      "b4a0c447b6d68fb0fed87b30ef02c4a7", 
+      "6ec0d980922f4c846c728f0bac23b528", 
+      "a8100aaec15fc0ee7084876a7a6f4deb", 
+      "eab786dbb1a8f0282a452c3e29dea63b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "b4a0c447b6d68fb0fed87b30ef02c4a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            180
+          ], 
+          [
+            692, 
+            278
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "\u2022\u2022\u2022\u2022", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": true, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "6ec0d980922f4c846c728f0bac23b528", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            292
+          ], 
+          [
+            692, 
+            390
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]\u2022\u2022[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "a8100aaec15fc0ee7084876a7a6f4deb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            404
+          ], 
+          [
+            692, 
+            502
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "664*98", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.wikipedia", 
+        "long_clickable": true, 
+        "view_str": "eab786dbb1a8f0282a452c3e29dea63b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            28, 
+            557
+          ], 
+          [
+            692, 
+            655
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "54a22cd2957e1088c7aa34481a1801e5"
+}

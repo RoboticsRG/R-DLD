@@ -1,0 +1,42 @@
+{
+  "stop_state": "4fbac1d435dfb69a83fe9a9c36982093", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-02_212651", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.etesync.syncadapter:id/switchWidget", 
+      "text": "ATIVADO", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": false, 
+      "checkable": true, 
+      "size": "84*84", 
+      "scrollable": false, 
+      "checked": true, 
+      "package": "com.etesync.syncadapter", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          608, 
+          375
+        ], 
+        [
+          692, 
+          459
+        ]
+      ], 
+      "class": "android.widget.Switch", 
+      "focusable": false
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4fbac1d435dfb69a83fe9a9c36982093"
+}

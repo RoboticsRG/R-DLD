@@ -1,0 +1,42 @@
+{
+  "stop_state": "6d741df5be3364019f886f44e3b189d0", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-06_075348", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.secuso.privacyfriendlyweather:id/btn_skip", 
+      "text": "SKIP", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "org.secuso.privacyfriendlyweather", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1474
+        ], 
+        [
+          154, 
+          1558
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f026f2f803de43ad8d2de3339b40e893"
+}

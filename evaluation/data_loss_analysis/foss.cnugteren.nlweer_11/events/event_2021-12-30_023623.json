@@ -1,0 +1,42 @@
+{
+  "stop_state": "0aa5d8e6a402004bf4fec0f9319d06bf", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-30_023623", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "KNMI: Rain last hour (+temp)", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "627*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "foss.cnugteren.nlweer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          46, 
+          378
+        ], 
+        [
+          673, 
+          462
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "b73781d0b18742a1d4495faf44a6cc00"
+}

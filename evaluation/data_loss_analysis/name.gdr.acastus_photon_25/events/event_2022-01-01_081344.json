@@ -1,0 +1,42 @@
+{
+  "stop_state": "8c06f97106f512ebc881f05a7e5ffe7c", 
+  "event_str": "TouchEvent", 
+  "tag": "2022-01-01_081344", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "helloworld : 9531.18 mi (travel_agency)\nNorthern Beaches Council Glenrose Place ", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "664*112", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "name.gdr.acastus_photon", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          28, 
+          1154
+        ], 
+        [
+          692, 
+          1266
+        ]
+      ], 
+      "class": "android.widget.CheckedTextView", 
+      "focusable": false
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6ce719c5b962ad08b519c4c94a1fa681"
+}

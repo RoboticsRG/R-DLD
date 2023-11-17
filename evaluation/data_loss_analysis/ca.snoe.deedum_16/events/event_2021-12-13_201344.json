@@ -1,0 +1,42 @@
+{
+  "stop_state": "1fc2d83de6c3300ff07c10f921777775", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-13_201344", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "", 
+      "text": "Start your server with", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "277*47", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "ca.snoe.deedum", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          61, 
+          1348
+        ], 
+        [
+          338, 
+          1395
+        ]
+      ], 
+      "class": "android.view.View", 
+      "focusable": true
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "02198cc1ec70ba7b7437dc8136f6fdbc"
+}

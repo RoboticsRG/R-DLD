@@ -1,0 +1,51 @@
+{
+  "stop_state": "0c278649f1e7c20ba0f98ad2c3a8a57a", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-29_234308", 
+  "event": {
+    "views_str": [
+      "3350b72225f019a2c4e161eac6ec7b91"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "52.37", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "557*79", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "foss.cnugteren.nlweer", 
+        "long_clickable": true, 
+        "view_str": "3350b72225f019a2c4e161eac6ec7b91", 
+        "enabled": true, 
+        "bounds": [
+          [
+            81, 
+            749
+          ], 
+          [
+            638, 
+            828
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]52.37[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f864c6aeea21681d249dcdb29d1f0b58"
+}

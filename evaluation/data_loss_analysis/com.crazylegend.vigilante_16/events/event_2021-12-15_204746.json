@@ -1,0 +1,43 @@
+{
+  "stop_state": "8dd9e8d3a13ebb83dc6171fb2bc3b1d0", 
+  "event_str": "LongTouchEvent(duration=2000)", 
+  "tag": "2021-12-15_204746", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.crazylegend.vigilante:id/card", 
+      "text": null, 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "698*161", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.crazylegend.vigilante", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          11, 
+          182
+        ], 
+        [
+          709, 
+          343
+        ]
+      ], 
+      "class": "androidx.cardview.widget.CardView", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "8dd9e8d3a13ebb83dc6171fb2bc3b1d0"
+}

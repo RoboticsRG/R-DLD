@@ -1,0 +1,42 @@
+{
+  "stop_state": "92605c67db0edd0079605859c21c4d00", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-12-24_174837", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "Chinese Yuan", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": true, 
+      "size": "208*56", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.physphil.android.unitconverterultimate", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          367, 
+          761
+        ], 
+        [
+          575, 
+          817
+        ]
+      ], 
+      "class": "android.widget.RadioButton", 
+      "focusable": true
+    }, 
+    "id": 70, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0bfe3ab4c42a5e6482308e6797b9ed48"
+}

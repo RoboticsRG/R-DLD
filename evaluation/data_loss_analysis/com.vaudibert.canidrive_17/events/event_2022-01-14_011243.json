@@ -1,0 +1,43 @@
+{
+  "stop_state": "052946b0ee10c3f31f8aba58509e6781", 
+  "event_str": "SetTextEvent", 
+  "tag": "2022-01-14_011243", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.vaudibert.canidrive:id/editTextNewPresetName", 
+      "text": "Martinitest123test123test123", 
+      "editable": true, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": true, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "650*95", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "com.vaudibert.canidrive", 
+      "long_clickable": true, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          35, 
+          231
+        ], 
+        [
+          685, 
+          326
+        ]
+      ], 
+      "class": "android.widget.EditText", 
+      "focusable": true
+    }
+  }, 
+  "start_state": "82c05a02191ef71343244a5007183f90"
+}

@@ -1,0 +1,42 @@
+{
+  "stop_state": "a0441d81c276982b465843bdd4c30b20", 
+  "event_str": "TouchEvent", 
+  "tag": "2021-11-03_104537", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "vocabletrainer.heinecke.aron.vocabletrainer:id/button_decline_survey", 
+      "text": "DECLINE", 
+      "editable": false, 
+      "visible": true, 
+      "is_password": false, 
+      "focused": false, 
+      "clickable": true, 
+      "checkable": false, 
+      "size": "154*84", 
+      "scrollable": false, 
+      "checked": false, 
+      "package": "vocabletrainer.heinecke.aron.vocabletrainer", 
+      "long_clickable": false, 
+      "selected": false, 
+      "enabled": true, 
+      "bounds": [
+        [
+          254, 
+          960
+        ], 
+        [
+          408, 
+          1044
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focusable": true
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "802d7393212f0ba89e3aee81f4832b63"
+}

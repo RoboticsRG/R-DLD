@@ -1,0 +1,51 @@
+{
+  "stop_state": "5d193dd639ff26c4dddc23adceb2376c", 
+  "event_str": "FillUIEvent", 
+  "tag": "2021-12-29_010036", 
+  "event": {
+    "views_str": [
+      "3cea87b874d66cd961f278b6b6c710f0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switch_widget", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "82*47", 
+        "checked": true, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "fr.nihilus.music", 
+        "long_clickable": false, 
+        "view_str": "3cea87b874d66cd961f278b6b6c710f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            610, 
+            611
+          ], 
+          [
+            692, 
+            658
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switch_widget[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "f096f64024c0dd21c1645391c50f1e9a"
+}
