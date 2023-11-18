@@ -8,7 +8,7 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 Added a -robot parameter to enable rotation functionality using a robot.
 
 ## Install
-* git clone git@github.com:RoboticsRG/R-DLD.git or git clone https://github.com/RoboticsDSF/R-DLD.git
+* git clone https://github.com/replication-papers/R-DLD.git
 * cd R-DLD
 * virtualenv venv --python=python2.7
 * source venv/bin/activate
@@ -19,5 +19,3 @@ Added a -robot parameter to enable rotation functionality using a robot.
 * pip install -e .
 
 ## Evaluation
-
-https://drive.google.com/drive/folders/1xtQhluqautwEq4kDU1RqUci0UStzKtfU?usp=sharing
