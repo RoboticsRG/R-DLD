@@ -16,6 +16,9 @@ Added a -robot parameter to enable rotation functionality using a robot.
 * pip install -e .
 * cd ..
 * pip install -e .
+### Exemple
+* cd application/
+* ./run.sh
 ## Permissions
 Linux permission to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
@@ -30,9 +33,10 @@ This is the root directory of the repository. The directory is structured as fol
      |--- application/ 
      |		|
      |		|--- R-DLD-Arduino/	R-DLD: Robotic-supported Data Loss Detection 
-     |		|--- run.sh/		Script to run a data loss test on a test application. 
+     |		|--- run.sh		Script to run a data loss test on a test application. 
      |
-     |--- build robot/        
+     |
+     |--- build robot/
      |		|
      |		|--- app/	Application in C to be installed on the Arduino.
      |		|
@@ -47,6 +51,13 @@ This is the root directory of the repository. The directory is structured as fol
      |		|
      |		|--- issues/				All issues open to developers grouped projects, number of reported failures, status and comments from developers.
      |
-     |		
+     |
      |--- scripts/	Script used to generate the database of application and repository urls.
+     |		|
+     |		|--- files2023/		F-Droid app categories database.
+     |		|
+     |		|--- fdroid.py		Script to explore links to F-Droid applications and repository.
+     |		|
+     |		|--- last_commit.py	Script to list github projects with updates in the current year.
+     
   
