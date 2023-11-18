@@ -18,11 +18,11 @@ To install R-DLD follow these steps:
 * cd ..
 * pip install -e .
 ### Exemple
-A running example can be found in the application directory. If necessary, edit the run.sh file to run it without the --robot parameter.
+A running instance can be located in the application directory. If needed, modify the run.sh file to execute it without the --robot parameter.
 * cd application/
 * ./run.sh
 ## Permissions
-Linux permission to access the Arduino board.
+Linux permissions to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
 
 Directory Structure
@@ -54,12 +54,12 @@ This is the root directory of the repository. The directory is structured as fol
      |		|--- issues/				All issues open to developers grouped projects, number of reported failures, status and comments from developers.
      |
      |
-     |--- scripts/	Script used to generate the database of application and repository urls.
+     |--- scripts/	Script used to generate the database of application and repository URLs.
      |		|
      |		|--- files2023/		F-Droid app categories database.
      |		|
      |		|--- fdroid.py		Script to explore links to F-Droid applications and repository.
      |		|
-     |		|--- last_commit.py	Script to list github projects with updates in the current year.
+     |		|--- last_commit.py	Script to list GitHub projects with updates in the current year.
      
   
