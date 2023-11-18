@@ -9,10 +9,9 @@ Added a -robot parameter to enable rotation functionality using a robot.
 
 ## Install
 * git clone https://github.com/replication-papers/R-DLD.git
-* cd R-DLD
+* cd cd R-DLD/application/R-DLD-Arduino/
 * virtualenv venv --python=python2.7
 * source venv/bin/activate
-* cd DLD-tool
 * cd droidbot-tool
 * pip install -e .
 * cd ..
@@ -27,7 +26,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- application/ 
      |		|
-     |		|--- DLD-tool-Arduino/	R-DLD: Robotic-supported Data Loss Detection 
+     |		|--- R-DLD-Arduino/	R-DLD: Robotic-supported Data Loss Detection 
      |
      |--- build robot/        
      |		|
