@@ -27,7 +27,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- application/ 
      |		|
-     |		|--- app/	R-DLD: Robotic-supported Data Loss Detection 
+     |		|--- DLD-tool-Arduino/	R-DLD: Robotic-supported Data Loss Detection 
      |
      |--- build robot/        
      |		|
