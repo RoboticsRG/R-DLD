@@ -8,6 +8,7 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 Added a -robot parameter to enable rotation functionality using a robot.
 
 ## Install
+To install R-DLD follow these steps:
 * git clone https://github.com/replication-papers/R-DLD.git
 * cd cd R-DLD/application/R-DLD-Arduino/
 * virtualenv venv --python=python2.7
@@ -17,6 +18,7 @@ Added a -robot parameter to enable rotation functionality using a robot.
 * cd ..
 * pip install -e .
 ### Exemple
+A running example can be found in the application directory. If necessary, edit the run.sh file to run it without the --robot parameter.
 * cd application/
 * ./run.sh
 ## Permissions
