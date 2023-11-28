@@ -21,10 +21,6 @@ To install R-DLD follow these steps:
 * pip install -e .
 * cd ..
 * pip install -e .
-### Exemple
-A running instance can be located in the application directory. If needed, modify the run.sh file to execute it without the --robot parameter.
-* cd application/
-* ./run.sh
 
 
 ### How to use the tool
@@ -47,8 +43,12 @@ As a result, R-DLD will not be able to start the app. If this happens, specify t
    - **-keep_app**: it does not uninstall the app after the execution of R-DLD
    - type **dld --help** or **dld -h** for more details
 
+### Exemple
+A running instance can be located in the application directory. If needed, modify the run.sh file to execute it without the --robot parameter.
+* cd application/
+* ./run.sh
 
-## Permissions
+### Permissions
 Linux's permissions to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
 
