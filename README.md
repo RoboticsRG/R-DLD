@@ -3,18 +3,13 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 
 ![R-DLD](build%20robot/robot/robot.jpg)
 
-# Build Robot
+## Build Robot
 [Robot parts](build%20robot/README.MD)
-
-
-# Application
 
 
 ## Architecture
 [Architecture](application/README.md)
 
-## How to use the tool
-Added a -robot parameter to enable rotation functionality using a robot.
 
 ## Install
 To install R-DLD follow these steps:
@@ -30,6 +25,29 @@ To install R-DLD follow these steps:
 A running instance can be located in the application directory. If needed, modify the run.sh file to execute it without the --robot parameter.
 * cd application/
 * ./run.sh
+
+
+### How to use the tool
+R-DLD works via command line and requires only the apk file of the app to be tested. It is not necessary to be inside the R-DLD folder to start the tool. It is possible to set the execution time in terms of either time in seconds or number of events to be generated. 
+1) Make sure you have an Android device opened and connected via ADB (check it out by typing **adb devices**)
+2) Launch R-DLD by typing **dld -a <appname.apk> -o <output_folder>**. This is the most basic command to start R-DLD using the default settings. 
+It is possible to add one or more customized settings:
+   - **-robot**: parameter to enable rotation functionality using a robot
+   - **-is_emulator**: add this option if you are using an Android Virtual Device
+   - **-scroll_full_down_y \<number\>**: the y coordinate on the screen from which R-DLD starts to swipe up (1600 by default)
+   - **-main_activity <activity_name>**: the activity used by R-DLD to start the app. Sometimes, R-DLD fails to get the correct main activity from the manifest.xml of the app. For example, in the "Bee Count" app, it uses *com.knirirr.beecount..WelcomeActivity* (with two dots) instead of *com.knirirr.beecount.WelcomeActivity* (with one dot).
+As a result, R-DLD will not be able to start the app. If this happens, specify the correct main activity with the **-main_activity** option. For example, *-main_activity com.knirirr.beecount.WelcomeActivity*
+   - **-epsilon \<number\>**: a value between 0.0 to 1.0 (0.1 by default). 0.0 implies a pure systematic exploration while 1.0 
+   implies a pure random exploration
+   - **-timeout \<number\>**: the time in seconds to be allocated for the execution
+   - **-count \<number\>**: the number of events to be generated (2250 by default)
+   - **-interval \<number\>**: the sleep time among the events (3 seconds by default). Increase this value if your Android device works slowly
+   - **-script <your_script.json>**: specify the json script to force R-DLD to execute specific actions. It is useful if the app requires, for example, a login
+   - **-grant_perm**: it grants all the permissions the app requires (recommanded)
+   - **-keep_app**: it does not uninstall the app after the execution of R-DLD
+   - type **dld --help** or **dld -h** for more details
+
+
 ## Permissions
 Linux's permissions to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
