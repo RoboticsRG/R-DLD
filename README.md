@@ -1,8 +1,11 @@
 # R-DLD: Robotic-supported Data Loss Detection
 Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 
-## Prerequisites
-[Data Loss Detector](DataLossDetector.md)
+![R-DLD](build%20robot/robot/robot.jpg)
+
+# Build Robot
+[Robot parts](build%20robot/README.MD)
+
 
 ## How to use the tool
 Added a -robot parameter to enable rotation functionality using a robot.
@@ -22,8 +25,12 @@ A running instance can be located in the application directory. If needed, modif
 * cd application/
 * ./run.sh
 ## Permissions
-Linux permissions to access the Arduino board.
+Linux's permissions to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
+
+
+## Architecture
+![R-DLD](build%20robot/robot/framework_rdld.png)
 
 Directory Structure
 ---------------
