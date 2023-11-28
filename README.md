@@ -7,6 +7,12 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 [Robot parts](build%20robot/README.MD)
 
 
+# Application
+
+
+## Architecture
+[Architecture](application/README.md)
+
 ## How to use the tool
 Added a -robot parameter to enable rotation functionality using a robot.
 
@@ -29,8 +35,9 @@ Linux's permissions to access the Arduino board.
 * chmod a+rw /dev/ttyUSB0
 
 
-## Architecture
-![R-DLD](build%20robot/robot/framework_rdld.png)
+## Evaluation
+
+[Evaluation](evaluation/README.md)
 
 Directory Structure
 ---------------
