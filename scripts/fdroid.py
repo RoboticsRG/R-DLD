@@ -1,8 +1,6 @@
 from collections import namedtuple
-from pprint import pprint
 from bs4 import BeautifulSoup as bs
 from requests import get
-import json
 import unicodedata
 import re
 
@@ -10,6 +8,8 @@ import re
 # pip install requests
 
 # source ~/projetos_git/live-de-python/codigo/env/bin/activate
+
+
 app = namedtuple('Vaga', 'Titulo empresa tipo local')
 base_url = 'https://f-droid.org'
 packages = f'{base_url}/en/packages'
@@ -30,8 +30,7 @@ def list_categorias(url):
     cat_page = boxes[0].find_all('p')
     page = ["{}{}".format(base_url, s.find('a').get('href')) for s in cat_page]
     return cat, page
-    # for h in range(0, len(h3all)):
-    #     print(h3all[h].text, f"{base_url}{hrefall[h].find('a').get('href')}")
+
 
 def extract_url(html):
     package_list1 = html.find('div', {'id': 'package-list'})
@@ -43,40 +42,44 @@ def list_page_app(url_categoria):
     """Lista os aplicativos da categoria."""
     fdroid_page = load_url_parser(url_categoria)
 
-    # package_list1 = fdroid_page.find('div', {'id': 'package-list'})
-    #
-    # pakage_list = package_list1.find_all('a', {'class': 'package-header'})
-    # n_pages = len(fdroid_page.find_all('li', {'class': 'nav page'}))
     n_pages = int(fdroid_page.find_all('a', {'class': 'label'})[-2].text)
-    # page = ["{}{}".format(base_url, s.get('href')) for s in pakage_list]
     page = extract_url(fdroid_page)
     for n in range(2, n_pages+1):
         n_page = load_url_parser("{}/{}/index.html".format(url_categoria, n))
-        # n_pakage_list = n_page.find_all('a', {'class': 'package-header'})
-        # n_page = ["{}{}".format(base_url, s.get('href')) for s in n_pakage_list]
+
         page.extend(extract_url(n_page))
     return page
 
-#
-# def number_pages(url):
-#     fdroid_page = load_url_parser(url)
-#     boxes = fdroid_page.find_all('span', {'class': 'step-links'})
-#     return int(boxes[-2].text)
-#
 
 def list_page_simples(url):
     """Lista os aplicativos da categoria."""
     fdroid_page = load_url_parser(url)
-    pakage_list = fdroid_page.find_all('a', {'class': 'package-header'})
-    # n_pages = len(fdroid_page.find_all('li', {'class': 'nav page'}))
-    n_pages = int(fdroid_page.find_all('span', {'class': 'step-links'})[-2].text)
-    page = ["{}".format(s.get('href')) for s in pakage_list]
-    for n in range(2, n_pages+1):
-        n_page = load_url_parser("{}&page={}&lang=en".format(url.split('&')[0], n))
-        n_pakage_list = n_page.find_all('a', {'class': 'package-header'})
-        n_page = ["{}".format(s.get('href')) for s in n_pakage_list]
+    pakage_list = fdroid_page.find_all('a', {'class': 'post-link'})
+
+    page = ["https://f-droid.org{}".format(s.get('href')) for s in pakage_list[:-5]]
+
+    for n in range(2, 50):
+        n_page = load_url_parser(f'{url}{n}')
+        next_page = stop_next_page(n_page)
+        n_pakage_list = n_page.find_all('a', {'class': 'post-link'})
+        n_page = ["https://f-droid.org{}".format(s.get('href')) for s in n_pakage_list[:-5]]
         page.extend(n_page)
+        print(f'{url}{n}')
+
+        if next_page:
+            break
+
     return page
+
+
+def stop_next_page(n_page):
+    ul_element = n_page.find_all('ul')[0]
+    li_elements = ul_element.find_all('li')
+    # Conta o número de <li> elementos
+    if len(li_elements) > 1:
+        return False
+    else:
+        return True
 
 
 def tratar_string(text):
@@ -104,7 +107,7 @@ def link_app(url_programa):
         permission_list = page.find('li', {'id': 'latest'}).findAll('div', {'class': 'permission-label'})
         permission = ''
         for p in permission_list:
-            permission += p.text + ' <-> '
+            permission += p.text.replace('\n', '').replace('\t', '').strip() + ' <-> '
 
 
         return pkg, url_programa, desc, link, requirement, source_code, issue_tracker, version, permission
@@ -153,46 +156,27 @@ def web_crawling_page(link, name):
                                                         issue_tracker, version, permission))
             except TypeError:
                 print('erro')
-# n = 6
-# print(h3all[n])
-# a = list_page_app(hrefall[n])
-# # lista_app = [link_app(app) for app in a]
-# with open(f'{h3all[n]}.csv', 'w') as f:
-#     # f.write(json.dumps(lista_app))
-#     for app in a:
-#         try:
-#             pkg, desc, link, requirement, source_code, issue_tracker = link_app(app)
-#             f.write("{};{};{};{};{};{}\n".format(pkg, desc, link, requirement, source_code, issue_tracker))
-#         except TypeError:
-#             print('erro')
-#
-#
-# n = 10
-# print(h3all[n])
-# a = list_page_app(hrefall[n])
-# lista_app = [link_app(app) for app in a]
-# with open(f'{h3all[n]}.txt', 'w') as f:
-#     f.write(json.dumps(lista_app))
 
-# ['Connectivity',
-#  1'Development',
-#  'Games',
-#  'Graphics',
-#  'Internet',
-#  'Money',
-#  *6'Multimedia'
-#  7'Navigation',
-#  8'Phone & SMS',
-#  *9'Reading',
-#  *10'Science & Education',
-#  11'Security',
-#  12'Sports & Health',
-#  13'System',
-#  14'Theming',
-#  15'Time',
-#  16'Writing']
 
-url = 'https://search.f-droid.org/?q=bluetooth&lang=en'
-# base_url = 'https://search.f-droid.org'
-name = 'bluetooth'
-# web_crawling_page(url, name)
+
+
+
+def list_categories(url):
+    """Lista as categoria."""
+    fdroid_page = load_url_parser(url)
+    links = fdroid_page.select('p a')
+    # Extrai os hrefs
+    hrefs = [link.get('href') for link in links]
+    for href in hrefs[:-2]:
+        # print(href)
+        site = url.split('/')
+        print(f'https://{site[2]}{href}', href.split('/')[3])
+        web_crawling_page(f'https://{site[2]}{href}', href.split('/')[3])
+
+
+url_droid = 'https://f-droid.org/en/packages/'
+
+list_categories(url_droid)
+
+
+
