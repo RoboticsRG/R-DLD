@@ -17,7 +17,6 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 * cd Python-2.7.18
 * sudo ./configure --enable-optimizations
 * sudo make altinstall
-* sudo ln -s "/usr/local/bin/python2.7" "/usr/bin/python"
 * sudo apt  install curl
 * curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
 * sudo apt-get install libssl-dev
