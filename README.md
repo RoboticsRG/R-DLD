@@ -3,6 +3,13 @@ Automatically Revealing Data Loss Bugs in Android Apps using a robot.
 
 ![R-DLD](build%20robot/robot/robot.jpg)
 
+This repository is a companion page for the following publication:
+
+> Davi Freitas, Breno Miranda, and Juliano Iyoda. 2024. Robotic-supported Data Loss Detection in Android Applications. SBES’24, September 30 – October 04, 2024, Curitiba, PR.
+
+
+It includes all the necessary materials to replicate our experiments, such as: detailed steps for constructing the robot, implementing the robot on an Arduino board, the implementation of R-DLD, the applications used in the experiment, data loss alerts generated during the experiment, the bug report for data loss alerts, classification tables of the alerts, sub-classification tables of data loss, issue grouping tables, links to open issues, and their current status.
+
 ## Build Robot
 [Robot parts](build%20robot/README.MD)
 
